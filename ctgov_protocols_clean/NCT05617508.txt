@@ -1,0 +1,2773 @@
+<<<PAGE 1>>>
+1
+N-DOSE AD: A randomized, double blind, dose optimization
+trial of nicotinamide riboside in Alzheimer’s disease.
+Protocol Identification Number:   v4.0 18.Jun25
+SPONSOR: Haukeland University Hospital
+Address: Jonas Lies 65
+Tel : 55975000
+PRINCIPAL INVESTIGATOR (PI): Kristoffer Haugarvoll
+Tel : 55975301
+E-mail: kristoffer.haugarvoll@helse-
+bergen.no
+PROTOCOL VERSION NO. 4.0 – 18Jun2025
+<<<PAGE 2>>>
+2
+CONTACT DETAILS
+Sponsor: Haukeland University Hospital
+Address: Jonas Lies 65
+Tel: 55975000
+Study Director Kristoffer Haugarvoll
+Tel : 55975301
+E-mail: kristoffer.haugarvoll@helse-bergen.no
+Principal investigator (at each
+participating site or if single site study):
+Haukeland University Hospital
+Kristoffer Haugarvoll
+E-mail: kristoffer.haugarvoll@helse-bergen.no
+Haraldplass Deaconess Hospital
+Ragnhild Eide Skogseth
+E-mail: ragnhild.eide.skogseth@haraldsplass.no
+Participating Departments: Haukeland University Hospital,
+Department of Neurology
+Haraldplass Deaconess Hospital,
+Department of Medicine
+Monitor: Section of Innovation and Research Haukeland University
+Hospital, department of Research and Development
+Tel: +47 92860178
+<<<PAGE 3>>>
+3
+SIGNATURE PAGE
+Title N-DOSE AD: A randomized, double blind, dose optimization trial of
+nicotinamide riboside in Alzheimer’s disease.
+Protocol ID no: 428878
+I hereby declare that I will conduct the study in compliance with the Protocol, ICH GCP and the
+applicable regulatory requirements:
+To be signed by sponsor’s representative, Coordinating Investigator, Principal Investigator, statistician etc.
+This section and table above should be completed as appropriate for the type of study conducted and the
+parties involved.
+Name Title Role Signature Date
+Torhild Næss
+Vedeler
+Neurology clinic
+Director
+Sponsor
+representative
+Kristoffer
+Haugarvoll
+Researcher Principal Investigator
+Ragnhild Eide
+Skogseth
+Postdoc Principal Investigator
+<<<PAGE 4>>>
+4
+PROTOCOL SYNOPSIS
+N-DOSE AD: A randomized, double blind, dose optimization trial of
+nicotinamide riboside in Alzheimer’s disease.
+Sponsor Haukeland University Hospital
+Phase and study type Phase II, Dose-Optimization study
+Investigational
+Product (IP) (including
+active comparator and
+placebo):
+Nicotinamide Riboside
+Placebo
+Centers: Haukeland University Hospital
+Haraldsplass Deaconess Hospital
+Study Period:
+Estimated date of first patient enrolled: 20.10.2022
+Anticipated recruitment period: 20.10.2022 – 20.04.2025
+Estimated date of last patient completed: 30.06.2025.
+Treatment Duration: 12 weeks
+Objectives and endpoints
+Objective Endpoint
+Primary To compare the effect of orally administered
+nicotinamide riboside (NR), escalated to 1500
+mg twice per day (3000 mg/day) in the dose-
+escalation group (DE-group) - versus stable
+dosing of 500 mg twice per day (1000
+mg/day) in the dose-stable group (DS-group)
+on cerebral NAD-levels, at week 12.
+Change in cerebral NAD/ATP-α ratio
+measured by 31 Phosphorus magnetic
+resonance spectroscopy (31P-MRS) in the
+posterior brain (encompassing the occipital,
+parietooccipital and posterior parts of the
+temporal cortex).
+Secondary To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in cerebral NAD
+levels from baseline to weeks 4, 8 and 12.
+Change in cerebral NAD/ATP-α ratio
+measured by 31 Phosphorus magnetic
+resonance spectroscopy (31P-MRS) in the
+posterior brain (encompassing the occipital,
+parietooccipital and posterior parts of the
+<<<PAGE 5>>>
+5
+temporal cortex).
+To compare the effectiveness of orally
+administered nicotinamide riboside (NR)
+1500 mg twice per day versus 500 mg twice
+per day in augmenting the NAD-metabolome
+in the central nervous system (CNS) at week
+12.
+Change in the cerebrospinal fluid (CSF) levels
+of NAD or other metabolites of the NAD
+metabolome*, measured by LC-MS.
+Exploratory Neuroimaging
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on the
+NR related metabolic pattern (NRRP)
+expression at week 12.
+Change in NRRP expression, measured by
+FDG-PET.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in NRRP expression
+from baseline to weeks 4, 8 and 12.
+Change in NRRP expression, measured by
+FDG-PET.
+To compare the effect of orally administered
+NR DE-group versus DS-group on the AD-
+related pattern (ADRP) expression at week 12.
+Change in ADRP expression, measured by
+FDG-PET.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in ADRP expression
+from baseline to weeks 4, 8 and 12.
+Change in ADRP expression, measured by
+FDG-PET.
+Metabolism & molecular markers
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on the
+NAD metabolome* in the blood, urine and
+central nervous system (CNS) at week 12.
+Change in levels of NAD metabolites in blood,
+urine and CSF, measured by HPLC-MS and/or
+the NADMed method.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in the NAD
+metabolome* in blood and urine from baseline
+to weeks 4, 8 and 12.
+Change in levels of NAD metabolites in blood
+and urine, measured by HPLC-MS and/or the
+NADMed method.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on serum
+and CSF inflammatory markers at week 12.
+Change in inflammatory cytokines in serum
+and CSF, measured by ELISA.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in serum
+inflammatory markers from baseline to weeks
+4, 8 and 12.
+Change in inflammatory cytokines in serum,
+measured by ELISA.
+Clinical – cognitive & non motor symptom severity, quality of life
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+clinical severity of AD symptoms at week 12.
+Change in the total ADAS-Cog 13 score, CDR
+sum of boxes, MoCA score, TMT.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and change in clinical severity of
+PD symptoms from baseline to weeks 4, 8 and
+12.
+Change in the total ADAS-Cog 13 score, CDR
+sum of boxes, MoCA score, TMT.
+To compare the effect of orally administered Change in IADL and PADL scores.
+<<<PAGE 6>>>
+6
+NR in the DE-group versus DS-group on ADL
+severity in AD  at week 12.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and change in ADL scores in  AD
+from baseline to weeks 4, 8 and 12.
+Change in IADL and PADL scores..
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+depressive symptoms in AD at week 12.
+Change in MADRS score.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and depressive symptoms in AD
+from baseline to weeks 4, 8 and 12.
+Change in MADRS score.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+neuropsychiatric symptoms in AD at week 12.
+Change in the NPI-Q score.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and change in neuropsychiatric
+symptoms in AD from baseline to weeks 4, 8
+and 12.
+Change in the NPI-Q score.
+Hypothesis-generating or resource-dependent endpoints (may be reported in follow-up
+or secondary publications).
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on gene
+expression at week 12.
+Change in gene expression, measured by RNA
+sequencing (RNAseq).
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in gene expression
+from baseline to weeks 4, 8 and 12.
+Change in gene expression, measured by RNA
+sequencing (RNAseq).
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+protein expression at week 12.
+Change in protein levels, measured by LC-MS.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in protein expression
+from baseline to weeks 4, 8 and 12.
+Change in protein levels, measured by LC-MS.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on serum
+and CSF inflammatory markers at week 12.
+Change in inflammatory cytokines in serum
+and CSF, measured by ELISA.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in serum
+inflammatory markers from baseline to weeks
+4, 8 and 12.
+Change in inflammatory cytokines in serum,
+measured by ELISA.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+histone acetylation in AD at week 12.
+Change in histone panacetylation, measured
+by immunoblotting.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in histone
+acetylation in AD from baseline to weeks 4, 8
+Change in histone panacetylation, measured
+by immunoblotting.
+<<<PAGE 7>>>
+7
+and 12.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+H3K27 and H4K16 histone acetylation in AD at
+week 12.
+Changes in levels of H3K27 and H4K16
+acetylation, measured by immunoblotting.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in on H3K27 and
+H4K16 histone acetylation in AD from baseline
+to weeks 4, 8 and 12.
+Changes in levels of H3K27 and H4K16
+acetylation, measured by immunoblotting.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on the
+genomic distribution of H3K27 and H4K16
+histone acetylation in AD at week 12.
+Change in the genomic distribution of H3K27
+and H4K16 acetylation, measured by
+chromatin immunoprecipitation sequencing
+(ChIPseq).
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in the genomic
+distribution of H3K27 and H4K16 histone
+acetylation in AD from baseline to weeks 4, 8
+and 12.
+Change in the genomic distribution of H3K27
+and H4K16 acetylation, measured by
+chromatin immunoprecipitation sequencing
+(ChIPseq).
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on folate
+and one-carbon metabolism in AD at week 12.
+Change in folate and one-carbon metabolites
+in blood and CSF, measured by HPLC-MS.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in folate and one-
+carbon metabolism in AD from baseline to
+weeks 4, 8 and 12.
+Change in folate and one-carbon metabolites
+in blood, measured by HPLC-MS.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+methyl donors in AD at week 12.
+Change in methyl-donors (e.g., SAM),
+measured by HPLC-MS, in the blood and/or
+CSF.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in methyl-donors in
+AD from baseline to weeks 4, 8 and 12.
+Change in methyl-donors (e.g., SAM),
+measured by HPLC-MS, in the blood.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on DNA
+methylation at week 12.
+Change in level and genomic distribution of
+DNA methylation, measured by Illumina
+Infinium MethylationEpic kit.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in methyl-donors in
+AD from baseline to weeks 4, 8 and 12.
+Change in level and genomic distribution of
+DNA methylation, measured by Illumina
+Infinium MethylationEpic kit.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+synthesis of neurotransmitters in AD at week
+12.
+Change in neurotransmitters in CSF, measured
+by HPLC-MS.
+Determine whether NR-therapy affects the gut
+microbiome in a dose-responsive manner at
+week 12.
+Change in gut microbiome composition,
+measured by metagenomics in fecal samples.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on the
+gut metabolome at week 12.
+Change in fecal metabolomics, measured by
+LC-MS in fecal samples.
+<<<PAGE 8>>>
+8
+Safety To determine the safety and tolerability of NR
+at a dose of 1000 mg, 2000 mg, and 3000 mg
+per day in AD.
+Number and severity of adverse events from
+baseline to week 12 across treatment groups
+and NR dose levels.
+*The NAD metabolome is comprised of:  Nicotinamide adenine dinucleotide oxidized (NAD +), Nicotinamide adenine
+dinucleotide reduced (NADH), NAD +/NADH ratio, total NAD (sum of NAD + and NADH), Nicotinamide adenine
+dinucleotide phosphate oxidized (NADP +), Nicotinamide adenine dinucleotide phosphate reduced (NADPH),
+NADP+/NADPH ratio, total NADP (sum of NADP + and NADPH, 1-methyl nicotinamide (Me -Nam), nicotinic acid-adenine
+dinucleotide (NAAD), N1 -methyl-2-pyridone-5-carboxamide (Me -2-PY), Nicotinamide (Nam), Nicotinamide N -oxide
+(Nam N -oxide), ADP -ribose (ADPR), Nicotinic acid riboside (NAR), Nicotinamide rib oside (NR), Nicotinamide
+mononucleotide (NMN), Nicotinic acid (NA).
+Study Design: Multi-center, double-blinded, randomized, placebo controlled, dose-
+optimization
+Inclusion Criteria:    ● Diagnosis of probable AD according to the core clinical criteria
+updated in the NIA and Alzheimer’s Association guidelines.
+● Biomarker evidence consistent with AD neuropathologic change,
+defined by CSF markers.
+● Diagnosed with AD within two years from enrollment.
+● CDR 0.5-1 (inclusive) at enrolment.
+● Age 50 to 85 years (inclusive) at the time of enrollment.
+● A study partner able to study data and assist the participant in
+the study drug administration, i.e. contact ≥ 3 times weekly.
+● Capacity to provide written informed consent for study
+participation defined as Montreal
+Cognitive Assessment (MoCA)  score ≥ 16 or Mini Mental State
+Evaluation (MMSE)  score ≥ 20. MMSE or MoCA must have
+been performed within 6 months prior to baseline. If there is
+any doubt regarding the participants capacity to give informed
+consent we will ask for an independent evaluation by a
+consultant clinician who is
+not associated with the N-DOSE AD study.
+● Cholinesterase inhibitors and memantine can be used if stable
+for 8 weeks prior to baseline visit.
+● Able to undergo lumbar puncture
+● Able to undergo MRI
+<<<PAGE 9>>>
+9
+Exclusion Criteria ● Diagnosis of dementia other than probable AD.
+● Comorbidity that precludes study participation or data
+interpretation.
+● Any psychiatric disorder that would interfere with compliance in
+the study.
+● Any severe somatic illness that would interfere with compliance
+and participation in the study.
+● Use of high dose vitamin B3 supplementation within 30 days of
+enrollment.
+● Metabolic, neoplastic, or other physically or mentally
+debilitating disorder at baseline visit.
+● Current treatment with Oral Anticoagulation Therapies
+● Implants that preclude MRI examinations, e.g. DBS, pacemaker
+Sample Size: 80 patients (20 in placebo group, 60 in treatment groups)
+Efficacy Assessments: Primaryendpoint: Cerebral NAD levels as measured by 31P-MRS (see
+details under Endpoints).
+Safety Assessments: Biochemistry: Routine blood analysis (see Lab-manual).
+Vital signs: pulse, blood-pressure.
+Registration of adverse events.
+<<<PAGE 10>>>
+10
+TABLE OF CONTENTS
+CONTACT DETAILS 2
+SIGNATURE PAGE 3
+PROTOCOL SYNOPSIS 4
+TABLE OF CONTENTS 10
+List of Abbreviations and Definitions of Terms 15
+<<<SECTION 1 INTRODUCTION 16>>>
+1 INTRODUCTION 16
+1.1 Background – Disease 16
+1.1.1. Alzheimer’s disease (AD) is a major societal challenge 16
+<<<SECTION 1.1.2. NAD-replenishment therapy shows promise as neuroprotective therapy for AD 16>>>
+1.1.2. NAD-replenishment therapy shows promise as neuroprotective therapy for AD 16
+<<<SECTION 1.1.3. Phase-I evidence for NR-therapy in neurodegenerative diseases 17>>>
+1.1.3. Phase-I evidence for NR-therapy in neurodegenerative diseases 17
+<<<SECTION 1.2 Background - Therapeutic Information 20>>>
+1.2 Background - Therapeutic Information 20
+<<<SECTION 1.3 Pre-Clinical & Clinical Experience with Investigational Product (IP) 20>>>
+1.3 Pre-Clinical & Clinical Experience with Investigational Product (IP) 20
+<<<SECTION 1.4 Rationale for the Study and Purpose 21>>>
+1.4 Rationale for the Study and Purpose 21
+<<<SECTION 2 STUDY OBJECTIVES AND RELATED ENDPOINTS 21>>>
+2 STUDY OBJECTIVES AND RELATED ENDPOINTS 21
+<<<SECTION 2.1 Primary Objective 24>>>
+2.1 Primary Objective 24
+<<<SECTION 2.2 Secondary Objectives 25>>>
+2.2 Secondary Objectives 25
+<<<SECTION 2.3 Experimental Objectives 25>>>
+2.3 Experimental Objectives 25
+<<<SECTION 2.4 Primary Endpoint 27>>>
+2.4 Primary Endpoint 27
+<<<SECTION 2.5 Secondary Endpoints 27>>>
+2.5 Secondary Endpoints 27
+<<<SECTION 2.6 Experimental endpoints 27>>>
+2.6 Experimental endpoints 27
+The between visit difference in the 1000mg NR group will be assessed to identify any time effects and
+differentiate those from dose-effects. 27
+<<<SECTION 3 OVERALL STUDY DESIGN 28>>>
+3 OVERALL STUDY DESIGN 28
+<<<SECTION 3.1 STUDY DESIGN 28>>>
+3.1 STUDY DESIGN 28
+<<<SECTION 4 STUDY POPULATION 29>>>
+4 STUDY POPULATION 29
+<<<SECTION 4.1 Selection of Study Population 29>>>
+4.1 Selection of Study Population 29
+<<<SECTION 4.2 Number of Patients 29>>>
+4.2 Number of Patients 29
+<<<PAGE 11>>>
+11
+<<<SECTION 4.3 Inclusion Criteria 29>>>
+4.3 Inclusion Criteria 29
+<<<SECTION 4.4 Exclusion Criteria 29>>>
+4.4 Exclusion Criteria 29
+<<<SECTION 5 TREATMENT 30>>>
+5 TREATMENT 30
+<<<SECTION 5.1 Drug Identity, Supply and Storage 30>>>
+5.1 Drug Identity, Supply and Storage 30
+<<<SECTION 5.2 Dosage and Drug Administration 30>>>
+5.2 Dosage and Drug Administration 30
+<<<SECTION 5.3 Duration of Therapy 30>>>
+5.3 Duration of Therapy 30
+<<<SECTION 5.4 Cognitive Therapy During Screening and IP treatment period 30>>>
+5.4 Cognitive Therapy During Screening and IP treatment period 30
+<<<SECTION 5.5 Concomitant Medication 31>>>
+5.5 Concomitant Medication 31
+<<<SECTION 5.6 Subject Compliance 31>>>
+5.6 Subject Compliance 31
+<<<SECTION 5.7 Drug Accountability 31>>>
+5.7 Drug Accountability 31
+<<<SECTION 5.8 Drug Labeling 31>>>
+5.8 Drug Labeling 31
+<<<SECTION 5.9 Subject Numbering 31>>>
+5.9 Subject Numbering 31
+<<<SECTION 6 STUDY PROCEDURES 31>>>
+6 STUDY PROCEDURES 31
+<<<SECTION 6.1 Flow Chart 32>>>
+6.1 Flow Chart 32
+<<<SECTION 6.2 By Visit 33>>>
+6.2 By Visit 33
+<<<SECTION 6.2.1 Screening Visits/ Before start of Investigational Product (IP) 33>>>
+6.2.1 Screening Visits/ Before start of Investigational Product (IP) 33
+<<<SECTION 6.2.2 Baseline/Week 0 34>>>
+6.2.2 Baseline/Week 0 34
+<<<SECTION 6.2.3 During treatment (visits 2-4) 35>>>
+6.2.3 During treatment (visits 2-4) 35
+<<<SECTION 6.2.4 End of study (Visit 4) 35>>>
+6.2.4 End of study (Visit 4) 35
+<<<SECTION 6.3 Criteria for Patient Discontinuation 35>>>
+6.3 Criteria for Patient Discontinuation 35
+6. 4 Procedures for Discontinuation 36
+<<<SECTION 6.4.1 Patient Discontinuation 36>>>
+6.4.1 Patient Discontinuation 36
+<<<SECTION 6.4.2 Trial Discontinuation 36>>>
+6.4.2 Trial Discontinuation 36
+<<<SECTION 7 ASSESSMENTS 36>>>
+7 ASSESSMENTS 36
+<<<SECTION 7.1 Safety and Tolerability Assessments 36>>>
+7.1 Safety and Tolerability Assessments 36
+<<<SECTION 7.2 Clinical Assessments 36>>>
+7.2 Clinical Assessments 36
+<<<SECTION 7.3 Routine Laboratory Tests 38>>>
+7.3 Routine Laboratory Tests 38
+<<<SECTION 7.4 Imaging studies 38>>>
+7.4 Imaging studies 38
+<<<PAGE 12>>>
+12
+<<<SECTION 7.5 Molecular analyses 38>>>
+7.5 Molecular analyses 38
+<<<SECTION 8 SAFETY MONITORING AND REPORTING 39>>>
+8 SAFETY MONITORING AND REPORTING 39
+<<<SECTION 8.1 Definitions 39>>>
+8.1 Definitions 39
+<<<SECTION 8.1.1 Adverse Event (AE) 39>>>
+8.1.1 Adverse Event (AE) 39
+<<<SECTION 8.2.1 Serious Adverse Event (SAE) 39>>>
+8.2.1 Serious Adverse Event (SAE) 39
+<<<SECTION 8.2 Time Period for Reporting AE and SAE 40>>>
+8.2 Time Period for Reporting AE and SAE 40
+<<<SECTION 8.3 Recording of Adverse Events 40>>>
+8.3 Recording of Adverse Events 40
+<<<SECTION 8.4 Reporting Procedure 41>>>
+8.4 Reporting Procedure 41
+<<<SECTION 8.4.1 AEs and SAEs 41>>>
+8.4.1 AEs and SAEs 41
+<<<SECTION 8.5 Clinical Study Report 41>>>
+8.5 Clinical Study Report 41
+<<<SECTION 9 DATA MANAGEMENT AND MONITORING 41>>>
+9 DATA MANAGEMENT AND MONITORING 41
+<<<SECTION 9.1 Electronic - Case Report Forms (e-CRFs) 41>>>
+9.1 Electronic - Case Report Forms (e-CRFs) 41
+<<<SECTION 9.2 Study Monitoring 42>>>
+9.2 Study Monitoring 42
+<<<SECTION 9.3 Confidentiality 42>>>
+9.3 Confidentiality 42
+<<<SECTION 9.4 Database management 43>>>
+9.4 Database management 43
+<<<SECTION 10 STATISTICAL METHODS AND DATA ANALYSIS 43>>>
+10 STATISTICAL METHODS AND DATA ANALYSIS 43
+<<<SECTION 10.1 Determination of Sample Size 43>>>
+10.1 Determination of Sample Size 43
+<<<SECTION 10.2 Randomization 44>>>
+10.2 Randomization 44
+Randomization is done by e-CRF upon enrollment to the study. Participants will be randomized into one
+of three groups (Placebo, NR 1000 mg for the duration of the study, NR dose escalation group). 44
+<<<SECTION 10.3 Population for Analysis 44>>>
+10.3 Population for Analysis 44
+<<<SECTION 10.4 Planned analyses 45>>>
+10.4 Planned analyses 45
+<<<SECTION 10.5 Statistical Analysis 46>>>
+10.5 Statistical Analysis 46
+<<<SECTION 11 STUDY MANAGEMENT 47>>>
+11 STUDY MANAGEMENT 47
+<<<SECTION 11.1 Investigator Delegation Procedure 47>>>
+11.1 Investigator Delegation Procedure 47
+<<<SECTION 11.2 Protocol Adherence 47>>>
+11.2 Protocol Adherence 47
+<<<SECTION 11.3 Study Amendments 47>>>
+11.3 Study Amendments 47
+<<<SECTION 11.4 Audit and Inspections 47>>>
+11.4 Audit and Inspections 47
+<<<PAGE 13>>>
+13
+<<<SECTION 12 ETHICAL AND REGULATORY REQUIREMENTS 47>>>
+12 ETHICAL AND REGULATORY REQUIREMENTS 47
+<<<SECTION 12.1 Ethics Committee Approval 47>>>
+12.1 Ethics Committee Approval 47
+<<<SECTION 12.2 Other Regulatory Approvals 47>>>
+12.2 Other Regulatory Approvals 47
+<<<SECTION 12.3 Informed Consent Procedure 48>>>
+12.3 Informed Consent Procedure 48
+<<<SECTION 12.4 Subject Identification 48>>>
+12.4 Subject Identification 48
+<<<SECTION 13 TRIAL SPONSORSHIP AND FINANCING 48>>>
+13 TRIAL SPONSORSHIP AND FINANCING 48
+<<<SECTION 14 TRIAL INSURANCE 48>>>
+14 TRIAL INSURANCE 48
+<<<SECTION 15 PUBLICATION POLICY 48>>>
+15 PUBLICATION POLICY 48
+<<<SECTION 16 REFERENCES 48>>>
+16 REFERENCES 48
+<<<SECTION 17 LIST OF APPENDICES 52>>>
+17 LIST OF APPENDICES 52
+Standard Operating Procedure (SOP) for sampling and preparation of biological material (Lab manual) 53
+Project Management Committee for the study 53
+Collaborators and investigators for sub-studies: 53
+<<<SECTION 1 GENERAL INFORMATION 54>>>
+1 GENERAL INFORMATION 54
+TABLE OF CONTENTS 55
+<<<SECTION 2 HEMATOLOGY, BIOCHEMISTRY, HORMONE, SEROLOGY AND SAFETY LABORATORY PARAMETERS 56>>>
+2 HEMATOLOGY, BIOCHEMISTRY, HORMONE, SEROLOGY AND SAFETY LABORATORY PARAMETERS 56
+<<<SECTION 2.1.1 Safety laboratory (blood) 57>>>
+2.1.1 Safety laboratory (blood) 57
+<<<SECTION 3 SAMPLING FOR BIOBANK AND RESEARCH 58>>>
+3 SAMPLING FOR BIOBANK AND RESEARCH 58
+<<<SECTION 3.1 Mandatory research and biobank samples 59>>>
+3.1 Mandatory research and biobank samples 59
+<<<SECTION 3.1.1 Whole blood EDTA 59>>>
+3.1.1 Whole blood EDTA 59
+3.1.2 Whole blood EDTA – snap-frozen 59
+<<<SECTION 3.1.3 RNA PAXgene tubes 59>>>
+3.1.3 RNA PAXgene tubes 59
+<<<SECTION 3.1.4 Platelets isolation 59>>>
+3.1.4 Platelets isolation 59
+<<<SECTION 3.1.5 Whole blood for Serum 59>>>
+3.1.5 Whole blood for Serum 59
+<<<SECTION 3.1.6 Cerebrospinal fluid (CSF) 59>>>
+3.1.6 Cerebrospinal fluid (CSF) 59
+<<<SECTION 3.1.7 Fecal sample biobanking 59>>>
+3.1.7 Fecal sample biobanking 59
+<<<SECTION 3.1.8 Urine sample biobanking 59>>>
+3.1.8 Urine sample biobanking 59
+<<<SECTION 4 SAMPLE PROCESSING AND STORAGE 59>>>
+4 SAMPLE PROCESSING AND STORAGE 59
+<<<PAGE 14>>>
+14
+4.1 Whole blood (EDTA): standard 60
+4.2 Whole blood (EDTA): snap-frozen 61
+<<<SECTION 4.3 RNA PAXgene tubes 62>>>
+4.3 RNA PAXgene tubes 62
+4.4  63
+<<<SECTION 4.5 Serum for biobanking 63>>>
+4.5 Serum for biobanking 63
+<<<SECTION 4.6 Collection, of cerebrospinal fluid (CSF) 64>>>
+4.6 Collection, of cerebrospinal fluid (CSF) 64
+<<<SECTION 4.6.1              Collection of cerebrospinal fluid 65>>>
+4.6.1              Collection of cerebrospinal fluid 65
+Absolute contraindications for the procedure: 65
+<<<SECTION 4.6.2              Processing and storage of cerebrospinal fluid 65>>>
+4.6.2              Processing and storage of cerebrospinal fluid 65
+<<<SECTION 4.7 Fecal sample biobanking 66>>>
+4.7 Fecal sample biobanking 66
+<<<SECTION 4.8 Urine for biobanking 67>>>
+4.8 Urine for biobanking 67
+<<<SECTION 5 CONTACT PERSONS 68>>>
+5 CONTACT PERSONS 68
+<<<SECTION 5.1 Helse Bergen 68>>>
+5.1 Helse Bergen 68
+<<<SECTION 5.1.1 Biobank Haukeland 68>>>
+5.1.1 Biobank Haukeland 68
+<<<SECTION 5.1.2 Laboratory Clinic 68>>>
+5.1.2 Laboratory Clinic 68
+<<<SECTION 5.1.3 Haraldsplass (HDS) Laboratory 68>>>
+5.1.3 Haraldsplass (HDS) Laboratory 68
+<<<SECTION 5.1.4 Department of Neurology 68>>>
+5.1.4 Department of Neurology 68
+APPENDIX B – MRI AND FDG-PET – PROTOCOL 69
+APPENDIX C - CLINICAL RATING SCALES 69
+<<<PAGE 15>>>
+15
+LIST OF ABBREVIATIONS AND DEFINITIONS OF TERMS
+Abbreviation or special term Explanation
+AD Alzheimer’s Disease
+ADL Activities of Daily Living
+ADAS-Cog The Alzheimer's Disease Assessment Scale
+ADRP Alzheimer’s disease related pattern
+AE Adverse Event
+CDR Clinical Dementia Rating
+CRF Case Report Form (electronic/paper)
+CSF Cerebrospinal fluid
+CSA Clinical Study Agreement
+CTC Common Toxicity Criteria
+CTCAE Common Terminology Criteria for Adverse Event
+DAE Discontinuation due to Adverse Event
+DE-group Dose-escalation group
+DS-group Dose-stable group
+EC Ethics Committee, synonymous to Institutional Review Board (IRB)
+and Independent Ethics Committee (IEC)
+GCP Good Clinical Practice
+HPLC-MS High performance liquid chromatography-mass spectrometry
+IB Investigator’s Brochure
+ICF Informed Consent Form
+ICH International Conference on Harmonization
+IP Investigational Product (includes active comparator and placebo)
+IND Investigational New Drug
+LC-MS Liquid chromatography-mass spectrometry
+MoCA Montreal Cognitive Assessment
+<<<PAGE 16>>>
+16
+MRS-responder An individual susceptible to NR -induced increase in cerebral NAD
+levels, detectable by 31P-MRS
+MRS-non-responder An individual showing no NR -induced increase in cerebral NAD
+levels, detectable by 31P-MRS
+NAD Nicotinamide adenine dinucleotide
+NPI-Q Neuropsychiatric Inventory Questionnaire
+NR Nicotinamide Riboside
+NRRP NR-related metabolic pattern
+OBD Optimal biological dose
+PD Parkinson’s Disease
+PDRP Parkinson’s Disease-Related Pattern
+NAD Nicotinamide adenine dinucleotide
+SAE Serious Adverse Event
+SAM S-denosyl methionine
+SOP Standard Operating Procedure
+TMT Trail Making Test
+<<<SECTION 1 INTRODUCTION>>>
+1 INTRODUCTION
+1.1 Background – Disease
+1.1.1. Alzheimer’s disease (AD) is a major societal challenge
+Alzheimer’s disease (AD) is the most common neurodegenerative progressive dementia and a leading cause
+of disability, loss of independence and mortality. The pathological hallmarks of Alzheimer’s disease are
+extracellular accumulation of amloid β (Aβ) peptide in the brain (“senile plaque”; SP) and by intraneuronal
+accumulation of hyperphosphorylated tau protein in neurofibrillary tangles (NFT). This is accompanied by
+synaptic and neuronal losses1. The prevalence of Alzheimer’s disease is about one percent at age 65 and
+increases dramatically to between 20-50% in those older than 85 years1. AD will have a dramatic increasing
+emotional and economic impact as the median population age increases, yet available treatments remain
+largely ineffective.
+<<<SECTION 1.1.2. NAD-replenishment therapy shows promise as neuroprotective therapy for AD>>>
+1.1.2. NAD-replenishment therapy shows promise as neuroprotective therapy for AD
+Increasing evidence supports that boosting cellular levels of nicotinamide adenine dinucleotide (NAD)
+confers neuroprotective effects in both healthy aging and neurodegeneration 2. NAD, which constantly
+shuttles between its oxidized (NAD+) and reduced (NADH) state, is an essential cofactor for metabolic redox
+reactions, including mitochondrial respiration. Furthermore, NAD + is substrate to vital signaling reactions
+involved in DNA repair, histone - and other protein deacylation, and second messenger generation 3. These
+reactions consume NAD + at high rates, requiring constant replenishment via NAD biosynthesis. NAD levels
+<<<PAGE 17>>>
+17
+have been shown to decline with age and this is believed to contribute to age-related diseases3,4. Increasing
+the NAD replenishment rate (e.g., via supplementation of precursors), and/or enhancing the NAD +/NADH
+ratio (e.g., via caloric restriction) have shown beneficial effects on life - and healthspan in multiple model
+systems, and evidence of neuroprotection in models of neurodegeneration and other age-related diseases3–
+5. Enhancing NAD replenishment could potentially help ameliorate several major processes implicated in the
+pathogenesis of AD, including mitochondrial respiratory dysfunction 6, neuroinflammation 7, epigenomic
+dysregulation8 and increased neuronal DNA damage9.
+NAD can be replenished via supplementation of nicotinamide riboside (NR) , a vitamin B3 molecule and
+biosynthetic precursor of NAD 3,10. NR has undergone extensive preclinical testing 11 and is Generally
+Recognized as Safe (GRAS) for use in food products by the United States Food and Drug Administration12 and
+by the European Food  Safety Authority 13. NR is well tolerated by adult humans, showing no evidence of
+toxicity with doses up to at least 2000 mg daily14. Trials in healthy individuals have shown that oral intake of
+1000 mg NR daily substantially elevates total levels of NAD and related metabolites in blood and muscle,
+boosts mitochondrial bioenergetics and decreases circulating inflammatory cytokines 11,15–17. Moreover,
+evidence from cell and animal studies suggests that NR supplementation promotes healthspan and has
+neuroprotective effects in models of Cockayne syndrome 18, noise -induced injury 19,20, amyotrophic lateral
+sclerosis21, Parkinson’s disease22, and AD23,24.
+<<<SECTION 1.1.3. Phase-I evidence for NR-therapy in neurodegenerative diseases>>>
+1.1.3. Phase-I evidence for NR-therapy in neurodegenerative diseases
+Two phase I studies of NR in PD have been completed, the NADPARK25 study and the NR-SAFE study26. These
+are described briefly below.
+I. The NADPARK study (ClinicalTrials.gov: NCT03816020), is a phase I randomized, double blinded trial,
+aiming to assess the tolerability, cerebral bioavailability and molecular effects of NR therapy in Parkinson’s
+disease (PD)25. A total of 30 individuals with newly diagnosed, drug-naïve PD were randomized to NR 500 mg
+x2/day or placebo for 30 days. The study showed promising results, which are briefly summarized below:
+1) NR is well-tolerated: NR 1000 mg per day has excellent compliance, tolerability and no signs of toxicity or
+adverse side effects in neurodegenerative disease.
+2) NR achieves brain penetration: In vivo measurement of cerebral NAD levels using phosphorus magnetic
+resonance spectroscopy (31P-MRS) of the brain showed a highly significant (paired t-test: P = 0.016) increase
+in cerebral NAD levels  in the NR group, while no change was observed in the placebo group. Cerebral
+penetration was further validated by detecting the metabolite Me -2-PY in the CSF of participants receiving
+NR, but not placebo. While a significant NR-induced increase in cerebral NAD levels was detected at the group
+level, this effect was not uniform at the individual level. The magnitude of the cerebral NAD-increase showed
+high interindividual variation. Moreover, three out of 13 patients showed no evidence of cerebral NAD
+response, despite a clear peripheral metabolic response, confirming treatment compliance and an impact on
+the NAD metabolome, in CSF, blood, and muscle. Thus, the variable cerebral NAD response observed by 31P-
+MRS may reflect interindividual variability in cerebral penetration and/or cerebral NAD metabolism. 3) NR is
+associated with clinical improvement of PD: NR was associated with a significant decrease in the total MDS-
+UPDRS (I-III) score between visits (mean decrease: 2.33 ± 2.35; paired t -test: p = 0.017). 4) NR has a major
+impact on cerebral metabolism:  18F-fluorodeoxyglucose positron emission tomography (FDG -PET),
+performed at baseline and 30 days of treatment, revealed that NR altered cerebral metabolic activity. The
+analysis revealed a significant ordinal trend pattern (i.e., metabolic network), which was represented by the
+first principal component (PC1), accounting for 20.6% of the variance in the paired data. This novel NR-
+related metabolic pattern (NRRP)  was characterized by multiple regional metabolic changes, including
+bilateral metabolic reductions in the caudate and putamen, extending into the adjacent globus pallidus, and
+in the thalamus. Interestingly, the NRRP overlapped spatially with the Parkinso n’s Disease-Related Pattern
+(PDRP)27, and  changes in NRRP expression in the NR group resulted in partial normalization of the striatal
+and thalamic hypermetabolism, typically characterizing the PD brain 27. Furthermore, changes in NRRP
+expression in the NR group correlated significantly (r=-0.59, p = 0.026) with a decrease of the UPDRS ratings
+recorded at the time of PET (Fig 1F). These results indicate that NR ameliorates the cerebral metabolic pattern
+of PD, and this is associated with significant clinical improvement.
+<<<PAGE 18>>>
+18
+5) NR has widespread metabolic and regulatory effects: Metabolomics revealed a highly significant increase
+in NAD-related metabolites in blood, muscle and CSF (Fig 1G), indicating that NR supplementation boosts
+NAD metabolism across tissues. Intriguingly, RNA -sequencing in blood and muscle biopsy showed a highly
+significant (FDR < 10 -8) upregulation of the mitochondrial, proteasomal and lysosomal pathways in the NR
+group. These findings indicate that NR supplementation increases both mitochondrial respirati on and
+proteostasis – two hallmark pathogenic processes involved in AD9,28.
+II. The  NR-SAFE study  (ClinicalTrials.gov: NCT05344404) 21 is a phase I randomized, double blinded trial,
+aiming to assess the safety, tolerability, and bioavailability of NR in PD at an oral dose of 3000 mg daily. A
+total of 20 individuals with PD were randomized, in a 1:1 ratio, to NR 1500 mg x2/day or placebo for 30 days.
+The study was concluded in July 2022 and is currently in preparation. The main results are summarized below:
+1) NR at a dose of 3000 mg daily is safe and well -tolerated: the treatment had excellent compliance,
+tolerability, and no signs of toxicity or clinically significant adverse effects in PD.
+2) NR, 3000 mg daily, augments NAD-metabolism: oral NR intake at a dose of 3000 mg daily induced a potent
+(up to 5-fold) and highly significant augmentation of NAD+ and NADP+ levels, as well as a clear increase of the
+redox ratio (NAD+/NADH) and the NADP+/NADPH ratio (Fig. 2A).
+3) NR, 3000 mg daily, is associated with clinical improvement of PD:  the treatment was associated with a
+significant and substantial decrease in the total MDS-UPDRS (I-IV) score between visits (mean decrease 14 ±
+13.7; paired t-test: P = 0.01). No significant change was seen in the placebo group (Fig. 2B). The UPDRS change
+(delta) in the NR-group was significantly higher than that of the placebo (t-test, P =0.02) (Fig. 2C).
+Fig 1. Results of the NR -SAFE trial. A: Metabolomics were performed  in snap -frozen blood from the NR -SAFE
+participants at baseline (V2) and after 30 days of treatment (V9). Oral NR intake at a dose of 3000 mg daily induced a
+potent (up to 5 -fold) and highly significant augmentation of NAD + and NADP+ levels, as well as a clear increase of the
+redox ratio (NAD +/NADH) and the NADP +/NADPH ratio. P-values indicate the results of paired t -tests in the NR -group.
+There were no significant changes in the placebo group.  B: Oral NR intake at a dose of 3000 mg daily was associated
+with a significant and substantial decrease in total MDS -UPDRS in the NR (mean decrease 14 ±  13.7; paired t-test: p =
+0.01), but not in the placebo (mean decrease 1 ± 12.7; paired t -test: p = 0.81). C: At the group level, the change (delta)
+in total MDS-UPDRS in the NR group was significantly (t-test, P = 0.02) larger than that of the placebo group (B).
+Key: V2: baseline; V9: after 30 days of treatment; NR: the group receiving NR 3000 mg daily; PL: the placebo group.
+<<<PAGE 19>>>
+19
+The results from our phase I trials  suggest that NR holds promise as a neuroprotective therapy against
+neurodegenerative diseases. These results must now be replicated in AD. Several essential knowledge gaps
+(KG) must now be addressed in order to further develop NR towards an AD-drug, so that we may harness its
+full therapeutic potential and maximize clinical benefit and impact.
+KG1 – What is the Optimal Biological Dose (OBD) of NR in AD? We define the OBD of NR as the dose required
+to achieve an optimal neurometabolic response in AD, i.e., maximal cerebral NAD increase or optimal change
+in cerebral metabolic pattern, in the absence of toxicity.
+While our trials show that the treatment responses to NR in neurodegenerative diseases are clearly dose -
+dependent, the OBD of NR in AD remains undetermined. Based on the results of NR -SAFE, it is likely that
+improved biological and clinical responses can be achieved by escalating the dose. Moreover, the NR OBD
+may not be universal. NADPARK showed that the NR -mediated increase in cerebral NAD -levels, and
+accompanying metabolic and clinical response, are not universal and vary across individuals 25. The fact that
+all NR-recipients showed a robust metabolic response in blood, muscle and CSF, suggests that the variable
+cerebral NAD response may reflect interindividual variability in cerebral NAD metabolism (i.e., variation in
+the rate of NAD-synthesis or consumption). It is likely that such differences can be modulated by varying the
+substrate concentration (i.e., the intake dose of NR). This question is critical to address, so that NR -therapy
+can be correctly dosed and tailored to individual patients to achieve an optimal neurometabolic response.
+KG2 – Investigate whether NR has a symptomatic clinical effect in AD and assess its dose-responsiveness.
+The NADPARK and NR -SAFE studies showed that NR was associated with a clinical improvement, and this
+correlated significantly with the increase in cerebral NAD levels and brain metabolic network (NRRP) change.
+Furthermore, the clinical improval wa s more pronounced with  mg NR in the NR -SAFE study, compared to
+1000 mg in the NADPARK study. These findings suggest that NR may be ameliorat ing neuronal function in
+neurodegenerative disease resulting in symptom improvement. Exploring the dose -responsiveness of this
+effect will allow us to: 1) confirm the clinical impact of NR, 2) determine the optimal clinical dose of NR and
+3) allow us to account for symptomatic effects in neuroprotection trials.
+KG3 Determine the dose -dependence of the metabolic response to NR therapy. The NADPARK study
+showed that a dose of 1000 mg NR daily augmented the NAD metabolome in PBMC, muscle and CSF. The
+NR-SAFE study suggested that a dose of 3000 mg NR daily leads to a more potent augmentation of the NAD
+metabolome in blood. The relationship between NR dose and metabolic response needs to be further
+explored in order to determine optimal dosing regimens.
+KG4 – Determine whether  NR therapy enhance proteostasis in AD and characterize the dose dependence
+of this effect.  Impaired proteostasis plays a central role in AD and other neurodegenerative disorders,
+including Parkinson’s disease (PD) and amyotrophic lateral sclerosis (ALS).  Our transcriptomic analyses in the
+NADPARK study indicated that NR therapy may enhance proteostasis by inducing the expression of both
+proteasomal and lysosomal pathways. If confirmed, this would suggest that NR  targets multiple major
+processes implicated  in the pathophysiology of AD, including mitochondrial respiratory dysfunction,
+oxidative damage, lysosomal and proteasomal impairment, and neuroinflammation.
+KG5 – Does NR therapy influence histone acetylation status?  Histone hyperacetylation has been shown in
+the brain of individuals with AD8. Increasing neuronal NAD levels would boost the activity of the NAD -
+dependent histone deacetylases of the sirtuin family, potentially ameliorating histone hyperacetylation in
+AD.
+KG6 – Does NR decrease neuroinflammation? While it is known that NR has anti-inflammatory properties in
+peripheral tissues21, the results of the NAD -PARK trial suggest it also downregulates multiple inflammatory
+cytokines in the central nervous system. If confirmed this would be of importance for AD and other
+<<<PAGE 20>>>
+20
+neurodegenerative and neuroinflammatory disorders.
+KG7 – Determine whether NR therapy alters methylation metabolism and characterize any dose
+dependence of such an effect. In theory, NAD replenishment via NR administration could decrease/deplete
+the cellular methylation capacity. NR boosts the NAD -metabolome, leading to increased production of the
+degradation product nicotinamide (NAM), which is eliminated via methylation to MeNAM, Me-2-PY, and Me-
+4-PY, and excreted in the urine.  Synthesis of Me -Nam requires the methyl -donor S -adenosylmethionine
+(SAM). This, in turn, could limit SAM availability for other essential methylat ion reactions, such as DNA and
+histone methylation, and neurotransmitter synthesis, including dopamine29. Thus, in theory, NR would cause
+an increased consumption of SAM, limiting methylation reactions and generating higher levels of
+homocystein.  Such a phenomenon would be a particular concern for the ~60% of the population that carries
+MTHFR variants that reduce the efficiency of methylation. The NADPARK study showed no change in serum
+homocystein levels, or any other evidence of methylation depletion associated with NR 1000 mg daily. It is,
+however, unknown whether such effects may occur with higher NR doses.
+KG8 – Determine how orally ingested NR interacts with the microbiome in AD . Current evidence suggests
+that the gut microbiome may be involved in the pathogenesis of AD and that individuals with AD host a
+different microbiome composition compared to neurologically healthy individuals. It is possible that NR
+therapy may beneficially affect the gut microbiome in AD restoring normal patterns. On the other hand, it is
+also possible that variation in the gut microbiome may affect local metabolism of NR and absorp tion in the
+bloodstream. These effects have not been studied.
+KG9 – Determine whether NR therapy influences gastrointestinal (GI) motility in AD. GI dysmotility due to
+dysfunction and degeneration of both central and local neuronal populations controlling GI motility occurs
+in AD. It is possible that NR may improve the function of these neurons and preserve them against the
+neurodegenerative process.
+To address these pertinent questions, we will conduct N -DOSE AD, a multi -center randomized double -
+blinded placebo-controlled trial to assess the optimal biological dose for NR in AD.
+<<<SECTION 1.2 Background - Therapeutic Information>>>
+1.2 Background - Therapeutic Information
+NR (Niagen®, Chromadex) is fully approved for human use and no evidence of toxicity has been found. NR has
+undergone extensive preclinical testing16 and is Generally Recognized as Safe (GRAS) for use in food products
+by the United States Food and Drug Administration 31 and by the European Food Safety Authority 32. As
+mentioned above multiple animal studies suggest that NR has strong neuroprotective effects as well as our
+NADPARK study showing possible therapeutic effects in neurodegenerative disease. NR is well tolerated with
+no evidence of toxicity in adult humans with doses up to at least 3000 mg daily 11,13,14,25,26,30. This evidence
+includes our recently concluded safety and tolerability trial NR-SAFE (clinicaltrials.gov: NCT05344404), which
+revealed no adverse events of clinical relevance with 3000mg NR daily for 30 days (manuscript in
+preparation). We therefore propose that dosages up to 3000 mg is highly unlikely to cause toxicity. Niagen
+and placebo will be provided from Chromadex, https://chromadex.com/. Active study drug capsules will
+contain 250 mg NR. Placebo will contain microcrystalline cellulose, which will be identical in appearance and
+taste.
+<<<SECTION 1.3 Pre-Clinical & Clinical Experience with Investigational Product (IP)>>>
+1.3 Pre-Clinical & Clinical Experience with Investigational Product (IP)
+NR (Niagen®, Chromadex) is fully approved for human use and no evidence of toxicity has been found. Dose
+selection is based on pharmacokinetic studies of oral bioavailability in humans 33. See details under section
+1.1.2 above.
+<<<PAGE 21>>>
+21
+<<<SECTION 1.4 Rationale for the Study and Purpose>>>
+1.4 Rationale for the Study and Purpose
+Our phase I trial (NADPARK) showed that NR holds great promise as a potential neuroprotective, disease -
+modifying therapy for neurodegenerative diseases. Encouraged by these findings, this project aims to
+determine the optimal biological dose of NR in AD an d to further explore its neuroprotective potential. We
+propose that oral administration of the NAD precursor NR (Niagen®, Chromadex) in increasing dosages up to
+3000 mg will show a dose-responsive improvement in the cerebral metabolism in AD patients and show signs
+of improved mitochondrial function, histone acetylation, neuroinflammation and clinical symptoms.
+The outcomes of this project will take us several steps closer to developing NR into an AD-drug, so that we
+may harness its full therapeutic potential and maximize its clinical benefit and impact.
+<<<SECTION 2 STUDY OBJECTIVES AND RELATED ENDPOINTS>>>
+2 STUDY OBJECTIVES AND RELATED ENDPOINTS
+DS-group refers to the dose-stable group, i.e. participants receiving NR 1000 mg daily for 3 months. DE-group
+refers to the dose -escalation group, i.e. participants receiving NR 1000 mg in an escalating dose with 1000
+mg from baseline to week 4, 2000 mg from week 4 to week 8 and 3000 mg from week 8 to week 12. PL-group
+refers to the placebo group.
+Objective Endpoint
+Primary To compare the effect of orally administered
+nicotinamide riboside (NR), escalated to 1500
+mg twice per day (3000 mg/day) in the dose-
+escalation group (DE-group) - versus stable
+dosing of 500 mg twice per day (1000
+mg/day) in the dose-stable group (DS-group)
+on cerebral NAD-levels, at week 12.
+Change in cerebral NAD/ATP-α ratio
+measured by 31 Phosphorus magnetic
+resonance spectroscopy (31P-MRS) in the
+posterior brain (encompassing the occipital,
+parietooccipital and posterior parts of the
+temporal cortex).
+Secondary To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in cerebral NAD
+levels from baseline to weeks 4, 8 and 12.
+Change in cerebral NAD/ATP-α ratio
+measured by 31 Phosphorus magnetic
+resonance spectroscopy (31P-MRS) in the
+posterior brain (encompassing the occipital,
+parietooccipital and posterior parts of the
+temporal cortex).
+To compare the effectiveness of orally
+administered nicotinamide riboside (NR)
+1500 mg twice per day versus 500 mg twice
+per day in augmenting the NAD-metabolome
+in the central nervous system (CNS) at week
+12.
+Change in the cerebrospinal fluid (CSF) levels
+of NAD or other metabolites of the NAD
+metabolome*, measured by LC-MS.
+Exploratory Neuroimaging
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on the
+NR related metabolic pattern (NRRP)
+expression at week 12.
+Change in NRRP expression, measured by
+FDG-PET.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in NRRP expression
+from baseline to weeks 4, 8 and 12.
+Change in NRRP expression, measured by
+FDG-PET.
+To compare the effect of orally administered
+NR DE-group versus DS-group on the AD-
+related pattern (ADRP) expression at week 12.
+Change in ADRP expression, measured by
+FDG-PET.
+<<<PAGE 22>>>
+22
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in ADRP expression
+from baseline to weeks 4, 8 and 12.
+Change in ADRP expression, measured by
+FDG-PET.
+Metabolism & molecular markers
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on the
+NAD metabolome* in the blood, urine and
+central nervous system (CNS) at week 12.
+Change in levels of NAD metabolites in blood,
+urine and CSF, measured by HPLC-MS and/or
+the NADMed method.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in the NAD
+metabolome* in blood and urine from baseline
+to weeks 4, 8 and 12.
+Change in levels of NAD metabolites in blood
+and urine, measured by HPLC-MS and/or the
+NADMed method.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on serum
+and CSF inflammatory markers at week 12.
+Change in inflammatory cytokines in serum
+and CSF, measured by ELISA.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in serum
+inflammatory markers from baseline to weeks
+4, 8 and 12.
+Change in inflammatory cytokines in serum,
+measured by ELISA.
+Clinical – cognitive & non motor symptom severity, quality of life
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+clinical severity of AD symptoms at week 12.
+Change in the total ADAS-Cog 13 score, CDR
+sum of boxes, MoCA score, TMT.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and change in clinical severity of
+PD symptoms from baseline to weeks 4, 8 and
+12.
+Change in the total ADAS-Cog 13 score, CDR
+sum of boxes, MoCA score, TMT.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on ADL
+severity in AD  at week 12.
+Change in IADL and PADL scores.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and change in ADL scores in  AD
+from baseline to weeks 4, 8 and 12.
+Change in IADL and PADL scores..
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+depressive symptoms in AD at week 12.
+Change in MADRS score.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and depressive symptoms in AD
+from baseline to weeks 4, 8 and 12.
+Change in MADRS score.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+neuropsychiatric symptoms in AD at week 12.
+Change in the NPI-Q score.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and change in neuropsychiatric
+symptoms in AD from baseline to weeks 4, 8
+Change in the NPI-Q score.
+<<<PAGE 23>>>
+23
+and 12.
+Hypothesis-generating or resource-dependent endpoints (may be reported in follow-up
+or secondary publications).
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on gene
+expression at week 12.
+Change in gene expression, measured by RNA
+sequencing (RNAseq).
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in gene expression
+from baseline to weeks 4, 8 and 12.
+Change in gene expression, measured by RNA
+sequencing (RNAseq).
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+protein expression at week 12.
+Change in protein levels, measured by LC-MS.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in protein expression
+from baseline to weeks 4, 8 and 12.
+Change in protein levels, measured by LC-MS.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on serum
+and CSF inflammatory markers at week 12.
+Change in inflammatory cytokines in serum
+and CSF, measured by ELISA.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in serum
+inflammatory markers from baseline to weeks
+4, 8 and 12.
+Change in inflammatory cytokines in serum,
+measured by ELISA.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+histone acetylation in AD at week 12.
+Change in histone panacetylation, measured
+by immunoblotting.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in histone
+acetylation in AD from baseline to weeks 4, 8
+and 12.
+Change in histone panacetylation, measured
+by immunoblotting.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+H3K27 and H4K16 histone acetylation in AD at
+week 12.
+Changes in levels of H3K27 and H4K16
+acetylation, measured by immunoblotting.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in on H3K27 and
+H4K16 histone acetylation in AD from baseline
+to weeks 4, 8 and 12.
+Changes in levels of H3K27 and H4K16
+acetylation, measured by immunoblotting.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on the
+genomic distribution of H3K27 and H4K16
+histone acetylation in AD at week 12.
+Change in the genomic distribution of H3K27
+and H4K16 acetylation, measured by
+chromatin immunoprecipitation sequencing
+(ChIPseq).
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in the genomic
+distribution of H3K27 and H4K16 histone
+acetylation in AD from baseline to weeks 4, 8
+and 12.
+Change in the genomic distribution of H3K27
+and H4K16 acetylation, measured by
+chromatin immunoprecipitation sequencing
+(ChIPseq).
+<<<PAGE 24>>>
+24
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on folate
+and one-carbon metabolism in AD at week 12.
+Change in folate and one-carbon metabolites
+in blood and CSF, measured by HPLC-MS.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in folate and one-
+carbon metabolism in AD from baseline to
+weeks 4, 8 and 12.
+Change in folate and one-carbon metabolites
+in blood, measured by HPLC-MS.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+methyl donors in AD at week 12.
+Change in methyl-donors (e.g., SAM),
+measured by HPLC-MS, in the blood and/or
+CSF.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in methyl-donors in
+AD from baseline to weeks 4, 8 and 12.
+Change in methyl-donors (e.g., SAM),
+measured by HPLC-MS, in the blood.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on DNA
+methylation at week 12.
+Change in level and genomic distribution of
+DNA methylation, measured by Illumina
+Infinium MethylationEpic kit.
+To assess the dose-response relationship
+between NR dose (1000 mg, 2000 mg, 3000
+mg per day) and changes in methyl-donors in
+AD from baseline to weeks 4, 8 and 12.
+Change in level and genomic distribution of
+DNA methylation, measured by Illumina
+Infinium MethylationEpic kit.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on
+synthesis of neurotransmitters in AD at week
+12.
+Change in neurotransmitters in CSF, measured
+by HPLC-MS.
+Determine whether NR-therapy affects the gut
+microbiome in a dose-responsive manner at
+week 12.
+Change in gut microbiome composition,
+measured by metagenomics in fecal samples.
+To compare the effect of orally administered
+NR in the DE-group versus DS-group on the
+gut metabolome at week 12.
+Change in fecal metabolomics, measured by
+LC-MS in fecal samples.
+Safety To determine the safety and tolerability of NR
+at a dose of 1000 mg, 2000 mg, and 3000 mg
+per day in AD.
+Number and severity of adverse events from
+baseline to week 12 across treatment groups
+and NR dose levels.
+*The NAD metabolome is comprised of:  Nicotinamide adenine dinucleotide oxidized (NAD +), Nicotinamide adenine
+dinucleotide reduced (NADH), NAD +/NADH ratio, total NAD (sum of NAD + and NADH), Nicotinamide adenine
+dinucleotide phosphate oxidized (NADP +), Nicotinamide adenine dinucleotide phosphate reduced (NADPH),
+NADP+/NADPH ratio, total NADP (sum of NADP + and NADPH, 1-methyl nicotinamide (Me -Nam), nicotinic acid-adenine
+dinucleotide (NAAD), N1 -methyl-2-pyridone-5-carboxamide (Me -2-PY), Nicotinamide (Nam), Nicotinamide N -oxide
+(Nam N -oxide), ADP -ribose (ADPR), Nicotinic acid riboside (NAR), Nicotinamide rib oside (NR), Nicotinamide
+mononucleotide (NMN), Nicotinic acid (NA).
+<<<SECTION 2.1 Primary Endpoint Measure>>>
+2.1 Primary Endpoint Measure
+Change in cerebral NAD level, measured by 31P-MRS.
+31P-MRS assesses the levels of key -energy metabolites in the brain, including NAD, ATP, free inorganic
+phosphate (Pi), and phosphocreatine, and others, as previously shown 25.  Using this method, we will assess
+<<<PAGE 25>>>
+25
+total brain NAD levels normalized to ATP -α levels (i.e., the NAD/ATP -α ratio) in the posterior brain -
+encompassing the occipital, parietooccipital and posterior parts of the temporal cortex.
+2.2 Secondary Endpoint Measure
+Change in the CSF level of NAD or other metabolites of the NAD metabolome in CSF, measured by HPLC-MS.
+Using high performance liquid chromatography mass spectrometry (HPLC -MS), we will measure the NAD
+metabolome in CSF, including the following specific measures: Nicotinamide adenine dinucleotide oxidized
+(NAD+), Nicotinamide adenine dinucleotide reduced (NADH), NAD+/NADH ratio, total NAD (sum of NAD+ and
+NADH), Nicotinamide adenine dinucleotide phosphate oxidized (NADP+), Nicotinamide adenine dinucleotide
+phosphate reduced (NADPH), NADP +/NADPH ratio, total NADP (sum of NADP + and NADPH, 1 -methyl
+nicotinamide (Me-Nam), nicotinic acid-adenine dinucleotide (NAAD), N1-methyl-2-pyridone-5-carboxamide
+(Me-2-PY), Nicotinamide (Nam), Nicotinamide N -oxide (Nam N -oxide), ADP -ribose (ADPR), Nicotinic acid
+riboside (NAR), Nicotinamide riboside (NR), Nicotinamide mononucleotide (NMN), Nicotinic acid (NA).
+2.3 Exploratory  Endpoint Measures
+Change in the following parameters listed below:
+NR related pattern (NRRP), an ordinal trend pattern (i.e., metabolic network), associated with NR treatment
+identified in the NADPARK study25, measured by 18F-fluorodeoxyglucose positron emission tomography (FDG-
+PET).
+AD related pattern (ADRP), an ordinal trend pattern (i.e., metabolic network), associated with AD, measured
+by 18F-fluorodeoxyglucose positron emission tomography (FDG-PET).
+The ADAS-Cog 13 (Alzheimer’s Disease Assessment Scale – Cognitive Subscale, 13-item version) is a widely
+used tool for assessing cognitive function in individuals with  Alzheimer’s disease  and other forms of
+dementia. The total score ranges from 0 to 85, with higher scores indicating greater cognitive impairment.
+Clinical Dementia Rating scale sum of boxes (CDR -SB). The CDR integrates assessments from 3 domains of
+cognition (memory, orientation, judgment/problem-solving) and 3 domains of function (community affairs,
+home/hobbies, personal care). Following caregiver interview and systematic participant examination, the
+rater assigns a score describing the participant's current performance level in each of these domains of life
+functioning. The "Sum of boxes" scoring methodology (CDR-SB) sums the score for each of the 6 domains and
+provides a value ranging from 0 to 18 with higher scores indicating greater impairment. Positive change from
+baseline indicates greater impairment.
+The Montreal Cognitive Assessment (MoCA) scale. The MoCA scale (minimum score = 0, maximum score =
+30) and a dichotomized cut -off score for normality of 26 or over. High scores indicate less cognitive
+impairment than low scores.
+<<<PAGE 26>>>
+26
+The Trail Making Test (TMT). The TMT is a timed test and the goal is to complete the test as accurately and
+as quickly as possible. Raw scores are reported in seconds to complete the test. For Part B, an average score
+is 75 seconds and a deficient score is greater than 273 seconds.
+The Lawton Instrumental Activities of Daily Living (IADL) Scale. The IADL scale consists of 8 items providing
+information about telephone use, preparing food, shopping, doing daily household chores, doing laundry,
+using transport, medication managing, and managing money. Scores range from 0 (dependent) to 8
+(independent).
+The Physical Self-Maintenance Scale (PSMS). The PSMS includes 6 items, testing the following areas: toilet
+use, eating, dressing, physical appearance, deambulation and bath. The PSMS ranges from 1 to 30, with
+higher scores indicating WORSE functioning.
+The Neuropsychiatric Inventory brief questionnaire form (NPI -Q). The NPI-Q measures the burden of 12
+neuropsychiatric symptoms of dementia: delusions, hallucinations, agitation/aggression,
+depression/dysphoria, anxiety, elation/euphoria, apathy/indifference, disinhibition, irritability/lability,
+motor disturbance, nighttime behaviors, and appetite/eating.  Symptom severity is rated on a 3 -point scale
+with higher scores indicating worse symptoms. Minimum score would be 0 and maximum score would be 36.
+The Montgomery-Asberg Depression Rating Scale (MADRS) . MADRS is a clinician -rated scale designed to
+measure depression severity and detects changes due to antidepressant treatment. The scale consists of 10
+items, each of which is scored from 0 (item not present or normal) to 6 (severe or continuous presence of
+the symptoms), for a total possible score of 60. Higher scores represent a more severe condition.
+NAD metabolome.  Using liquid chromatography mass spectrometry (HPLC -MS) and/or the NADMed
+method, we will measure the NAD metabolome in whole blood (and/or PBMCs), CSF and urine including the
+following specific measures: Nicotinamide adenine dinucleotide oxidized (NAD +), Nicotinamide adenine
+dinucleotide reduced (NADH), NAD+/NADH ratio, total NAD (sum of NAD+ and NADH), Nicotinamide adenine
+dinucleotide phosphate oxidized (NADP+), Nicotinamide adenine dinucleotide phosphate reduced (NADPH),
+NADP+/NADPH ratio, total NADP (sum of NADP+ and NADPH, 1-methyl nicotinamide (Me-Nam), nicotinic acid-
+adenine dinucleotide (NAAD), N1 -methyl-2-pyridone-5-carboxamide (Me -2-PY), Nicotinamide (Nam),
+Nicotinamide N -oxide (Nam N -oxide), ADP -ribose (ADPR), Nicotinic acid riboside (NAR), Nicotinamide
+riboside (NR), Nicotinamide mononucleotide (NMN), Nicotinic acid (NA).
+Gene and protein expression levels in PBMC, measured by RNA sequencing (RNAseq) and proteomics (HPLC-
+MS), respectively.
+Levels of inflammatory cytokines in serum and CSF , measured using enzyme-linked immunosorbent essay
+(ELISA).
+Levels of histone panacetylation, and levels and genomic distribution of H3K27 and H4K16 acetylation in
+PBMC, measured by immunoblotting and chromatin immunoprecipitation sequencing (ChIPseq).
+Levels of methyl-donors (e.g., SAM) in blood and/or CSF, measured by HPLC-MS.
+Levels of neurotransmitters in CSF, measured by HPLC-MS.
+Levels of one carbon metabolism metabolites, measured by HPLC-MS metabolomics in PBMC and CSF.
+Levels and genomic distribution of DNA methylation , measured by the Illumina Infinium MethylationEPIC
+Kit.
+Gut microbiome composition, assessed by metagenomics in fecal samples.
+<<<PAGE 27>>>
+27
+Fecal metabolomics, including fatty acid profiling, assessed by HPLC-MS in fecal samples.
+● Determine whether NR-therapy affects increase in the NRRP in a dose-responsive manner.
+● Determine whether NR-therapy affects increase in the ADRP in a dose-responsive manner.
+● Determine whether NR-thearpy augments the NAD metabolome in the blood, urine and CSF in a
+dose-responsive manner.
+● Determine whether NR-therapy improves cognitive dysfunction in AD in a dose-responsive
+manner.
+● Determine whether NR-therapy improves ADL in AD in a dose-responsive manner.
+● Determine whether NR -therapy affects neuropsychiatric symptoms in AD in a dose -responsive
+manner.
+<<<PAGE 28>>>
+28
+<<<SECTION 3 OVERALL STUDY DESIGN>>>
+3 OVERALL STUDY DESIGN
+This is a multi-center, phase II, double blinded, randomized, placebo controlled dose-optimization study.
+Study Period
+Estimated date of first patient enrolled: 01.10.2022
+Anticipated recruitment period: 01.10.2022 – 14.03.2025
+Estimated date of last patient completed: 30.06.2025
+Treatment Duration: 12 weeks.
+<<<SECTION 3.1 Study design>>>
+3.1 Study design
+N-DOSE AD is a multi -center, phase II, double blinded, randomized, placebo -controlled dose-optimization
+clinical trial with a dose escalation design. Patients with AD (n = 80) who fulfill participation criteria at
+screening (see section 4) will be randomized (1:3) into one of two three groups and followed for a total of 3
+months: 1) The placebo group (PL-group, n = 20) will receive placebo for the duration of the study. 2) The
+NR 1000 mg group  (SD-group, n=20) will receive NR 1000 mg (500 mg x 2) per day fo r the duration of the
+study. 3) The NR dose escalation group (DE-group, n=40) will receive first 1000 mg (500 mg x 2) NR per day
+for 30 days, then 2000 mg (1000 mg x 2) NR per day for 30 days, and finally 3000 mg (1500 mg x 2) NR per
+day for 30 days (Fig. 3). The selected dose range is within safety limits for healthy humans ( see section 1.3).
+After eligibility screening, eligible participants will be randomly assigned to one of two study groups and
+assessed at baseline (Visit-1, V1) and three more visits (Visit-2, Visit-3 and Visit-4; V2, V3, V4) spaced 30 days
+apart (Fig. 3).  Participants and investigators will be blinded to treatment group. Participants will be followed
+for a total of 90 days. All participants will be recruited from the Neuro-SysMed Center, HUS and Haraldsplass
+Deaconess Hospital.
+Fig 2. N-DOSE AD study design. A total of 80 patients will be recruited in three arms. Patients will be assessed at baseline (V1) and
+three additional visits, at 4 (V2), 8 (V3) and 12 (V4) weeks.
+<<<PAGE 29>>>
+29
+<<<SECTION 4 STUDY POPULATION>>>
+4 STUDY POPULATION
+<<<SECTION 4.1 Selection of Study Population>>>
+4.1 Selection of Study Population
+The study setting is at the Geriatrics outpatient clinic at Haraldsplass Deaconess Hospital.
+<<<SECTION 4.2 Number of Patients>>>
+4.2 Number of Patients
+A total of n =80 patients will be included in this study  and randomized to placebo (PL-group, n=20), NR 500
+mg twice per day (DS-group, n=20), or NR escalating dose (DE-group, n=40), starting at 500 mg twice per day,
+increasing to 1000 mg twice per day, and finally increasing to 1500 mg twice per day.
+<<<SECTION 4.3 Inclusion Criteria>>>
+4.3 Inclusion Criteria
+The following condition must apply to the prospective patient at screening prior to receiving study agent:
+● Diagnosis of probable  AD according to the core clinical criteria updated in the NIA and Alzheimer’s
+Association guidelines.
+● Biomarker evidence consistent with AD neuropathologic change, defined by CSF markers31.
+● Diagnosed with AD within two years from enrolment.
+● CDR32 0.5-1 (inclusive) at enrolment.
+● Age 50 to 85 years (inclusive) at the time of enrollment.
+● A study partner (i.e. a family member or a friend) able to study data and assist the participant in the study
+drug administration, i.e. contact ≥ 3 times weekly.
+● Capacity to provide written informed consent for study participation defined as Montreal
+Cognitive Assessment (MoCA)33 score ≥ 16 or Mini Mental State Evaluation.
+(MMSE) score ≥ 2034. MMSE or MoCA must have been performed within 6 months prior to baseline. If
+there is any doubt regarding the participants capacity to give
+informed consent we will ask for an independent evaluation by a consultant clinician who is
+not associated with the study.
+● Cholinesterase inhibitors and memantine can be used if stable for 8 weeks prior to
+baseline visit.
+● Able to undergo lumbar punction.
+● Able to undergo MRI
+<<<SECTION 4.4 Exclusion Criteria>>>
+4.4 Exclusion Criteria
+Patients will be excluded from the study if they meet any of the following criteria:
+● Diagnosis of dementia other than probable AD.
+● Comorbidity that precludes study participation or data interpretation.
+● Any psychiatric disorder that would interfere with compliance in the study.
+● Any severe somatic illness that would interfere with compliance and participation in the study.
+● Use of high dose vitamin B3 supplementation within 30 days of enrolment.
+● Metabolic, neoplastic, or other physically or mentally debilitating disorder at baseline visit.
+● Current treatment with Oral Anticoagulation Therapies
+● Implants that preclude MRI examinations, e.g. DBS, pacemaker
+<<<PAGE 30>>>
+30
+<<<SECTION 5 TREATMENT>>>
+5 TREATMENT
+For this study NR (Niagen®, Chromadex) is defined as the Investigational Product(s) (IP). IP includes also
+active comparator and placebo.
+<<<SECTION 5.1 Drug Identity, Supply and Storage>>>
+5.1 Drug Identity, Supply and Storage
+NR (Niagen®, Chromadex) and placebo will be manufactured and provided from Chromadex. Both NR and
+Placebo will be prepared as identical capsules. The drug has marketing consent in Norway but is not
+registered by Statens legemiddelverk (SLV)/Direktoratet for medisinske produkter (DMP) as a medical drug,
+but as a supplement. The NR and placebo have a 1-year expiry date. Both the NR and placebo will be stored
+in room temperature with temperature <25 degrees (according to instructions given by Chromadex).
+<<<SECTION 5.2 Dosage and Drug Administration>>>
+5.2 Dosage and Drug Administration
+Each NR capsule  contains 250mg.. To keep the study fully blinded, all participants will receive the same
+number of daily capsules irrespective of which treatment group they belong to. To achieve this, NR capsules
+will be combined with placebo capsules as necessary (see below):
+● Patients in the NR 1000mg group will administer orally [2 NR capsules (500mg) +  4 placebo
+capsules] x 2 times daily (1000mg NR daily in total).
+● Patients in the NR dose escalation group will administer orally the following doses:
+o Weeks 0-4: [2 NR capsule (500mg) + 4 placebo capsules] x 2 times daily (1000mg NR daily in
+total).
+o Weeks 5-8: [4 NR capsule (1000mg) + 2 placebo capsule] x 2 times daily (2000mg daily
+total).
+o Weeks 9-12: [6 NR capsules (1500mg) + 0 placebo capsule] x 2 times daily (3000mg daily
+total).
+● The placebo group will administer orally [6 placebo capsules] x 2 times daily.
+There is no specified time of day the dosages should be taken, only that they should be taken with about 12
+hours apart, if possible. If a dose is missed, the patient can take the missed dose as soon as it is
+remembered, provided it is shorter time to the missed dose than the next scheduled dose. There are no
+restrictions with respect to combining the dose with other medication and/or food. The study medication
+is to be taken every day during the treatment period, including prior to study visits.
+<<<SECTION 5.3 Duration of Therapy>>>
+5.3 Duration of Therapy
+Therapy duration for the study is 3 months (12 weeks).
+<<<SECTION 5.4 Cognitive Therapy During Screening and IP treatment period>>>
+5.4 Cognitive Therapy During Screening and IP treatment period
+Eligible and consenting men and women with AD may use standard treatments with Cholinesterase inhibitors
+and memantine can be used if stable for 8 weeks prior to
+screening and baseline visits. The treatment regime will then be frozen and remain unchanged for the study
+period (3 months). At the end of study visit (month 3), the physician determines (yes/no) whether the patient
+is still adequately treated for his/her AD with their current standard treatment.
+<<<PAGE 31>>>
+31
+<<<SECTION 5.5 Concomitant Medication>>>
+5.5 Concomitant Medication
+There are no restrictions on any other use of medications. All patients should use medications prescribed
+prior to enrollment in the study. There are no restrictions with respect to starting new medications that are
+necessary for the patient.
+The Patient should not take any vitamin B3 supplements for the duration of the study.
+All concomitant medication (incl. vitamins with the exception of vitamin B3, herbal preparation and other
+“over-the-counter” drugs) used by the patient will be recorded in the patient’s file and CRF.
+<<<SECTION 5.6 Subject Compliance>>>
+5.6 Subject Compliance
+Patient compliance will be determined based on self-report at study visits (using information from the study
+participant and study partner). A pill count of remaining medication will be performed when providing new
+study medication and at the end of the study.
+<<<SECTION 5.7 Drug Accountability>>>
+5.7 Drug Accountability
+The responsible site personnel will confirm receipt of study drug and will use the study drug only within the
+framework of this clinical study and in accordance with this protocol. Receipt, distribution, return, and
+destruction (if any) of the study drug m ust be properly documented according to the sponsor’s agreed and
+specified procedures.
+Study drugs are stored locally at the study site and distributed by the study nurse upon registration in CRF.
+Remaining study drug is returned for pill count.
+<<<SECTION 5.8 Drug Labeling>>>
+5.8 Drug Labeling
+The investigational product will have a label permanently affixed to the outside and will be labeled according
+with ICH GCP and national regulations, stating that the material is for clinical trial / investigational use only
+and should be kept out of reach of children.
+Label will include:
+● Patient’s initials
+● Study number (CRF number)
+● Date dispensed
+<<<SECTION 5.9 Subject Numbering>>>
+5.9 Subject Numbering
+At the screening visit, patients will be sequentially allocated a patient study number. The subject will be
+identified by this patient study number for the remainder of the study. Once a patient number has been
+assigned, no attempt will be made to use that number again.
+The patient study number will be in the following format: XX-YYY where XX is the study site number and
+YYY is the patient id number. If a patient number is allocated incorrectly, no attempt will be made to
+remedy the error once study treatment has been dispensed. Any replacement patients will be given the
+next patient number in the sequence.
+<<<SECTION 6 STUDY PROCEDURES>>>
+6 STUDY PROCEDURES
+<<<PAGE 32>>>
+32
+<<<SECTION 6.1 Flow Chart>>>
+6.1 Flow Chart
+Table 1.  Trial flow chart
+Screening Period
+Treatment Period
+Study Visit:
+End of study
+visit
+Event First
+Screening
+Next/Last
+screening1
+Visit-1
+Baseline1 Visit-2 Visit-3 Visit-4
+Time   Week 0 Week 4  Week 8 Week 12
+Informed consent X
+Informed consent biobank,
+optional X
+AD Clinical diagnosis Criteria X  X
+Inclusion/exclusionEvaluation X  X
+Medical history1 X  X
+Neurologic exam2 X   X X X X
+Physical Examination3 X  XXXX
+Body height   X
+Body weight and BMI   X X X X
+Vital signs4   X X X X
+Record of concomitant
+medication X  XXXX
+MoCA5 X  XXXX
+CDR5 X  XXXX
+ADAS-COG 13   X X X X
+Trail Making Test (TMT)5 X  X X X X
+31P-MRS, 1H-MRSand FDG-
+PET imaging   X X X X
+MADRS5 X  XXXX
+NPI-Q, and IADL and PADL5 X  X X X X
+Dietary registration (3 days
+prior to visit)   X   X
+Routine blood tests6   X X X X
+hCG7 X
+<<<PAGE 33>>>
+33
+Blood for biobanking8   X X X X
+Cerebrospinal fluid collection9 X     X
+Fecal sample collection   X   X
+Urine sample collection   X X X X
+Treatment (IP) dispensation10   X X X
+Cognitive treatment stable11   X   X
+Adverse event    X X X
+Superscripts refer to the specifications below.
+Specifications
+1. Medical history includes: family history of neurological illness (what and who), family history of
+dementia (what and who), smoking history (period, pack-years), first AD symptoms, months since first
+AD symptoms,.
+2. General Neurological examination
+3. Heart and lung auscultation, abdominal palpation, any other examination dictated by patient’s
+condition/symptoms
+4. Blood pressure, pulse, temperature
+5. Not repeated at baseline if conducted at screening within 4 weeks prior to the baseline visit.
+6. CRP, ALAT, ASAT, GT, bilirubin, ALP, creatinine, urea, RBC, Hb, WBC with differential, platelets, CK, FT4,
+TSH, B12, folic acid, homocysteine, methylmalonic acid, sodium, potassium, glucose.
+7. Women of childbearing potential will also have a pregnancy test performed.
+8. EDTA blood, snap-frozen EDTA blood, PAXgene, platelet isolation, serum (see lab manual for details).
+9. CSF, including Amloid-β and Tau protein levels to verify the AD diagnosis.
+10. To ensure correct dosages during dose escalation and if necessary to resupply.
+11. The patient has to be stable if on a standard cognitive treatment for 8 weeks prior to baseline. There
+should not be more than 3 months from last screening to baseline visit.
+<<<SECTION 6.2 By Visit>>>
+6.2 By Visit
+<<<SECTION 6.2.1 Screening Visits/ Before start of Investigational Product (IP)>>>
+6.2.1 Screening Visits/ Before start of Investigational Product (IP)
+The first screening visit aims to determine if the patient is eligible to be included in the study. A full physical
+examination, anamnestic medical history, cognitive testing and lumbar puncture to establish AD pathology
+is performed. If the patient fulfills the inclusion/exclusio n criteria and gives informed consent, standard
+treatment with cholinesterase inhibitors and memantine must be stable for 8 weeks prior to screening and
+baseline visits.
+If the patient fulfills the inclusion/exclusion criteria, the patient is called in for the baseline study visit (week
+0 study visit). The Baseline study visit should be within 8 weeks from the time the lumbar puncture was
+performed. There should not be more than 3 months from last screening to baseline visit.
+<<<PAGE 34>>>
+34
+Screening checklist:
+1. Patient signed informed consent for N-DOSE AD
+2. Patient signs informed consent for consent for storage and analysis of biological material
+(“Samtykke for lagring av biologisk material i biobank for demens og aldring”)
+3. Physical examination (general neurological examination) at first screening
+4. MoCA
+5. Clinical AD diagnosis Criteria
+6. Record current use of medication. Advise to stop any use of vit B3 supplements
+7. Plan/conduct Lumbar puncture to verify AD diagnosis
+8. If the patient is ready for enrollment, they are referred to baseline study visit (including MRI and
+PET).
+9. The study partner is given the 3-day dietary registration form along with instructions on how to fill
+it out and deliver to the study nurse at baseline.
+10. Give instructions on how to collect urine and fecal sample before the baseline visit.
+<<<SECTION 6.2.2 Baseline/Week 0>>>
+6.2.2 Baseline/Week 0
+1. At the first study visit the investigator needs to verify the informed consent for the study and offer
+the subject to sign the informed consent for storage and analysis of biological material (Samtykke for
+lagring av biologisk materiale i FORSKNINGSBIOBANKEN FOR ALDRING, DEMENS OG NEVROLOGI).
+2. Investigator verifies anamnestic information gathered at screening, current use of medication and
+medical history.
+3. Investigator verifies fulfillment of inclusion and exclusion criteria.
+4. The study identification number is assigned (see section 5.9).
+5. Study medication is dispensed to the subject by the study nurse and the patient is reminded to take
+the study medication every day including at the morning of each visit.
+6. The following clinical examination are performed by the study nurse or investigator (see flowchart
+in section 6.1):
+a. Vital signs
+b. Hight, body weight and BMI
+c. MoCA
+d. ADAS-COG
+e. CDR
+f. Trail Making Test (TMT)
+g. MADRS
+h. NPI-Q
+i. IADL and PADL
+7. Routine blood tests are done (see flowchart in section 6.1)
+8. Samples for biobanking are taken (see flowchart in section 6.1):
+a. EDTA whole blood
+b. Snap-frozen whole blood
+c. PAXgene blood for RNA
+d. Platelets
+<<<PAGE 35>>>
+35
+e. Serum
+f. Fecal sample
+g. Urine sample
+9. Imaging is conducted
+a. 31P-MRS & 1H-MRS
+b. FDG-PET
+10. All data gathered during study visits is either written into the electronic journal or filled out in paper
+format with appropriate date and signatures. Each patient will have their own folder with gathered
+clinical data. The clinical tests are recorded in paper format.
+11. The patient's study partner is given the 3 -day dietary registration form along with instructions on
+how to fill it out and deliver to the study nurse at the next visit.
+12. The patient and study partner is instructed to take the study medication every day for the remainder
+of the study. The study medication or placebo is to be taken as outlined in section 5.2. The capsules
+are taken in the morning and evening. There is no specified time of day the dosages should be taken,
+only that they should be taken with about 12 hours apart if possible. If a dose is missed, the patient
+can take the missed dose as soon as it is remembered, provided it is shorter time to the missed dose
+than the next scheduled dose. There are no restrictions with respect to combining the dose with
+other medication and/or food.
+<<<SECTION 6.2.3 During treatment (visits 2-4)>>>
+6.2.3 During treatment (visits 2-4)
+See flowchart (section 6.1) for which clinical examinations are performed at each study visit. Some particular
+considerations follow:
+● Should the patient need replenishment of study medication, it will be logistically handled by the
+study nurse.
+● Points 6-12 from section 6.2.2 are repeated.
+<<<SECTION 6.2.4 End of study (Visit 4)>>>
+6.2.4 End of study (Visit 4)
+● End of study (Week 12): Patients bring with them remaining study medication which is gathered by
+the study nurse for a pill count. Clinical examinations are performed as listed in section 6.1.
+● Points 6-10 from section 6.2.2. are repeated.
+● At the end of the study visit, consider changes in standard treatment with cholinesterase inhibitors
+or memantine.
+<<<SECTION 6.3 Criteria for Patient Discontinuation>>>
+6.3 Criteria for Patient Discontinuation
+Patients may be discontinued from study treatment and assessments at any time. Discontinuation and the
+reason for discontinuation (withdrawn from the study) will be registered. Specific reasons for discontinuing
+a patient for this study are:
+● Voluntary discontinuation by the patient who is at any time free to discontinue his/her participation
+in the study, without prejudice to further treatment.
+● Any form of expression, both verbal and non -verbal, by a participant opposing participation, either
+before or during the study, will be respected.
+● Safety reason as judged by the Principal Investigator.
+<<<PAGE 36>>>
+36
+● Incorrect enrollment, i.e. the patient does not meet the required inclusion/exclusion criteria for the
+study.
+● Deterioration in the patient's condition which in the opinion of the Principal Investigator warrants
+study medication discontinuation (to be recorded as an AE or under Investigator Discretion).
+6. 4 Procedures for Discontinuation
+<<<SECTION 6.4.1 Patient Discontinuation>>>
+6.4.1 Patient Discontinuation
+Patients who are withdrawn from the study before start of treatment, will be replaced. Withdrawn patients
+are not followed up.
+<<<SECTION 6.4.2 Trial Discontinuation>>>
+6.4.2 Trial Discontinuation
+The whole trial may be discontinued at the discretion of the PI or the sponsor in the event of any of the
+following:
+● Occurrence of AEs unknown to date in respect of their nature, severity and duration.
+● Medical or ethical reasons affecting the continued performance of the trial.
+● Difficulties in the recruitment of patients.
+The sponsor and principal investigator will inform all investigators and the Ethics Committees of the
+termination of the trial along with the reasons for such action. If the study is terminated early on grounds
+of safety and Ethics Committees will be informed within 15 days.
+<<<SECTION 7 ASSESSMENTS>>>
+7 ASSESSMENTS
+The schedule of assessments is indicated in Section 6 (see section 6.1, Flow Chart).
+<<<SECTION 7.1 Safety and Tolerability Assessments>>>
+7.1 Safety and Tolerability Assessments
+Safety will be monitored by the assessments described below as well as the collection of AEs at every visit.
+Significant findings that are present prior to the signing of informed consent must be included in the relevant
+medical history/ current medical condition page of the e-CRF. For details on AE collection and reporting, refer
+to Section 8.
+For the assessment schedule refer to study flow chart in Section 6.1.
+<<<SECTION 7.2 Clinical Assessments>>>
+7.2 Clinical Assessments
+1. Medical history:
+Performed by: investigator
+a. Family history of parkinsonism:
+i. Who
+ii. Which illness.
+<<<PAGE 37>>>
+37
+b. Family history of Dementia:
+i. Who
+ii. Was the diagnosis certain, probable or possible
+c. Family history of cardiovascular disease
+d. Smoking history:
+i. Active smoker, previous smoker, or never smoker?
+ii. Years since smoking cessation (if applicable)
+iii.
+iv.
+e. Alcohol use
+i. Average alcohol units per week (if applicable)
+f. First AD symptoms:
+i. Which symptoms: memory, orientation, language, behavior, other (if other = free text
+comment).
+2. Vital signs:
+Performed by: study nurse
+a. Blood pressure.
+b. Pulse.
+c. Temperature.
+3. Body metrics:
+Performed by: study nurse
+a. Body weight.
+b. Height.
+c. BMI.
+4. Physical examination:
+Performed by: investigator
+a. Heart and lung auscultation.
+i. Heart: normal / findings (free field)
+ii. Lungs: normal / findings (free field)
+b. Abdominal palpation: normal / findings (free field)
+c. Any other examination dictated by patient’s condition/symptoms: free field.
+5. General neurological examination
+Performed by: investigator
+a. Register any findings not related to the subject’s parkinsonism: free field.
+6. Clinical scales & registrations:
+Performed by: see individual tests below
+a. MoCA:
+Performed by: investigator or study nurse
+b. ADAS-COG
+Performed by: investigator or study nurse
+c. CDR:
+Performed by: Investigator or study nurse
+d. Trail Making Test (TMT)
+Performed by: Investigator or study nurse
+e. MADRS:
+<<<PAGE 38>>>
+38
+Performed by: investigator study nurse
+f. NPI-Q:
+Performed by: study nurse
+g. IADL and PADL
+Performed by: study nurser
+h. 3-day dietary record:
+Performed by: self-filled by the patient and patient’s study partner
+<<<SECTION 7.3 Routine Laboratory Tests>>>
+7.3 Routine Laboratory Tests
+These will include: CRP, ALAT, ASAT, GT, bilirubin, ALP, creatinine, urea, RBC, Hb, WBC with differential,
+platelets, CK, FT4, TSH, B12, folic acid, homocysteine, methylmalonic acid, sodium, potassium, glucose.
+Women of childbearing potential will also have a pregnancy test performed.
+Laboratory tests and biosampling are listed and described in detail in Appendix A.
+<<<SECTION 7.4 Imaging studies>>>
+7.4 Imaging studies
+1. 31P-MRS (CSI, multinuclear coil – 15 min) will be conducted on a 3T Biograph mMR MR-PET scanner
+(Siemens Healthcare, Germany) to assess the intracerebral concentration of NAD, as we have done
+previously25.
+2. FDG-PET imaging will be performed on the same MR-PET scanner and in the same session, to assess
+the metabolic response to NR treatment, as we have previously shown 25. Following standard
+preprocessing protocols and spatial normalization, the NRRP will be assessed using  using ordinal
+trends/canonical variates analysis (OrT/CVA), a supervised form of principal component analysis
+(PCA). This multivariate approach is designed to detect and quantify regional covariance patterns
+(i.e., metabolic networks) for which expression values (i.e., subject scores) increase or decrease with
+treatment in all or most of the subjects.
+The MRI protocol is also summarized in Appendix B.
+<<<SECTION 7.5 Molecular analyses>>>
+7.5 Molecular analyses
+1) Metabolomics analyses will be performed in snap -frozen blood, PBMC, and CSF, using liquid
+chromatography-mass spectrometry (LC -MS) as described 37. Absolute metabolite concentrations will be
+determined using in house standards. We will assess the entire NAD -metabolome, and key -metabolites
+involved in the Krebs’ cycle, fatty acid beta -oxidation, and methylation reactions (e.g., SAM, homocystein,
+folate).
+2) Gene and protein expression.  The transcriptome will be mapped in PBMC and/or PAXgene samples by
+RNA-sequencing, using ribosomal depletion and sequencing at 125 bp paired-end and 100 million read pairs
+per sample, as we have previously described38. Quantitative proteomics will be performed in PBMC, muscle
+and CSF, using TMT (Tandem Mass Tags) labeling and mass spectrometry (LC-MS/MS Q-Exactive HF).
+3) Histone acetylation profiling. As in our previous work12, we will first assess quantitative changes in global
+histone acetylation status in PBMC and muscle, by immunoblotting with a pan -acetyl-lysin antibody. Next,
+acetylation levels of specific lysine residues (e.g., H3K27 and H4K16) will be assessed with targ eted
+immunoblotting. Finally, genome-wide changes in the acetylation status of histone lysine residues found to
+be quantitatively altered by the treatment, will be assessed by chromatin -immunoprecipitation sequencing
+(ChIP-Seq)12.
+<<<PAGE 39>>>
+39
+4) Inflammatory cytokine concentration will be determined in CSF using ELISA as in the NADPARK trial18.
+5) DNA methylation will be mapped in PBMC and/or snap-frozen blood using the Illumina Infinium Epic Chip.
+6) Neurotransmitter levels. Monoamine levels will be determined in the CSF using HPLC-MS.
+7) Gut microbiome. Using fecal samples, we will assess the microbiota profile (i.e., estimates of composition
+and abundance) by metagenomics, and function by microbial metabolomics. Metagenomics analyses will
+comprise 16S-rRNA sequencing-based count of operational taxonomic units (OTUs), Illumina NovaSeq short-
+read sequencing, and long -read sequencing by MinION technology. For microbial metabolomics, feces will
+be analysed for short-chained fatty acids (SCFA) and, if feasible, NAD-related metabolites.
+<<<SECTION 8 SAFETY MONITORING AND REPORTING>>>
+8 SAFETY MONITORING AND REPORTING
+The investigator is responsible for the detection and documentation of events meeting the criteria and
+definition of an adverse event (AE) or serious adverse event (SAE). Each patient will be instructed to contact
+the investigator immediately should they manifest any signs or symptoms they perceive as serious.
+The methods for collection of safety data are described below.
+<<<SECTION 8.1 Definitions>>>
+8.1 Definitions
+<<<SECTION 8.1.1 Adverse Event (AE)>>>
+8.1.1 Adverse Event (AE)
+An AE is any untoward medical occurrence in a patient administered a pharmaceutical product and which
+does not necessarily have a causal relationship with this treatment.
+An adverse event (AE) can therefore be any unfavorable and unintended sign (including an abnormal
+laboratory finding), symptom, or disease temporally associated with the use of an investigational product,
+whether or not related to the investigational product.
+The term AE is used to include both serious and non-serious AEs.
+If an abnormal laboratory value/vital sign is associated with clinical signs and symptoms, the sign/symptom
+should be reported as an AE and the associated laboratory result/vital sign should be considered as additional
+information that must be collected on the relevant CRF.
+Only intensity 2 and 3 is registered as AE in eCRF, see section 8.3. An AE has to interfere with everyday life
+to be of intensity 2 or 3.
+<<<SECTION 8.2.1 Serious Adverse Event (SAE)>>>
+8.2.1 Serious Adverse Event (SAE)
+Any untoward medical occurrence that at any dose:
+● Results in death
+● Is immediately life-threatening
+● Requires in-patient hospitalization or prolongation of existing hospitalization
+● Results in persistent or significant disability or incapacity
+● Is a congenital abnormality or birth defect
+● Is an important medical event that may jeopardize the subject or may require medical intervention
+to prevent one of the outcomes listed above.
+Medical and scientific judgment is to be exercised in deciding on the seriousness of a case. Important medical
+events may not be immediately life-threatening or result in death or hospitalization, but may jeopardize the
+subject or may require intervention to prevent one of the listed outcomes in the definitions above. In such
+situations, or in doubtful cases, the case should be considered as serious. Hospitalization for administrative
+<<<PAGE 40>>>
+40
+reasons (for observation or social reasons) is allowed at the investigator’s discretion and will not qualify as
+serious unless there is an associated adverse event warranting hospitalization.
+<<<SECTION 8.2 Time Period for Reporting AE and SAE>>>
+8.2 Time Period for Reporting AE and SAE
+Recording AE and SAEs will begin after baseline (week 0) and continue to be monitored and registered
+throughout the duration of the study up until 7 days after the last study visit.
+During the course of the study all AEs and SAEs will be proactively followed up for each patient; events should
+be followed up to resolution, unless the event is considered by the investigator to be unlikely to resolve due
+to the underlying disease. Every effort should be made to obtain a resolution for all events, even if the events
+continue after discontinuation/study completion.
+<<<SECTION 8.3 Recording of Adverse Events>>>
+8.3 Recording of Adverse Events
+If the patient has experienced adverse event(s), the investigator will record the following information in the
+e-CRF:
+● The nature of the event(s) will be described by the investigator in precise standard medical terminology
+(i.e. not necessarily the exact words used by the patient).
+● The duration of the event will be described in terms of event onset date and event ended data.
+● The intensity of the adverse event: Only intensity 2 and 3 is registered as AE in eCRF.
+Assessment of Intensity
+The investigator will make an assessment of intensity for each AE and SAE reported during the study
+and assign it to 1 of the following categories:
+● 1 Mild: An event that is easily tolerated by the participant, causing minimal
+discomfort and not interfering with everyday activities.
+● 2 Moderate: An event that causes sufficient discomfort to interfere with normal
+everyday activities.
+● 3 Severe: An event that prevents normal everyday activities. An AE that is assessed as
+severe should not be confused with an SAE. Severe is a category utilized for rating the
+intensity of an event; and both AEs and SAEs can be assessed as severe.
+The Causal relationship of the event to the study medication will be assessed as one of the following:
+Unrelated:
+There is not a temporal relationship to investigational product administration (too early, or late, or
+investigational product not taken), or there is a reasonable causal relationship between non -
+investigational product, concurrent disease, or circumstance and the AE.
+Unlikely:
+There is a temporal relationship to investigational product administration, but there is not a
+reasonable causal relationship between the investigational product and the AE.
+<<<PAGE 41>>>
+41
+Possible:
+There is a reasonable causal relationship between the investigational  product and the AE.
+Dechallenge information is lacking or unclear.
+Probable:
+There is a reasonable causal relationship between the investigational product and the AE. The event
+responds to dechallenge. Rechallenge is not required.
+Definite:
+There is a reasonable causal relationship between the investigational product and the AE.
+● It will be recorded in the eCRF the outcome of the adverse event, the action taken and whether the event
+is resolved or still ongoing.
+● It is important to distinguish between serious and severe AEs. Severity is a measure of intensity
+whereas seriousness is defined by the criteria in Section 8.1. An AE of severe intensity need not
+necessarily be considered serious. For example, nausea that persists for several hours may be
+considered severe nausea, but is not an SAE. On the other hand, a stroke that results in only a limited
+degree of disability may be considered a mild stroke, but would be an SAE.
+<<<SECTION 8.4 Reporting Procedure>>>
+8.4 Reporting Procedure
+<<<SECTION 8.4.1 AEs and SAEs>>>
+8.4.1 AEs and SAEs
+All adverse events and serious adverse events that should be reported as defined in section 8.1.1 will be
+recorded in the patient's CRF.
+SAEs must be reported by the investigator to the sponsor, (PI Kristoffer Haugarvoll, see contact information)
+within 24 hours after the site has gained knowledge of the SAE. Every SAE must be documented by the
+investigator on the SAE pages to be found in e-CRF. The initial report shall promptly be followed by detailed,
+written reports if necessary. The initial and follow-up reports shall identify the trial subjects by unique code
+numbers assigned to the latter.
+The sponsor keeps detailed records of all SAEs reported by the investigators and performs an evaluation with
+respect to seriousness, causality and expectedness.
+<<<SECTION 8.5 Clinical Study Report>>>
+8.5 Clinical Study Report
+The adverse events and serious adverse events occurring during the study will be discussed in both the main
+results and the safety evaluation part of the Clinical Study Report.
+<<<SECTION 9 DATA MANAGEMENT AND MONITORING>>>
+9 DATA MANAGEMENT AND MONITORING
+<<<SECTION 9.1 Electronic - Case Report Forms (e-CRFs)>>>
+9.1 Electronic - Case Report Forms (e-CRFs)
+The study nurse/investigator will enter the data required by the protocol into the electronic Case report
+forms (e -CRF) online. The electronical CRF that will be used is Viedoc. The Investigator is responsible for
+assuring that data entered into the e -CRF for his/her patient is complete, accurate, and that entry is
+performed in a timely manner. The signature of the investigator will attest the accuracy of the data on each
+CRF. If any assessments are omitted, the reason for such omissions will be noted on the e-CRFs.
+<<<PAGE 42>>>
+42
+At study visit the following source date should be registered either on paper or hospital records. See section
+6.1 and 6.2 for when the relevant information is gathered. This data will then be transferred to eCRF by the
+study nurse/investigator.
+● That the patient is participating in the study, e.g. by including the enrollment number and the study code
+or other such study identification
+● Date when Informed Consent was obtained from the patient and statement that patient received a copy
+of the signed and dated Informed Consent
+● Results of all assessments confirming a patient’s eligibility for the study
+● Diseases (relevant past and current with date; both the disease studied and others, as relevant)
+● Medical history
+● Laboratory data
+● Results of clinical assessments performed during the study
+● Treatment given
+● Non-Serious Adverse Events and Serious Adverse Events (if any) including causality assessments
+● Date of, and reason for, discontinuation from study treatment
+● Date of, and reason for, withdrawal from study
+<<<SECTION 9.2 Study Monitoring>>>
+9.2 Study Monitoring
+The investigator will be visited on a regular basis by the Clinical Study Monitor, who will check the following:
+● Informed consent process
+● Reporting of adverse events and all other safety data
+● Adherence to protocol
+● Maintenance of required regulatory documents
+● Study Supply accountability log
+● Data completion on the e-CRFs including source data verification (SDV).
+The monitor will review the relevant e-CRFs for accuracy and completeness, based on a risk assessment, and
+will ask the site staff to adjust any discrepancies as required.
+<<<SECTION 9.3 Confidentiality>>>
+9.3 Confidentiality
+The investigator shall arrange for the secure retention of the patient identification and the code list. Patient
+files shall be kept for the maximum period of time permitted by each hospital. The study documentation (e-
+<<<PAGE 43>>>
+43
+CRFs, Site File etc) shall be retained and stored during the study and for 5 years after study closure. All
+information concerning the study will be stored in a safe place inaccessible to unauthorized personnel.
+<<<SECTION 9.4 Database management>>>
+9.4 Database management
+● Access to study after the study completion is granted by Kristoffer Haugarvoll.
+● Data for each patient will be recorded on the eCRF. Data collection must be completed for each
+patient who signs an informed consent form and receives at least one dose of study treatment.
+● eCRFs will be designed and produced by the Investigator and should be completed in accordance
+with instructions. The Investigator is responsible for maintaining adequate and accurate medical
+records from which accurate information will be transcribed directly into the eCRFs using a secure
+internet connection. The eCRFs should be filled out completely by the Investigator or designee as
+stated on the delegation of responsibilities form.
+● The eCRFs must be reviewed, signed and dated by the Investigator.
+● Data entered into the eCRF will be validated as defined in the data validation plan. Validation
+includes, but is not limited to, validity checks (e.g. range checks), consistency checks and
+customised checks (logical checks between variables to ensure that study data are accurately
+reported) for eCRF data and external data (e.g. laboratory data). A majority of edit checks will be
+triggered during data entry and will therefore facilitate efficient ‘point of entry’ data cleaning.
+● Data management personnel will perform both manual eCRF review and review of additional
+electronic edit checks to ensure that the data are complete, consistent and reasonable. The
+electronic edit checks will run continually throughout the course of the study and the issues will be
+reviewed manually online to determine what action needs to be taken.
+● Manual queries may be added to the system by clinical data management or study monitor. Clinical
+data managers and study monitors are able to remotely and proactively monitor the patient eCRFs
+to improve data quality.
+● Pharmacokinetic data will be transferred electronically into the study database. Discrepancies will
+be queried to the site and/or the laboratory until the electronic data and the database are
+reconciled.
+● All updates to queried data will be made by authorised study centre personnel only and all
+modifications to the database will be recorded in an audit trail. Once all the queries have been
+resolved, eCRFs will be locked by password protection. Any changes to locked eCRFs will be
+approved by the Investigator.
+● Once the full set of eCRFs have been completed and locked, the Sponsor will authorise database
+lock and all electronic data will be sent to the designated statistician for analysis. Subsequent
+changes to the database will then be made only by written agreement.
+● Adverse events and medical history will be coded from the verbatim description (Investigator
+term). Prior and concomitant medications and therapies will be coded according to the World
+Health Organization drug code.
+<<<SECTION 10 STATISTICAL METHODS AND DATA ANALYSIS>>>
+10 STATISTICAL METHODS AND DATA ANALYSIS
+<<<SECTION 10.1 Determination of Sample Size>>>
+10.1 Determination of Sample Size
+Our primary null hypothesis (H0) is that the NR-induced increases in cerebral NAD levels (measured by
+31P-MRS) are not dose-responsive. The alternative hypothesis (HA) is that this measure is dose
+responsive. In the NADPARK study, all three measures showed a highly significant increase in the group
+<<<PAGE 44>>>
+44
+receiving 1000 mg NR (n = 15) compared to the placebo group (n = 15). In the NADPARK study25, treatment
+with 1000mg of NR led to an increase in cerebral NAD-levels by a factor of 1.27 from baseline in the
+treatment group, whereas the change in the placebo group was negligible at -0.43%. Under the HA, we
+assume that cerebral NAD levels will increase in a linear fashion in the 2000 mg NR and 3000 mg NR
+groups, respectively. Based on these assumptions and given a type I error rate of 5% (α = 0.05) and a type
+II error rate of 10% (β = 0.1, power = 90%), we estimated that a sample size of 30 individuals will be
+required in the dose escalation group. Accounting for drop-out and statistical safety margin, we estimate
+that the study requires 40 subjects in this group.
+For the secondary and exploratory outcomes, we assume that the metabolomic, transcriptomic and
+inflammatory cytokine analyses will have sufficient power, since they produced very large effect sizes and
+highly significant results in the NADPARK study with 15 individuals per group. Since no pilot data exist for the
+proteomic and epigenomic analyses, these will be exploratory in nature. However, in our previous
+experience, a sample size of 20 per group should be sufficient to detect treatment -induced differences of
+biological relevance.
+<<<SECTION 10.2 Randomization>>>
+10.2 Randomization
+Randomization is done by e -CRF upon enrollment to the study. Participants will be randomized into one of
+three groups (Placebo, NR 1000 mg for the duration of the study, NR dose escalation group).
+<<<SECTION 10.3 Population for Analysis>>>
+10.3 Population for Analysis
+Intention to treat (ITT) /Full analysis set (FAS)  population: All participants, regardless of protocol
+adherence.
+The Safety Analysis Set (SAS) will include all patients having received at least one study treatment infusion
+after randomisation.
+The Per Protocol Analysis Set (PPS) will include all randomized patients meeting the study eligibility criteria
+and with no major protocol deviations affecting the treatment efficacy.
+The following are pre-defined major protocol deviations regarded to affect the efficacy of the intervention:
+• Entering the trial when the eligibility criteria should have prevented trial entry.
+• Discontinuation of intervention prior to 84 ± 7 days.
+• Received or used other intervention than allocated.
+• Adherence to allocated treatment below 80%.
+• Visit date interval larger than 28 ± 7 days between individual visits (i.e.: V1 and V2, V2 and V3 and V3
+and V4)*.
+• Visit date interval larger than 84 ± 7 days from V1 to V4*.
+• Not fasting before neuroimaging.
+*Due to updated findings from a pharmacokinetic study (ClinicalTrials.gov, NCT: NCT05698771, in
+revision) that NAD levels increase and reach a plateau within 1-2 weeks of NR treatment both in healthy
+<<<PAGE 45>>>
+45
+individuals and persons with Parkinson’s disease. A 3 week period should therefore be sufficient to assess
+the effects of increasing NR dosage.
+<<<SECTION 10.4 Planned analyses>>>
+10.4 Planned analyses
+All statistical analysis is planned after the completion of the study.
+All randomized patients will be included in the primary analyses. All randomized patients will be included in
+the primary analyses and sensitivity analyses will be carried out comparing results from the ITT, SAS and PPS
+data sets. In the case of missing assessments, the subject will be included if possible.
+The primary analysis of the primary endpoint will be performed using analysis of covariance (ANCOVA)
+between the dose stable (DS-group) and dose escalation group (DS-group), i.e. the regression of NAD levels
+measured by 31P-MRS at week 12 depending on randomization group and adjusted for 31P-MRS at baseline.
+No additional adjustments/covariates will be used. As this is the single primary outcome, alpha will be set at
+0.05. No correction for multiple testing will be performed.
+The secondary analysis of the primary endpoint will be the comparison of change over time from baseline
+to week 4, week 8 and week 12, between the DE-group and the DS-group. This will be assessed using a linear
+mixed model (LME), i.e. NAD ( 31P-MRS) at weeks 4,8 and 12 depending on randomization group, time and
+their interaction adjusted for random individual intercept.
+The primary analysis of the secondary endpoint will be performed using ANCOVA between the dose stable
+(DS-group) and dose escalation group (DS -group), i.e. the regression of NAD or NAD metabolite levels
+measured by HPLC -MS at week 12 depending on randomization group and adjus ted for NAD or NAD
+metabolite at baseline. No additional adjustments/covariates will be used.
+The analysis of exploratory endpoints will be performed in a similar manner as for the primary and secondary
+endpoints. ANCOVA will be used to compare endpoints at week 12, and LME will be used to compare change
+from baseline to week 4, week 8 and week 12.
+In addition, for PET analyses, changes in network scores with treatment will be evaluated for each group
+separately using permutation tests. Relationships between network values, brain NAD levels and cognitive
+ratings or between treatment-related changes in these variables will be evaluated using Pearson’s product -
+moment correlations, whereas Spearman rank -order correlation coefficients will be computed for non -
+normally distributed variables.
+Omics data will undergo rigorous quality control and filtering according to established best practice
+procedures. The between visit change in this data will be assessed by a pairwise comparison between each
+NR group and the placebo group, using linear mode ls with appropriate covariates. Comparison of adverse
+events and abnormal laboratory test results between the treatment and placebo groups will be analyzed
+descriptively.
+Further details for the analysis are outlined in the statistical analysis plan (SAP) for the trial, and we refer the
+<<<PAGE 46>>>
+46
+reader to this document.
+<<<SECTION 10.5 Statistical Analysis>>>
+10.5 Statistical Analysis
+Dependent variable
+Primary analysis:
+- Cerebral NAD levels (measured by 31P-MRS)
+Secondary, exploratory and safety analysis:
+- Adverse effects, categorized as either moderate or severe.
+- Levels of CSF NAD and NAD-metabolites (measured by LS-MS)
+- Level of ADRP expression (measured by FDG-PET)
+-
+- Routine blood tests.
+- Total ADAS-COG. Assessed by the ADAS-COG 13 scale.
+- CDR sum of boxes. Assessed by the CDR questionnaire.
+- ADL score. Assessed by the IADL and PADL questionnaires.
+- MoCA total score. Assessed by the MoCA questionnaire.
+- MADRS score. Assessed by the MADRS scale.
+- NPI-Q score. Assessed by the NPI-Q questionnaire.
+- Levels of NAD-related and other metabolites in, frozen blood, urine and CSF
+- Expression of RNA and protein of genes and pathways involved in proteasomal and lysosomal
+biogenesis and function.
+- Histone panacetylation levels
+- Levels of specific lysine residues H3K27 and H4K16 acetylation
+- Genome-wide distribution of histone lysine residues found to be quantitatively altered by the
+treatment (measured by ChIP-Seq).
+- Level of inflammatory cytokines in patient serum and CSF.
+- Gene and protein expression levels in PBMC and/or PAXgene blood.
+- Levels of one carbon metabolism metabolites, measured by HPLC -MS metabolomics in PBMC and
+CSF.
+- Levels of monoamine neurotransmitters in CSF.
+- Levels and genomic distribution of DNA methylation.
+- Gut microbiome composition.
+- Fecal metabolomics, including fatty acid levels.
+Statistical hypothesis
+Primary analysis:
+- Our primary null hypothesis (H 0) is that the NR -induced increases in cerebral NAD levels (measured
+by 31P -MRS) is not dose -responsive. The alternative hypothesis (H A) is that this increase is dose
+responsive.
+Secondary analysis:
+<<<PAGE 47>>>
+47
+- Mean change between theNR dose escalation arm , NR 1000 mg arm  and placebo arm for the
+dependent variables mentioned above.
+- Mean change between and within the NR dose escalation arm, NR 1000 mg arm and placebo arm
+for the dependent variables mentioned above.
+<<<SECTION 11 STUDY MANAGEMENT>>>
+11 STUDY MANAGEMENT
+<<<SECTION 11.1 Investigator Delegation Procedure>>>
+11.1 Investigator Delegation Procedure
+The principal investigator is responsible for making and updating a “delegation of tasks” listing all the involved
+co-workers and their role in the project. He will ensure that appropriate training relevant to the study is given
+to all of these staff, and that any new information of relevance to the performance of this study is forwarded
+to the staff involved.
+<<<SECTION 11.2 Protocol Adherence>>>
+11.2 Protocol Adherence
+Investigators ascertain they will apply due diligence to avoid protocol deviations.
+All significant protocol deviations will be recorded and reported in the Case Report Form (CRF).
+<<<SECTION 11.3 Study Amendments>>>
+11.3 Study Amendments
+If it is necessary for the study protocol to be amended, the amendment and/or a new version of the study
+protocol (Amended Protocol) must be notified to the Ethics Committee according to EU and national
+regulations.
+<<<SECTION 11.4 Audit and Inspections>>>
+11.4 Audit and Inspections
+Authorized representatives of the Ethics Committee may visit the centre to perform inspections, including
+source data verification. Likewise the representatives from sponsor may visit the center to perform an audit.
+The purpose of an audit or inspection is  to systematically and independently examine all study -related
+activities and documents to determine whether these activities were conducted, and data were recorded,
+analyzed, and accurately reported according to the protocol, Good Clinical Practice (ICH G CP), and any
+applicable regulatory requirements. The principal investigator will ensure that the inspectors and auditors
+will be provided with access to source data/documents.
+<<<SECTION 12 ETHICAL AND REGULATORY REQUIREMENTS>>>
+12 ETHICAL AND REGULATORY REQUIREMENTS
+The study will be conducted in accordance with ethical principles that have their origin in the Declaration of
+Helsinki and are consistent with ICH/Good Clinical Practice and applicable regulatory requirements.
+Registration of patient data will be carried out in accordance with national personal data laws.
+<<<SECTION 12.1 Ethics Committee Approval>>>
+12.1 Ethics Committee Approval
+REK has approved the study (REK 428878). The investigator is responsible for informing the ethics committee
+of any serious and unexpected adverse events and/or major amendments to the protocol as per national
+requirements.
+<<<SECTION 12.2 Other Regulatory Approvals>>>
+12.2 Other Regulatory Approvals
+Statens legemiddelverket has deemed that the project is not a clinical trial due to the fact that NR is not
+classified as a drug, but as a nutritional supplement.
+<<<PAGE 48>>>
+48
+<<<SECTION 12.3 Informed Consent Procedure>>>
+12.3 Informed Consent Procedure
+All subjects will be presented verbally and with written informed consent to be signed prior to enrollment to
+the study. The informed consent will be presented at the first screening. Informed consent will be handled
+according to GCP principles. A copy of the informed consent will be given to the subject.
+<<<SECTION 12.4 Subject Identification>>>
+12.4 Subject Identification
+Upon entry in screening, each subject is given a patient study number, this study number is used for the
+remaineder of the study. The Patient study number is in the format XX-YYY where XX is the study site number
+and YYY is the patient ID number.
+The investigator is responsible for keeping a list of all patients (who have received study treatment or
+undergone any study specific procedure) including patient’s date of birth and personal number, full names
+and last known addresses.
+The patients will be identified in the CRFs by the patient study number and initials.
+<<<SECTION 13 TRIAL SPONSORSHIP AND FINANCING>>>
+13 TRIAL SPONSORSHIP AND FINANCING
+Research Council of Norway (RCN), Neuro-SysMed, (ES633272) 2020-2028
+<<<SECTION 14 TRIAL INSURANCE>>>
+14 TRIAL INSURANCE
+The Patients are insured by the government through the “Norsk Pasientskadeerstatning” (NPE).
+<<<SECTION 15 PUBLICATION POLICY>>>
+15 PUBLICATION POLICY
+Upon study completion and finalization of the study report the results of this study will either be submitted
+for publication and/or posted in a publicly accessible database of clinical study results.
+The results of this study will also be submitted to the Ethics Committee according to EU and national
+regulations.
+All personnel who have contributed significantly with the planning and performance of the study (Vancouver
+convention 1988) may be included in the list of authors.
+<<<SECTION 16 REFERENCES>>>
+16 REFERENCES
+1. Dickson, D. W. Neurodegeneration: The Molecular Pathology of Dementia and Movement Disorders. (Wiley-
+Blackwell, 2012).
+2. Lautrup, S., Sinclair, D. A., Mattson, M. P. & Fang, E. F. NAD+ in Brain Aging and Neurodegenerative Disorders.
+Cell Metab. 30, 630–655 (2019).
+3. Katsyuba, E., Romani, M., Hofer, D. & Auwerx, J. NAD+ homeostasis in health and disease. Nat. Metab. 2, 9–31
+(2020).
+4. Johnson, S. & Imai, S. NAD + biosynthesis, aging, and disease. F1000Research 7, (2018).
+5. Braidy, N. & Liu, Y. NAD+ therapy in age-related degenerative disorders: A benefit/risk analysis. Exp. Gerontol. 132,
+<<<PAGE 49>>>
+49
+110831 (2020).
+6. Misrani, A., Tabassum, S. & Yang, L. Mitochondrial Dysfunction and Oxidative Stress in Alzheimer’s Disease. Front.
+Aging Neurosci. 13, 617588 (2021).
+7. Thanan, R. et al. Oxidative stress and its significant roles in neurodegenerative diseases and cancer. Int. J. Mol. Sci.
+16, 193–217 (2014).
+8. Marzi, S. J. et al. A histone acetylome-wide association study of Alzheimer’s disease identifies disease-associated
+H3K27ac differences in the entorhinal cortex. Nat. Neurosci. 21, 1618 (2018).
+9. Hou, Y. et al. Ageing as a risk factor for neurodegenerative disease. Nat. Rev. Neurol. 15, 565–581 (2019).
+10. Bieganowski, P. & Brenner, C. Discoveries of nicotinamide riboside as a nutrient and conserved NRK genes
+establish a Preiss-Handler independent route to NAD+ in fungi and humans. Cell 117, 495–502 (2004).
+11. Conze, D. B., Crespo-Barreto, J. & Kruger, C. L. Safety assessment of nicotinamide riboside, a form of vitamin B3.
+Hum. Exp. Toxicol. 35, 1149–1160 (2016).
+12. Claire, K. FDA. GRAS Notification for Nicotinamide riboside chloride.
+https://www.fda.gov/files/food/published/GRAS-Notice-000635--Nicotinamide-riboside-chloride.pdf (2016).
+13. EFSA Panel on Nutrition. European Food Safety Authority Safety of nicotinamide riboside chloride.
+http://www.efsa.europa.eu/en/efsajournal/pub/5775 (2019).
+14. Dollerup, O. L. et al. A randomized placebo-controlled clinical trial of nicotinamide riboside in obese men: safety,
+insulin-sensitivity, and lipid-mobilizing effects. Am. J. Clin. Nutr. 108, 343–353 (2018).
+15. Trammell, S. A. et al. Nicotinamide riboside is uniquely and orally bioavailable in mice and humans. Nat Commun 7,
+12948 (2016).
+16. Martens, C. R. et al. Chronic nicotinamide riboside supplementation is well-tolerated and elevates NAD+ in healthy
+middle-aged and older adults. Nat. Commun. 9, 1286 (2018).
+17. Elhassan, Y. S. et al. Nicotinamide Riboside Augments the Aged Human Skeletal Muscle NAD+ Metabolome and
+Induces Transcriptomic and Anti-inflammatory Signatures. Cell Rep. 28, 1717-1728.e6 (2019).
+18. Okur, M. N. et al. Short-term NAD+ supplementation prevents hearing loss in mouse models of Cockayne
+syndrome. NPJ Aging Mech. Dis. 6, 1 (2020).
+19. Brown, K. D. et al. Activation of SIRT3 by the NAD(+) precursor nicotinamide riboside protects from noise-induced
+hearing loss. Cell Metab 20, 1059–68 (2014).
+<<<PAGE 50>>>
+50
+20. Han, S., Du, Z., Liu, K. & Gong, S. Nicotinamide riboside protects noise-induced hearing loss by recovering the hair
+cell ribbon synapses. Neurosci. Lett. 725, 134910 (2020).
+21. Harlan, B. A. et al. Evaluation of the NAD+ biosynthetic pathway in ALS patients and effect of modulating NAD+
+levels in hSOD1-linked ALS mouse models. Exp. Neurol. 327, 113219 (2020).
+22. Schöndorf, D. C. et al. The NAD+ Precursor Nicotinamide Riboside Rescues Mitochondrial Defects and Neuronal
+Loss in iPSC and Fly Models of Parkinson’s Disease. Cell Rep. 23, 2976–2988 (2018).
+23. Sorrentino, V. et al. Enhancing mitochondrial proteostasis reduces amyloid-β proteotoxicity. Nature 552, 187–193
+(2017).
+24. Xie, X. et al. Nicotinamide ribose ameliorates cognitive impairment of aged and Alzheimer’s disease model mice.
+Metab. Brain Dis. 34, 353–366 (2019).
+25. Brakedal, B. et al. The NADPARK study: A randomized phase I trial of nicotinamide riboside supplementation in
+Parkinson’s disease. Cell Metab. 34, 396-407.e6 (2022).
+26. Haukeland University Hospital. NR-SAFE: a Safety Study Investigating Treatment With High-dose Nicotinamide
+Riboside (NR) in Parkinson’s Disease. https://clinicaltrials.gov/ct2/show/NCT05344404 (2022).
+27. Hirano, S., Eckert, T., Flanagan, T. & Eidelberg, D. Metabolic Networks for Assessment of Therapy and Diagnosis in
+Parkinson’s Disease. Mov. Disord. Off. J. Mov. Disord. Soc. 24, S725–S731 (2009).
+28. Nowicka, U. et al. Cytosolic aggregation of mitochondrial proteins disrupts cellular homeostasis by stimulating the
+aggregation of other proteins. eLife 10, e65484 (2021).
+29. Jadavji, N. M., Wieske, F., Dirnagl, U. & Winter, C. Methylenetetrahydrofolate reductase deficiency alters levels of
+glutamate and γ-aminobutyric acid in brain tissue. Mol. Genet. Metab. Rep. 3, 1–4 (2015).
+30. Conze, D., Brenner, C. & Kruger, C. L. Safety and Metabolism of Long-term Administration of NIAGEN
+(Nicotinamide Riboside Chloride) in a Randomized, Double-Blind, Placebo-controlled Clinical Trial of Healthy
+Overweight Adults. Sci. Rep. 9, 9772 (2019).
+31. Jack, C. R. et al. NIA-AA Research Framework: Toward a biological definition of Alzheimer’s disease. Alzheimers
+Dement. J. Alzheimers Assoc. 14, 535–562 (2018).
+32. Morris, J. C. The Clinical Dementia Rating (CDR): current version and scoring rules. Neurology 43, 2412–2414
+(1993).
+33. Nasreddine, Z. S. et al. The Montreal Cognitive Assessment, MoCA: a brief screening tool for mild cognitive
+<<<PAGE 51>>>
+51
+impairment. J. Am. Geriatr. Soc. 53, 695–699 (2005).
+34. Trzepacz, P. T. et al. Relationship between the Montreal Cognitive Assessment and Mini-mental State Examination
+for assessment of mild cognitive impairment in older adults. BMC Geriatr. 15, 107 (2015).
+<<<PAGE 52>>>
+52
+<<<SECTION 17 LIST OF APPENDICES>>>
+17 LIST OF APPENDICES
+A.  Lab Manual
+B.  Imaging Manual
+<<<PAGE 53>>>
+53
+APPENDIX A
+LABORATORY MANUAL FOR N-DOSE AD
+Helse Bergen, Haukeland University Hospital
+Protocol:
+N-DOSE AD
+REK Number: 428878
+N-DOSE SAFE: A randomized, double blind, dose optimization trial of nicotinamide
+riboside in Alzheimer’s disease.
+STANDARD OPERATING PROCEDURE (SOP) FOR SAMPLING AND PREPARATION OF BIOLOGICAL MATERIAL (LAB
+MANUAL)
+Project Management Committee for the study
+Kristoffer Haugarvoll
+Ragnhild Eide Skogseth
+Charalampos Tzoulis
+<<<PAGE 54>>>
+54
+<<<SECTION 1 GENERAL INFORMATION>>>
+1 GENERAL INFORMATION
+The purpose of this document is to give an overview of the biological material collected for biobanking in the
+N-DOSE AD clinical trial. At different time points during the clinical trial the following biological samples are
+collected, processed and stored  based on standard operating procedures: whole blood, serum, plasma,
+PBMCs, blood cells. The samples are stored at Biobank Haukeland and at the Neurology Department. Some
+of the biological material is collected for specific analysis. Samples in the general biobank may be distributed
+after approval of the application to the Project Management.
+In the following chapters you will find a detailed description on how to collect, prepare, and store samples at
+HDS and HUS. It is critically important that the samples are prepared correctly and standardized, and that all
+deviations from the protocol are documented. This information will be registered in LabVantage when the
+Biobank Information system is in operation and at the Geriatrics and Neurology Department.
+<<<PAGE 55>>>
+55
+<<<PAGE 56>>>
+56
+<<<SECTION 2 HEMATOLOGY, BIOCHEMISTRY, HORMONE, SEROLOGY AND SAFETY>>>
+2 HEMATOLOGY, BIOCHEMISTRY, HORMONE, SEROLOGY AND SAFETY
+LABORATORY PARAMETERS
+This chapter describes the biological material that should be collected for hematology, biochemistry,
+hormone and serology analyses and for serum hCG pregnancy test. The collection should be done as
+specified in the Flow Chart. The local study site laboratory will be used for the an alyses of these
+components, as indicated in the Study Protocol. Protocols for collection of biological material for
+research and biobanking are described in Chapter 3 and 4.
+Flow chart  TUBES
+Visits V0 /
+Baseline V2 V3 V4
+Week 048 12
+Routine:
+hCG1 X
+CRP XXXX
+ALAT XXXX
+ASAT XXXX
+GT XXXX
+Bilirubin XXXX
+ALP XXXX
+Creatinine XXXX
+Urea XXXX
+RBC XXXX
+Hb XXXX
+WBC with differential X X X X
+Platelets XXXX
+CK XXXX
+FT4 XXXX
+TSH XXXX
+B12 XXXX
+Folic acid XXXX
+homocystein XXXX
+Methylmalonic acid XXXX
+Cobalamin XXXX
+Sodium XXXX
+Potassium XXXX
+<<<PAGE 57>>>
+57
+Flow chart  TUBES
+Visits V0 /
+Baseline V2 V3 V4
+Week 048 12
+Glucose XXXX
+Biobank:
+EDTA whole blood X    FluidX, 0,7ml, 8 aliquotes
+Snap-frozen whole blood X X X X
+PAXgene blood for RNA X X X X PAXgene tubes
+Platelet isolation and
+cryopreservation X X X X VACUETTE® TUBE 9 ml ACD-A
+Serum X X X X FluidX, 0,7ml, 8 aliquotes
+Fecal sample X   X
+Urine sample XXXX
+Cerebrospinal fluid X   X
+<<<SECTION 2.1.1 Safety laboratory (blood)>>>
+2.1.1 Safety laboratory (blood)
+All safety laboratory parameters will be collected at the timepoints as indicated in the Flow Chart
+(page 4), and include hematology, liver enzymes/parameters, clinical chemistry, thyroid status. All
+safety parameters evaluated during the study are listed below. The samples will be analysed at the
+local laboratory at each study site. The respective reference ranges must be provided to the central
+study administration for uploading into the eCRF.
+Hematology
+● Hemoglobin
+● WBC/leukocytes
+● Platelet count / thrombocytes
+● Differentials: neutrophils, eosinophils,
+basophils, monocytes, lymphocytes
+Liver enzymes/parameters
+● ALAT (alanine transaminase, SGPT)
+● ASAT (aspartate transaminase, SGOT)
+● Alkaline phosphatase
+● GT (glutamyl transferase)
+● Bilirubin total, fractionated if increased
+Clinical chemistry
+● Creatinine
+● CRP
+● Potassium
+● Sodium
+Thyroid status
+● TSH (thyroid stimulating hormone)
+● Free T4
+<<<PAGE 58>>>
+58
+<<<SECTION 3 SAMPLING FOR BIOBANK AND RESEARCH>>>
+3 SAMPLING FOR BIOBANK AND RESEARCH
+<<<PAGE 59>>>
+59
+<<<SECTION 3.1 Mandatory research and biobank samples>>>
+3.1 Mandatory research and biobank samples
+Chapter 3.2 gives an overview of all mandatory samples that should be collected for research and
+biobanking.The sample processing protocols are in Chapter 4.
+<<<SECTION 3.1.1  Whole blood EDTA>>>
+3.1.1  Whole blood EDTA
+EDTA blood will be collected at HDS
+3.1.2 Whole blood EDTA – snap-frozen
+Snap-frozen EDTA blood will be collected at HDS
+<<<SECTION 3.1.3  RNA PAXgene tubes>>>
+3.1.3  RNA PAXgene tubes
+Blood in PAXgene tubes for RNA extraction will be collected at HDS
+3.1.4 Platelet isolation and cryopreservation
+Platelet isolation and cryopreservation will be conducted at HUS
+<<<SECTION 3.1.5  Whole blood for Serum>>>
+3.1.5  Whole blood for Serum
+Serum will be collected at HDS
+<<<SECTION 3.1.6 Cerebrospinal fluid (CSF)>>>
+3.1.6 Cerebrospinal fluid (CSF)
+<<<SECTION 3.1.7 Fecal sample biobanking>>>
+3.1.7 Fecal sample biobanking
+<<<SECTION 3.1.8 Urine sample biobanking>>>
+3.1.8 Urine sample biobanking
+<<<PAGE 60>>>
+60
+<<<SECTION 4 SAMPLE PROCESSING AND STORAGE>>>
+4 SAMPLE PROCESSING AND STORAGE
+4.1 Whole blood (EDTA): standard
+Performed at: ALL CENTERS
+Material and instrumentation:
+Item How
+many
+Supplier Cat no Comment
+VACUETTE® TUBE 2 ml K2E K2EDTA 2 Greiner Bio-One
+International
+454024
+0.7 ml FluidX tubes 8 Pedro Consulting 68-0702-
+11N
+Pipettes & tips
+Barcode reader
+-80°C freezer  Study center
+Collection, preparation and storage:
+1. Collect whole blood into Vacuette tubes for EDTA blood
+2. Aliquot 500 µL blood into 8 x 0.7 ml FluidX tubes.
+3. Freeze the aliquots at -80°C within 60 min after sample collection.
+4. Use the barcode reader for registration of the sample and log all deviation on the same registration
+form.
+5. Sample aliquotes are stored at -80C and shipped on dry ice in the original FluidX boxes (x 48 tubes).
+6. Samples must never be allowed to warm or thaw except from when to be used in analyses. Any
+deviation from this must be registered. Number and date of thawing an aliquote for analyses must
+be registered.
+Contact person for biosampling and laboratory preparation:
+Cesilie Dahll, HDS / Siri Hinteregger, MBF
+Contact person for Biobank Haukeland:
+Hilde Kristin Garberg
+<<<PAGE 61>>>
+61
+4.2 Whole blood (EDTA): snap-frozen
+Performed at: ALL CENTERS
+Snap-frozen whole blood will be used for the analysis of NAD+. NAD degrades very rapidly after sample
+collection and the concern is that measurements in any sample that requires extensive processing may not
+prove reliable.
+Material and instrumentation:
+Item How
+many
+Supplier Cat no Comment
+VACUETTE® TUBE 2 ml K2E K2EDTA 1 Greiner Bio-One
+International
+454024
+Screw cap micro tubes, 0.5 ml, sterile 8 Sarstedt 72.730.006
+Multi dispenser pipette & tips
+Liquid nitrogen in a thermos
+-80°C freezer  Study center
+Timer
+NB! The time from blood drawing (i.e. moment the blood starts flowing into the tube) and freezing MUST
+be 2 min!
+Collection, preparation and storage:
+1. Print labels. For one patient: 8x
+2. Mark 8 x 0.5 ml micro tubes with labels
+3. Laboratory technician must be next to the patient at the blood drawing with all equipment ready.
+4. Laboratory technician must be wearing gloves and lab coat.
+5. Collect whole blood into the Vacuette tube.
+6. START THE TIMER when blood starts flowing into the tube.
+7. Gently invert the EDTA tube at least 10 times. DO NOT SHAKE
+8. Aliquot 8 x 200 µl of blood from the 2 ml EDTA tube into 8 x 0.5 ml micro tubes (easiest using a
+multi dispenser pipette).
+9. Close micro tubes
+10. When the timer shows 2min: immerse all the micro tubes simultaneously in liquid nitrogen.
+11. Transfer the frozen EDTA-aliquots -80⁰C freezer for storage.
+12. Sample aliquots are stored at -80C in freezer-compatible cardboard or plastic storage boxes.
+13. Samples are shipped on dry ice.
+14. Samples must never be allowed to warm or thaw except from when to be used in analyses. Any
+deviation from this must be registered. Number and date of thawing an aliquot for analyses must
+be registered.
+If the 2 min interval is not respected – still collect the samples but register the time interval.
+Responsible:
+Hanne Linda Nakkestad
+<<<PAGE 62>>>
+62
+<<<SECTION 4.3  RNA PAXgene tubes>>>
+4.3  RNA PAXgene tubes
+Performed at: ALL CENTERS
+Rationale:
+The Paxgene Blood RNA collection system is intended for the purification of intracellular RNA from whole
+blood and is optimized for the stabilization of 4.8 x10e6 – 1.1 x 10e7 leukocytes/ml. This protocol describes
+the collection of whole blood in Paxgene RNA tubes from Qiagen for longterm storage at -80° C.
+Important: Paxgene collection tubes must be at room temperature prior to collection. Follow
+standard procedure for venipuncture for tubes with stabilizing agents e.g. butterfly collection
+Material and instrumentation:
+● PAXgene blood RNA tubes (PreAnalytix, Cat. No. 762165)
+● BD Vacutainer SafetyLok Blood collection set (BD, Cat. No. 367281) or similar Butterfly
+and safety lock or similar
+● Sample labels capable of storage at -80 °C
+● Phlebotomy materials: Tourniquet, alcohol swabs, gauze
+● Barcode reader
+● -80°C freezer
+Collection, preparation,  storage and shippment:
+Before starting, ensure PAXgene tubes are at ambient temperature and labeled
+appropriately with temperature resistant labels. Draw PAXgene tubes last, after
+other blood tubes. If the PAXgene tubes are the only tubes, draw a small
+amount of blood into a discard tube.
+1. Using the Blood Collection set, collect blood into the PAXgene tube using
+standard venipuncture techniques. Ensure that the donor’s arm is in a
+downward position, and that the PAXgene tube is held vertically below the donor’s arm.
+2. Collect 2.5 ml of blood into each PAXgene tube. so that the tube gets filled with exactly 2.5 ml blood.
+This is essential so that the final concentration of the reagents will be correct. If PAXgene is the first
+sample to be taken, collect some blood in another tube first, to get rid of the air in the collection
+system, so that the PAXgene tube gets exactly 2.5 ml blood.
+3. Allow at least 10 s for the blood draw to occur and ensure that blood has stopped flowing into the tube
+before removing the needle from the tube.
+4.  Immediately after blood collection mix the tube by gentle inversion (180°) 10 times
+5. Temporartily store the PAXgene upright at RT for between 2-24 hrs.
+6. Temporarily store the PAXGene tube for at least 24 hrs at -20°C
+7. After at least 24 hrs at -20°C, move the PAXgene tube for long-term storage at -80 °C
+8. Sample aliquotes are stored at -80C in freezer-compatible cardboard or plastic storage boxes.
+9. Samples are shipped on dry ice.
+10. Samples must never be allowed to warm or thaw except from when to be used in analyses. Any
+deviation from this must be registered.
+Responsible:
+Contact person for biosampling and laboratory preparation: Cesilie Dahll, HDS / Siri Hinteregger, MBF
+Contact person for Biobank: Hilde Kristin Garberg
+<<<PAGE 63>>>
+63
+4.4 Platelet isolation and cryopreservation
+Performed at: ALL CENTERS
+Material and instrumentation
+Item How many Supplier Cat no Comment
+VACUETTE® TUBE 9 ml ACD-A 1 Greiner Bio-One 456055
+10 ml Falcon centrifugation tubes
+DMSO
+Pipettes & tips
+-80°C freezer   Study center
+Collection, preparation and storage:
+1.       Collect whole blood in vacutainer ACD tubes (yellow cap) 9ml?
+2.       Mix gently by slowly inverting the tube
+3.    Spin at room temperature at 200g for 20 min, no brake
+4.       After the spin, three distinct layers can be observed:
+a.       the top: straw-colored layer contains platelets
+5.       Transfer about two thirds of the top layer into a new 10 ml Falcon tube
+6.       Freeze the cells in their own plasma adding DMSO at a final concentration of 5-6%
+7.    Store at -80
+Responsible:
+Contact person for biosampling and laboratory preparation: Cesilie Dahll, HDS / Siri Hinteregger, MBF
+Contact person for Biobank: Hilde Kristin Garberg
+<<<SECTION 4.5 Serum for biobanking>>>
+4.5 Serum for biobanking
+Performed at: ALL CENTERS
+It is important to let the blood coagulate in an upright position at RT for 60 minutes. Centrifuge the sample
+and immediately aliquot and freeze the aliquots within 90 minutes after sample collection. Register the
+samples according to the local protocol and log all deviation on the same registration form.
+Material and instrumentation:
+● 3 x 5 ml BD VACUTAINER serum glass tube with no additive (367614)
+● 8 x 0.7 ml FluidX (68-0702-11)
+● Centrifuge for vacutainer tubes
+● Barcode reader
+● -80°C freezer
+<<<PAGE 64>>>
+64
+Collection, preparation and storage:
+7. Collect whole blood into BD VACUTAINER glass tubes containing no additive.
+8. Incubate in an upright position at room temperature for 60 min (no longer than 60 min) to allow
+clotting.
+9. Centrifuge for 12 min at 1400 x g at room temperature.
+10. Inspect serum for turbidity. Turbid samples should be centrifuged again to remove remaining
+insoluble matter. A new centrifugation must be indicated as a deviation.
+11. Aliquot 500 µL serum into 8 x 0.7 ml FluidX tubes.
+12. Freeze the aliquots at -80°C within 90 min after sample collection.
+13. Use the barcode reader for registration of the sample. Register the samples according to the local
+protocol and log all deviation on the same registration form.
+14. Sample aliquotes are stored at -80C and shipped on dry ice in the original FluidX boxes (x 48 tubes).
+15. Samples must never be allowed to warm or thaw except from when to be used in analyses. Any
+deviation from this must be registered. Number and date of thawing an aliquot for analyses must
+be registered.
+Responsible:
+Contact person for biosampling and laboratory preparation: Cesilie Dahll, HDS / Siri Hinteregger, MBF
+Contact person for Biobank: Hilde Kristin Garberg
+<<<SECTION 4.6 Collection, of cerebrospinal fluid (CSF)>>>
+4.6 Collection, of cerebrospinal fluid (CSF)
+Performed at: ALL CENTERS
+Material and instrumentation:
+Item How many Supplier Cat no Comment
+Standard lumbar puncture equipment    Study center
+<<<PAGE 65>>>
+65
+5 ml PolyPropylene (PP) cryo -s tube
+with red PP cap
+2 Greiner Bio -One
+via VWR
+479-4154
+0.7 ml FluidX tubes (PP) 15   68-0702-11N
+5 ml PP tube for abeta -42, t-tau and
+p-tau181
+1 Sarstedt 63-504-027
+Barcode reader
+Centrifuge for centrifugation tubes   Study center
+PP PIPETTE TIPS (ART 1000ΜL
+REACH)
+VWR 732-2215
+Pipettes   Study center
+-80°C freezer   Study center
+<<<SECTION 4.6.1              Collection of cerebrospinal fluid>>>
+4.6.1              Collection of cerebrospinal fluid
+Absolute contraindications for the procedure:
+●        Thrombocytes less than 40 x 109/L
+●        Use of anticoagulation or antiplatelet drugs (except ASA)
+●        INR >1.7 (warfarin users)
+●        Local infection at the biopsy site
+●        Any other center-specific clinical routines and/or guidelines MUST be followed
+During lumbar puncture the following procedures should take place:
+1.       If noticeably bloody tap, discard the first 1-2 ml until CSF is clear
+2.       10 drops spinal fluid collected in sterile tube for cell count (erythrocytes and leukocytes)
+3.       A total of 10 ml is collected, e.g 5 ml x 2 is collected in 5 ml sterile PolyPropylene tubes (479 -4154) for biobanking
+(see materials and preparation below)
+4.       2 ml is collected in 5 ml PP tube (63-504-027) for clinical analysis of abeta-42, t-tau and p-tau181.
+5.       10 drops spinal fluid collected in sterile tube for cell count (erythrocytes and leukocytes)
+NB! Do not use pressure measurements tubing – collect CSF DIRECTLY into the tubes
+NB! Only polypropylene (PP) pipette tips should be used to collect and handle the CSF!
+<<<SECTION 4.6.2              Processing and storage of cerebrospinal fluid>>>
+4.6.2              Processing and storage of cerebrospinal fluid
+NB! The sample has to be centrifuged within 1 hour from collection!
+1.    The collected 5ml x 2 CSF in “5 ml PolyPropylene (PP) cryo-s tube with red PP cap”
+a.    Centrifuge within 1 hour at 2,000 g, at room temperature, for 10 min
+b.    Transfer the supernatant to 2 x new “5 ml PolyPropylene (PP) cryo-s tube with red PP cap”
+– use  PP pipette tips
+<<<PAGE 66>>>
+66
+c.        Mix carefully by inverting the tube x 7-10 times (or mild vortexing)
+d.    Aliquot 500 µl CSF per tube into 0.7 ml FluidX tubes - use PP pipette tips
+e.    Freeze the aliquots at -80°C.
+f.         Register the samples according to the local protocol and log all deviation on the same registration form
+g.       The collected 2 ml CSF in 5 ml PP tube for abeta-42, t-tau and p-tau181 will be sent to Akershus
+University Hospital according to their specifications.
+Responsible:
+Cesilie Dahll, HDS / Hanne Linda Nakkestad, HUS
+<<<SECTION 4.7 Fecal sample biobanking>>>
+4.7 Fecal sample biobanking
+Performed at: ALL CENTERS
+Fecal samples from the last 24h will be collected according to standard clinical routines and stored at -80C.
+<<<PAGE 67>>>
+67
+<<<SECTION 4.8 Urine for biobanking>>>
+4.8 Urine for biobanking
+Performed at: ALL CENTERS
+Morning urine will be collected according to standard clinical routines, aliquoted to 2.0 ml FluidX (65 -9001)
+(total 8 tubes), frozen and stored at -80C.
+<<<PAGE 68>>>
+68
+<<<SECTION 5 CONTACT PERSONS>>>
+5 CONTACT PERSONS
+The following chapter summarizes the contact persons and responsible investigators for the sub -
+studies:
+<<<SECTION 5.1 Helse Bergen>>>
+5.1 Helse Bergen
+<<<SECTION 5.1.1 Biobank Haukeland>>>
+5.1.1 Biobank Haukeland
+Contact persons regarding biobanking, sample shipment, sample registration
+Ann Cathrine Kroksveen 55971970 / 92031413, ann.cathrine.kroksveen@helse-
+bergen.no
+Hilde Garberg  55975854 / 55973149, hilde.kristin.garberg@helse-bergen.no
+<<<SECTION 5.1.2 Laboratory Clinic>>>
+5.1.2 Laboratory Clinic
+Contact person regarding safety laboratory, serology and hormone analyses
+Siri Hinteregger 55973124, siri.hinteregger@helse-bergen.no
+<<<SECTION 5.1.3 Haraldsplass (HDS) Laboratory>>>
+5.1.3 Haraldsplass (HDS) Laboratory
+Cesilie Dahll   55979291/947 83 350, cesilie.dahll@haraldsplass.no
+<<<SECTION 5.1.4 Department of Neurology>>>
+5.1.4 Department of Neurology
+Contact person for cells, CSF collection
+Kristoffer Haugarvoll 55975045 / 98266741, kristoffer.haugarvoll@helse-bergen.no
+Charalampos Tzoulis 55975045 / 94392305, chtzoulis@gmail.com
+Hanne Linda Nakkestad 97571149, hanne.linda.nakkestad@helse-bergen.no
+5.2 HDS
+Ragnhild Eide Skogseth
+99298171, ragnhild.eide.skogseth@haraldsplass.no
+<<<PAGE 69>>>
+69
+APPENDIX B
+MRI and FDG-PET – PROTOCOL,  N-DOSE AD
+Revised May 2025
+Contact persons:
+● Frank Riemer (frank.riemer@helse-bergen.no)
+● Njål Brekke (njal.brekke@helse-bergen.no)
+● Vivian Skjeie (vivian.skjeie@helse-bergen.no)
+● Cecilie Brekke Rygh (cecilie.brekke.rygh@helse-bergen.no)
+Equipment :
+Scanner:  Siemens Biograph mMR 3T (PET/MR)
+Software: E11P
+Coils:   RAPID Biomedical 31P – H_Head Coil 3T Human head V -XQ-HQ-030-01921 V01 for
+SIEMENS Biograph mMR 3T
+To PACS: Clinical protocol
+To fPACS: All sequences (entire examination)
+Protocol:
+Participant preparation:
+The participant should fast a minimum of 6 hours before injection of 18F-FDG. A peripheral venous
+catheter (PVC) is then placed in the medial cubital vein. Blood glucose is measured. The required
+blood glucose level is below 8 mmol/L. 30 minutes before the scan 250 MBq of 18F-FDG is injected
+into the PVC. The participant is required to lie in a quiet, dark environment during the interval after
+injection and b efore scanning to minimize brain activity. The participants should not use mobile
+phones or headphones during this period. Eyes must be closed for fMRI sequences. Imaging is to be
+taken up to 72 hours before or after physical examination of participants.
+Positioning:  Localizer Auto align if possible
+Scan parameters: Scan labelled by study ID.
+MRI sequences:
+- Localizer for planning of MR and PET – 1.0 min.
+- 3D T1 (sagital, 1x1x1 mm, 3D-BRAVO eller MPRAGE) – 5.5 min.
+- Attenuation correction map, generated using DeepMRAC1 – 2.0 min.
+- 31P-MRS calibration: FID, multinuclear coil, generated using xnuccalc2 from NMproc-Dockers
+- 2 min.
+- 31P-MRS sequence: CSI, multinuclear coil – 15 min.
+-
+<<<PAGE 70>>>
+70
+Total imaging time:  25,5 min imaging time - 35 min including changing the coil for CSI.
+Specific procedures for 31P-MRS image analysis:
+Spectra from the occipital region will be aligned using an adaption of the Spectral Registration
+implementation from Gannet 3.0222,3, subject to thresholding on SNR (>=3) to eliminate the majority
+of out-of-brain voxels.
+Voxels will then be averaged before being processed in Matlab 9.5 (the MathWorks, Natick, MA) using
+the OXSA toolbox4 utilizing first order phase correction and fitting with AMARES.
+Custom prior information was created based on literature values for membrane phospholipids (MP),
+glycerophosphocholine (GPC), glycerophosphoethanolamine (GPE), inorganic phosphate (Pi),
+phosphocoline (PC), phosphoethanolamine (PE) as well as alpha -, beta- and gamma resonances of
+adenosine triphosphate (ATP -α, -β, and –γ, respectively) in reference to the phosphocreatine (PCr)
+peak5–7.
+Additional information for the properties of nicotinamide adenine dinucleotide (NAD) was added
+based on the framework developed by Lu and colleagues 8 by calculating field -strength dependent
+chemical shift differences, relative amplitudes and frequency separations for oxidized and reduced
+NAD (NAD+ and NADH, respectively).
+Linewidths will be fixed to be equal for NAD +, NADH and ATP -α. At 3T, and to comply with normal -
+mode specific absorption rate (SAR) restrictions, peak separation for NAD + and NADH is likely to be
+limited and therefore only combined values of total NAD (NAD + and NADH together) will most likely
+be reported.
+Fitted peak amplitudes and areas are used to calculate total NAD in proportion to a normalisation
+constant such as ATP -α or PCr. This normalised NAD -value will be used for the planned statistical
+analysis defined in the trial SAP.
+Specific procedures for NRRP and PDRP image analysis of FDG-PET images
+FDG-PET scans will be transferred electronically to the Center for  Neurosciences at The Feinstein
+Institutes for Medical Research (Manhasset, NY, USA) and analyzed using automated computing
+pipelines implemented in MATLAB R2023b (MathWorks, Natick, MA). Images will first be pre -
+processed using  Statistical Parametric Mapping  (SPM12) software ( http://fil.ion.ucl.ac.uk/spm;
+Wellcome Centre for Human Neuroimaging, London, UK). FDG-PET scans acquired at visits V1, V 2, V3
+and V4 will be aligned to produce a mean image, which will be spatially normalized in standard
+Montreal Neurological Institute (MNI) anatomic space along with the individual scans from each time
+point. The normalized images will then be smoothed with a 10-mm Gaussian filter in three dimensions
+to enhance the signal to noise ratio.
+In the previous NADPARK phase-I study9, we identified a specific NR-related metabolic pattern (NRRP)
+from paired metabolic scan data from participants in the NR 1000 mg group analyzed using ordinal
+trends/canonical variates analysis (OrT/CVA) —a supervised form of  principal component
+analysis (PCA)10. This multivariate approach was designed to detect and quantify regional covariance
+patterns (i.e.,  metabolic networks) for which expression values (i.e., subject scores) increase or
+decrease with treatment in all or most of the subjects 11–15. The significance of the resulting OrT/CVA
+topographies, i.e., the NRRP9, was assessed using nonparametric tests, i.e., permutation testing of the
+<<<PAGE 71>>>
+71
+subject scores to show that the observed ordinal trend does not occur by chance. Likewise, the
+reliability of the voxel loadings (i.e., region weights) on the resulting NRRP network topography was
+assessed using bootstrap resampling procedures12,16.
+For this study protocol, pre -processed FDG-PET scans of individual subjects will be used to compute
+the expression values (subject scores) of NRRP at baseline and the follow -up timepoints, using the
+GCVA PCA software (available at https://www.nitrc.org/projects/gcva_pca) for Ordinal Trend
+(OrT/CVA) Analysis 10. NRRP subject scores will be standardized ( z-scored) to computed expression
+values for this pattern in an age -matched group of healthy volunteers  scanned at the Feinstein
+Institutes.
+FDG-PET scans will also be used to compute the expression values of the AD-related metabolic pattern
+(termed ADRP) which was identified and validated previously in several independent patient
+populations. Subject scores for PDRP and ADRP of individual subjects will be computed automatically
+on a single -scan basis at each study visit and in a blinded fashion, using  in-house Scan Analysis and
+Visualization (ScAnVP) software (available at http://feinsteinneuroscience.org). The subject scores of
+each pattern will be standardized ( z-scored) in reference to corresponding scores of age -matched
+healthy controls.
+Outcome measures of the NRRP and ADRP z-scores for individual subjects at each study visit will be
+reported in tabular format and transferred electronically to the Norway group for the planned
+statistical analysis defined in the trial SAP.
+References
+1.  Ladefoged C.N., Hansen A.E., Henriksen O.M., et al. AI-driven attenuation correction for brain
+PET/MRI: Clinical evaluation of a dementia cohort and importance of the training group size.
+Neuroimage 222, 117221 (2020).
+2.  Edden, R. A., Puts, N. A., Harris, A. D., Barker, P. B. & Evans, C. J. Gannet: A batch -processing
+tool for the quantitative analysis of gamma -aminobutyric acid –edited MR spectroscopy
+spectra. Journal of Magnetic Resonance Imaging 40, 1445–1452 (2014).
+3.  Near, J. et al. Frequency and phase drift correction of magnetic resonance spectroscopy data
+by spectral registration in the time domain. Magnetic Resonance in Medicine 73, 44–50 (2015).
+4.  Purvis, L. A. et al. OXSA: An open-source magnetic resonance spectroscopy analysis toolbox in
+MATLAB. PloS one 12, e0185356 (2017).
+5.  Deelchand, D. K., Nguyen, T.-M., Zhu, X.-H., Mochel, F. & Henry, P.-G. Quantification of in vivo
+31P NMR brain spectra using LCModel. NMR in Biomedicine 28, 633–641 (2015).
+6.  Peeters, T. H., van Uden, M. J., Rijpma, A., Scheenen, T. W. & Heerschap, A. 3D 31P MR
+spectroscopic imaging of the human brain at 3 T with a 31P receive array: An assessment of
+1H decoupling, T1 relaxation times, 1H -31P nuclear Overhauser effects and NAD+. NMR in
+Biomedicine e4169 (2019).
+7.  Ren, J., Shang, T., Sherry, A. D. & Malloy, C. R. Unveiling a hidden 31P signal coresonating with
+extracellular inorganic phosphate by outer-volume-suppression and localized 31P MRS in the
+human brain at 7T. Magnetic resonance in medicine 80, 1289–1297 (2018).
+<<<PAGE 72>>>
+72
+8.  Lu, M., Zhu, X.-H., Zhang, Y. & Chen, W. Intracellular redox state revealed by in vivo 31P MRS
+measurement of NAD+ and NADH contents in brains. Magnetic resonance in medicine  71,
+1959–1972 (2014).
+9.  Brakedal, B. et al. The NADPARK study: A randomized phase I trial of nicotinamide riboside
+supplementation in Parkinson’s disease. Cell Metabolism 34, 396-407.e6 (2022).
+10.   Habeck, C. et al. A new approach to spatial covariance modeling of functional brain imaging
+data: ordinal trend analysis. Neural computation 17, 1602–1645 (2005).
+11. Ko, J. H. et al. Network modulation following sham surgery in Parkinson’s disease. The Journal of
+clinical investigation 124, 3656–3666 (2014).
+12. Mure, H. et al.  Parkinson’s disease tremor -related metabolic network: characterization,
+progression, and treatment effects. Neuroimage 54, 1244–1253 (2011).
+13. Mure, H. et al.  Improved sequence learning with subthalamic nucleus deep brain stimulation:
+evidence for treatment-specific network modulation. Journal of Neuroscience 32, 2804–2813
+(2012).
+14. Niethammer, M. et al.  Gene therapy reduces Parkinson’s disease symptoms by reorganizing
+functional brain connectivity. Science translational medicine 10, (2018).
+15. Tang, C. C. et al.  Metabolic network as a progression biomarker of premanifest Huntington’s
+disease. The Journal of clinical investigation 123, 4076–4088 (2013).
+16. Habeck, C. & Stern, Y. Multivariate data analysis for neuroimaging data: overview and application
+to Alzheimer’s disease. Cell biochemistry and biophysics 58, 53–67 (2010).
+17. Schindlbeck, K. A. & Eidelberg, D. Network imaging biomarkers: insights and clinical applications
+in Parkinson’s disease. The Lancet Neurology 17, 629–640 (2018).

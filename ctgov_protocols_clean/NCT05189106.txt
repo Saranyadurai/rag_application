@@ -1,0 +1,2518 @@
+<<<PAGE 1>>>
+NADALS Basket Trial Page 1 of 71
+Neurodegenerative Alzheimer’s Disease and Amyotrophic Lateral Sclerosis (NADALS) Basket
+Proof of Concept Trial including Asymptomatic Individuals using Baricitinib
+Regulatory Sponsor: Mark Albers, MD, PhD
+Funding Sponsor: Philanthropy
+Study Product: Baricitinib
+Protocol Short Title: NADALS Basket Trial
+IND Number: 154641
+154642
+Version Number: 10.0
+29April2024
+The information contained herein is confidential and proprietary in nature and will not be
+disclosed to any third party without written approval of authorized designee.
+This document may be disclosed to the appropriate institutional review boards or to duly
+authorized representatives of the US Food and Drug Administration or a national
+regulatory authority under the condition that they maintain confidentiality.
+<<<PAGE 2>>>
+NADALS Basket Trial Page 2 of 71
+STATEMENT OF COMPLIANCE
+This study will be conducted in compliance with the protocol, International Council for Harmonisation of
+Technical Requirements for Pharmaceuticals for Human Use (ICH) Guideline for Good Clinical Practice
+(GCP), and the applicable regulatory requirements under United States Code of Federal Regulations
+(CFR) Title 45 CFR Part 46 and Title 21 CFR Parts 50, 56, and 312.
+<<<PAGE 3>>>
+NADALS Basket Trial Page 3 of 71
+SIGNATURE PAGE
+I have read the attached protocol entitled, “Neurodegenerative Alzheimer’s Disease and Amyotrophic Lateral
+Sclerosis (NADALS) Basket Proof of Concept Trial including Asymptomatic Individuals using Baricitinib”
+dated 29April2024 (Version 10.0) and agree to abide by all described protocol procedures.  I agree to comply
+with the International Council for Harmonisation Guideline on Good Clinical Practice, applicable FDA
+regulations and guidelines identified in 21 CFR Parts 11, 50, 54, and 312, local Institutional Review Board (IRB)
+guidelines and policies, and the Health Insurance Portability and Accountability Act (HIPAA).
+Site Investigator: _______________________________________
+Signed:  Date:
+<<<PAGE 4>>>
+NADALS Basket Trial Page 4 of 71
+TABLE OF CONTENTS
+STATEMENT OF COMPLIANCE ···························································································· 2
+SIGNATURE PAGE ·············································································································· 3
+LIST OF ABBREVIATIONS ···································································································· 7
+PROTOCOL SUMMARY ······································································································· 9
+STUDY WORKFLOW ·········································································································· 13
+SCHEDULE OF ACTIVITIES ································································································· 14
+1  ETHICS/PROTECTION OF HUMAN PARTICIPANTS ························································· 17
+1.1 INSTITUTIONAL REVIEW BOARD (IRB) ························································································· 17
+1.2 ETHICAL CONDUCT OF STUDY ·································································································· 17
+1.3 PARTICIPANT INFORMATION AND CONSENT ··················································································· 17
+1.3.1 Assent···································································································································································· 17
+2 INTRODUCTION: BACKGROUND INFORMATION AND SCIENTIFIC RATIONALE  ················· 19
+2.1 BACKGROUND INFORMATION ···································································································· 19
+2.2 RATIONALE ························································································································· 20
+2.3 POTENTIAL RISKS AND BENEFITS ······························································································ 20
+2.3.1 Potential Risks ················································································································································· 20
+2.3.2 Known Potential Benefits ······························································································································· 23
+3 OBJECTIVES ············································································································· 24
+3.1 STUDY OBJECTIVES ·············································································································· 24
+3.1.1 Primary Objective ············································································································································ 24
+3.1.2 Secondary Objectives ····································································································································· 24
+3.1.3 Exploratory Objectives ···································································································································· 24
+3.2  STUDY OUTCOME MEASURES ······························································································· 25
+3.2.1  Primary Outcome Measures ·························································································································· 25
+3.2.2  Secondary Outcome Measures ··························································································································· 25
+3.2.3  Exploratory Outcome Measures ··················································································································· 25
+4 STUDY DESIGN ·········································································································· 26
+4.1 OVERALL STUDY DESIGN AND PLAN ··························································································· 26
+4.2  INTERIM ANALYSES ············································································································ 26
+4.3 STUDY CENTERS ··················································································································· 26
+4.4 STUDY DURATION ················································································································· 27
+4.5 PROTOCOL ADHERENCE ········································································································· 27
+5 STUDY ENROLLMENT AND WITHDRAWAL ···································································· 28
+5.1 NUMBER OF STUDY PARTICIPANTS ···························································································· 28
+5.2 INCLUSION AND EXCLUSION CRITERIA ························································································· 28
+5.2.1 Inclusion Criteria ·············································································································································· 28
+5.2.2 Exclusion Criteria  ··········································································································································· 29
+<<<PAGE 5>>>
+NADALS Basket Trial Page 5 of 71
+5.3 TREATMENT ASSIGNMENT PROCEDURES ····················································································· 31
+5.4 PERMANENT DISCONTINUATION OF STUDY DRUG ··········································································· 31
+5.5 EARLY TERMINATION AND WITHDRAWAL OF CONSENT ····································································· 31
+5.6 SUSPENSION OR TERMINATION OF STUDY ···················································································· 32
+6 TREATMENTS ADMINISTERED ···················································································· 33
+6.1 TREATMENTS ······················································································································ 33
+6.1.1 Study Product Description ····························································································································· 33
+6.2 ACQUISITION ······················································································································· 33
+6.3 FORMULATION, PACKAGING, AND LABELING ·················································································· 33
+6.3.1 Product Storage and Stability ························································································································ 34
+6.3.2 Dosage, Preparation and Administration of Study Intervention/Investigational Product  ······················ 34
+6.4 MODIFICATION OF STUDY INTERVENTION/INVESTIGATIONAL PRODUCT FOR A PARTICIPANT ························· 34
+6.4.1 Serious Infections and Cytopenias ··················································································································· 34
+6.4.2 Dosage Discontinuation ································································································································· 36
+6.5 STUDY DRUG ACCOUNTABILITY PROCEDURES ··············································································· 37
+6.6 ASSESSMENT OF PARTICIPANT COMPLIANCE WITH STUDY DRUG ························································ 37
+6.7 PRIOR AND CONCOMITANT THERAPY ·························································································· 37
+6.7.1 Prohibited Medications and Contraindications ···························································································· 37
+7 STUDY SCHEDULE ····································································································· 40
+7.1 SCREENING VISIT ················································································································· 40
+7.1.1 Screen Failures ··············································································································································· 41
+7.2  BASELINE VISIT ················································································································ 42
+7.3  WEEK 1 VISIT ·················································································································· 42
+7.4  WEEK 8 VISIT ·················································································································· 43
+7.5  WEEK 9 VISIT ·················································································································· 44
+7.6 WEEK 16 VISIT ···················································································································· 44
+7.7   WEEK 24 VISIT/FINAL SAFETY VISIT ······················································································· 45
+7.8 FOLLOW-UP TELEPHONE CALL·································································································· 45
+7.9 PROTOCOL DEVIATIONS ········································································································· 46
+7.10 MISSED VISITS AND PROCEDURES ························································································· 46
+7.11 COVID-19 PANDEMIC ············································································································ 46
+8 CLINICAL ASSESSMENTS AND OUTCOME MEASURES ·················································· 48
+8.1 CLINICAL VARIABLES ············································································································· 48
+8.1.1 Vital Signs, Weight & Height ·························································································································· 48
+8.1.2 Clinical Laboratory Assessments ·················································································································· 48
+8.1.3 Blood draw for Pharmacokinetic and Biomarker Analysis ········································································ 49
+8.1.4 Blood draw for Genetic Testing ····················································································································· 49
+8.1.5  Urine Sample for Future Research ··············································································································· 50
+8.1.6 12-Lead Electrocardiogram (ECG) ··············································································································· 50
+8.1.7 Physical Examination ······································································································································ 50
+8.1.8 Neurological Examination ······························································································································ 50
+8.1.9 Columbia Suicide Severity Rating Scale (C-SSRS) ··················································································· 50
+8.1.10 Lumbar Puncture for CSF Collection ······································································································· 51
+8.1.11 Adverse Events ··········································································································································· 52
+8.2 OUTCOME MEASURES ············································································································ 52
+8.2.1 Amyotrophic Lateral Sclerosis Functional Rating Scale-Revised (ALSFRS-R)  ····································· 52
+<<<PAGE 6>>>
+NADALS Basket Trial Page 6 of 71
+8.2.2 Pulmonary Function Testing- Slow Vital Capacity (SVC) ·········································································· 53
+8.2.3 Cognitive Evaluations ····································································································································· 53
+8.2.4 Neuropsychiatric Inventory Questionnaire (NPI-Q) ···················································································· 54
+8.2.5  Accessible Remote Olfactory Mediated Health Assessments (AROMHA) olfactory battery  ··············· 54
+8.2.6  Survival Assessment ····································································································································· 54
+8.2.7  End of Study Form ·········································································································································· 54
+8.2.8  Global Impression of Change Survey ·········································································································· 54
+8.2.9 Training and Validation ··································································································································· 55
+8.3 STUDY PARTNERS (AD PARTICIPANTS ONLY) ·················································································· 55
+9 SAFETY AND ADVERSE EVENTS ················································································· 56
+9.1 DEFINITIONS OF AES, SUSPECTED ADVERSE DRUG REACTIONS & SAES ·············································· 56
+9.1.1 Adverse Event and Suspected Adverse Drug Reactions ·········································································· 56
+9.1.2 Serious Adverse Events ································································································································· 57
+9.2 ASSESSMENT AND RECORDING OF ADVERSE EVENTS ······································································ 58
+9.2.1 Assessment of Adverse Events ···················································································································· 58
+9.2.2 Relatedness of Adverse Event to Investigational Product ········································································ 59
+9.2.3 Recording of Adverse Events ························································································································ 59
+9.3 ADVERSE EVENTS AND SERIOUS ADVERSE EVENTS - REPORTABLE EVENTS··········································· 60
+9.4  REPORTABLE MEDICAL PROCEDURES ····················································································· 60
+9.5  DATA AND SAFETY MONITORING ···························································································· 60
+10 STATISTICAL CONSIDERATIONS ················································································· 62
+10.1 SAMPLE SIZE AND POWER CALCULATIONS ················································································ 62
+10.1.1 Interim Analyses and Early Stopping for Futility ···················································································· 62
+10.1.2 Pharmacodynamics ···································································································································· 62
+10.1.3 Safety ··························································································································································· 62
+10.2 ANALYSIS POPULATIONS ····································································································· 62
+10.3 PHARMACOKINETICS ·········································································································· 63
+10.4 PHARMACODYNAMICS ········································································································ 63
+10.5 SAFETY·························································································································· 63
+10.6 MISSING DATA ················································································································· 63
+11 DATA COLLECTION, MANAGEMENT AND MONITORING ················································· 65
+11.1 ROLE OF DATA MANAGEMENT ······························································································· 65
+11.1.1 Data Entry and Checks ······························································································································ 65
+11.1.2 Data Lock Process ····································································································································· 65
+11.1.3 Quality Assurance ······································································································································ 65
+11.2 CLINICAL MONITORING ······································································································· 66
+11.3 DATA HANDLING AND RECORD KEEPING ·················································································· 66
+11.3.1 Confidentiality ·············································································································································· 66
+11.3.2 Study Discontinuation ································································································································ 66
+11.3.3 Retention of Records ································································································································· 67
+11.3.4 Publications ················································································································································· 67
+12 LITERATURE REFERENCES ························································································ 68
+13 APPENDICES ············································································································· 70
+APPENDIX I: EL ESCORIAL WORLD FEDERATION OF NEUROLOGY CRITERIA FOR THE DIAGNOSIS OF ALS ··················· 70
+<<<PAGE 7>>>
+NADALS Basket Trial Page 7 of 71
+LIST OF ABBREVIATIONS
+AD Alzheimer’s Disease
+ADR Adverse Drug Reactions
+ADAS-Cog  Alzheimer’s Disease Assessment Scale-Cognitive Subscale
+AE Adverse Event/Adverse Experience
+ALS Amyotrophic Lateral Sclerosis
+ALSFRS-R Amyotrophic Lateral Sclerosis Functional Rating Scale Revised
+ALT Alanine transaminase
+AROMHA Accessible Remote Olfactory Mediated Health Assessments
+AST Alanine aminotransferase
+CBC Complete Blood Count
+CC Coordination Center
+CCL2 Chemokine Ligand 2
+CFR Code of Federal Regulations
+CIB Clinical Investigator’s Brochure
+sIRB Single Institutional Review Board
+CLIA Clinical Laboratory Improvement Amendments
+CRF Case Report Form
+CSF Cerebrospinal Fluid
+C-SSRS Columbia Suicide Severity Rating Scale
+CXCL10 C-X-C Motif Chemokine Ligand 10
+DM Data Management
+DMARD Disease-modifying antirheumatic drug
+DPS Diaphragm Pacing System
+DSMB Data and Safety Monitoring Board
+dsRNA Double-stranded RNA
+DVT Deep Vein Thrombosis
+ECG Electrocardiogram
+eCRF Electronic Case Report Form
+EDC Electronic Data Capture
+FDA Food and Drug Administration
+FSV Final Safety Visit
+FWA Federal-wide Assurance
+GCP Good Clinical Practice
+HIPAA Health Insurance Portability and Accountability Act
+ICF Informed Consent Form
+ICH International Council for Harmonisation of Technical Requirements for
+Pharmaceuticals for Human Use
+IFNG Interferon Gamma
+IL-6 Interleukin 6
+IND Investigational New Drug Application
+IRB Institutional Review Board
+<<<PAGE 8>>>
+NADALS Basket Trial Page 8 of 71
+JAK Janus Kinase
+LP Lumbar Puncture
+MCI Mild Cognitive Impairment
+MCP1 Monocyte Chemoattractant Protein 1
+MGH Massachusetts General Hospital
+MoCA Montreal Cognitive Assessment
+MOP Manual of Procedures
+NfL Neurofilament Light Chain
+NIH National Institutes of Health
+NPI-Q Neuropsychiatry Inventory Questionnaire
+OAT3 Organic Anion Transporter 3
+PAV Permanent Assisted Ventilation
+PD Pharmacodynamics
+PE Pulmonary Embolism
+PHI Protected Health Information
+PI Principal Investigator
+PK Pharmacokinetics
+PKR Protein Kinase R
+pPKR Phospho-protein Kinase R
+POEM Percepts of Odor Episodic Memory
+QA Quality Assurance
+QC Quality Control
+RZV Recombinant Zoster Vaccine
+SAE Serious Adverse Event/Serious Adverse Experience
+SCD Subjective Cognitive Decline
+SI Site Investigator
+SOP Standard Operating Procedure
+SVC Slow Vital Capacity
+TB Tuberculosis
+TBL Total Bilirubin
+TDP-43 TAR DNA-binding Protein 43
+ULN Upper Limit of Normal
+US United States
+WOCBP Woman of Childbearing Potential
+<<<PAGE 9>>>
+NADALS Basket Trial Page 9 of 71
+PROTOCOL SUMMARY
+Study Title
+Neurodegenerative Alzheimer’s Disease and Amyotrophic Lateral Sclerosis (NADALS) Basket Proof of
+Concept Trial including Asymptomatic Individuals using Baricitinib
+Version Number
+10.0
+Study Indication
+Alzheimer’s disease (AD), amyotrophic lateral sclerosis (ALS), and asymptomatic carriers of an ALS-
+causative gene
+Phase of Development
+Phase II
+Rationale for the Study
+Converging evidence reveals Type I interferon signaling is robustly active within the central nervous
+system of subsets of patients with AD and ALS, both in autopsied brains and profiles of cerebrospinal
+fluid (CSF) of living patients. In animal models, activation of type I interferon signaling leads to
+propagated neurodegeneration within a neural circuit. In cultured human neurons, activation of type I
+interferon signaling results in neuronal death within 48 hours. Baricitinib, a drug that blocks type I
+interferon signaling, also protects cultured human neurons from death. We have characterized a signature
+of type I interferon signaling in the brains and CSFs of AD and ALS patients as a biomarker signature for
+this inflammatory mechanism of neuronal death.
+This proof of concept trial will ascertain whether baricitinib at 2 mg per day, 4 mg per day, or both reaches
+therapeutic levels in the CSF and suppresses inflammatory markers associated with type I interferon
+signaling among AD and ALS patients with evidence of abnormal type I interferon signaling at baseline.
+Study Design
+This is an open-label, biomarker-driven basket trial of baricitinib in people with AD, ALS, or
+asymptomatic carriers of an ALS causative gene, such as a hexanucleotide expansion in the C9ORF72
+gene. Baricitinib is approved by the FDA in the United States (US) for rheumatoid arthritis at 2 mg per
+day and for alopecia and COVID-19 at both 2 mg and 4 mg per day.
+Each participant will be treated with open-label baricitinib for 24 weeks. Participants will receive
+baricitinib 2 mg per day by mouth for the first 8 weeks and baricitinib 4 mg per day by mouth for the
+remaining 16 weeks. Participants will have a lumbar puncture (LP) at screening and CSF will be examined
+for study eligibility. Participants will be enrolled if their CSF level of chemokine ligand 2 (CCL2; also
+known as monocyte chemoattractant protein 1 (MCP1)) is 250 pg/mL or greater and if they meet all other
+eligibility criteria(1-2).  All enrolled participants must have received a first dose of recombinant zoster
+vaccine (RZV; also known as Shingrix) within 4 years prior to treatment initiation.
+Blood and urine will be collected and a second LP will be performed to collect CSF prior to dosing at the
+Baseline Visit. Safety labs will be assessed in blood and urine. Biomarkers of inflammation and neuronal
+<<<PAGE 10>>>
+NADALS Basket Trial Page 10 of 71
+death will be measured in plasma and CSF. DNA will be extracted from whole blood. One week after
+starting baricitinib 2 mg per day, blood will be drawn for a complete blood count (CBC) to rule out
+leukopenia. Blood will be drawn and a third LP will be performed two to four hours after dosing during
+the Week 8 Visit to measure study drug levels and biomarkers of inflammation and neuronal death. Blood
+and urine will be collected for safety labs. After the Week 8 Visit, participants will start barticitinib 4 mg
+per day. One week after starting barticitinib 4 mg per day, a safety visit will be conducted. Blood will be
+drawn and a fourth LP performed two to four hours after dosing during the Week 16 Visit to measure
+study drug levels and biomarkers of inflammation and neuronal death. Blood and urine will be collected
+for safety labs. Participants will continue on baricitinib until Week 24. After 24 weeks, a visit will be
+conducted to collect clinical outcomes as well as safety and research labs.
+On an approximately monthly basis after the first participant completes Week 8, interim analyses will be
+conducted to assess pharmacokinetic (PK) and pharmacodynamic (PD) markers in the CSF. Interim
+analyses will be conducted until at least one participant meets the continuation criterion of PK or PD
+response. No additional interim analyses will be conducted once one participant is found to meet the
+continuation criterion. Enrollment will be suspended after 10 participants enroll if no participant has yet
+met the continuation criterion, including no fewer than 2 AD, MCI, or SCD participants and no fewer than
+2 ALS participants (of whom no more than 1 may be an asymptomatic carrier of an ALS-causative gene).
+Enrollment will be terminated if the continuation criterion has not been met after 10 participants complete
+their full protocol.
+Study Objectives
+The primary objectives of the study are:
+ To assess whether 8 weeks of an oral dosage of baricitinib 2 mg per day, 4 mg per day, or both
+achieves measurable levels of baricitinib in the CSF of patients with AD, ALS, and
+asymptomatic carriers of an ALS-causative gene.
+ To determine whether 8 weeks of an oral dosage of baricitinib 2 mg per day, 4 mg per day, or
+both decreases levels of the inflammatory biomarker CCL2 in the CSF of patients with AD,
+ALS, and asymptomatic carriers of an ALS-causative gene.
+The secondary objectives of the study are:
+ To determine whether 8 weeks of an oral dosage of baricitinib 2 mg per day, 4 mg per day, or
+both decreases levels of the inflammatory biomarkers interleukin-6 (IL-6), phospho-protein
+kinase R (pPKR), PKR, pPKR / PKR ratio, C-X-C motif chemokine ligand 10 (CXCL10), or
+interferon gamma (IFNG) in the CSF of patients with AD, ALS, and asymptomatic carriers of an
+ALS-causative gene.
+ To determine whether 8 weeks of an oral dosage of baricitinib 2 mg per day, 4 mg per day, or
+both decreases levels of the neuronal death biomarkers neurofilament light chain (NfL), tau, or
+phospho-tau in CSF or TAR DNA-binding protein 43 (TDP-43) levels in the plasma in patients
+with AD, ALS, and asymptomatic carriers of an ALS-causative gene.
+ To determine whether the measured concentration of baricitinib in the CSF or blood
+(pharmacokinetics) after 8 weeks of an oral dosage of baricitinib 2 mg per day, 4 mg per day, or
+both correlates with the changes in CSF biomarkers (pharmacodynamics).
+<<<PAGE 11>>>
+NADALS Basket Trial Page 11 of 71
+ To determine whether 8 weeks of an oral dosage of baricitinib 2 mg per day, 4 mg per day, or
+both is safe and tolerable in patients with AD, ALS, and asymptomatic carriers of an ALS-
+causative gene.
+The exploratory objectives of the study are:
+ To determine whether 8 weeks of an oral dosage of baricitinib 2 mg per day, 8 weeks or 16
+weeks of baricitinib 4 mg per day, or both decreases levels of the inflammatory biomarkers
+CCL2, IL-6, pPKR, PKR, pPKR / PKR ratio, CXCL10, or IFNG in the plasma of patients with
+AD, ALS, and asymptomatic carriers of an ALS-causative gene.
+ To determine whether changes in clinical outcomes correlate with CSF drug concentration or
+with changes in CSF biomarkers after 8 weeks of an oral dosage of baricitinib 2 mg per day, 4
+mg per day, or both.
+ To collect CSF for further biomarker discovery efforts via proteomics, dsRNA-seq, and other
+unbiased chemical profiling methods.
+ To refine the CSF inflammatory signature for AD and ALS patients and identify factors that
+predict diminishment of the CSF inflammatory signature after 8 weeks of an oral dosage of
+baricitinib 2 mg per day, 4 mg per day, or both.
+Study Endpoints
+The primary outcome measures for the study are:
+ Level of free baricitinib in the CSF.
+ Change in levels of the inflammatory biomarker CCL2 in the CSF (from baseline to 8-weeks and
+to 16-weeks).
+The secondary outcome measures for the study are:
+ Changes in the inflammatory biomarkers pPKR, PKR, pPKR/PKR ratio, CXCL10, and IFNG in
+the CSF (from baseline to 8-weeks and to 16-weeks).
+ Changes in the neuronal death biomarkers NfL, tau, and phospho-tau in the CSF and TDP-43 in
+plasma (from baseline to 8-weeks and to 16-weeks).
+ Association between drug concentration (pharmacokinetics) and CSF biomarkers
+(pharmacodynamics).
+ Treatment-emergent adverse events.
+ Permanent discontinuation of study drug due to study drug-related AEs.
+The exploratory outcome measures for the study include:
+ Changes in the inflammatory biomarkers IL-6, CCL2, pPKR, PKR, pPKR/PKR ratio, CXCL10,
+and IFNG in plasma (from baseline to 8-weeks, to 16-weeks, and to 24-weeks).
+ Changes in clinical outcomes (from baseline to 24-weeks) relative to previous trajectories, when
+available.
+ Change in Accessible Remote Olfactory Mediated Health Assessments (AROMHA) olfactory
+battery score.
+<<<PAGE 12>>>
+NADALS Basket Trial Page 12 of 71
+Study Locations
+Up to two centers in the United States will participate in the study.
+Number of Planned Participants
+20 participants (10 AD and 10 ALS or asymptomatic carriers of an ALS-causative mutation, with a limit
+of 5 asymptomatic carriers).
+Study Population
+AD patients: This study will be conducted in participants who have subjective cognitive decline, mild
+neurocognitive disorder, or major neurocognitive disorder, either possible or probable AD. Eligible
+participants must be between 55 and 90 years old, inclusive, and have a MoCA score  8 at screening.
+Participants or a surrogate representative must provide written informed consent prior to screening. A
+study partner must be willing to accompany the participant to visits and complete partner study forms. All
+participants must be able and willing to undergo LPs. Detailed criteria are described in the body of the
+protocol.
+ALS patients: This study will be conducted in participants who meet the El Escorial criteria of possible,
+laboratory-supported probable, probable, or definite criteria for a diagnosis of ALS. Asymptomatic
+individuals with an ALS-causative gene per CLIA-certified genetic testing results are also eligible to
+participate in this study at MGH. Participants must provide written informed consent prior to screening.
+Eligible participants must be between 18 and 80 years old, inclusive, have an ALSFRS-R score  27, and
+be ambulatory at screening. Participants not taking or on a stable dose of any FDA approved treatment for
+ALS for at least 30 days or 1 cycle and women of child-bearing age at screening are eligible for inclusion
+as long as they meet specific protocol requirements. All participants must be able and willing to undergo
+LPs. Detailed criteria are described in the body of the protocol.
+Treatment Groups
+Open-label baricitinib 2 mg per day for 8 weeks, followed by baricitinib 4 mg per day for 16 weeks.
+Duration of Treatment and Follow-up
+Participants will remain on treatment for 24 weeks. Participants who withdraw consent or early
+terminate from the study will be asked to complete a Final Safety Visit when they notify the site of their
+desire to end participation or as soon as possible thereafter. All participants will be asked to complete a
+Follow-up Telephone Call 28 to 33 days after their last dose of study drug.
+<<<PAGE 13>>>
+NADALS Basket Trial Page 13 of 71
+STUDY WORKFLOW
+<<<PAGE 14>>>
+NADALS Basket Trial Page 14 of 71
+SCHEDULE OF ACTIVITIES
+ACTIVITY
+Screening Visit
+Study Drug Administration Follow-Up
+Telephone Call15
+Baseline Visit
+Week 1
+Week 8
+Week 9
+Week 16
+Week 24/Final
+Safety Visit14
+Visit 11 Visit 21 Visit 316 Visit 4 Visit 516 Visit 6 Visit 7 Visit 8
+Clinic Clinic Remote or
+Clinic Clinic Remote or
+Clinic Clinic Clinic Phone
+Visit Window See Footnote 1
+Day 0
+Day 7
+±2
+Day 56
+-4 or +1
+Day 63
++2
+Day 112
+±4
+Day 168
+±4 28 to 33 days
+Written Informed Consent X
+Eligibility Review X X
+Medical History X
+Demographics X
+AD/ALS History and Diagnosis
+History X
+El Escorial Criteria (ALS only) X
+Recombinant Zoster Vaccine (RZV;
+Shingrix)2 X   X
+Physical Examination X      X
+Neurological Exam X      X
+Vital Signs3 & Weight XXXXXXX
+Height  X
+12-Lead ECG X
+ALSFRS-R (ALS only) X X  X   X
+Slow Vital Capacity (SVC)4 (ALS
+only) X X  X   X
+NIH Toolbox (Asymptomatic
+carriers of an ALS-causative gene
+only)-MGH site only
+X     X
+Neuropsychiatric Inventory
+Questionnaire (NPI-Q)
+(AD only)
+X     X
+ADAS-Cog (AD only)  X     X
+Montreal Cognitive Assessment
+(MoCA) (AD only) X      X
+AROMHA olfactory battery   X     X
+<<<PAGE 15>>>
+NADALS Basket Trial Page 15 of 71
+1 Screening Visit activities may be performed over a period of 30 days. The Baseline Visit will occur 53 to 59 days after the Screening LP.
+2 All study participants must receive at least one dose of RZV prior to treatment initiation. The first dose should be administered after all other
+eligibility criteria have been confirmed and at least 14 days prior to the Baseline Visit unless the participant has provided documentation of
+vaccination within 4 years prior. The second dose of RZV can be administered at the Week 8 Visit or any time within 2 to 6 months after the first
+dose per CDC guidelines.
+3 Vital signs include systolic and diastolic pressure in mmHg, respiratory rate/minute, heart rate/minute and temperature. Vital signs will not be
+collected at remote visits.
+4 SVC testing is required at the Screening Visit and Week 24 or Final Safety Visit but is optional at additional study visits. Every attempt should
+be made to perform SVC at required visits. SVC or Forced Vital Capacity (FVC) can be performed in a pulmonary function lab, if necessary.
+5 The study participant, study partner (for AD patients only), and investigator will complete a Global Impression of Change survey at the Week 24
+or Final Safety Visit.
+6 Screening labs include Hematology (CBC with differential), Comprehensive metabolic panel (including liver function tests), Coagulation, B12,
+thyroid stimulating hormone(TSH), folate, HIV, Hepatitis B panel, Hepatitis C panel, Urinalysis, and Urine pregnancy test (for WOCBP).
+Participants will also be tested for Tuberculosis (TB) at the Screening Visit (see Section 8.1.2 Clinical Laboratory Assessments for additional
+information regarding TB testing).
+Baseline Columbia-Suicide Severity
+Rating Scale (C-SSRS) X
+Since Last Visit C-SSRS  X X X X X X
+End of Study Form       X
+Global Impression of Change survey5       X
+Survival assessment  XXXXXX
+Screening Labs (Blood & Urine)6 X
+Safety Labs (Blood & Urine)7  X X X X X X
+Blood draw for PK analysis8  X  X  X X
+Blood draw for Biomarker Testing
+and Immune Cell Profiling9 X X  X  X X
+Blood draw for Genetic Testing10  X
+Urine sample for Future Research11  X  X  X X
+Lumbar puncture (LP) and CSF
+collection12 X17,18 X18  X18  X18
+Concomitant Medication Review19 XXXXXXXX
+Adverse Event Review XXXXXXXX
+Dispense Study Drug13  X  X  X
+Drug Accountability    X  X X
+<<<PAGE 16>>>
+NADALS Basket Trial Page 16 of 71
+7 Safety labs include Hematology (CBC with differential), Comprehensive metabolic panel (including liver function tests), Coagulation,
+Urinalysis, and Urine pregnancy test (for WOCBP). A Lipid Panel will be collected at the Baseline, Week 8, and Week 24.
+8 All participants will provide a blood sample for PK analysis at the Baseline Visit (pre-dose). At Week 8, Week 16, and Week 24, samples will be
+collected 1 hour (±10 minutes) post-dose.
+9 All participants will provide a blood sample for biomarker testing and immune cell profiling as well as storage in a biorepository. At Week
+8,Week 16 and Week 24, samples will be collected 1 hour (±10 minutes) post-dose.
+10 All participants will provide a blood sample for genetic testing for C9ORF72 repeat expansion and APOE genotype.  The sample will be sent to
+Prevention Genetics for analysis and results will be returned to participants.
+11 Participants will provide a urine sample for storage in a biorepository for use in future research.
+12 CSF will be collected for PK and biomarker analysis. The results of CSF examination from the Screening LP are needed to determine participant
+eligibility and before the Baseline Visit can occur.  The Week 8 and Week 16 LPs will be performed 2 to 4 hours post-dose, ideally 2 hours post-
+dose.
+13 Administer the first dose of study drug AFTER all Baseline Visit procedures are completed and a final eligibility determination is made. At
+Week 8, Week 16 and Week 24, participants will bring all remaining study drug to clinic and dose in clinic from home supply at the beginning of
+the visit. Time of study drug administration will be recorded.
+14 Participants that withdraw consent or early terminate will be asked to complete a Final Safety Visit when they notify the site of their desire to
+end participation or as soon as possible thereafter.
+15 The Follow-up Telephone Call will be conducted 28 to 33 days after the participant takes their last dose of study drug (regardless of whether or
+not they have discontinued from the study).
+16 Visits may be conducted in clinic or remotely. Remote visits can occur via telemedicine or telephone with local safety lab collection.
+17 If a patient had a LP and CSF collected within 6 months of the Screening Visit, please contact the Coordination Center to confirm if this CSF
+sample could be utilized in place of the screening LP. Allowing CSF from a prior LP will be determined on case by case basis.
+18 Review of CBC and Coagulation results is required to confirm if LP can be performed. Please follow local policies for performing LPs and refer
+to Section 8.1.10 Lumbar Puncture for CSF collection of the protocol.
+19 Routine vaccinations(i.e. influenza, COVID-19, etc.) received during the course of the trial should be administered at least 14 days prior to LP
+visits and will be recorded on the Concomitant Medication Log. Any live vaccinations are not recommended for participants taking Baricitinib.
+<<<PAGE 17>>>
+NADALS Basket Trial Page 17 of 71
+<<<SECTION 1  ETHICS/PROTECTION OF HUMAN PARTICIPANTS>>>
+1  ETHICS/PROTECTION OF HUMAN PARTICIPANTS
+<<<SECTION 1.1 Institutional Review Board (IRB)>>>
+1.1 Institutional Review Board (IRB)
+This study will be conducted in compliance with current Good Clinical Practices (GCP) and
+Title 21 Part 56 of the United States of America Code of Federal Regulations (CFR) relating to
+IRBs.
+<<<SECTION 1.2 Ethical Conduct of Study>>>
+1.2 Ethical Conduct of Study
+The study will be conducted in accordance with GCP defined by the International Council for
+Harmonisation (ICH) and the ethical principles of the Declaration of Helsinki.
+<<<SECTION 1.3 Participant Information and Consent>>>
+1.3 Participant Information and Consent
+This study will be conducted in compliance with Title 21 Part 50 of the United States of America
+Code of Federal Regulations (CFR), Federal Regulations and ICH Guidance Documents
+pertaining to informed consent. At the first visit, prior to initiation of any study-related
+procedures, an investigator will meet with the potential participant to review and discuss the
+details of the study using the informed consent document as a guide. This discussion will include
+all the required elements of informed consent, including the purpose of the research, the
+procedures to be followed, the risks and discomforts, as well as potential benefits associated with
+participation, and alternative procedures to study participation. Their questions will be answered
+to their satisfaction.  The participant will be provided with adequate time to reflect on the
+potential benefits and risks and possible discomforts of participation, and to make an informed
+decision. Consent will be obtained by a Site Investigator or delegated Sub-Investigator, including
+physician and licensed Nurse practitioner or Physician Assistant sub-investigators. The Site
+Investigator or Sub-Investigator will then obtain written informed consent from each participant
+prior to the initiation of any study procedures. All potential participants will be given the
+opportunity to speak with the Physician Investigator should a Nurse Practitioner or Physician
+Assistant be involved in obtaining informed consent.
+Informed consent can be obtained remotely according to site’s local policies for remote consenting.
+<<<SECTION 1.3.1 Assent>>>
+1.3.1 Assent
+The capacity to consent is gauged by an experienced licensed clinician investigator prior to the
+consent process through an evaluation of the participant’s understanding of their condition, their
+options for treatment, their understanding of the potential benefits and risks of participating in the
+clinical trial and of their understanding regarding the voluntary nature of their participation in the
+trial. In addition, participants are evaluated for their level of orientation and understanding of what
+will happen during the trial. This process is recorded as part of the consent discussion
+documentation.
+<<<PAGE 18>>>
+NADALS Basket Trial Page 18 of 71
+Investigators will continually monitor capacity to understand and consent throughout the study
+when interacting with the patient at each visit. All study staff will report any changes in function
+of the participant to the investigators, who will then reassess and document any changes in the
+patient's capacity to consent.
+If a participant is deemed unable to consent, either at the start of the study or while participating
+in the study, then consent will be obtained from a legally authorized representative. The
+relationship of the representative to the participant will be documented and kept for our records.
+The list of eligible legally authorized representatives, in order of preference, is as follows:
+1. Court appointed guardian with specific authority to consent to participation in
+research or authority to make health care decisions for a class of diagnostic and
+therapeutic decisions inclusive of the proposed research.
+2. Health care proxy/person with durable power of attorney with specific authority for
+making health care decisions inclusive of the proposed research.
+3. Spouse, adult child, or adult sibling.
+Participants who cannot give informed consent must be able to give assent. If the individual
+objects to participation, they will not be enrolled. Investigators will document capacity to give
+assent during the consenting process.
+<<<PAGE 19>>>
+NADALS Basket Trial Page 19 of 71
+2 INTRODUCTION: BACKGROUND INFORMATION AND SCIENTIFIC
+RATIONALE
+<<<SECTION 2.1 Background Information>>>
+2.1 Background Information
+Many age-associated neurodegenerative diseases, including Alzheimer’s disease (AD) and
+amyotrophic lateral sclerosis (ALS), are associated with increased inflammatory signaling in the
+central nervous system. While there is growing evidence that activation of inflammatory signaling
+leads to neuronal death in cell-based models and leads to signs and symptoms of
+neurodegeneration in animal models, no disease modifying anti-inflammatory drugs for AD or
+ALS have been found to date. Recent observational studies of anti-inflammatory drugs used to
+treat rheumatoid arthritis suggest the potential of these drugs to prevent a diagnosis of AD (3-7).
+To date, no clinical trials of anti-inflammatory drugs approved to treat rheumatoid arthritis have
+been performed in patients with ALS or AD. Moreover, the root causes of neuroinflammatory
+responses in both AD and ALS has been elusive.
+Recently, the Albers lab discovered that cytoplasmic double stranded RNA (dsRNA) accumulates
+in neurons and glia in a subset of cases of AD and ALS (8). It is well established that dsRNA
+triggers innate immune signaling in a variety of cell types, and indeed, we see activation of
+interferon signaling in the vicinity of dsRNA in human brains from Alzheimer’s and ALS patients.
+In complementary studies, transgenic mice that express cytoplasmic dsRNA, which is encoded in
+the genome, exhibit profound neuronal loss that spreads between neural circuits in the brain.
+Moreover, we find biomarkers of dsRNA activation and interferon signaling in the cerebrospinal
+fluid (CSF) of a subset of patients with AD and ALS. Baricitinib, an FDA-approved drug for
+rheumatoid arthritis, rescued inflammatory biomarkers and neural cell death in a human neural
+cell culture model of dsRNA-mediated interferon induction and death in a dose-dependent
+manner(9). A recent case report of treatment of a pediatric interferonopathy and progressive
+neurodegeneration (Aicardi-Goutieres disease) with a structurally related Janus Kinas(JAK)
+inhibitor, ruxolitinib, resulted in a clinical response with ascension of developmental milestones,
+reduced inflammatory biomarkers in the CSF, and 5-fold increased blood brain penetration relative
+to healthy controls reported during the Phase I study (10).
+In this trial, we will evaluate the FDA-approved JAK inhibitor baricitinib using an escalating dose
+design. Baricitinib is an oral medication FDA-approved for rheumatoid arthritis at a 2-mg daily
+dosage (11) and FDA emergency use authorized for COVID-19 at a 4 mg daily dosage (12-14).
+The trial will determine whether baricitinib at 2 mg per day 4 mg per day, or both enters the
+cerebrospinal fluid and attains therapeutic levels, as well as whether it reduces inflammatory
+biomarkers in the CSF of patients at risk for or with AD and at risk for or with ALS. This basket
+design is motivated by a common pathogenic mechanism found in these diseases. Following
+autopsy, brains from both AD and ALS patients exhibit increased innate immune activation
+<<<PAGE 20>>>
+NADALS Basket Trial Page 20 of 71
+relative to age-matched controls. Moreover, cerebrospinal fluid collected from living patients with
+diagnoses of subjective cognitive decline, mild cognitive impairment, and ALS revealed elevated
+levels of interferon signaling, including pPKR, PKR, and pPKR/PKR ratio (1,15). The safety
+profile of baricitinib is well documented in its package insert.
+If this Phase I/II trial demonstrates that baricitinib is safe in AD and ALS patients and achieves
+therapeutic levels in the CSF as determined by drug concentration and pharmacodynamic
+biomarkers, then a Phase III clinical trial powered to assess clinical outcomes in AD patients, ALS
+patients, or both would be warranted.
+<<<SECTION 2.2 Rationale>>>
+2.2 Rationale
+Converging evidence reveals Type I interferon signaling is robustly active within the central
+nervous system of subsets of patients with AD and ALS, both in autopsied brains and profiles of
+CSF of living patients. The Albers lab discovered in animal models that activation of type I
+interferon signaling leads to propagated neurodegeneration within a neural circuit (8). In cultured
+human neurons, activation of type I interferon signaling results in neuronal death within 48 hours.
+Baricitinib, a drug that blocks type I interferon signaling protects cultured human neurons from
+death evoked by pathogenic cytoplasmic dsRNA. Independently, in computational biology studies
+of gene expression profiles of AD brains termed DRIAD (drug repurposing in AD), baricitinib was
+among the leading drugs that reversed the actions of AD (9). We have characterized a signature of
+type I interferon signaling in the brains and CSF of AD and ALS patients that is specific for this
+inflammatory mechanism of neuronal death (8).
+<<<SECTION 2.3 Potential Risks and Benefits>>>
+2.3 Potential Risks and Benefits
+<<<SECTION 2.3.1 Potential Risks>>>
+2.3.1 Potential Risks
+Risks associated with Baricitinib
+The safety profile of baricitinib is derived from studies of participants with rheumatoid arthritis
+and described in the baricitinib package insert (OLUMIANT®) (16).
+The safety profile of baricitinib in ALS and AD patients is expected to be within the profile
+reported for patients taking baricitinib for its primary indication of rheumatoid arthritis. The most
+common adverse reactions (greater than or equal to 1%) were upper respiratory tract infections,
+nausea, herpes simplex, and herpes zoster.
+Less common, but serious adverse events reported in patients receiving baricitinib are outlined
+below:
+Serious Infections
+Serious and sometimes fatal infections due to bacterial, invasive fungal, viral, and opportunistic
+pathogens have been reported in rheumatoid arthritis patients receiving baricitinib. The most
+<<<PAGE 21>>>
+NADALS Basket Trial Page 21 of 71
+common serious infections included pneumonia, herpes zoster, and urinary tract infections.
+Among opportunistic infections, tuberculosis, multidermatomal herpes zoster, esophageal
+candidiasis, pneumocystosis, acute histoplasmosis, cryptococcosis, cytomegalovirus, and BK
+virus were reported.
+Participants in this study may be at an increased risk for COVID-19, although baricitinib has
+been studied as a drug to reduce the risk of progressing to severe forms of COVID-19 disease.
+While this is an unknown risk, participants should adhere to CDC guidelines for at-risk
+populations.
+Serious heart-related events(heart attack, stroke)
+Based on a completed U.S. FDA review of a large randomized safety clinical trial, it was be
+concluded there is increased risk of serious heart-related events such as heart attack or stroke
+with the arthritis and ulcerative colitis medicine, tofacitinib. The FDA has required new and
+updated warnings for baricitinib in light of these findings. Baricitinib has not been studied in
+trials similar to the large safety clinical trial with tofacitinib so the risks have not been adequately
+evaluated. However, since baricitinib shares a mechanism of action with tofacitinib, FDA
+considers that the medicine will have similar risks.
+Death
+Based on a completed U.S. FDA review of a large randomized safety clinical trial, it was be
+concluded there is increased risk of death with tofacitinib. The FDA has required new and
+updated warnings for baricitinib in light of these findings.
+Malignancy and Lymphoproliferative Disorders
+Malignancies were observed in clinical studies of baricitinib. Non-melanoma skin cancers have
+been reported in patients treated with baricitinib. Periodic skin examination is recommended for
+patients who are at increased risk for skin cancer.
+Thrombosis
+Thrombosis, including deep venous thrombosis (DVT), pulmonary embolism (PE), and arterial
+thrombosis, have occurred. Some of these events have been fatal. Baricitinib should be used with
+caution in patients who may be at increased risk of thrombosis. Patients with ALS are at
+increased risk for DVT and PE. If clinical features of DVT/PE or arterial thrombosis occur,
+patients should be evaluated promptly and treated appropriately.
+Gastrointestinal Perforations
+Events of gastrointestinal perforation have been reported in clinical studies with baricitinib,
+although the role of JAK inhibition in these events is not known. Baricitinib should be used with
+caution in patients who may be at increased risk for gastrointestinal perforation. Patients
+presenting with new onset abdominal symptoms should be evaluated promptly for early
+identification of gastrointestinal perforation. Baricitinib can be administered safely through a G-
+tube. Please refer to the Pharmacy Manual for further details on drug administration.
+<<<PAGE 22>>>
+NADALS Basket Trial Page 22 of 71
+Laboratory Abnormalities
+Neutropenia
+Treatment with baricitinib was associated with an increased incidence of neutropenia
+(absolute neutrophil count (ANC) less than 1000 cells/mm3) compared to placebo.
+Lymphopenia
+Treatment with baricitinib was associated with an increased incidence of lymphopenia
+(absolute lymphocyte count (ALC) less than 500 cells/mm3). Lymphocyte counts less
+than the lower limit of normal were associated with infection in patients treated with
+baricitinib but not placebo.
+Anemia
+Treatment with baricitinib was associated with an increased incidence of anemia
+(hemoglobin levels less than 8 g/dL).
+Liver Enzyme Elevations
+Treatment with baricitinib was associated with increased incidence of liver enzyme
+elevation. Increases to greater than or equal to 5x and greater than or equal to 10x upper
+limit of normal (ULN) were observed for both ALT and AST in patients in baricitinib
+clinical trials. Prompt investigation of the cause of liver enzyme elevation is
+recommended to identify potential cases of drug-induced liver injury.
+Lipid Elevations
+Treatment with baricitinib was associated with increases in lipid parameters, including
+total cholesterol, low-density lipoprotein (LDL) cholesterol, and high-density lipoprotein
+(HDL) cholesterol. Patients should be managed according to clinical guidelines for the
+management of hyperlipidemia.
+Risks associated with Lumbar Puncture
+There are potential risks and side effects associated with lumbar punctures (LPs). LP is a standard
+procedure used in medical practice. The side effects of an LP may include back discomfort,
+bleeding, headache, pain at the LP site, and infection. Pain during the LP procedure will be
+prevented or minimized by using local anesthesia. Infection after a LP is very rare, but serious,
+and will be treated with antibiotics.
+About 1 out of 3 people who have a LP develop a post-lumbar puncture headache(17). Post lumbar
+headaches are more common in females and in people less than 30 years old. This headache can
+be mild to severe. Atraumatic needs have been shown to reduce the risk of headache and will be
+used in this study to minimize this risk. There is a 15% headache rate with use of an atraumatic
+needle(18).
+Occasionally the headache can interfere with the study participant’s normal daily activities (e.g.,
+work, school). Participants will receive analgesics (pain killers) as needed. If the headache lasts
+more than 3 days, a blood patch may be performed. This procedure involves taking blood from the
+<<<PAGE 23>>>
+NADALS Basket Trial Page 23 of 71
+participant and injecting it in the same place where the spinal needle was put in during the LP. The
+clotting of the blood in this space should stop further fluid leaking and stop the headache.
+Risks associated with Fluoroscopic Lumbar Puncture:
+A fluoroscopic LP will be performed if standard LP cannot be done. The main risk in this procedure
+is exposure to radiation. The total amount of radiation exposure to participants taking part in this
+study is equal to a whole-body exposure of up to 0.65 milliSieverts (mSv) per fluoroscopic LP. A
+possible effect that could occur at doses used in this study is a slight increase in the risk of
+developing cancer later in life. Since the side effects of radiation can be cumulative, the study staff
+and investigators will collect information on prior radiation exposure to determine whether it is
+safe to receive a dose of radiation for the purposes of this research study.
+Risks associated with Recombination Zoster Vaccination
+A sore arm with mild or moderate pain is very common after recombinant shingles vaccine,
+affecting about 80% of vaccinated people. Redness and swelling can also happen at the site of the
+injection. Tiredness, muscle pain, headache, shivering, fever, stomach pain, and nausea happen
+after vaccination in more than half of people who receive recombinant shingles vaccine. In clinical
+trials, about 1 out of 6 people who got recombinant zoster vaccine experienced side effects that
+prevented them from doing regular activities. Symptoms usually went away on their own in 2 to 3
+days.
+<<<SECTION 2.3.2 Known Potential Benefits>>>
+2.3.2 Known Potential Benefits
+There are no known benefits for participating in this trial. Patients who participate will add to the
+collective knowledge of the actions of baricitinib in patients with AD and ALS.
+<<<PAGE 24>>>
+NADALS Basket Trial Page 24 of 71
+<<<SECTION 3 OBJECTIVES>>>
+3 OBJECTIVES
+<<<SECTION 3.1 Study Objectives>>>
+3.1 Study Objectives
+<<<SECTION 3.1.1 Primary Objective>>>
+3.1.1 Primary Objective
+The primary objectives of the study are:
+ To assess whether 8 weeks of an oral dosage of baricitinib 2 mg per day, 4 mg per day, or
+both achieves measurable levels of baricitinib in the CSF of patients with AD, ALS, and
+asymptomatic carriers of an ALS-causative gene.
+ To determine whether 8 weeks of an oral dosage of baricitinib 2 mg per day, 4 mg per
+day, or both decreases levels of the inflammatory biomarker chemokine ligand 2 (CCL2)
+in the CSF of patients with AD, ALS, and asymptomatic carriers of an ALS-causative
+gene.
+<<<SECTION 3.1.2 Secondary Objectives>>>
+3.1.2 Secondary Objectives
+The secondary objectives of the study are:
+ To determine whether an oral dosage of baricitinib 2 mg per day, 4 mg per day, or both
+decreases levels of the inflammatory biomarkers interleukin-6 (IL-6), phospho-protein
+kinase R (pPKR), PKR, pPKR / PKR ratio, C-X-C motif chemokine ligand 10
+(CXCL10), or interferon Gamma (IFNG) in the CSF of patients with AD, ALS, and
+asymptomatic carriers of an ALS-causative gene.
+ To determine whether 8 weeks of an oral dosage of baricitinib 2 mg per day, 4 mg per
+day, or both decreases levels of neuronal death biomarkers of neurofilament light chain
+(NfL), tau, or phospho-tau in CSF or TAR DNA-binding protein 43(TDP-43) levels in
+the plasma in patients with AD, ALS, and asymptomatic carriers of an ALS-causative
+gene.
+ To determine whether the measured concentration of baricitinib in the CSF or blood
+(pharmacokinetics) after 8 weeks of an oral dosage of baricitinib 2 mg per day, 4 mg per
+day, or both correlates with the changes in CSF biomarkers (pharmacodynamics).
+ To determine whether 8 weeks of an oral dosage of baricitinib 2 mg per day, 4 mg per
+day, or both is safe and tolerable in patients with AD, ALS, and asymptomatic carriers of
+an ALS-causative gene.
+<<<SECTION 3.1.3 Exploratory Objectives>>>
+3.1.3 Exploratory Objectives
+The exploratory objectives of the study are:
+ To determine whether 8 weeks of an oral dosage of baricitinib 2 mg per day, 8 weeks or
+16 weeks of baricitinib 4 mg per day, or both decreases levels of the inflammatory
+<<<PAGE 25>>>
+NADALS Basket Trial Page 25 of 71
+biomarkers CCL2, IL-6, pPKR, PKR, pPKR / PKR ratio, CXCL10, or IFNG in the
+plasma of patients with AD, ALS, and asymptomatic carriers of an ALS-causative gene.
+ To determine whether changes in clinical outcomes correlate with CSF drug
+concentration or with changes in CSF biomarkers after 8 weeks of an oral dosage of
+baricitinib 2 mg per day, 4 mg per day, or both.
+ To collect CSF for further biomarker discovery efforts via proteomics, dsRNA-seq, and
+other unbiased chemical profiling methods.
+ To refine the CSF inflammatory signature for AD and ALS patients and identify factors
+that predict diminishment of the CSF inflammatory signature after 8 weeks of an oral
+dosage of baricitinib 2 mg per day, 4 mg per day, or both.
+<<<SECTION 3.2  Study Outcome Measures>>>
+3.2  Study Outcome Measures
+<<<SECTION 3.2.1  Primary Outcome Measures>>>
+3.2.1  Primary Outcome Measures
+The primary outcome measures for the study are:
+ Level of free baricitinib in the CSF.
+ Change in the level of the inflammatory biomarker CCL2 in the CSF (from baseline to 8-
+weeks and to 16-weeks).
+<<<SECTION 3.2.2  Secondary Outcome Measures>>>
+3.2.2  Secondary Outcome Measures
+The secondary outcome measures for the study are:
+ Changes in the inflammatory biomarkers pPKR, PKR, pPKR/PKR ratio, CXCL10, and
+IFNG in the CSF (from baseline to 8-weeks and to 16-weeks).
+ Changes in the neuronal death biomarkers NfL, tau, and phospho-tau in the CSF and TDP-
+43 in plasma (from baseline to 8-weeks and to 16-weeks).
+ Association between drug concentration(pharmacokinetics) and CSF biomarkers
+(pharmacodynamics).
+ Treatment-emergent adverse events.
+ Permanent discontinuation of study drug due to study drug-related AEs.
+<<<SECTION 3.2.3  Exploratory Outcome Measures>>>
+3.2.3  Exploratory Outcome Measures
+The exploratory outcome measures for the study include:
+ Changes in the inflammatory biomarkers IL-6, CCL2, pPKR, PKR, pPKR/PKR ratio,
+CXCL10, and IFNG in the plasma (from baseline to 8-weeks, to 16-weeks and to 24-
+weeks).
+ Changes in clinical outcomes (from baseline to 24-weeks) relative to previous
+trajectories, when available.
+ Change in Accessible Remote Olfactory Mediated Health Assessments (AROMHA)
+olfactory battery score.
+<<<PAGE 26>>>
+NADALS Basket Trial Page 26 of 71
+<<<SECTION 4 STUDY DESIGN>>>
+4 STUDY DESIGN
+<<<SECTION 4.1 Overall Study Design and Plan>>>
+4.1 Overall Study Design and Plan
+During the enrollment period, approximately 40 participants will be enrolled from up to 2 centers
+in the United States. Each site will enroll in parallel. It is expected that each site will enroll both
+AD and ALS patients; however, asymptomatic carriers of an ALS-causative gene will only be
+enrolled at the MGH site. Consenting individuals will be screened for eligibility, including
+collection of CSF by LP and testing of CCL2 levels. Up to 20 eligible participants (10 AD and 10
+ALS or asymptomatic carriers of an ALS-causative gene, with a limit of 5 asymptomatic carriers)
+will be enrolled and receive treatment with baricitinib 2 mg per day for 8 weeks, followed by
+baricitinib 4 mg per day for 16 weeks. Visits for enrolled participants will occur at Baseline, Week
+1, Week 8, Week 9, Week 16, and Week 24 or a Final Safety Visit. There will be a Follow-up
+Telephone Call 28 to 33 days after last dose of study drug. In addition to the LP at screening,
+enrolled participants will undergo LPs at Baseline, Week 8, and Week 16.
+All visit windows are consecutive calendar days and are calculated from Day 0, the day of the
+Baseline Visit.
+<<<SECTION 4.2  Interim Analyses>>>
+4.2  Interim Analyses
+Interim analyses will be conducted by the chief biostatistician to assess the ability of baricitinib to
+cross the blood-brain barrier and enter the CSF or to exert a pharmacodynamic effect on CCL2 in
+the CSF. One of the following two PK and PD criteria must be met in at least one participant to
+continue enrollment beyond 10 participants:
+1. PK criterion: free baricitinib concentration in the CSF > 0.1 µM from samples collected at
+the Week 8 or Week 16 LP, or
+2. PD criterion: 25% reduction of CCL2 concentration in the CSF from baseline to the Week
+8 or Week 16 LP.
+Interim analyses will be conducted approximately monthly (as long as there are new results to
+review) after the first participant completes Week 8 until at least 1 participant meets the
+continuation criterion or until 10 participants have completed the Week 8 LP and none has met the
+continuation criterion. Enrollment will be suspended after 10 participants enroll if no participant
+has yet met the continuation criterion, including no fewer than 2 AD, MCI, or SCD participants
+and no fewer than 2 ALS participants (of whom no more than 1 may be an asymptomatic carrier
+of an ALS-causative gene). No additional interim analyses will be conducted after the first
+participant meets the continuation criterion. Enrollment will be terminated if the continuation
+criterion has not been observed after 10 participants complete follow-up.
+<<<SECTION 4.3 Study Centers>>>
+4.3 Study Centers
+This study will be conducted at up to 2 centers in the US.
+<<<PAGE 27>>>
+NADALS Basket Trial Page 27 of 71
+<<<SECTION 4.4 Study Duration>>>
+4.4 Study Duration
+Participants will remain on treatment until the Week 24 Visit. Participants who withdraw consent
+or early terminate from the study will be asked to complete a Final Safety Visit when they notify
+the site of their desire to end participation or as soon as possible thereafter. All participants will be
+asked to complete a Follow-up Telephone Call 28 to 33 days after their last dose of study drug.
+<<<SECTION 4.5 Protocol Adherence>>>
+4.5 Protocol Adherence
+Each Site Investigator (SI) must adhere to the protocol detailed in this document except as required
+to protect the life or physical well-being of a participant in an emergency and must agree that any
+changes to the protocol must be approved by the NCRI Coordination Center (CC) and single
+Institutional Review Board(sIRB). Each SI will be responsible for enrolling only those study
+participants who have met protocol eligibility criteria.
+<<<PAGE 28>>>
+NADALS Basket Trial Page 28 of 71
+<<<SECTION 5 STUDY ENROLLMENT AND WITHDRAWAL>>>
+5 STUDY ENROLLMENT AND WITHDRAWAL
+<<<SECTION 5.1 Number of Study Participants>>>
+5.1 Number of Study Participants
+Up to 20 participants (10 AD and 10 ALS) will be enrolled and receive treatment.
+The 10 AD participants will include patients with Subjective Cognitive Decline (SCD),
+Mild neurocognitive disorder (mild cognitive impairment), or major neurocognitive
+disorder (possible or probable AD).
+The 10 ALS participants may include up to 5 asymptomatic carriers of an ALS-causative
+gene. The asymptomatic carriers of an ALS-causative gene will only be enrolled at the
+MGH site.
+<<<SECTION 5.2 Inclusion and Exclusion Criteria>>>
+5.2 Inclusion and Exclusion Criteria
+<<<SECTION 5.2.1 Inclusion Criteria>>>
+5.2.1 Inclusion Criteria
+Study participants meeting all of the following criteria will be allowed to enroll in the study:
+1. Must be 55-90 years old, inclusive and have one of the following:
+-  Subjective cognitive decline(SCD)
+- Minor neurocognitive disorder(mild cognitive impairment(MCI))
+- Major neurocognitive disorder(possible or probable AD)
+OR
+Must be 18-80 years old, inclusive and have one of the following:
+- Sporadic or familial ALS diagnosed as possible, laboratory-supported probable,
+probable, or definite as defined by the revised El Escorial criteria
+- Asymptomatic carrier of an ALS-causative mutation per CLIA-certified genetic
+testing results (MGH site only)
+2. Screening CSF level of
+- CCL2 level ≥ 250 pg/mL
+3. Must have received the Recombinant Zoster Vaccine (RZV, also known as Shingrix)
+within 4 years prior to treatment initiation. Note: Only one dose of RZV is needed prior
+to the Baseline Visit.
+- Investigators should review the vaccination status of their patients and follow the
+local guidelines for non-live vaccination of patients.
+4. For participants with ALS:
+- Must either not be taking or be taking any FDA approved treatment for ALS for at
+least 30 days or at least 1 cycle prior to screening.
+- ALSFRS-R score ≥ 27
+<<<PAGE 29>>>
+NADALS Basket Trial Page 29 of 71
+- Must be ambulatory, defined as able to walk at least within the home every day. Use
+of gait assistive devices is allowed. Some use of a wheelchair is also allowed.
+- Greater than 12-month life expectancy in the opinion of the investigator.
+For participants with AD:
+- MoCA score  8
+- For participants with major neurocognitive disorder(possible or probable AD), the
+participant must have one study partner that can accompany them to every visit and
+co-sign any informed consent document.
+- For participants with mild neurocognitive disorder or subjective cognitive decline,
+participants must have one study partner available to participate in the Baseline and
+Week 24 Visits.
+- Must either not be taking or be on a stable dose of any FDA approved treatment for
+AD for at least 30 days prior to screening, with the exception of the prohibited
+medications (listed in section 6.7.1).
+5. Ability to medically undergo LP in the opinion of the investigator (e.g., no bleeding
+disorder, allergy to local anesthetics, prior lumbar surgery which might make LP difficult,
+a skin infection at or near the LP site, evidence of high intracranial pressure, or anticipated
+difficulty getting into position for LP).
+6. Capable of providing informed consent and following study procedures.
+- In the case that a participant lacks the ability to provide informed consent, informed
+consent will be obtained from the participant’s surrogate representative and assent
+obtained from the participant.
+<<<SECTION 5.2.2 Exclusion Criteria>>>
+5.2.2 Exclusion Criteria
+Study participants meeting any of the following criteria during screening evaluations will be
+excluded from entry into the study:
+1. Women who are pregnant, breastfeeding, or planning to become pregnant during the trial.
+2. Any unstable clinically significant medical condition other than ALS or AD (e.g., within
+six months of baseline, including but not limited to myocardial infarction, angina
+pectoris, congestive heart failure, or neoplasm undergoing active treatment).
+3. Active cancer or history of cancer, except for the following: basal cell carcinoma,
+cervical carcinoma in situ, prostatic carcinoma in situ, or other malignancies curatively
+treated and with no evidence of disease recurrence for at least 5 years. Active cancer
+includes cancers with current disease manifestations or therapy that could adversely
+affect participant safety and longevity, create the potential for drug-drug interactions, or
+compromise the interpretation of study results.
+4. History of diverticulitis or bowel perforation.
+5. Active ulcerative colitis, Crohn’s disease, and history of peptic ulcer disease within the
+past 5 years or after the age of 65.
+6. Active, serious infection, including localized infection in the opinion of the investigator.
+<<<PAGE 30>>>
+NADALS Basket Trial Page 30 of 71
+7. Positive for latent or active tuberculosis (TB). Note: Patients with a history of latent or
+active TB must have had an adequate course of treatment documented prior to study
+participation.
+8. Evidence of active hepatitis B or C infection.
+9. History of severe hepatic or renal impairment.
+10. eGFR < 60 mL/min/1.73 m2
+11. Have any of the following specific abnormalities on screening laboratory tests:
+- ALT or AST >2.5x upper limits of normal (ULN)
+- Alkaline phosphatase (ALP) ≥2x ULN
+- Total bilirubin ≥1.5x ULN, Note: patients with elevated bilirubin secondary to Gilbert’s
+disease are eligible to participate in the study.
+- Hemoglobin <10 g/dL (100.0 g/L)
+- Total white blood cell count <3000 cells/μL (<3.00 x 103/μL or <3.00 billion/L)
+- Neutropenia (absolute neutrophil count [ANC] <1500 cells/μL) (<1.50 x 103/μL or <1.50
+billion/L)
+-  Lymphopenia (lymphocyte count <1000 cells/μL) (<1.00 x 103/μL or <1.00 billion/L)
+- Thrombocytopenia (platelets <100,000 cells/μL) (<100 x 103/μL or <100 billion/L)
+- Laboratory abnormalities in vitamin B12, thyroid stimulating hormone (TSH), or other
+common laboratory parameters that might contribute to cognitive dysfunction
+12. Personal history of pulmonary embolus (provoked or unprovoked) or deep vein
+thrombosis, or a history of unprovoked pulmonary embolus in a first-degree family
+member.
+13. Treatment with anticoagulants that, in the opinion of the investigator, would compromise
+the safety of the participant.
+14. Previous therapy with baricitinib.
+15. Current use of strong Organic Anion Transporter 3(OAT3) inhibitors (e.g., probenecid)
+or other prohibited medication (refer to Section 6.7.1) within 5.5 half-lives or 30 days of
+screening, whichever is longer.
+16. Receiving other experimental interventions for AD or ALS (with the exception of FDA
+approved drugs used for their indication and over the counter supplements administered
+outside of therapeutic trials) within 5.5 half-lives or 30 days of screening, whichever is
+longer.
+17. Received live vaccine within 12-weeks of screening or are expected  to receive a live
+vaccine during the course of the study.
+18. Use of permanent assisted ventilation (invasive ventilation via tracheostomy, or >22
+hours of non-invasive ventilation per day, e.g., via BiPAP).
+19. Have had any major surgery within 8 weeks prior to screening or will require major
+surgery during the study that, in the opinion of the investigator, would pose an
+unacceptable risk to the patient. Note: Placement of a gastrostomy tube and an
+intravenous port are not considered major surgery.
+<<<PAGE 31>>>
+NADALS Basket Trial Page 31 of 71
+<<<SECTION 5.3 Treatment Assignment Procedures>>>
+5.3 Treatment Assignment Procedures
+Each participant who meets all eligibility criteria and completes a Baseline Visit will be treated
+with baricitinib 2 mg per day for 8 weeks, followed by baricitinib 4 mg per day for 16 weeks.
+<<<SECTION 5.4 Permanent Discontinuation of Study Drug>>>
+5.4 Permanent Discontinuation of Study Drug
+A participant may choose to discontinue use of study drug at any time. A study participant’s use
+of study drug will be permanently discontinued by the SI or designee if:
+ Any clinical adverse event (AE), laboratory abnormality, concurrent illness, or other
+medical condition or situation occurs such that continued exposure to study drug would
+not be in the best interest of the participant.
+ The participant begins use of a prohibited medication.
+ The participant is non-compliant or lost to follow up.
+If the SI or designee is concerned about the use of a prohibited medication or other safety issues,
+then the study drug may have to be interrupted or discontinued. Any participant who is on study
+drug and needs to begin the use of any prohibited medication must immediately discontinue use
+of study drug and should not begin use of the prohibited medication before an appropriate wash-
+out period of 30 days occurs. A Follow-up Telephone Call should be conducted 28 to 33 days
+after their last dose of study drug. The Follow-up Telephone Call may be superseded by a
+normally scheduled study visit if timing is appropriate. Loss to follow-up should be prevented
+whenever possible.
+If two or more similar serious adverse events result in permanent discontinuation of study drug
+and are deemed to be at least possibly related to study drug, the DSMB will review these events
+promptly and make recommendations about potential changes to the study, including possible
+changes to protocol, updates to the informed consent form, or terminating the study early.
+<<<SECTION 5.5 Early Termination and Withdrawal of Consent>>>
+5.5 Early Termination and Withdrawal of Consent
+A participant may choose to terminate from the study or withdraw consent at any time.
+Early termination occurs when a participant indicates that they no longer wish to participate in
+future study procedures after completing the screening period. The participant should be
+encouraged to complete a Final Safety Visit when they notify the site of their desire to end
+participation or as soon as possible thereafter. If the participant is permanently discontinuting study
+drug at the same time, then the procedures for permanent discontinuation of study drug (Section
+5.4) should be followed. Participants who early terminate may still be contacted by study staff.
+Participants who withdraw consent are no longer research participants and should not be contacted
+by study staff to discuss their participation or collect further data. Site investigators should ensure
+that the distinction between early termination and withdrawal of consent is clear to participants
+when they choose to end their participation. Participants who withdraw consent should follow the
+procedures outlined above for early terminated participants. If the participant also wishes to
+exclude their previously collected personal health information, he or she should notify the site
+<<<PAGE 32>>>
+NADALS Basket Trial Page 32 of 71
+through an authorized letter and his or her biosamples will be destroyed and his or her data will no
+longer be included as part of the results for this study.
+Site study staff may lose contact with a participant for many reasons. Please refer to the Site
+MOP for guidance on the procedure if a participant is suspected to be lost to follow up.
+<<<SECTION 5.6 Suspension or Termination of Study>>>
+5.6 Suspension or Termination of Study
+This study may be suspended or prematurely terminated if, in the opinion of the investigator, there
+is sufficient reasonable cause. Written notification, documenting the reason for study termination,
+will be provided to the investigator or sponsor by the suspending or terminating party.
+Circumstances that may warrant suspension or termination include, but are not limited to:
+ Determination of unexpected, significant, or unacceptable risk to participants.
+ Enrollment is unsatisfactory.
+ Insufficient adherence to protocol requirements.
+ Data that are not sufficiently complete and evaluable.
+ Plans to modify, suspend or discontinue the development of the study drug.
+If the study is suspended or prematurely terminated, the sponsor will promptly inform the
+investigators/institutions, and the regulatory authority(ies) of the suspension or termination and
+the reason(s) for the suspension or termination. The sIRB  will also be informed promptly and
+provided the reason(s) for the suspension or termination by the sponsor or by the
+investigator/institution, as specified by the applicable regulatory requirement(s).
+<<<PAGE 33>>>
+NADALS Basket Trial Page 33 of 71
+<<<SECTION 6 TREATMENTS ADMINISTERED>>>
+6 TREATMENTS ADMINISTERED
+<<<SECTION 6.1 Treatments>>>
+6.1 Treatments
+<<<SECTION 6.1.1 Study Product Description>>>
+6.1.1 Study Product Description
+Baricitinib (Olumiant®, Eli Lilly and Company) is a JAKinhibitor with the chemical name 1-
+(ethylsulfonyl)-3-[4-(7H- pyrrolo[2,3-d]pyrimidin-4-yl)-1H-pyrazol-1-yl]azetidin-3-yl
+acetonitrile. Baricitinib has an empirical formula of C16H17N7O2S and a molecular weight of
+371.42 g/mol.
+Baricitinib has the following structural formula:
+Baricitinib tablets contain a recessed area on each face of the tablet surface and are available for
+oral administration as debossed, film-coated, immediate-release tablets. The 2 mg tablet is light
+pink, oblong, debossed with “Lilly” on one side and “2” on the other.
+Each tablet contains 2 mg of baricitinib and the following inactive ingredients: croscarmellose
+sodium, magnesium stearate, mannitol, microcrystalline cellulose, ferric oxide, lecithin (soya),
+polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide.
+<<<SECTION 6.2 Acquisition>>>
+6.2 Acquisition
+Each site will obtain baricitinib from their institution’s local pharmacy or from supply donated
+from Eli Lilly, dependent upon availability.
+<<<SECTION 6.3 Formulation, Packaging, and Labeling>>>
+6.3 Formulation, Packaging, and Labeling
+Study participants will take one 2 mg tablet of baricitinib by mouth once per day for the first 8
+weeks. Participants will take two 2 mg tablets of bariticitinib by mouth once per day for the
+remaining 16 weeks.
+<<<PAGE 34>>>
+NADALS Basket Trial Page 34 of 71
+Baricitinib is prepackaged in bottles containing 30 tablets and ready for oral administration.
+Study drug will be dispensed at the following visits: Baseline, Week 8, and Week 16. Please
+refer to the Pharmacy Manual for further details on drug dispensing at specified visits.
+<<<SECTION 6.3.1 Product Storage and Stability>>>
+6.3.1 Product Storage and Stability
+Study drug should be stored at 20° to 25°C (68° to 77°F); excursions are permitted to 15° to 30°C
+(59° to 86°F).
+6.3.2 Dosage, Preparation and Administration of Study Intervention/Investigational
+Product
+Since baricitinib is FDA-approved for rheumatoid arthritis, alopecia, and COVID-19, we will
+follow the guidelines in the package insert. Baricitinib is given orally with or without food. If
+needed, baricitinib tablet can administered through a G-tube. Please refer to the Pharmacy Manual
+for further details on drug administration.
+Baricitinib should be taken at roughly the same time every day, except for days when an LP will
+be performed. At study visits with LPs, participants will dose in clinic from home supply and time
+of dose will be recorded by the study team.
+6.4 Modification of Study Intervention/Investigational Product for a Participant
+Any dosage adjustment, including the reason for and dates of adjustment, will be documented in
+the CRF for each participant requiring this manipulation. The SI or licensed physician Sub-
+Investigator may interrupt, reduce, or discontinue the study drug in its entirety for adverse events
+(AEs) thought to be related to study drug or for other reason during the trial (the reason for and
+dates of suspension must be documented).
+If the event is serious or life threatening and deemed to be definitely drug related, study drug
+should be discontinued immediately. Study participants must remain off study drug permanently.
+Participants may not resume study drug. All AEs will be followed to resolution or 28 to 33 days
+after last dose of study drug.
+<<<SECTION 6.4.1 Serious Infections and Cytopenias>>>
+6.4.1 Serious Infections and Cytopenias
+Baricitinib should not be administered in patients with active infection. If a participant develops
+a serious infection, administration of baricitinib should be interrupted until the infection is
+controlled. Dose can be resumed or reduced at the investigator’s discretion once the infection is
+controlled.
+Dosage of baricitinib should be modified in cases of lymphopenia, neutropenia, anemia, and
+thrombocytopenia according to the tables below:
+<<<PAGE 35>>>
+NADALS Basket Trial Page 35 of 71
+Low Absolute Lymphocyte Count (ALC)
+Lab Value (cells/mm3) Recommendation
+ALC greater than or equal to 500 Maintain dose
+ALC less than 500
+On 4 mg dose, interrupt baricitinib until ALC greater than or equal to 500,
+resume at 2 mg dose
+On 2 mg dose, do not resume dosing with baricitinib
+Low Absolute Neutrophil Count (ANC)
+Lab Value (cells/mm3)  Recommendation
+ANC greater than or equal to 1000  Maintain dose
+ANC less than 1000
+On 4 mg dose, interrupt baricitinib until ANC greater than or equal to 1000,
+resume at 2 mg dose
+On 2 mg dose, do not resume dosing with baricitinib
+Low Hemoglobin Value
+Lab Value (g/dL)  Recommendation
+Greater than or equal to 8  Maintain dose
+Less than 8
+On 4 mg dose, interrupt baricitinib until hemoglobin greater than or equal
+to 8, resume at 2 mg dose
+On 2 mg dose, do not resume dosing with baricitinib
+Platelets
+Lab Value (plts/uL)  Recommendation
+Greater than or equal to 50K  Maintain dose
+Less than 50K
+On 4 mg dose, interrupt baricitinib until platelets greater than or equal to
+50, resume at 2 mg dose
+On 2 mg dose, do not resume dosing with bariticinib
+<<<PAGE 36>>>
+NADALS Basket Trial Page 36 of 71
+Elevated ALT and/or AST
+Lab Value   Recommendation
+Less than 5x ULN Maintain dose
+Greater than or equal to 5x ULN
+Interupt baricitinib until ALT and/or AST less than 5x ULN
+*Please refer to Dosage Discontinuation(Section 6.4.2) for study drug
+discontinuation thresholds related to elevated liver function tests.
+If lab abnormalities occur, clinical monitoring may be required. Please refer to the Study MOP
+for additional guidance.
+Bariticinib can be re-escalated per investigator discretion after discussion with the Medical
+Monitor.
+<<<SECTION 6.4.2 Dosage Discontinuation>>>
+6.4.2 Dosage Discontinuation
+Reasons for discontinuation of study medication may include an AE, Medical Monitor or Site
+Investigator recommendation, study termination, protocol deviation, loss to follow-up, participant
+request, or death. All serious adverse events (SAEs) that occur in a participant who has
+discontinued early must be recorded and reported within 24-hours of awareness.
+Discontinuation of the investigational product for abnormal liver tests should be considered by the
+investigator when a participant meets any of the following conditions:
+• ALT or AST >8x ULN
+• ALT or AST >5x ULN for more than 2 weeks after temporary interruption of
+investigational product
+• ALT or AST >3x ULN and total bilirubin level (TBL) >2x ULN or international
+normalized ratio (INR) >1.5 (Note: patients with elevated bilirubin secondary to Gilbert’s disease
+do not need to discontinue study drug)
+• ALT or AST >3x ULN with the appearance of fatigue, nausea, vomiting, right upper
+quadrant pain or tenderness, fever, rash, and/or eosinophilia (>5%)
+• ALP >3x ULN that is deemed to be of liver origin and drug-related
+• ALP >2.5x ULN and TBL >2x ULN( Note: patients will elevated bilirubin secondary to
+Gilberts disease do not need to discontinue study drug.)
+• ALP >2.5x ULN with the appearance of fatigue, nausea, vomiting, right upper-quadrant
+pain or tenderness, fever, rash, or eosinophilia(>5%)
+In addition, participants will be discontinued from investigational product in the following
+circumstances:
+• Malignancy (except for basal cell carcinoma, cervical carcinoma in situ, and prostatic
+carcinoma in situ)
+• HBV DNA detected with a value above limit of quantitation
+• Development of a venous thromboembolism(VTE) during the study
+<<<PAGE 37>>>
+NADALS Basket Trial Page 37 of 71
+Participants who discontinue study drug prematurely (whether or not they are continuing on the
+study or early terminating) will be encouraged to participate in a Follow-up Telephone Call 28 to
+33 days after their last dose of study drug.
+SAEs will be followed for resolution for 28 to 33 days after a participant’s last dose of study drug,
+regardless of whether they prematurely discontinued study drug or completed 24 weeks of
+treatment.
+<<<SECTION 6.5 Study Drug Accountability Procedures>>>
+6.5 Study Drug Accountability Procedures
+At the completion of the study, there will be a final reconciliation of drug shipped, drug consumed,
+and drug remaining. This reconciliation will be logged on the drug reconciliation form, signed and
+dated. Any discrepancies noted will be investigated, resolved, and documented prior to return or
+destruction of unused study drug. Drug destroyed on site will be documented in the study files.
+<<<SECTION 6.6 Assessment of Participant Compliance with Study Drug>>>
+6.6 Assessment of Participant Compliance with Study Drug
+Participants will be instructed to return empty and unused study medication containers throughout
+the study and at the Final Safety Visit. Site personnel will review returned and unused study
+medication to determine compliance during each clinic visit.
+<<<SECTION 6.7 Prior and Concomitant Therapy>>>
+6.7 Prior and Concomitant Therapy
+Throughout the study, SIs may prescribe concomitant medications or treatments deemed necessary
+to provide adequate supportive care provided that the medications are licensed in the US. Study
+participants should not receive other experimental agents during the study. This includes marketed
+agents at experimental dosages that are being tested for the treatment of ALS or AD. Any
+investigational therapy being used or evaluated for the treatment of ALS or AD is prohibited 30
+days or 5.5 half-lives prior to the Screening Visit, whichever is longer and throughout the study.
+For investigator support, a list of experimental therapies will be maintained.
+All concomitant medications and treatments and significant non-drug therapies including
+supplements and assistive devices received by a participant should be recorded on the appropriate
+source document and eCRF.   COVID-19 vaccinations and booster shots will also be documented
+as concomitant medications.
+<<<SECTION 6.7.1 Prohibited Medications and Contraindications>>>
+6.7.1 Prohibited Medications and Contraindications
+Prohibited Medications
+Participants must stop taking prohibited medications 30 days or 5.5. half-lives prior to the
+Screening Visit, whichever is longer.
+Throughout the course of the trial, study participants should not take the following medications. If
+an investigator learns that a participant has begun therapy with any of these medications, this
+should be reported to the Medical Monitor and Coordination Center immediately and action should
+<<<PAGE 38>>>
+NADALS Basket Trial Page 38 of 71
+be taken to discontinue the prohibited medication. If, for safety or health reasons, or by participant
+choice, the prohibited medication cannot be stopped, then the study medication should be stopped.
+Prohibited medications include:
+ Experimental interventions for AD or ALS (with the exception of FDA approved drugs used
+for their indication and over the counter supplements administered outside of therapeutic trials)
+ Amyloid Beta-Directed Antibodies:
+o Aducanumab (Aduhelm)
+o Lecanemab (Leqembi)
+o Donanemab
+ Strong OAT3 Inhibitors:
+o Probenecid
+ Biologic DMARDs:
+o Jakafi (ruxolitinib)
+o Xeljanz (tofacitinib)
+o Humira (adalimumab)
+o Enbrel (etanercept)
+o Arava (leflunomide)
+o Otrexup, Rasuvo, Rheumatrex and Trexall (methotrexate)
+o Azulfidine (Sulfasalazine)
+o Rituxan (rituximab)
+o Remicade (infliximab)
+o Cimizia (certolizumab pegol)
+o Simponi (golimumab)
+o Kineret (anakinra)
+o Actemra (tocilizumab)
+ Potent immunosuppresants:
+o Azasan (azathioprine)
+o Neoral, Sandimmune, and Gengraf (cyclosporine)
+o Prograf (tacrolimus) (note: topical cream used to treat eczema not excluded)
+ Live-attenuated or viral vector vaccines:
+o Measles
+o Mumps
+o Rubella
+o Vaccinia
+o Rotavirus
+o Varicella
+o Zostavax Zoster
+o Intranasal influenza
+o COVID-19 (Please note, all COVID vaccines are viral vector. J&J / Janssen is a AAV
+viral vector.)
+<<<PAGE 39>>>
+NADALS Basket Trial Page 39 of 71
+Pregnancy & Nursing Mothers
+There are no adequate and well-controlled studies in pregnant women. Participants or partners of
+male participants should not become pregnant during the study or for at least 1 week after stopping
+study drug. If a female participant becomes pregnant, study treatment must be discontinued
+immediately. If a female participant becomes pregnant during the course of the study, the Medical
+Monitor and Coordination Center should be contacted immediately.
+It is not known if baricitinib is excreted in breast milk. Caution should be exercised; women
+should not breastfeed during treatment with baricitinib.
+<<<PAGE 40>>>
+NADALS Basket Trial Page 40 of 71
+<<<SECTION 7 STUDY SCHEDULE>>>
+7 STUDY SCHEDULE
+No study procedures should be performed prior to the signing of the informed consent form (ICF).
+All participants will sign an ICF prior to undergoing any study tests or procedures.
+For ALS participants taking IV or oral edaravone, all LP visits(Screening, Baseline, Week 8, and
+Week 16) must occur at least 7 days after the last dose of edaravone in a given cycle and can occur
+up until the participant begins dosing for the subsequent edaravone cycle.
+At Week 8,Week 16, and Week 24, it is recommended that administration of study drug is one of
+the first procedures completed. Participants will dose in clinic from home supply and the time of
+dosing will be recorded by the study team. The research blood draw must be done before the LP
+and 1 hour (± 10 minutes) after dosing. The LP must be performed within 2 to 4 hours after dosing,
+ideally 2 hours post-dose. Apart from the blood draws and LP, the order of testing can be
+performed at the discretion of each Site Investigator (SI).
+Option for Remote Visits
+Study visits will be conducted in clinic unless otherwise specified. Participants have the option
+for Week 1 and Week 9 Visits to be conducted in clinic or remotely. Remote visits will include
+local safety lab collection as well as a telehealth or telephone visit (i.e., institutional-approved,
+HIPAA-compliant remote method). The following assessments will be collected via telehealth or
+telephone visit: C-SSRS, survival assessment, concomitant medication review, and AE review.
+Vital signs will not be collected at remote visits. If safety labs will be collected at a local facility
+outside of the study center, please refer to the Site MOP for guidance on collecting the
+appropriate documentation from the facility and notify the NCRI Project Management team
+before use.
+Visit windows are consecutive calendar days and the target visit dates are calculated from the
+Baseline Visit.
+Participants who withdraw consent or early terminate from the study will be asked to complete a
+Final Safety Visit when they notify the site of their desire to end participation or as soon as possible
+thereafter. All participants will be asked to have a Follow-up Telephone Call 28 to 33 days after
+their last dose of study drug.
+<<<SECTION 7.1 Screening Visit>>>
+7.1 Screening Visit
+Screening visit activities can be completed over a period of 30 days except for the first dose of the
+Shingrix vaccine, if not already received within 4 years prior to treatment initiation. The following
+procedures will be performed in clinic to determine the participant’s eligibility for the study:
+o Obtain written informed consent from participant (if feasible) and caregiver (if applicable)
+o Assess inclusion and exclusion criteria
+o Obtain medical history and demographics
+o Obtain ALS or AD diagnosis history
+o Assess El Escorial Criteria (ALS patients only)
+<<<PAGE 41>>>
+NADALS Basket Trial Page 41 of 71
+o Measure vital signs including height and weight
+o Perform physical examination
+o Perform neurological examination
+o Perform 12-lead electrocardiogram (ECG)
+o Administer ALSFRS-R questionnaire (ALS patients only)
+o Perform Slow Vital Capacity (SVC) (ALS patients only)
+o Administer Montreal Cognitive Assessment (MoCA) (AD only)
+o Administer the Baseline Columbia-Suicide Severity Scale (C-SSRS) questionnaire
+o Collect blood sample for:
+o Clinical laboratory assessments, including Hematology (CBC with differential),
+Comprehensive Metabolic Panel with Liver Function Tests and Coagulation
+o Vitamin B12, Thyroid Stimulating Hormone(TSH) and Folate
+o HIV, Hepatitis B and Hepatitis C
+o Research (Biomarker analysis, immune cell profiling and storage)
+o Collect urine sample for:
+o Urinalysis
+o Urine Pregnancy Test (for woman of childbearing potential [WOCBP]) with result
+prior to LP
+o Perform testing for Tuberculosis (TB)
+o Perform LP for CSF collection
+o Note: Review of recent CBC and Coagulation results is required to determine if LP
+can be performed.
+o Note: Results of CSF examination are required to determine study eligibility. If a
+patient had a LP and CSF collected within 6 months of the Screening Visit, please
+contact the NCRI Coordination Center to confirm if this CSF sample could be used
+in place of the screening LP. Allowing CSF from prior LP will be determined on a
+case by case basis.
+o Administer 1st dose of Recombinant Zoster Vaccine (RZV; also known as Shingrix) unless
+participant has documentation of vaccination within 4 years prior to treatment initiation
+o Note: The first dose of RZV should be administered after all other eligibility criteria
+have been confirmed and at least 14 days prior to the Baseline Visit.
+o Review and document concomitant medications and therapies
+o Assess and document Adverse Events (AEs) after participant signs ICF
+<<<SECTION 7.1.1 Screen Failures>>>
+7.1.1 Screen Failures
+Any participant who signs consent will be considered enrolled in the study. The Screening period
+starts when a participant signs consent and ends with drug initiation at the Baseline Visit. Any
+enrolled participant who fails to complete the screening period will be considered a screen fail. If
+a participant fails screening, at a minimum, the following information should be captured and
+entered in the Electronic Data Capture (EDC) System:
+o Inclusion/Exclusion criteria
+o Demographics
+O Reason for screen failure
+<<<PAGE 42>>>
+NADALS Basket Trial Page 42 of 71
+<<<SECTION 7.2  Baseline Visit>>>
+7.2  Baseline Visit
+This visit will take place 53 to 56 days after the Screening LP is performed. The participant
+should take their first dose of study drug after all other visit activities have been completed.
+The following procedures will be performed:
+ Confirm eligibility criteria are still met
+ Measure vital signs & weight
+ Administer ALSFRS-R questionnaire (ALS patients only)
+ Optional: Perform SVC (ALS patients only)
+ NIH Toolbox (Asymptomatic carriers of an ALS-causative gene only, MGH site only)
+ Administer Neuropsychiatric Inventory Questionnaire (NPI-Q) (AD patients only)
+ Administer Alzheimer’s Disease Assessment Scale-Cognitive Subscale (ADAS-Cog) (AD
+patients only)
+ Administer AROMHA olfactory battery
+ Administer the Since Last Visit C-SSRS questionnaire
+ Perform survival assessment
+ Collect blood sample for:
+o Clinical laboratory assessments, including Hematology (CBC with differential),
+Comprehensive Metabolic Panel with Liver Function Tests, Coagulation and a
+Lipid panel.
+o Research (for pre-dose PK, Biomarker analysis, Immune cell profiling & storage)
+o Genetic Testing
+ Collect urine sample for:
+o Urinalysis
+o Urine Pregnancy Test (for WOCBP)
+o Future Research
+ Perform LP for CSF collection
+o Note: Review of recent CBC and Coagulation results are required to confirm if LP
+can be performed.
+ Review and document concomitant medications and therapies
+ Assess and document AEs
+ Dispense study drug
+ Administer first dose of study drug and record time of administration
+o Start barticinib 2mg once per day dosing
+o Participant should be observed at the site for 60 minutes by an appropriate
+healthcare staff member according to the site’s institutional/state regulations to
+assess medical status and any immediate reaction to study drug
+<<<SECTION 7.3  Week 1 Visit>>>
+7.3  Week 1 Visit
+This visit will take place 7 ±2 days after the Baseline Visit. This visit can be conducted in clinic
+or remotely. The following procedures will be performed:
+ Measure vital signs & weight (In clinic visits only)
+ Administer the Since Last Visit C-SSRS questionnaire
+ Perform survival assessment
+<<<PAGE 43>>>
+NADALS Basket Trial Page 43 of 71
+ Collect blood sample for:
+o Clinical laboratory assessments, including Hematology (CBC with differential),
+Comprehensive Metabolic Panel with Liver Function Tests and Coagulation
+ Collect urine sample for:
+o Urinalysis
+o Urine Pregnancy Test (for WOCBP)
+ Review and document concomitant medications and therapies
+ Assess and document AEs
+<<<SECTION 7.4  Week 8 Visit>>>
+7.4  Week 8 Visit
+This visit will take place 56 (- 4 days or +1 day) after the Baseline Visit. The participant should
+take study drug from home supply at the site upon beginning this visit due to timing of LP
+and research blood draw. The following procedures will be performed:
+ Administer study drug in clinic from home supply and record time of administration
+ Administer 2nd dose of RZV at this visit (or at any visit 2 to 6 months after 1 st dose per
+CDC guidance) unless participant has documentation of RZV within 4 years prior to
+treatment initiation.
+ Measure vital signs & weight
+ Administer ALSFRS-R questionnaire (ALS patients only)
+ Optional: Perform SVC (ALS patients only)
+ Administer the Since Last Visit C-SSRS questionnaire
+ Perform survival assessment
+ Collect blood and urine sample for:
+o Clinical laboratory assessments, including Hematology (CBC with differential),
+Comprehensive Metabolic Panel with Liver Function Tests, Coagulation and a
+Lipid Panel.
+o Research (for PK, Biomarker analysis, Immune cell profiling and storage)
+ Collect urine sample for:
+o Urinalysis
+o Urine Pregnancy Test (for WOCBP) with result prior to LP
+o Future Research
+ Perform LP for CSF collection
+o Note: Review of recent CBC and Coagulation results are required to confirm if LP
+can be performed.
+ Review and document concomitant medications and therapies
+ Assess and document AEs
+ Perform study drug accountability and collect all unused drug and empty containers
+ Dispense study drug
+o Start baricitinib 4 mg once per day dosing
+<<<PAGE 44>>>
+NADALS Basket Trial Page 44 of 71
+<<<SECTION 7.5  Week 9 Visit>>>
+7.5  Week 9 Visit
+This visit will take place 63 +2 days after the Baseline Visit. This visit can be conducted in clinic
+or remotely. The following procedures will be performed:
+ Measure vital signs & weight (In clinic visits only)
+ Administer the Since Last Visit C-SSRS questionnaire
+ Perform survival assessment
+ Collect blood sample for:
+o Clinical laboratory assessments, including Hematology (CBC with differential),
+Comprehensive Metabolic Panel with Liver Function Tests and Coagulation
+ Collect urine sample for:
+o Urinalysis
+o Urine Pregnancy Test (for WOCBP)
+ Review and document concomitant medications and therapies
+ Assess and document AEs
+<<<SECTION 7.6 Week 16 Visit>>>
+7.6 Week 16 Visit
+The Week 16 Visit will take place 112 ± 4 days after the Baseline Visit. The participant should
+take study drug from home supply at the site upon beginning this visit due to timing of LP
+and blood draw.
+ Administer study drug in clinic from home supply and record time of administration
+ Measure vital signs & weight
+ Administer the Since Last Visit C-SSRS questionnaire
+ Perform survival assessment
+ Collect blood sample for:
+o Clinical laboratory assessments, including Hematology (CBC with differential),
+Comprehensive Metabolic Panel with Liver Function Tests, Coagulation and a
+Lipid Panel.
+o Research (for PK, Biomarker analysis, Immune cell profiling and storage).
+ Collect urine sample for:
+o Urinalysis
+o Urine Pregnancy Test (for WOCBP) with result prior to LP
+o Future Research
+ Perform LP for CSF collection
+o Note: Review of recent CBC and Coagulation results are required to confirm if LP
+can be performed.
+ Review and document concomitant medications and therapies
+ Assess and document AEs
+ Perform study drug accountability and collect all unused drug and empty containers
+ Dispense study drug
+o Continue baricitinib 4mg once per day dosing.
+<<<PAGE 45>>>
+NADALS Basket Trial Page 45 of 71
+<<<SECTION 7.7   Week 24 Visit/Final Safety Visit>>>
+7.7   Week 24 Visit/Final Safety Visit
+The Week 24 Visit will take place 168 ± 4 days after the Baseline Visit. The following
+procedures will be performed at this visit:
+ Administer study drug in clinic from home supply and record time of administration
+ Measure vital signs & weight
+ Perform physical examination
+ Perform neurological examination
+ Administer ALSFRS-R questionnaire (ALS patients only)
+ Perform SVC (ALS patients only)
+ NIH Toolbox (Asymptomatic carriers of an ALS-causative gene only, MGH site only)
+ Administer NPI-Q (AD patients only)
+ Administer ADAS-Cog (AD patients only)
+ Administer MoCA (AD patients only)
+ Administer AROMHA olfactory battery
+ Administer Since Last Visit C-SSRS questionnaire
+ Administer End of Study Form
+ Administer Global Impression of Change survey
+o Global Impression of Change surveys will be completed by the study participant,
+study partner (AD patients only) and clinician
+ Perform survival assessment
+ Collect blood sample for:
+o Clinical laboratory assessments, including Hematology (CBC with differential),
+Comprehensive Metabolic Panel with Liver Function Tests, Coagulation and a
+Lipid Panel.
+o Research (for PK, Biomarker analysis, Immune cell profiling and storage).
+ Collect urine sample for:
+o Urinalysis
+o Urine Pregnancy Test (for WOCBP)
+o Future Research
+ Perform study drug accountability and collect all unused drug and empty containers
+ Review and document concomitant medications and therapies
+ Assess and document AEs
+Participants who withraw consent or early terminate from the study will be asked to complete a
+Final Safety Visit when they notify the site of their desire to end participation or as soon as possible
+thereafter. All the activities outlined above for the Week 24 Visit will be performed at a Final
+Safety Visit.
+<<<SECTION 7.8 Follow-up Telephone Call>>>
+7.8 Follow-up Telephone Call
+The Follow-up Telephone Call will take place 28 to 33 days after a participant’s last dose of
+study drug. All participants will be asked to complete a Follow-up Telephone Call. Participants
+who withdraw consent will also be asked to complete the Follow-up Telephone Call if they were
+<<<PAGE 46>>>
+NADALS Basket Trial Page 46 of 71
+still taking study drug within 28 days of their withdrawal, in addition to the Final Safety Visit.
+The following assessments will be collected:
+o Review and document concomitant medications and therapies
+o Assess and document AEs
+<<<SECTION 7.9 Protocol Deviations>>>
+7.9 Protocol Deviations
+A protocol deviation is any noncompliance with the clinical trial protocol, Good Clinical Practice
+(GCP), or Manual of Procedures requirements.  The noncompliance may be either on the part of
+the participant, the site investigator, or the study site staff.  As a result of deviations, corrective
+actions are to be developed by the site and implemented promptly.
+All deviations from the protocol must be addressed in the participant’s source documents and will
+be tracked by the Monitoring team. All major protocol deviations will be sent to the single IRB.
+<<<SECTION 7.10 Missed Visits and Procedures>>>
+7.10 Missed Visits and Procedures
+Missed visits and any procedures not performed (not attempted) for reasons other than illness,
+injury or progressive disability (i.e. participant is physically unable to perform test) will be
+reported as protocol deviation.
+Procedures or visits not performed due to illness, injury or disability, including procedures that
+were attempted but failed (i.e. blood samples unable to be drawn after multiple attempts, or weight
+unable to be obtained due to participant immobility) will not be reported as protocol deviations.
+Study drug compliance that is outside the limits set in the study operations manual will be reported
+as a protocol deviation.
+Details and specific instructions regarding protocol deviations, including any exceptions to this
+standard procedure, are found in the study operations manual.
+<<<SECTION 7.11 COVID-19 Pandemic>>>
+7.11 COVID-19 Pandemic
+COVID-19 Vaccination-It is strongly recommended that participants receive COVID-19
+vaccinations before entering the trial as applicable per CDC/FDA guidelines. COVID-19
+vaccinations received during the trial will be recorded in the EDC as concomitant medications.
+As there are two types of COVID-19 vaccinations available, live  and non-live, Baricitinib use
+with live vaccine is not recommended.
+- If a participant receives a COVID-19 vaccine prior to the trial, it must be received at least
+14 days prior to the Screening Visit.
+- If a participant receives a COVID-19 vaccine during the trial, it must be received at least
+14 days prior to next LP visit.
+<<<PAGE 47>>>
+NADALS Basket Trial Page 47 of 71
+COVID-19 Reporting -In the event that a study participant is diagnosed with COVID-19
+infection, local health authority recommendations regarding treatment should be followed and
+the event should be reported as an AE/SAE depending on severity of infection and diagnosis.
+COVID-19 Site Access Limitations-In the event the COVID-19 pandemic results in site
+closures or limited access to a study site, the site should contact the NCRI Coordination Center
+to review the impact on the visit schedule of enrolled participants. Assessments that can be done
+remotely may proceed as outlined in Section 7.0 of the protocol(Option for Remote Visits). The
+study team will be reviewing the impact of COVID-19 on an ongoing basis and will make
+updates to the study protocol as indicated.
+<<<PAGE 48>>>
+NADALS Basket Trial Page 48 of 71
+<<<SECTION 8 CLINICAL ASSESSMENTS AND OUTCOME MEASURES>>>
+8 CLINICAL ASSESSMENTS AND OUTCOME MEASURES
+<<<SECTION 8.1 Clinical Variables>>>
+8.1 Clinical Variables
+Assessments will be performed at designated time-points throughout the study for clinical
+evaluation.  In addition to the assessments evaluated below, participants will provide information
+related to demographics, medical history, including ALS and AD diagnostic history, as well as
+concomitant medication usage.
+<<<SECTION 8.1.1 Vital Signs, Weight & Height>>>
+8.1.1 Vital Signs, Weight & Height
+Vital signs will be obtained after the participant has been in a seated position for several minutes.
+Vital signs, including systolic and diastolic blood pressure, pulse rate (radial artery)/minute,
+respiratory rate/minute, temperature and weight will be assessed at specified visits.  Height will be
+measured and recorded at the Screening Visit only. Vital signs will not be collected at remote study
+visits.
+<<<SECTION 8.1.2 Clinical Laboratory Assessments>>>
+8.1.2 Clinical Laboratory Assessments
+The following laboratory tests will be performed for safety:
+o Hematology with differential panel: complete blood count with differential (hematocrit,
+hemoglobin, platelet count, Red Blood Count (RBC) indices, Total RBC, Total White
+Blood Count (WBC), and WBC & differential).
+o Comprehensive Metabolic Panel including Liver function tests (LFTs): alanine
+aminotransferase (ALT (SGPT)), aspartate aminotransferase (AST (SGOT)), albumin,
+alkaline phosphatase, bicarbonate, blood urea nitrogen, calcium, chloride, creatinine,
+glucose, potassium, sodium, total bilirubin, total protein
+o  Magnesium and phosphate
+o Coagulation: prothrombin time (PT), partial thromboplastin time (PTT) and international
+normalized ratio (INR).
+o Urinalysis: bilirubin, blood, clarity, color, glucose, ketones, nitrate, pH, protein, specific
+gravity, urobilinogen and WBC screen.
+o Urine pregnancy test for women of childbearing potential (WOCBP).
+o Lipid panel: total cholesterol, triglycerides, high-density lipoprotein (HDL) and low-
+density lipoprotein (LDL); assessed at the Baseline, Week 8 and Week 24 or Final Safety
+Visit.
+<<<PAGE 49>>>
+NADALS Basket Trial Page 49 of 71
+o Vitamin B12, Thyroid Stimulating Hormone(TSH) and Folate; assessed at the Screening
+Visit only.
+o HIV, Hepatitis B panel and Hepatitis C panel; assessed at the Screening Visit only.
+o Tuberculosis testing (Quantiferon, T-SPOT, or skin test); assessed at the Screening Visit
+only.
+o If a participant travels to an endemic area over the course of the study, TB testing
+should be repeated.
+All participants will have safety laboratory tests at all visits during the treatment period as outlined
+in the protocol. These samples will be analyzed at each site’s local laboratory. For visits conducted
+remotely, safety lab collection may be performed and analyzed at a local lab facility. The SI may
+order additional testing, if needed, to further assess an AE, or if there is any suspicion that a
+participant may be pregnant, throughout the course of the study.
+<<<SECTION 8.1.3 Blood draw for Pharmacokinetic and Biomarker Analysis>>>
+8.1.3 Blood draw for Pharmacokinetic and Biomarker Analysis
+Pharmacokinetic Analysis
+Participants will have blood drawn to assess baricitinib concentrations.  At the Baseline Visit, the
+blood sample will be collected pre-dose.  At Week 8,Week 16, and Week 24, the research blood
+sample will be collected 1 hour (± 10 minutes) post-dose and must be collected prior to the LP.
+Every attempt should be made to collect samples within the allotted timeframe. The time of drug
+administration and sample collection will be recorded.
+Biomarker Analysis
+Blood will also be collected for biomarker analysis, including (but not limited to) the following
+biomarkers: IL-6, CCL2, pPKR, PKR, pPKR/PKR ratio, CXCL10, IFNG and TAR DNA-
+binding protein 43 (TDP-43) levels and immune cell profiling in the plasma.
+All samples will be labeled with a code.  The code will not include any identifiable information.
+Specific instructions regarding the collection, processing, storage and shipment of these samples
+will be provided in the Site Manual of Procedures (MOP).
+Future Research
+Remaining blood samples will be stored in a sample repository. Samples will be stored in
+biorepositories respective to their disease at MGH.These samples will be used for future research
+in motor neuron diseases. Any research performed on the samples is for research purposes only.
+There is no scheduled date on which the samples will be destroyed.  Samples may be stored for
+research until they are used, damaged, decayed or otherwise unfit for analysis.
+<<<SECTION 8.1.4 Blood draw for Genetic Testing>>>
+8.1.4 Blood draw for Genetic Testing
+All participants will provide a blood sample at the Baseline Visit for C9ORF72 and APOE genetic
+testing, regardless of whether or not they have previously received testing for these genes. These
+<<<PAGE 50>>>
+NADALS Basket Trial Page 50 of 71
+samples will be sent to Prevention Genetics for analysis. Study participants will have the option to
+learn the results of genetic testing. Both C9ORF72 and APOE genetic test results will be returned
+to AD and ALS participants in the disclosure group. The study investigator will discuss genetic
+testing results and their implications with participants.  If a participant decides not to learn results
+of genetic testing, they will be placed in the nondisclosure group. Results of genetic testing will
+not impact participation in the study.
+Specific instructions regarding the collection, processing, storage and shipment of these samples
+will be provided in the Site Manual of Procedures (MOP).
+<<<SECTION 8.1.5  Urine Sample for Future Research>>>
+8.1.5  Urine Sample for Future Research
+All participants will provide a urine sample for storage in a biorepository at the following study
+visits: Baseline, Week 8, Week 16 and Week 24. Samples will be stored in biorepositories
+respective to their disease at MGH. These samples will be used for future research in motor
+neuron disease. Coded samples will be stored.
+8.1.6 12-Lead Electrocardiogram (ECG)
+A standard 12-lead ECG will be performed at the Screening Visit.  Tracings will be reviewed
+locally.  A copy of the tracings will be kept on site as part of the source documents.
+<<<SECTION 8.1.7 Physical Examination>>>
+8.1.7 Physical Examination
+A physical examination will be performed at the Screening and Week 24 or Final Safety Visit.
+The following systems will be examined: head/neck, eyes, ears, nose/throat, cardiovascular, lungs,
+abdomen, musculoskeletal, central nervous system, extremities, and skin.
+<<<SECTION 8.1.8 Neurological Examination>>>
+8.1.8 Neurological Examination
+A neurological examination will be performed at the Screening and Week 24 or Final Safety Visit.
+Examination will include assessment of mental status, cranial nerves, motor and sensory function,
+reflexes, coordination, and stance/gait.
+<<<SECTION 8.1.9 Columbia Suicide Severity Rating Scale (C-SSRS)>>>
+8.1.9 Columbia Suicide Severity Rating Scale (C-SSRS)
+The US FDA recommends the use of a suicidality assessment instrument that maps to the
+Columbia Classification Algorithm for Suicide Assessment (C-CASA)(19). The C-CASA was
+developed to assist the FDA in coding suicidality data accumulated during the conduct of clinical
+trials of antidepressant drugs. One such assessment instrument is the Columbia Suicide Severity
+Rating Scale (C-SSRS)(20-21). The C-SSRS involves a series of probing questions to inquire
+about possible suicidal thinking and behavior.
+At the Screening Visit, the C-SSRS Baseline version will be administered.  This version is used to
+assess suicidality over the participant’s lifetime and specifically for the previous 6-month time
+period.
+<<<PAGE 51>>>
+NADALS Basket Trial Page 51 of 71
+At all clinic visits after the Screening Visit, the Since Last Visit version of the C-SSRS will be
+administered at study sites. This version of the scale assesses suicidality since the participant’s last
+visit.
+If there is a positive response to question 4 or 5 on the severity of ideation subscale or any positive
+response on the suicidal behavior subscale of suicide attempt or suicidal ideation by the participant
+during the administration of the C-SSRS during the treatment period, the appropriately qualified
+clinician will be notified during the study visit to determine the appropriate actions required to
+ensure the participant’s safety. The site must ensure that the participant is seen by a licensed
+physician (or other qualified individual as required by local institutional policy) before leaving the
+study site. The investigator will determine whether the participant should remain on study drug.
+Reference to the Clinical Triage Guidelines Using the C-SSRS can be found here
+https://cssrs.columbia.edu/wp-content/uploads/C-SSRStriageexampleguidelines.pdf.
+It is recommended that a medically licensed physician, nurse, nurse practitioner, or physician
+assistant to assess suicidality with the C-SSRS. All evaluators must be certified to perform the C-
+SSRS; specific certification requirements are outlined in the site MOP. Certification is required
+prior to performing the C-SSRS.
+<<<SECTION 8.1.10 Lumbar Puncture for CSF Collection>>>
+8.1.10 Lumbar Puncture for CSF Collection
+LPs will be performed and CSF will be collected. If a standard LP cannot be performed, a
+fluoroscopic LP may be done instead. LPs will be performed at Screening, Baseline, Week 8 and
+Week 16. CBC and coagulation lab results must be reviewed prior to performing study LPs. Sites
+should follow their local lumbar puncture procedure policies for performing LPs.  The performing
+clinician will make a maximum of 2 lumbar puncture attempts. Please refer to Study MOP for
+more information.
+At the Baseline Visit, the LP must be performed pre-dose. At Week 8 and Week 16, the LP must
+occur after the research blood draw and within 2 to 4 hours after dosing (ideally 2 hours post-
+dose). The Site Investigator (SI) will discuss all potential LP risks to the participants including:
+o Local pain at injection site;
+o Reaction to anesthetic agents;
+o Bleeding at needle entrance site;
+o Infection at needle entrance site; and,
+o Post-LP low-pressure headache.
+The procedure must be performed by the SI or another licensed practitioner with experience and
+training in performing LPs, and is listed on the site delegation log.
+A thorough review of medical history, a physical exam, and evaluation of lab results as outlined
+in LP policies for each site will allow trained clinicians to make a clinical determination regarding
+the safety of performing a LP to access spinal fluid. The clinician will make a maximum of two
+attempts to perform a LP. Standard LPs will be performed in clinic. The determination on whether
+fluoroscopy is needed will be made either before or after a LP attempt without fluoroscopy. For
+<<<PAGE 52>>>
+NADALS Basket Trial Page 52 of 71
+participants who have known challenging back anatomy or prior experience with a LP that resulted
+in the procedure being done under fluoroscopy, the decision may be made to go directly to
+fluoroscopic LP with no standard LP attempt. For the vast majority of participants, the decision
+will only be made following an unsuccessful standard LP attempt. Fluroscopy guided LPs will be
+performed by interventional radiology service, not by study team members.
+A maximum of 20cc of CSF will be collected at each LP visit for pharmacokinetic and biomarker
+analysis. Biomarker assays will include inflammatory biomarkers (CCL2, CXCL10, pPKR, PKR,
+pPKR/PKR ratio, IL-6 and IFNG) and neuronal death biomarkers (NfL, tau and phospho-tau).
+Instructions for labeling, processing, and shipping CSF are detailed in the Manual of Operations.
+Remaining CSF samples will be stored in a sample repository. Samples will be stored in
+biorepositories respective to their disease at MGH. These samples will be used for future research
+in motor neuron diseases. All samples will be labeled with a code. The code will not include any
+identifiable information.
+There is no scheduled date on which the samples will be destroyed. Samples may be stored for
+research until they are used, damaged, decayed or otherwise unfit for analysis.
+<<<SECTION 8.1.11 Adverse Events>>>
+8.1.11 Adverse Events
+Adverse events (AEs) will be documented at each study visit, including the Screening Visit once
+the informed consent form has been signed by the participant, and at all study visits, including the
+Follow-up Telephone call 28 to 33 days after the last dose of study drug. Information on adverse
+effects of study medication and on inter-current events will be determined at each visit by direct
+questioning of the participants, review of concomitant medications, and vital sign results.
+<<<SECTION 8.2 Outcome Measures>>>
+8.2 Outcome Measures
+8.2.1 Amyotrophic Lateral Sclerosis Functional Rating Scale-Revised (ALSFRS-R)
+The ALSFRS-R is a quickly administered (5 minutes) ordinal rating scale (ratings 0-4) used to
+determine participants' assessment of their capability and independence in 12 functional
+activities(22). All 12 activities are relevant in ALS. Initial validity was established by documenting
+that in ALS patients, change in ALSFRS-R scores correlated with change in strength over time,
+was closely associated with quality of life measures, and predicted survival. The test-retest
+reliability is greater than 0.88 for all test items. The advantages of the ALSFRS-R are that the
+categories are relevant to ALS, it is a sensitive and reliable tool for assessing activities of daily
+living function in those with ALS, and it is quickly administered.  With appropriate training the
+ALSFRS-R can be administered with high inter-rater reliability and test-retest reliability.  The
+ALSFRS-R can be administered by phone with good inter-rater and test-retest reliability.  The
+equivalency of phone versus in-person testing, and the equivalency of study participant versus
+caregiver responses have also recently been established.  Therefore, if necessary, the ALSFRS-R
+may be given to the study participant over the phone.  All ALSFRS-R evaluators must complete
+training to perform this assessment.
+<<<PAGE 53>>>
+NADALS Basket Trial Page 53 of 71
+<<<SECTION 8.2.2 Pulmonary Function Testing- Slow Vital Capacity (SVC)>>>
+8.2.2 Pulmonary Function Testing- Slow Vital Capacity (SVC)
+Slow Vital Capacity (SVC): The vital capacity (VC) (percent of predicted normal) will be
+determined, using the upright slow VC method. The VC can be measured using conventional
+spirometers that have had a calibration check prior to participant testing.  A printout from the
+spirometer of all VC trials will be retained. All VC evaluators must complete training to perform
+this assessment. Three VC trials are required for each testing session, however up to 5 trials may
+be performed if the variability between the highest and second highest VC is 10% or greater for
+the first 3 trials. Only the 3 best trials are recorded on the CRF.
+SVC is not required to determine eligibility; however, it is required to be collected at the Screening
+Visit and Week 24 or Final Safety Visit. Every attempt should be made to perform SVC at required
+visits.  If SVC cannot be performed in clinic due to pandemic-related restrictions at study center,
+SVC or Forced Vital Capacity (FVC) can be performed in a dedicated pulmonary function lab.
+Collection of SVC is optional at the Baseline and Week 8.
+<<<SECTION 8.2.3 Cognitive Evaluations>>>
+8.2.3 Cognitive Evaluations
+Cognitive testing will include evaluations of the Alzheimer’s Disease Assessment Scale-
+Cognitive Subscale (ADAS-Cog) and the Montreal Cognitive Assessment (MoCA) in
+participants with AD.
+The ADAS-Cog is validated and widely used as a primary cognitive outcome measure in AD
+pharmacotherapy studies. This is a psychometric instrument that evaluates memory (immediate
+and delayed word recall, word recognition), attention (number cancellation), reasoning
+(following commands), language (naming, comprehension), orientation, ideational praxis
+(placing letter in envelope) and constructional praxis (copying geometric designs), and executive
+functioning (maze completion). Scoring is in the range of 0 to 90 with a higher score indicating
+greater impairment(23). This test will be administered by experienced raters at each site at
+Baseline and Week 24 or Final Safety Visit.
+The Montreal Cognitive Assessment (MoCA) is commonly utilized questionnaire in clinical
+trials and research settings to measure levels of cognitive impairment. The MoCA measures five
+areas of cognitive function: orientation, visuospatial, attention and calculation, recall, and
+language(24).  The MoCA will take approximately 10 minutes to complete. The test will be
+administered by experienced raters at each site at Screening and Week 24 or Final Safety Visit.
+There are 3 available versions(8.1, 8.2, 8.3). Participants should be given MoCA Version 8.1 at
+the Screening Visit and MoCA Version 8.2 at the Week 24 visit as long as they have NOT
+received the same MoCA version clinically within the last 3 months. The MoCA version used at
+a study visit should be accurately documented in Source Document and within the EDC for each
+visit.
+The NIH Toolbox® is a multi-dimensional set of brief measures to assess cognitive, sensory,
+motor and emotional function that can be administered in 2 hours or less across diverse study
+designs and settings. The NIH Toolbox contains two types of measures: performance based tests
+of function and self-report and proxy measures(primarily for emotion). The NIH Toolbox
+<<<PAGE 54>>>
+NADALS Basket Trial Page 54 of 71
+measures are available for easy administration using an iPad app. The test will be administered
+by experienced raters at each site at Baseline and Week 24 or Final Safety Visit.
+<<<SECTION 8.2.4 Neuropsychiatric Inventory Questionnaire (NPI-Q)>>>
+8.2.4 Neuropsychiatric Inventory Questionnaire (NPI-Q)
+The Neuropsychiatric Inventory (NPI) measures dementia-related behavioral symptoms and is
+used to assess changes in psychological status. There are several versions of the NPI including
+the NPI-Questionnaire (NPI-Q), NPI-Clinician (NPI-C) and the NPI-Nursing Home (NPI-NH).
+All examine 12 sub-domains of behavioral functioning including: hallucinations, delusions,
+agitation, dysphoria, anxiety, euphoria, apathy, disinhibition, irritability, aberrant motor activity,
+eating abnormalities, and night-time behavioral alternations(25). The NPI-Q is completed by a
+trained rater through interview with the participant's study partner. It is well-validated and
+extensively used in clinical trials in AD. The NPI-Q will be administered at the Baseline and
+Week 24 or Final Safety Visit.
+8.2.5  Accessible Remote Olfactory Mediated Health Assessments (AROMHA) olfactory
+battery
+The AROMHA olfactory battery, a measure of cognitive processing of odor stimuli, is
+comprised of odor percept identification (OPID-9; OPID-18), episodic memory of odor percepts
+(POEM), and an odor discrimination (OD) test. These tests quantify cognitive processing of
+olfactory stimuli, which has been shown to be affected in preclinical and clinical AD(26). The
+test is administered by a trained research coordinator and takes about 30 minutes to complete.
+AROMHA olfactory battery will be administered at the Baseline and Week 24 or Final Visit for
+patients with AD and ALS and asymptomatic carriers of ALS causative genes. If assessment is
+not performed due to COVID-related concerns, it will not be considered a protocol deviation.
+<<<SECTION 8.2.6  Survival Assessment>>>
+8.2.6  Survival Assessment
+Survival endpoint will be considered as mortality or initiation of permanent assisted ventilation.
+Study staff may contact participants or their caregivers or reference clinical records after a
+participant completes follow-up in order to determine long-term vital status.
+<<<SECTION 8.2.7  End of Study Form>>>
+8.2.7  End of Study Form
+An End of Study Form will be completed by participants at the Week 24 or Final Safety Visit.
+This will include questions regarding overall experience with the trial.
+<<<SECTION 8.2.8  Global Impression of Change Survey>>>
+8.2.8  Global Impression of Change Survey
+A global impression of change survey will be completed by the study participant, study partner
+(for AD participants only) and the treating investigator. This survey will be completed at the
+final study visit to assess changes to the participant’s overall status since the start of the study.
+<<<PAGE 55>>>
+NADALS Basket Trial Page 55 of 71
+<<<SECTION 8.2.9 Training and Validation>>>
+8.2.9 Training and Validation
+Training will be completed to administer the C-SSRS, NPI-Q, MoCA, ALSFRS-R, SVC, and
+AROMHA olfactory battery tests. It is strongly preferred that a single evaluator performs all
+measures throughout the study, if possible. Please refer to the Site MOP for a more detailed
+description of the training and certification required for the outcome assessments.
+<<<SECTION 8.3 Study Partners (AD Participants only)>>>
+8.3 Study Partners (AD Participants only)
+For participants with major neurocognitive disorder, a study partner must accompany the
+participant to every study visit. For participants with mild neurocognitive disorder or subjective
+cognitive decline, a study partner must be available to participate in the following study visits:
+Baseline, and Week 24.
+The study partner will be asked to sign the study partner consent form prior to study participation
+and complete forms including the NPI-Q and Global Impression of Changes Survey. While it is
+preferred that study partners complete the NPI-Q and Global Impression of change survey in clinic,
+these assessments may be completed remotely.
+<<<PAGE 56>>>
+NADALS Basket Trial Page 56 of 71
+<<<SECTION 9 SAFETY AND ADVERSE EVENTS>>>
+9 SAFETY AND ADVERSE EVENTS
+The adverse event definitions and reporting procedures provided in this protocol comply with all
+applicable United States Food and Drug Administration (FDA) regulations and International
+Council for Harmonisation (ICH) guidelines.  The Site Investigator will carefully monitor each
+participant throughout the study for possible adverse events.  All AEs will be documented on CRFs
+designed specifically for this purpose.  It is also important to report all AEs, especially those that
+result in permanent discontinuation of the investigational product being studied, whether serious
+or non-serious.
+9.1 Definitions of AEs, Suspected Adverse Drug Reactions & SAEs
+<<<SECTION 9.1.1 Adverse Event and Suspected Adverse Drug Reactions>>>
+9.1.1 Adverse Event and Suspected Adverse Drug Reactions
+An adverse event  is any unfavorable and unintended sign (including a clinically significant
+abnormal laboratory finding, for example), symptom, or disease temporally associated with a
+study, use of a drug product or device whether or not considered related to the drug product or
+device.
+Adverse drug reactions (ADR) are all noxious and unintended responses to a medicinal product
+related to any dose.  The phrase “responses to a medicinal product” means that a causal relationship
+between a medicinal product and an adverse event is at least a reasonable possibility, i.e., the
+relationship cannot be ruled out.  Therefore, a subset of AEs can be classified as suspected ADRs,
+if there is a causal relationship to the medicinal product.
+Examples of adverse events include: new conditions, worsening of pre-existing conditions,
+clinically significant abnormal physical examination signs (i.e. skin rash, peripheral edema, etc),
+or clinically significant abnormal test results (i.e. lab values or vital signs), with the exception of
+outcome measure results, which are not being recorded as adverse events in this trial (they are
+being collected, but analyzed separately). Stable chronic conditions (i.e., diabetes, arthritis) that
+are present prior to the start of the study and do not worsen during the trial are NOT considered
+adverse events.  Chronic conditions that occur more frequently (for intermittent conditions) or with
+greater severity, would be considered as worsened and therefore would be recorded as adverse
+events.
+Adverse events are generally detected in two ways:
+Clinical  symptoms reported by the participant or signs detected on examination.
+Ancillary Tests  abnormalities of vital signs, laboratory tests, and other diagnostic
+procedures (other than the outcome measures, the results of which are not being captured
+as AEs).
+<<<PAGE 57>>>
+NADALS Basket Trial Page 57 of 71
+For the purposes of this study, clinically noteworthy progression/worsening of cognitive,
+behavioral or functional abilities beyond those expected by natural history of the disease or
+syndrome should be recorded as AEs.
+The following measures of disease progression for ALS will not be recorded as AE even if they
+worsen (they are being recorded and analyzed separately): vital capacity results and ALSFRS-R
+results.
+The following measures of disease progression for AD will not be recorded as AEs even if they
+worsen(they are being recorded and analyzed separately): ADAS-Cog and AROMHA olfactory
+battery.
+If discernible at the time of completing the AE log, a specific disease or syndrome rather than
+individual associated signs and symptoms should be identified by the Site Investigator and
+recorded on the AE log.  However, if an observed or reported sign, symptom, or clinically
+significant laboratory anomaly is not considered by the Site Investigator to be a component of a
+specific disease or syndrome, then it should be recorded as a separate AE on the AE log.  Clinically
+significant laboratory abnormalities, such as those that require intervention, are those that are
+identified as such by the Site Investigator.
+Participants will be monitored for adverse events from the time they sign consent until completion
+of their participation in the study (defined as death, consent withdrawal, loss to follow up, early
+study termination for other reasons or following completion of the entire study).
+An unexpected adverse event is any adverse event, the specificity or severity of which is not
+consistent with the current package insert.  An unexpected, suspected adverse drug reaction is any
+unexpected adverse event that, in the opinion of the Site Investigator or Sponsor, there is a
+reasonable possibility that the investigational product caused the event.
+<<<SECTION 9.1.2 Serious Adverse Events>>>
+9.1.2 Serious Adverse Events
+A serious adverse event (SAE) is defined as an adverse event that meets any of the following
+criteria:
+1. Results in death.
+2. Is life threatening: that is, poses an immediate risk of death as the event occurred.
+a. This serious criterion applies if the study participant, in the view of the Site
+Investigator or Sponsor, is at immediate risk of death from the AE as it occurs.  It
+does not apply if an AE hypothetically might have caused death if it were more
+severe.
+3. Requires inpatient hospitalization or prolongation of existing hospitalization.
+a. Hospitalization for an elective procedure (including elective PEG tube/g-
+tube/feeding tube placement) or a routinely scheduled treatment is not an SAE by
+this criterion because an elective or scheduled “procedure” or a “treatment” is not
+an untoward medical occurrence.
+4. Results in persistent or significant disability or incapacity.
+<<<PAGE 58>>>
+NADALS Basket Trial Page 58 of 71
+a. This serious criterion applies if the “disability” caused by the reported AE results
+in a substantial disruption of the participant’s ability to carry out normal life
+functions.
+5. Results in congenital anomaly or birth defect in the offspring of the participant (whether
+the participant is male or female).
+6. Necessitates medical or surgical intervention to preclude permanent impairment of a body
+function or permanent damage to a body structure.
+7. Important medical events that may not result in death, are not life-threatening, or do not
+require hospitalization may also be considered SAEs when, based upon appropriate
+medical judgment, they may jeopardize the participant and may require medical or surgical
+intervention to prevent one of the outcomes listed in this definition.  Examples of such
+medical events include blood dyscrasias or convulsions that do not result in inpatient
+hospitalization, or the development of drug dependency or drug abuse.
+An inpatient hospital admission in the absence of a precipitating, treatment-emergent, clinical
+adverse event may meet criteria for "seriousness" but is not an adverse experience, and will
+therefore, not be considered an SAE.  An example of this would include a social admission
+(participant admitted for other reasons than medical, e.g., lives far from the hospital, has no place
+to sleep).
+A serious, suspected adverse drug reaction is an SAE that, in the opinion of the Site Investigator
+or Sponsor, there is a reasonable possibility that the investigational product caused the event.
+The Site Investigator is responsible for classifying adverse events as serious or non-serious.
+<<<SECTION 9.2 Assessment and Recording of Adverse Events>>>
+9.2 Assessment and Recording of Adverse Events
+The Site Investigator will carefully monitor each participant throughout the study for possible AEs.
+All AEs will be documented on CRFs designed specifically for this purpose.  All AEs will be
+collected and reported in the electronic data capture (EDC) system and compiled into reports for
+periodic reviewing by the Medical Monitor. The Medical Monitor shall promptly review all
+information relevant to the safety of the investigational product, including all serious adverse
+events (SAEs).  Special attention will be paid to those that result in permanent discontinuation of
+the investigational product being studied, whether serious or non-serious.
+<<<SECTION 9.2.1 Assessment of Adverse Events>>>
+9.2.1 Assessment of Adverse Events
+At each visit (including telephone interviews), the participant will be asked if they have had any
+problems or symptoms since their last visit in order to determine the occurrence of adverse events.
+If the participant reports an adverse event, the Investigator will probe further to determine:
+<<<SECTION 1. Type of event>>>
+1. Type of event
+<<<SECTION 2. Date of onset and resolution (duration)>>>
+2. Date of onset and resolution (duration)
+<<<SECTION 3. Severity (mild, moderate, severe)>>>
+3. Severity (mild, moderate, severe)
+4. Seriousness (does the event meet the above definition for an SAE)
+<<<SECTION 5. Causality, relation to investigational product and disease>>>
+5. Causality, relation to investigational product and disease
+<<<PAGE 59>>>
+NADALS Basket Trial Page 59 of 71
+<<<SECTION 6. Action taken regarding investigational product>>>
+6. Action taken regarding investigational product
+<<<SECTION 7. Outcome>>>
+7. Outcome
+<<<SECTION 9.2.2 Relatedness of Adverse Event to Investigational Product>>>
+9.2.2 Relatedness of Adverse Event to Investigational Product
+The relationship of the AE to the investigational product should be specified by the Site
+Investigator, using the following definitions:
+1.  Not Related:          Concomitant illness, accident or event with no reasonable
+association with treatment.
+2.  Unlikely: The reaction has little or no temporal sequence from administration
+of the investigational product, and/or a more likely alternative
+etiology exists.
+3.  Possibly Related: The reaction follows a reasonably temporal sequence from
+administration of the investigational product and follows a known
+response pattern to the suspected investigational product; the
+reaction could have been produced by the investigational product or
+could have been produced by the participant’s clinical state or by
+other modes of therapy administered to the participant. (Suspected
+ADR)
+4.  Probably Related: The reaction follows a reasonably temporal sequence from
+administration of investigational product; is confirmed by
+discontinuation of the investigational product or by re-challenge;
+and cannot be reasonably explained by the known characteristics of
+the participant’s clinical state. (Suspected ADR)
+5.  Definitely Related: The reaction follows a reasonable temporal sequence from
+administration of investigational product; that follows a known or
+expected response pattern to the investigational product; and that is
+confirmed by improvement on stopping or reducing the dosage of
+the investigational product, and reappearance of the reaction on
+repeated exposure. (Suspected ADR)
+<<<SECTION 9.2.3 Recording of Adverse Events>>>
+9.2.3 Recording of Adverse Events
+All clinical adverse events are recorded in the AE Log in the participant’s study binder. The site
+is instructed to fill out the AE Log and enter the AE information into the EDC system within 5
+business days of the site learning of a new AE or receiving an update on an existing AE.
+Please Note: Serious Adverse Events (SAEs) must be reported to the MGH Coordination Center
+within 24 hours of the site learning of the SAE.
+<<<PAGE 60>>>
+NADALS Basket Trial Page 60 of 71
+Entries on the AE Log (and into the EDC) will include the following: name and severity of the
+event, the date of onset, the date of resolution, relationship to investigational product, action taken,
+and primary outcome of event.
+9.3 Adverse Events and Serious Adverse Events - Reportable Events
+The following are considered reportable events and must be reported to the MGH Coordination
+Center within 24 hours of the site being notified of the event.
+o All events that meet the above criteria for Serious Adverse Events (SAEs)
+o Any pregnancy
+o Dosage Changes (Dose Management)
+o Investigational Product Suspension, Reduction or Re-challenge
+o Investigational Product Discontinuation
+<<<SECTION 9.4  Reportable Medical Procedures>>>
+9.4  Reportable Medical Procedures
+The following are medically indicated procedures and should be reported in the EDC.
+o Feeding Tube Placement
+o Permanent Assisted Ventilation (PAV)*
+o Tracheostomy
+* Permanent Assisted Ventilation (PAV) is defined as more than 22 hours daily of non-invasive
+mechanical ventilation for more than one week (7 days).  The date of onset of PAV is the first day
+of the seven days.
+<<<SECTION 9.5  Data and Safety Monitoring>>>
+9.5  Data and Safety Monitoring
+An independent Data and Safety Monitoring Board (DSMB) will be assembled for the trial. A
+DSMB Charter will detail the processes of this group. The DSMB will receive unblinded reports
+summarizing recruitment, protocol compliance, the frequency of all clinical adverse events and
+safety laboratory tests at planned periodic meetings as specified in the DSMB charter. The DSMB
+Chair may call ad hoc meetings. Meetings will be held via teleconference.
+The DSMB will review safety data throughout the trial. Serious infections, cancer diagnoses, and
+thrombotic events occurring within 24 hours of dosing, and any severe unexpected serious adverse
+events are considered events of interest and will be reported in real-time (within 1 business day of
+Coordination Center (CC) awareness) to the DSMB. The DSMB can ask to receive the SAE reports
+more frequently. Any death will lead to prompt review by the DSMB. Two or more of the same
+SAE deemed probably or definitely related to study drug or one death in the treatment group
+deemed probably or definitely related to study drug will lead to prompt review by the DSMB and
+consideration of any required modification, suspension, or termination. Recommendations for
+modification, suspension, or termination of the trial based on safety data will be made by the
+DSMB to the PI and Steering Committee. A notable increase in the frequency of any adverse event
+<<<PAGE 61>>>
+NADALS Basket Trial Page 61 of 71
+should be examined by the DSMB although it may not lead to a recommendation by the DSMB.
+The DSMB may stop the trial for safety if they determine that the risk of study participation is
+greater than the possible benefit of the study drug.
+The NCRI CC will be responsible for communication with the DSMB.
+Complete information can be found in the Data and Safety Monitoring Charter.
+<<<PAGE 62>>>
+NADALS Basket Trial Page 62 of 71
+<<<SECTION 10 STATISTICAL CONSIDERATIONS>>>
+10 STATISTICAL CONSIDERATIONS
+<<<SECTION 10.1 Sample Size and Power Calculations>>>
+10.1 Sample Size and Power Calculations
+<<<SECTION 10.1.1 Interim Analyses and Early Stopping for Futility>>>
+10.1.1 Interim Analyses and Early Stopping for Futility
+The trial will enroll a minimum of 10 participants. If none of the first 10 participants meets either
+the PK or PD criterion for continued enrollment based on CSF collected at the 8- and 16-week
+LPs, then the trial will be stopped early for futility. The trial has an 80% probability of stopping
+early for futility if the expected percentage of participants meeting either the PK or PD criterion is
+less than 2.2%. The trial has only a 5% probability of stopping early for futility if the expected
+percentage of participants meeting either the PK or PD criterion is at least 26%.
+<<<SECTION 10.1.2 Pharmacodynamics>>>
+10.1.2 Pharmacodynamics
+If the trial completes enrollment of all 20 participants, we will have 80% power to detect a decline
+in CCL2 levels in the CSF from pre-treatment to post-treatment if the expected decline is at least
+0.66 SD based on two-tailed testing at p < 0.05 for this primary measure of target engagement. For
+the 10 additional secondary biomarkers of inflammation and neuronal death, each tested at two-
+sided p < 0.004 to control for multiple comparisons, the study will have 80% power to detect a
+decline from pre-treatment to post-treatment in any one of the biomarkers if the expected decline
+is at least 0.94 SD. To detect changes in CCL2 levels in the CSF or changes in the secondary
+biomarkers only among the 10 AD or 10 ALS participants separately, the minimum expected
+changes detectable with 80% power when testing at two-tailed p < 0.025 or p < 0.002 are 1.14 SD
+and 1.70 SD, respectively. The trial will have 80% power to detect correlations between the
+concentration of baricitinib in the CSF and the concentration of any one of the 11 primary and
+secondary biomarkers if the true correlation is at least 0.71.
+<<<SECTION 10.1.3 Safety>>>
+10.1.3 Safety
+With either 10 or 20 participants enrolled and exposed to baricitinib, the trial will have an 80%
+probability of observing at least one instance of a given type of adverse experience if the expected
+percentage of participants experiencing such an event is at least 15% and 7.7%, respectively.
+<<<SECTION 10.2 Analysis Populations>>>
+10.2 Analysis Populations
+Analyses of both safety and pharmacodynamics will include all participants exposed to baricitinib.
+Primary analyses of pharmacokinetics and pharmacodynamics will censor follow-up at the time
+that participants discontinue study drug, although participants who discontinue study drug early
+will continue to be followed under the normal schedule of assessments if they are willing. Changes
+in pharmacodynamic measures after discontinuation of study drug will be informative of the
+persistence of any observed pharmacodynamic response.
+<<<PAGE 63>>>
+NADALS Basket Trial Page 63 of 71
+<<<SECTION 10.3 Pharmacokinetics>>>
+10.3 Pharmacokinetics
+Levels of baricitinib in the CSF will be presented as visit-specific means and standard deviations
+and analyzed in a linear mixed model that includes diagnosis (two levels: AD and ALS), visit (four
+levels: screening, baseline, week 8, and week 16), and their interaction as fixed effects and
+unstructured within-person covariance among repeated measures. The primary estimate will be a
+linear contrast of least-square means estimating the mean within-participant change from baseline
+to the average of weeks 8 and 16, averaged across AD and ALS participants. Additional linear
+contrasts will be used to test for differences between AD and ALS participants and between levels
+at weeks 8 and 16.
+<<<SECTION 10.4 Pharmacodynamics>>>
+10.4 Pharmacodynamics
+Levels of CCL2 in the CSF and of the secondary biomarkers of inflammation and neuronal death
+will be presented as visit-specific means and standard deviations and analyzed in the same linear
+mixed model used for analyzing baricitinib levels. Biomarker levels will be log transformed prior
+to analysis if distributions are right skewed. The primary estimate will be a linear contrast of least-
+square means testing whether the within-participant change from baseline to week 8 is greater than
+the within-participant change from screening to baseline, averaged across AD and ALS
+participants. Additional linear contrasts will be used to test for change from baseline to week 16
+and for differences between AD and ALS participants.
+Pearson or Spearman correlations, depending on approximate normality of original or transformed
+values, will be calculated between levels of baricitinib in the CSF at week 8 and change in levels
+of pharmacodynamic biomarkers from baseline to week 8, both overall and among AD and ALS
+participants separately. The same calculations will be performed for levels and changes over 16
+weeks.
+<<<SECTION 10.5 Safety>>>
+10.5 Safety
+Safety will be assessed by the occurrence of treatment-emergent adverse events , treatment-
+emergent serious adverse events , and treatment-emergent clinically significant abnormalities in
+clinical and laboratory values both overall and among AD and ALS participants separately. AEs
+will be coded to system organ class and preferred terms from a consistent version of the MedDRA
+library and summarized as counts of events and proportions of participants experiencing a given
+type of event. The distribution of severity, relationship to the study intervention, action taken with
+respect to study intervention, and outcome of all TEAEs will be tabulated. The rate of adverse
+effects in trial participants will be compared to the frequency of adverse effects documented in the
+package insert to determine the safety of baricitinib in AD and ALS patients relative to rheumatoid
+arthritis patients. We hypothesize that the safety profile in AD and ALS patients will be within the
+expected profile reported for patients taking baricitinib for its primary indication, rheumatoid
+arthritis.
+<<<SECTION 10.6 Missing Data>>>
+10.6 Missing Data
+This trial will not be intent to treat. Participants who do not initiate baricitinib will not be included
+in analyses and observations made after discontinuation of study drug early will be excluded from
+<<<PAGE 64>>>
+NADALS Basket Trial Page 64 of 71
+the primary analyses. Potential bias from otherwise informative missingness due to loss to follow-
+up will be minimized through use of mixed models that include all participants who initiate study
+drug and implicitly impute missing data based on the observed within-person covariance among
+repeated measures.
+<<<PAGE 65>>>
+NADALS Basket Trial Page 65 of 71
+<<<SECTION 11 DATA COLLECTION, MANAGEMENT AND MONITORING>>>
+11 DATA COLLECTION, MANAGEMENT AND MONITORING
+<<<SECTION 11.1 Role of Data Management>>>
+11.1 Role of Data Management
+Data Management (DM) is the development, execution and supervision of plans, policies,
+programs, and practices that control, protect, deliver, and enhance the value of data and
+information assets.
+All data will be managed in compliance with Everest policies and applicable NCRI and regulatory
+requirements. Site personnel will collect, transcribe, correct, and transmit the data onto source
+documents, Case Report Forms (CRFs), and other forms used to report, track and record clinical
+research data.  Clinical sites will be monitored to ensure compliance with data management
+requirements and Good Clinical Practices.  DM is responsible for developing, testing, and
+managing clinical data management activities.
+<<<SECTION 11.1.1 Data Entry and Checks>>>
+11.1.1 Data Entry and Checks
+The site personnel are strongly advised to enter information into the Electronic Data Capture
+(EDC) System within 5 days of a visit.  Data collection is the responsibility of the staff at the site
+under the supervision of the SI.  During the study, the SI must maintain complete and accurate
+documentation for the study.
+The EDC includes password protection.  An edit checking and data clarification process will be
+put in place to ensure accuracy and completeness of the database.  Logic and range checks as well
+as more sophisticated rules will be built into the EDC to provide immediate error checking of the
+data entered.  The system has the capability to automatically create electronic queries for forms
+that contain data that are out of range, out of window, missing or not calculated correctly.  The
+sites will only have access to the queries concerning their participants.
+<<<SECTION 11.1.2 Data Lock Process>>>
+11.1.2 Data Lock Process
+The application will have the ability to lock the database to prevent any modification of data once
+the study is closed.  Once this option is activated, every user will have Read-Only access to the
+data. The database can only be locked after each SI has signed off on their participants and all
+queries have been resolved.
+<<<SECTION 11.1.3 Quality Assurance>>>
+11.1.3 Quality Assurance
+Protocol procedures are reviewed with the SI and associated personnel prior to the study to ensure
+the accuracy and reliability of data. Each SI must adhere to the protocol detailed in this document
+and agree that any changes to the protocol must be approved by the Coordination Center prior and
+sIRB.  Each SI will be responsible for enrolling only those study participants who have met
+protocol eligibility criteria.
+<<<PAGE 66>>>
+NADALS Basket Trial Page 66 of 71
+<<<SECTION 11.2 Clinical Monitoring>>>
+11.2 Clinical Monitoring
+Study Monitors conduct remote and will visit each study site (if deemed safe with regards to travel)
+to review source documentation materials, informed consent forms, and confirm entered data and
+that data queries have been accurately completed, and again at a study close-out visit.  Study
+Monitors will also verify that SAEs and protocol deviations have been reported appropriately, as
+required.  The Study Monitors will also review clinical facilities, resources and procedures for
+evaluating study participants and study drug dispensing.  Subsequently, the Study Monitors will
+provide monitoring reports to the NCRI Project Manager and, if requested, will provide reports of
+protocol compliance to the Study Principal Investigator and the Steering Committee.  Completed
+informed consent forms from each participant must be available in the participant’s file and
+verified for proper documentation.  A document outlining the monitoring plan is provided to each
+Study Monitor.
+<<<SECTION 11.3 Data Handling and Record Keeping>>>
+11.3 Data Handling and Record Keeping
+The SI is responsible to ensure the accuracy, completeness, legibility, and timeliness of the data
+reported.  All source documents should be completed in a neat, legible manner to ensure accurate
+interpretation of data.  Dark ink is required to ensure clarity of reproduced copies.  When making
+changes or corrections, cross out the original entry with a single line, and initial and date the
+change.  Do not erase, overwrite, or use correction fluid or tape on the original.
+Source document templates (SDTs) will be provided for use and maintained for recording data for
+each participant enrolled in the study.  Data reported in the eCRF derived from source documents
+should be consistent with the source documents and discrepancies should be explained.   The
+Coordination Center and Study Monitors will provide guidance to SIs on making corrections to
+the source documents and eCRFs.
+<<<SECTION 11.3.1 Confidentiality>>>
+11.3.1 Confidentiality
+Study participant medical information obtained by this study is confidential, and disclosure to third
+parties other than those noted below is prohibited. Upon the participant’s permission, medical
+information may be given to his or her personal physician or other appropriate medical personnel
+responsible for his or her welfare. All local and federal guidelines and regulations regarding
+maintaining study participant confidentiality of data will be adhered to.
+Data generated by this study must be available for inspection by representatives of the US FDA,
+the Office for Human Research Protections (OHRP), the sponsor, all pertinent national and local
+health and regulatory authorities, the Coordination Center or their representative, Study
+Monitoring personnel, and the IRBs.
+<<<SECTION 11.3.2 Study Discontinuation>>>
+11.3.2 Study Discontinuation
+The study can be terminated at any time. Reasons for terminating the study may include the
+following:
+ The incidence or severity of AEs in this or other studies indicates a potential health hazard
+to study participants.
+<<<PAGE 67>>>
+NADALS Basket Trial Page 67 of 71
+ Study participant enrollment is unsatisfactory.
+ Data recording is inaccurate or incomplete.
+ Sponsor withdraws funding.
+<<<SECTION 11.3.3 Retention of Records>>>
+11.3.3 Retention of Records
+US FDA regulations (21 CFR 312.62[c]) require that records and documents pertaining to the
+conduct of this study and the distribution of investigational drug, including CRFs (if applicable),
+consent forms, laboratory test results, and medical inventory records, must be retained by the Site
+Investigator (SI) for two years after marketing application approval. If no application is filed, these
+records must be kept for two years after the investigation is discontinued and the US FDA and the
+applicable national and local health authorities are notified. The Coordination Center or their
+representative will notify the Site Investigators of these events. The Site Investigators should retain
+all study documents and records until they are notified in writing by the Sponsor or their
+representative.
+<<<SECTION 11.3.4 Publications>>>
+11.3.4 Publications
+The Principal Investigator, Mark Albers, will be responsible for publications of results from this
+trial. Co-authors will have the opportunity to review data and participate in the manuscript
+preparation. The responsibilities will include the following:
+ Analyze and interpret data gathered in this study and write publications from these data.
+ Submit manuscripts to selected journals and address peer reviewers’ comments.
+ Submit abstracts to selected meetings and present data at the meetings.
+ Determine authorship on the basis of the Uniform Requirements for Manuscripts.
+<<<PAGE 68>>>
+NADALS Basket Trial Page 68 of 71
+<<<SECTION 12 LITERATURE REFERENCES>>>
+12 LITERATURE REFERENCES
+1. Huang F, Zhu Y, Hsiao-Nakamoto J, et al. Longitudinal biomarkers in amyotrophic
+lateral sclerosis. Ann Clin Transl Neurol. 2020;7(7):1103-1116. doi:10.1002/acn3.51078
+2. Galimberti D, Schoonenboom N, Scheltens P, et al. Intrathecal chemokine synthesis in
+mild cognitive impairment and Alzheimer disease. Arch Neurol. 2006;63(4):538-543.
+3.  Cai Q, Xin Z, Zuo L, Li F, Liu B. Alzheimer's Disease and Rheumatoid Arthritis: A
+Mendelian Randomization Study. Front Neurosci. 2018;12:627. Published 2018 Sep 12.
+doi:10.3389/fnins.2018.00627
+4. Policicchio S, Ahmad AN, Powell JF, Proitsi P. Rheumatoid arthritis and risk for
+Alzheimer's disease: a systematic review and meta-analysis and a Mendelian
+Randomization study. Sci Rep. 2017;7(1):12861. Published 2017 Oct 9.
+doi:10.1038/s41598-017-13168-8
+5. Kao LT, Kang JH, Lin HC, Huang CC, Lee HC, Chung SD. Rheumatoid Arthritis Was
+Negatively Associated with Alzheimer's Disease: A Population-Based Case-Control
+Study. PLoS One. 2016;11(12):e0168106. Published 2016 Dec 20.
+doi:10.1371/journal.pone.0168106
+6. Judge A, Garriga C, Arden NK, et al. Protective effect of antirheumatic drugs on
+dementia in rheumatoid arthritis patients. Alzheimers Dement (N Y). 2017;3(4):612-621.
+Published 2017 Nov 9. doi:10.1016/j.trci.2017.10.002
+7. Chou RC, Kane M, Ghimire S, Gautam S, Gui J. Treatment for Rheumatoid Arthritis and
+Risk of Alzheimer's Disease: A Nested Case-Control Analysis. CNS Drugs.
+2016;30(11):1111-1120. doi:10.1007/s40263-016-0374-z
+8. Rodriguez S, Sahin A, Schrank BR, et al. Genome-encoded cytoplasmic double-stranded
+RNAs, found in C9ORF72 ALS-FTD brain, propagate neuronal loss. Sci Transl Med.
+2021;13(601):eaaz4699. doi:10.1126/scitranslmed.aaz4699
+9. Rodriguez S, Hug C, Todorov P, et al. Machine learning identifies candidates for drug
+repurposing in Alzheimer's disease. Nat Commun. 2021;12(1):1033. Published 2021 Feb
+15. doi:10.1038/s41467-021-21330-0
+10. Kothur K, Bandodkar S, Chu S, et al. An open-label trial of JAK 1/2 blockade in
+progressive IFIH1-associated neuroinflammation. Neurology. 2018;90(6):289-291.
+doi:10.1212/WNL.0000000000004921
+11. Shi JG, Chen X, Lee F, et al. The pharmacokinetics, pharmacodynamics, and safety of
+baricitinib, an oral JAK 1/2 inhibitor, in healthy volunteers. J Clin Pharmacol.
+2014;54(12):1354-1361. doi:10.1002/jcph.354
+12. Hoang TN, Pino M, Boddapati AK, et al. Baricitinib treatment resolves lower-airway
+macrophage inflammation and neutrophil recruitment in SARS-CoV-2-infected rhesus
+macaques. Cell. 2021;184(2):460-475.e21. doi:10.1016/j.cell.2020.11.007
+13. Jorgensen SCJ, Tse CLY, Burry L, Dresser LD. Baricitinib: A Review of Pharmacology,
+Safety, and Emerging Clinical Experience in COVID-19. Pharmacotherapy.
+2020;40(8):843-856. doi:10.1002/phar.2438
+14. Kalil AC, Patterson TF, Mehta AK, et al. Baricitinib plus Remdesivir for Hospitalized
+Adults with Covid-19. N Engl J Med. 2021;384(9):795-807.
+doi:10.1056/NEJMoa2031994
+<<<PAGE 69>>>
+NADALS Basket Trial Page 69 of 71
+15. Mouton-Liger F, Paquet C, Dumurgier J, et al. Increased cerebrospinal fluid levels of
+double-stranded RNA-dependant protein kinase in Alzheimer's disease. Biol Psychiatry.
+2012;71(9):829-835. doi:10.1016/j.biopsych.2011.11.031
+16. Olumiant (baricitinib) Package Insert;  URL:
+https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/207924s000lbl.pdf
+17. Zetterberg H, Tullhög K, Hansson O, Minthon L, Londos E, Blennow K. Low incidence
+of post-lumbar puncture headache in 1,089 consecutive memory clinic patients. Eur
+Neurol. 2010;63(6):326-330.
+18. Quinn C, Macklin EA, Atassi N, et al. Post-lumbar puncture headache is reduced with
+use of atraumatic needles in ALS. Amyotroph Lateral Scler Frontotemporal Degener.
+2013;14(7-8):632-634.
+19. Posner K, Oquendo MA, Gould M, Stanley B, Davies M. Columbia Classification
+Algorithm of Suicide Assessment (C-CASA): classification of suicidal events in the
+FDA's pediatric suicidal risk analysis of antidepressants. Am J Psychiatry.
+2007;164(7):1035-1043
+20. Posner K, Brown GK, Stanley B, et al. The Columbia-Suicide Severity Rating Scale:
+initial validity and internal consistency findings from three multisite studies with
+adolescents and adults. Am J Psychiatry. 2011;168(12):1266-1277.
+doi:10.1176/appi.ajp.2011.10111704
+21. September 2010 US FDA Draft Guidance for Industry Suicidality: Prospective
+Assessment of Occurrence in Clinical Trials
+22. Cedarbaum JM, Stambler N, Malta E, et al. The ALSFRS-R: a revised ALS functional
+rating scale that incorporates assessments of respiratory function. BDNF ALS Study
+Group (Phase III). J Neurol Sci. 1999;169(1-2):13-21. doi:10.1016/s0022-
+510x(99)00210-5
+23. Graham DP, Cully JA, Snow AL, Massman P, Doody R. The Alzheimer's Disease
+Assessment Scale-Cognitive subscale: normative data for older adult controls. Alzheimer
+Dis Assoc Disord. 2004;18(4):236-240.
+24. Nasreddine ZS, Phillips NA, Bédirian V, et al. The Montreal Cognitive Assessment,
+MoCA: a brief screening tool for mild cognitive impairment [published correction
+appears in J Am Geriatr Soc. 2019 Sep;67(9):1991]. J Am Geriatr Soc. 2005;53(4):695-
+699. doi:10.1111/j.1532-5415.2005.53221.x
+25. Kaufer DI, Cummings JL, Ketchel P, et al. Validation of the NPI-Q, a brief clinical form
+of the Neuropsychiatric Inventory. J Neuropsychiatry Clin Neurosci. 2000;12(2):233-
+239. doi:10.1176/jnp.12.2.233
+26. Dhilla Albers A, Asafu-Adjei J, Delaney MK, et al. Episodic memory of odors stratifies
+Alzheimer biomarkers in normal elderly. Ann Neurol. 2016;80(6):846-857.
+<<<PAGE 70>>>
+NADALS Basket Trial Page 70 of 71
+<<<SECTION 13 APPENDICES>>>
+13 APPENDICES
+Appendix I: El Escorial World Federation of Neurology Criteria for the Diagnosis of ALS
+Information obtained from the web site: www.wfnals.org.
+The diagnosis of Amyotrophic Lateral Sclerosis [ALS] requires:
+A - The presence of:
+(A:1) evidence of lower motor neuron (LMN) degeneration by clinical, electrophysiology
+cal or  neuropathologic examination,
+(A:2) evidence of upper motor neuron (UMN) degeneration by clinical examination, and
+(A:3) progressive spread of symptoms or signs within a region or to other regions, as
+determined by history or examination, together with
+B - The absence of:
+(B:1) electrophysiological and pathological evidence of other disease processes that might
+explain the signs of LMN and/or UMN degeneration, and
+(B:2) neuroimaging evidence of other disease processes that might explain the observed
+clinical and electrophysiological signs.
+CLINICAL STUDIES IN THE DIAGNOSIS OF ALS
+A careful history, physical and neurological examination must search for clinical evidence of
+UMN and LMN signs in four regions [brainstem, cervical, thoracic, or lumbosacral spinal cord]
+(see Table 1) of the central nervous system [CNS]. Ancillary tests should be reasonably applied,
+as clinically indicated, to exclude other disease processes. These should include electrodiagnostic,
+neurophysiological, neuroimaging and clinical laboratory studies.  Clinical evidence of LMN and
+UMN degeneration is required for the diagnosis of ALS.  The clinical diagnosis of ALS, without
+pathological confirmation, may be categorized into various levels of certainty by clinical
+assessment alone depending on the presence of UMN and LMN signs together in the same
+topographical anatomic region in either the brainstem [bulbar cranial motor neurons], cervical,
+thoracic, or lumbosacral spinal cord [anterior horn motor neurons]. The terms Clinical Definite
+ALS and Clinically Probable ALS are used to describe these categories of clinical diagnostic
+certainty on clinical criteria alone:
+A. Clinically Definite ALS is defined on clinical evidence alone by the presence of UMN, as well
+as LMN signs, in three regions.
+B. Clinically Probable ALS is defined on clinical evidence alone by UMN and LMN signs in at
+least two regions with some UMN signs necessarily rostral to (above) the LMN signs.
+C. Clinically Probable ALS - Laboratory-supported is defined when clinical signs of UMN and
+LMN dysfunction are in only one region, or when UMN signs alone are present in one region, and
+<<<PAGE 71>>>
+NADALS Basket Trial Page 71 of 71
+LMN signs defined by EMG criteria are present in at least two limbs, with proper application of
+neuroimaging and clinical laboratory protocols to exclude other causes.
+D. Clinically Possible ALS is defined when clinical signs of UMN and LMN dysfunction are found
+together in only one region or UMN signs are found alone in two or more regions; or LMN signs
+are found rostral to UMN signs and the diagnosis of Clinically Probable - Laboratory-supported
+ALS cannot be proven by evidence on clinical grounds in conjunction with electrodiagnostic,
+neurophysiologic, neuroimaging or clinical laboratory studies. Other diagnoses must have been
+excluded to accept a diagnosis of Clinically Possible ALS.
+Table 1
+Brainstem  Cervical  Thoracic  Lumbosacral
+Lower motor
+neuron signs
+weakness,
+atrophy,
+fasciculations
+jaw, face,
+palate,
+tongue, larynx
+neck, arm,
+hand,
+diaphragm
+back,
+abdomen
+back, abdomen,
+leg, foot
+Upper motor
+neuron signs
+pathologic spread
+of reflexes, clonus,
+etc.
+clonic jaw
+gag reflex
+exaggerated
+snout reflex
+pseudobulbar
+features
+forced yawning
+pathologic
+DTRs
+spastic tone
+clonic DTRs
+Hoffman reflex
+pathologic
+DTRs
+spastic tone
+preserved reflex
+in weak wasted
+limb
+loss of
+superficial
+abdominal
+reflexes
+pathologic
+DTRs
+spastic tone
+clonic DTRs -
+extensor plantar
+response
+pathologic DTRs
+spastic tone
+preserved reflex in
+weak wasted limb

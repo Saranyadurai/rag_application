@@ -1,0 +1,129 @@
+<<<PAGE 1>>>
+Study Protocol
+Title: Effects of Heart Rate Oscillations During
+Meditation on Plasma Biomarkers of Alzheimer's
+Disease
+NCT number: NCT06210035
+IRB approval date: 5/25/2023
+Uploaded date: 10/27/2025
+<<<PAGE 2>>>
+Research Background
+Cross-sectional studies suggest that meditation practices are associated with slower
+brain aging and improvements in early biomarkers of Alzheimer’s disease (AD).
+However, the underlying mechanisms remain unclear. Most research has focused on
+the mental training aspects of meditation (e.g., paying attention to the present moment)
+and linked them to health outcomes. By contrast, the physiological changes that occur
+during meditation (e.g., heart rate oscillations, breathing rate) and their influence on
+health outcomes have been largely overlooked.
+During some meditative practices, breathing slows down, which induces large
+oscillations in heart rate at the breathing frequency. In our previous HRV-ER trial
+(NCT03458910), a 4-week daily intervention designed to induce high-amplitude heart
+rate oscillations via slow-paced breathing significantly reduced plasma amyloid beta
+(Aβ)42 and Aβ40 levels associated with AD.
+Research Objectives
+Based on our prior findings, the present study aims to separate out the mental training
+and physiological aspects of meditation to better understand their differential effects on
+plasma Aβ levels. We will examine how two types of meditation practices (with or
+without slow breathing) affect plasma Aβ levels compared with a no-intervention control
+group. We will also assess the effects of these practices on emotional well-being, given
+that various types of meditation improve well-being.
+Healthy adults aged 18-35 who meet all eligibility criteria will be invited to this study.
+Participants will be asked to engage in one week of daily meditation practice or no-
+intervention control task at home. They will also be asked to visit the lab twice, once
+before and once after the intervention, to provide blood samples to assess plasma Aβ
+levels and to complete emotion questionnaires and memory tests.
+<<<PAGE 3>>>
+Methods and Design
+Lab Visit 1 (around 1.5 hours)
+1) Consent
+At the beginning of this visit, the researchers will provide detailed information about
+the study. Participants will then be asked to sign the consent form on DocuSign.
+When they sign, participants will have the opportunity to download a copy of the
+signed consent form for their record.
+2) Administer questionnaires
+Participants will be asked to complete the following questionnaires at the Emotion &
+Cognition Lab:
+• Profile of Mood States (POMS)
+• Depression Anxiety Stress Scales – Short Form (DASS-21)
+• Five Facet Mindfulness Questionnaire
+• Demographic information
+3) Blood draw
+Phlebotomists will collect blood samples up to 30 mL via venipuncture. Note that
+blood draw volume for blood donation in the US is 1 pint (~450 mL); thus, 30 mL
+should be safe for participants. Fasting is not required for the blood draw.
+4) Measure resting heart rate
+Give the participant devices and explain how to use them. The devices include a
+laptop with a customized meditation app, USB-module and an ear sensor that clips
+onto the earlobe and measures heart rate.1). Using the devices, the participant will
+be asked to measure their heart rate for 5 min. During the 5-min resting state, they
+will be asked to sit in a chair with palms up, both feet flat on the floor, back straight,
+knees 90-degree angle, and closed eyes.
+5) Paced breathing
+Next, the app will ask participant to do 5 minutes of paced breathing at 15 breaths
+per minute by following audio cues. The participant will be asked to inhale when the
+ball ascends and exhale when it descends. This controlled breathing at around a
+normal breathing pace will allow us to assess baseline individual differences in heart
+rate spectral frequency with breathing rates controlled.
+6) Intervention instructions
+The app will randomly assign participant to one of the three conditions (belly-focus
+concentration meditation, belly-focus concentration meditation with slow breathing,
+no-intervention control). The experimenter will go over the instructions below and
+have them try the assigned practice for 20 minutes.
+Instructions for the belly-focus meditation:
+<<<PAGE 4>>>
+the belly. Please remember that it is normal for the mind to wander. When this
+happens, gently bring your attention back to your belly.”
+belly to contract
+• Notice the sensations around the belly as the breath comes in and out.  As
+your breath flows in, feel it move down into your belly. Please observe how
+gently back to the sensations in the belly.
+• Whatever sensations arise, just observing. Observe how long the sensation
+• It’s quite normal for the mind to wander, if and when you notice your mind
+wandering, gently bring your attention back to the sensations of breath in the
+belly right here and now, what sensations are present?
+sensations of breath and the belly. Moment to moment what sensations are
+<<<PAGE 5>>>
+Instructions for the belly-focus meditation with slow breathing:
+the belly. You will also be asked to breathe slowly during the entire meditation
+session. Please remember that it is normal for the mind to wander. When this
+happens, gently bring your attention back to the upper lip area.”
+belly to contract.
+• Take long slow breaths as I guide you. Inhale for a count to 5 and exhale for a
+count to 5. Breathe slowly and gently at this pace during the entire meditation
+exercise. I’ll count with you for the first few breaths. Then you can count on
+your own. Inhale, 2, 3, 4, 5, exhale 2, 3, 4, 5. Inhale, 2, 3, 4, 5, exhale 2, 3, 4,
+5. Continue breathing this way on your own.
+• Notice sensations around the belly as the air moves in and out. As your
+breath flows in, feel it move down into your belly. Please observe how
+gently back to the sensations in the belly. Remember to breathe slowly and
+gently for a count of 5 while inhaling and a count of 5 while exhaling.
+<<<PAGE 6>>>
+• Whatever sensations arise, just observing.  Observe how long the sensation
+Remember to breathe slowly and gently for a count of 5 for each inhalation
+and a count of 5 for each exhalation during the remaining session.
+• It is normal for the mind to wander, if and when you notice your mind
+wandering, gently bring your attention back to the sensations in the belly right
+here and now, what sensations are present? Remember to breathe slowly
+and gently.
+sensations of breath and the belly.  Moment to moment what sensations are
+Instructions for the no-intervention control condition:
+The app will show, “You will be asked to sit quietly for 20 minutes while your heart
+rate is recorded. Please feel free to do whatever you would like to do (e.g., use your
+phone or computer, read a book, watch TV, listen to music) as long as your activity
+does not involve head motion.”
+Before each practice session, participants in all conditions will view 6 images from
+the Nencki Affective Picture System (NAPS; uploaded on section 21.2) and rate
+them on a scale of 1-9 (1 = very negative to 9 = very positive, with 5 = neutral). At
+the post-intervention lab visit (i.e., Lab Visit 2), they will be given memory tests for
+these images (see below for more details).
+One week intervention at home
+Participants will be asked to engage in the assigned practice for 40 minutes (20 min x
+two times) each day for a week.
+Lab Visit 2 (around 1 hour)
+Participants will be asked to return their devices and complete the assessments listed in
+Lab Visit 1 Steps 2-5. In addition, participants will complete a free recall test in which
+they will describe as many images as they can that were viewed right before each
+meditation practice in the past week. They will also complete a recognition memory test
+in which they will be given 3 response options for each image; Remember, Know and
+New (Remember = “I vividly remember,” Know = “I have a sense of familiarity with the
+image, New = the image was not seen before”).

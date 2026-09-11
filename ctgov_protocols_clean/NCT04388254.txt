@@ -1,0 +1,1299 @@
+<<<PAGE 1>>>
+Amendment #7   Page 1 of 39     CONFIDENTIAL
+7801 N. Capital of Texas Hwy, Ste. 260
+Austin, TX 78731
+CLINICAL RESEARCH PROTOCOL
+PROTOCOL PTl-125-04
+A 12-Month, Open-Label Safety Study of Simufilam followed by a
+6-Month Randomized Withdrawal and 6 Additional Months
+Open-Label in Mild-to-moderate Alzheimer’s Disease Patients
+Sponsor:     Cassava Sciences, Inc.
+7801 N. Capital of Texas Hwy, Ste. 260
+Austin, TX 78731
+Program Lead:  Lindsay H. Burns, PhD
+SVP, Neuroscience
+Phone:     512-501-2484
+Email:      lburns@cassavasciences.com
+Study Monitor: Nadav Friedmann, PhD, MD
+Chief Operating & Medical Officer
+Phone: 925-788-4585
+Email: nfriedmann@cassavasciences.com
+Project Manager Ben J. Murray
+Sr. Clinical Project Manager
+Phone:    512-501-3180
+Email:     bmurray@cassavasciences.com
+Protocol Date: February 10, 2020
+Amendment #1 March 17, 2020
+Amendment #2 April 02, 2020
+Amendment #3 May 6, 2020
+Amendment #4 October 28, 2020
+Amendment #5 December 30, 2020
+Amendment #6 Feb 8, 2021
+Amendment #7 June 11, 2021
+This clinical trial is supported by NIH grant AG065152.
+Confidentiality: The information contained in this document and all information
+provided to you related to simufilam ("Study Drug") are the confidential and proprietary
+information of Cassava Sciences and except as may be required by federal, state, or local
+laws or regulations, may not be disclosed to others without prior written permission of
+Cassava. The Principal Investigator may, however, disclose such information to
+supervised individuals working on the Drug, provided such individuals agree to be
+bound to maintain the confidentiality of such Drug information.
+<<<PAGE 2>>>
+Amendment #7   Page 2 of 39     CONFIDENTIAL
+SUMMARY OF PROTOCOL AMENDMENT #7
+Approvals:
+Changed:   Carrie Crowley
+Director, Quality
+Assurance
+Changed to:   Ben J. Murray
+Sr. Clinical Project
+Manager
+Changed throughout where vital signs are listed:
+• Vital signs (blood pressure, temperature, pulse and respiratory rate)
+Changed to:
+• Vital signs (b lood pressure, temperature, pulse and respiratory rat e), and weight
+4. SUMMARY OF STUDY DESIGN
+Changed: approximately 150 patients
+Changed to: up to 200 patients
+Added to list of Day 1 activities: and the C-SSRS.
+Changed: PK blood samples will be obtained in the morning  before dosing at  all
+return visits except Months 4.5, 7.5 and 10.5.
+Changed to : PK blood samples will be obtained in the morning  before dosing at
+return visits on Months 15 and 18.
+<<<SECTION 5.1 STUDY POPULATION>>>
+5.1 STUDY POPULATION
+Changed: Between 100 and 150 patients will be enrolled
+Changed to: Up to 200 patients will be enrolled
+<<<SECTION 5.3 Exclusion Criteria>>>
+5.3 Exclusion Criteria
+Changed 29, 30, 31, 32, 33: Prior to randomization
+Changed to: Prior to enrollment
+Changed 41: Loss of significant volume of bloo d (>450 mL) wit hin 4 weeks prior t o
+the study
+<<<PAGE 3>>>
+Amendment #7   Page 3 of 39     CONFIDENTIAL
+Changed to: Loss of significan t volume of blood (>450 mL) wit hin 4 weeks prior to
+enrollment
+Changed 42: COVID-19 infection within 3 months
+Changed to: COVID-19 infection within 3 months of screening
+<<<SECTION 7.2.1 Screening Visit 1 (days -29 to 0)>>>
+7.2.1 Screening Visit 1 (days -29 to 0)
+Added:   Confirmation that the patient is either fully vaccinated for the COVID -19
+virus at least 2 weeks prior to first dose of simufilam, or a positive serology test for the
+COVID-19 virus with no current symptoms
+<<<SECTION 7.2.4 Follow-up Visits on Months 1, 3, and 9, 13, 15 and 21>>>
+7.2.4 Follow-up Visits on Months 1, 3, and 9, 13, 15 and 21
+Changed: Within 30 min prior to dosing, the following assessments will be
+conducted:
+• Blood sample collection for PK assessment (for Cmin)
+Changed to:  Within 30 min prior to dosing, the following assessments will be
+conducted:
+• Blood sample collection for PK assessment (for Cmin – Month 15 only)
+Changed: Cheek swab for genetic testing Month 15 Visit only
+Changed to: Saliva collection for genetic testing Month 15 Visit only
+<<<SECTION 7.2.5 Follow-up Visit on Month 2>>>
+7.2.5 Follow-up Visit on Month 2
+Deleted: Blood sample collection for PK assessment (for Cmin)
+7.2.6 Follow-up Visits on Months 4.5, 7.5, and 10.5
+Changed:  Patients will return to clinic at any time of day
+Changed to:   Patients will return to clin ic at an y tim e of day . The visit may be
+conducted by telemedicine, based on the judgement of the Investigator
+<<<SECTION 7.2.7 Follow-up Visit on Month 6 and 18>>>
+7.2.7 Follow-up Visit on Month 6 and 18
+Changed: Blood sample collection for PK assessment (for Cmin)
+Changed to:  Blood sample collection for PK assessment (for Cmin – Month 18
+only)
+<<<PAGE 4>>>
+Amendment #7   Page 4 of 39     CONFIDENTIAL
+Moved from After Dose to Within 30 min prior to dosing: Plasma sample collection (from
+8 mL whole blood) for SavaDx and other plasma biomarkers.
+<<<SECTION 7.2.8 Follow-up Visit on Month 12 and 24>>>
+7.2.8 Follow-up Visit on Month 12 and 24
+Added fo r cl arity: Month 12  morning dose in the  clinic will be from Open -Label
+Period 1 bottle.  Month 12 evening dose will be from the Randomized Period 2 bottle.
+Deleted: Blood sample collection for PK assessment (for Cmin)
+Moved from After Dose to Within 30 min prior to dosing: Plasma sample collection (from
+8 mL whole blood) for SavaDx and other plasma biomarkers.
+7.3.2 Preparation of Plasma Samples for Lymphocyte and Plasma Biomarker Determination
+Added: These patients with prior samples shipped as whole blood will continue to
+have samples shipped as whole blood only through Month 12. Samples at Months
+15, 18, 21 and 24 will be spun to plasma.
+<<<SECTION 7.3.3 Preparation of Plasma Samples for Pharmacokinetic Determination>>>
+7.3.3 Preparation of Plasma Samples for Pharmacokinetic Determination
+Changed: At each blood collection for PK (pre-dose sa mples for Cmin at all visits
+except Months 4.5, 7.5 and 10.5),
+Changed to: At each blood collection for PK (pre-dose samples for Cmin at Months 15
+and 18 only),
+<<<SECTION 7.3.5 Collection of Cheek Swab Saliva Samples for Genetic Testing>>>
+7.3.5 Collection of Cheek Swab Saliva Samples for Genetic Testing
+Entire section ch anged fro m: Cheek swab saliva samples wil l be collect ed only at
+Month 15. Patients will refrain from eating or drinking 1 h prior to saliva collection.
+Each patient will be instructed to place a standard 2" × 2"  piece of cotton gauze in the
+buccal region o f th eir c heek for 3 mi n. The saliva -saturated cotton spit wad will be
+removed, rolled to fit a collect ion tube, and s tored at -20°C until instructed to ship by
+the Sponsor.
+Changed to: Saliva samples will be collect ed only at Month 15.  Patients will refrain
+from eating or drinking 1 h prior to saliva collection. Each patient will be instructed to
+spit into a saliva collection tube. The sa liva will be stored at -20°C until instructed to
+ship by the Sponsor.
+8. EARLY DISCONTINUATION
+Changed: Patients who discontinue will not be replaced.
+Changed to: Patients who discontinue may be replaced at Sponsor discretion.
+<<<PAGE 5>>>
+Amendment #7   Page 5 of 39     CONFIDENTIAL
+<<<SECTION 9.5 SERIOUS ADVERSE EVENTS REPORTING>>>
+9.5 SERIOUS ADVERSE EVENTS REPORTING
+Added: or notification via email through the EDC system
+10.2 PHARMACOKINETIC ANALYSIS
+Changed: The only plasma PK parameters to be collected from this study are the Cmin
+values from blood samples taken prior to dosing on Months 1, 2, 3 and 9, as well as the
+sample on Month 6 or 12 collected just after the CSF draw (taken only if undergoing a
+CSF draw).
+Changed to: The only plasma PK parameters t o be collected from this study are the
+Cmin values from blood samples taken prior to dosing at Months 15 and 18.
+10.5 PHARMACOKINETIC ANALYSIS
+Changed: Between 100 and 150 patients
+Changed to: Up to 200 patients
+15. APPENDIX A
+Event schedule has been updated to reflect PK samples taken only at
+Months 15 and 18 and addition of weight when vital signs are taken.
+Modified footnote “a” to state patients should be reconsented at their
+next study visit.  Additionally, a notation is made to omit drug
+dispensation at Month 24.
+<<<PAGE 6>>>
+<<<PAGE 7>>>
+Amendment #7   Page 7 of 39     CONFIDENTIAL
+Cassava Sciences, Inc.
+CLINICAL RESEARCH PROTOCOL
+A 12-Month, Open-Label Safety Study of Simufilam followed by
+a 6-Month Randomized Withdrawal and 6 Additional Months
+Open-Label in Mild-to-moderate Alzheimer’s Disease Patients
+Signature of Agreement for Protocol PTI-125-04
+Amendment #7
+I have read this protocol and agree to conduct the study as outlined herein, in
+accordance with Good Clinical Practice (GCP) and complying with the obligations
+and requirements of clinical investigators and all other requirements listed in 21
+CFR part 312.
+Principal Investigator Signature Date
+Print Principal Investigator Name and Title
+<<<PAGE 8>>>
+Amendment #7   Page 8 of 39     CONFIDENTIAL
+TABLE OF CONTENTS
+1. List of abbreviations ................................ ................................ ...............................  10
+2. INTRODUCTION ................................ ................................ ................................ .. 12
+2.1. Mechanism of Action ..................................................................................................... 12
+2.2. Safety pharmacology and toxicology ............................................................................... 12
+2.3. Clinical Studies ............................................................................................................. 13
+2.3.1. A first-in-human Si ngle Ascending Dose clinical trial ........................................ 13
+2.3.2. First-in-patient multidose linical trial in mild-to-moderate AD patients ............... 13
+2.3.3. Double-blind placebo-controlled clinical trial in mild-to-moderate AD patients.. 14
+2.3.4. Open-label safety clinical trial in mild-to-moderate AD patients ........................ 15
+3. STUDY OBJECTIVES ................................ ................................ ............................. 16
+4. SUMMARY OF STUDY DESIGN ................................ ................................ .......... 16
+5. SUBJECT SELECTION ................................ ................................ ........................... 17
+5.1. Study Population ........................................................................................................... 17
+5.2. Inclusion Criteria ........................................................................................................... 17
+5.3. Exclusion Criteria .......................................................................................................... 18
+6. STUDY DRUG ................................ ................................ ................................ ...... 20
+6.1. Study Drug Physical Description and Preparation ............................................................. 20
+6.1.1. Storage .............................................................................................................. 21
+6.1.2. Drug Accountability ............................................................................................ 21
+6.2. Administration  and Dosing Regimen ............................................................................. 21
+6.3. Concomitant Medications ................................................................................................ 21
+7. STUDY PROCEDURES................................ ................................ ........................... 21
+7.1. stopping criteria ............................................................................................................. 21
+7.2. Evaluations by Visit ....................................................................................................... 22
+7.2.1. Screening Visit 1 (Days -29 to 0) ....................................................................... 22
+7.2.2. Screening Visit 2 (Days -28 to 0) ........................................................................ 23
+7.2.3. Study Day 1  (Dosing Initiation) ......................................................................... 23
+7.2.4. Follow-up Visits on Months 1, 3, 9, 13, 15, 21 ................................................... 24
+7.2.5. Follow-up Visit on Month 2 ................................................................................ 24
+7.2.6. Follow-up Visits on Months 4.5, 7.5 and 10.5 .................................................... 25
+7.2.7. Follow-up Visits on Month 6 and 18 ................................................................... 25
+7.2.8. Month 12 and 24 Follow-up Visits ...................................................................... 26
+7.2.9. Withdrawal Day 1 Visit – If Needed ................................................................... 27
+7.3. Laboratory Assessments ................................................................................................. 27
+<<<PAGE 9>>>
+Amendment #7   Page 9 of 39     CONFIDENTIAL
+7.3.1. Clinical Laboratory Tests .................................................................................... 27
+<<<SECTION 7.3.2. Preparation of Whole Blood Samples for Lymphocyte and Plasma Biomarkers 28>>>
+7.3.2. Preparation of Whole Blood Samples for Lymphocyte and Plasma Biomarkers 28
+7.3.3. Preparation of Plasma Samples for Pharmacokinetic Determination .................. 28
+7.3.4. Preparation of CSF samples .............................................................................. 28
+7.3.5. Collection of Cheek Swab Saliva Samples for Genetic Testing ........................ 28
+8. EARLY DISCONTINUATION ................................ ................................ ................. 29
+9. ADVERSE EVENTS/SERIOUS ADVERSE EVENTS ................................ ................. 29
+9.1. Adverse Events - Definition ............................................................................................ 29
+9.2. Adverse Events - Severity Rating .................................................................................... 30
+9.3. Adverse  Events  -  Relationship to  Study   Drug ............................................................... 30
+9.4. Serious Adverse Events and Unexpected Adverse Events - Definitions .............................. 31
+9.5. Serious Adverse Events Reporting .................................................................................. 32
+10. STATISTICAL CONSIDERATIONS ................................ ................................ ......... 32
+10.1. Analysis Populations ...................................................................................................... 32
+10.2. Pharmacokinetic Parameters ........................................................................................... 33
+10.3. Statistical Analysis ........................................................................................................ 33
+10.4. Safety Analysis .............................................................................................................. 33
+10.5. Sample Size .................................................................................................................. 33
+11. STUDY TERMINATION ................................ ................................ ......................... 33
+12. DATA COLLECTION, RETENTION AND MONITORING ................................ ....... 34
+12.1. Case Report Forms ......................................................................................................... 34
+12.2. Availability and Retention of Investigational Records ....................................................... 34
+12.3. Subject Confidentiality ................................................................................................... 34
+12.4. Liability ........................................................................................................................ 35
+12.5. Ethical and Legal Issues ................................................................................................. 35
+12.5.1. Institutional Review Board .................................................................................. 35
+12.6. Informed Consent Form ................................................................................................. 36
+13. INVESTIGATOR RESPONSIBILITIES ................................ ................................ ... 36
+14. REFERENCES ................................ ................................ ................................ ...... 37
+15. Appendix A ................................ ................................ ................................ ........... 38
+<<<PAGE 10>>>
+Amendment #7    Page 10 of 39   CONFIDENTIAL
+1. LIST OF ABBREVIATIONS
+7nAChR    7 nicotinic acetylcholine receptor
+A42    amyloid beta1-42
+AChEI    acetylcholinesterase inhibitor
+AD    Alzheimer’s disease
+ADAS-Cog11   Alzheimer’s Disease Assessment Scale cognitive subscale 11
+ADME    absorption, distribution, metabolism, excretion
+ANDI    Alzheimer’s Disease Neuroimaging Initiative
+AE    adverse event
+ALP    alkaline phosphatase
+ALT     alanine transaminase
+ANOVA   analysis of variance
+AST     aspartate transaminase
+AUC    area under the curve
+BUN    blood urea nitrogen
+CFR    Code of Federal Regulations
+Cmin    minimum plasma concentration
+Cmax    maximum plasma concentration
+CSF    cerebrospinal fluid
+CSI    Cassava Sciences, Inc.
+C-SSRS   Columbia-Suicide Severity Rating Scale
+DSMB    Data Safety Monitoring Board
+ECG    electrocardiogram
+eCRF    electronic case report form
+EDTA    ethylenediaminetetraacetic acid
+ELISA    enzyme-linked immunosorbent assay
+FDA    Federal Drug Association
+FIH    first in human
+FLNA    filamin A
+GCP    good clinical practice
+GDS    geriatric depression scale
+GGT     gamma glutamyl transpeptidase
+GLP    good laboratory practice
+HBsAg    hepatitis B surface antigen
+HCV    hepatitis C virus
+HIV    human immunodeficiency virus
+hERG    human ether-a-go-go-related gene
+IB    Investigator’s Brochure
+ICF Informed consent form
+ICH International Council on Harmonization of Technical
+Requirements for Registration of Pharmaceuticals for Human
+Use
+IR    insulin receptor
+IRB    Institutional Review Board
+<<<PAGE 11>>>
+Amendment #7    Page 11 of 39   CONFIDENTIAL
+LDH     lactose dehydrogenase
+LOQ    limit of quantitation
+MI    myocardial infarction
+MMSE    Mini-Mental State Examination
+MRI    magnetic resonance imaging
+mTOR    mammalian target of rapamycin
+NMDAR   N-methyl D-aspartate receptor
+NOAEL   no observable adverse effect level
+NOEL    no observable effect level
+NfL    neurofilament light chain
+NPI    neuropsychiatric inventory
+OTC    over-the-counter
+PK    pharmacokinetics
+PTI-125   small molecule drug candidate to treat AD
+PTI-125Dx   blood-based diagnostic/biomarker candidate
+RBC    red blood cell
+SAD    single ascending dose
+SAE    serious adverse event
+SOP    standard operating procedure
+TLR4    toll-like receptor 4
+Tmax    time to Cmax
+ULN    upper limit of normal
+WBC    white blood cell
+YKL40 chitinase-like protein 1, a secreted glycoprotein associated with
+inflammation and tissue remodeling
+<<<PAGE 12>>>
+Amendment #7    Page 12 of 39   CONFIDENTIAL
+2. INTRODUCTION
+<<<SECTION 2.1. MECHANISM OF ACTION>>>
+2.1. MECHANISM OF ACTION
+Cassava Sciences, Inc. is developing simufilam, a novel drug candidate designed to treat
+and slow the progression of Alzheimer’s disease (AD). Simufilam binds with femtomolar
+affinity to an altered conformation of filamin A (FLNA) that is induced by beta amyloid1-
+42 (A42), present in AD brain  and critical to the toxicity of  A42.1-3 Simufilam binding
+reverses the altered FLNA conformation and restores FLNA’s native shape,  preventing
+two toxic signaling cascades of A 42. A42, in monomer or small oligomer form,  hijacks
+the 7-nicotinic acetylcholine receptor ( 7nAChR) and signal s via this rec eptor to
+hyperphosphorylate tau. This signaling requires the recruitment of altered  FLNA to this
+receptor. Second, altered FLNA also links to toll-like receptor 4 (TLR4) to allow A 42 to
+persistently activate this receptor. Normal FLNA does not associate w ith either
+7nAChR or TLR4. In addition to disrupting the normal functions of 7nAChR and tau
+protein, A42’s toxic signaling to hyperphosphorylate tau leads to the signature tangles
+and plaques in AD brain. In two AD mouse models and in postmortem h uman AD brain
+tissue, simufilam restored function of three receptors that are impai red in  AD: the
+7nAChR, the N-methyl-D-aspartate receptor (NMDAR), and the insulin receptor (IR).2,3
+Simufilam also improved synaptic plasticity  and reduced tau hyperphosphorylation,
+amyloid deposits, neurofibrillary tangles and inflamma tory cytokine release. 2,3 We
+therefore expect simufilam both to improve cognition and to slow AD progression. Both
+mouse models used a dose of 20 mg/kg/day (equivalent to 60 mg/m2/day).
+<<<SECTION 2.2. SAFETY PHARMACOLOGY AND TOXICOLOGY>>>
+2.2. SAFETY PHARMACOLOGY AND TOXICOLOGY
+A robust nonclinical ADME, safety pharmacology, and general and genetic toxicology
+program has been conducted with simufilam. In vitro meta bolic profiling showed
+minimal meta bolism across  several species including humans. Simufilam was rapidly
+absorbed and eliminated in in vivo studies in rat and dog with nearly 100% oral
+bioavailability, a 2.67 -h half -life in dog, dose -proportional PK and no  accumulation.
+Safety pharmacology studies showed no adverse effects on gro ss behavioral and
+physiological parameters in the Irwin test of CNS toxicity in rats, no adverse effects on
+respiratory rate, tidal volume or minute volume in the rat respiratory test, and no adverse
+effects on arter ial b lood press ure, heart rate and ECG p arameters in the dog
+cardiovascular study. The in vitro hERG test for cardiotoxicity also indicated no adverse
+effect. A full battery of genot oxicity studies was c onducted (in vitro  bacterial Ames, in
+vitro chromosomal aberration, and in vivo rat micronucl eus test) and were all  negative.
+An in vitro specificity screen showed no significant activation or inhibition of a panel of
+68 receptors, channels and transporters.
+<<<PAGE 13>>>
+Amendment #7    Page 13 of 39   CONFIDENTIAL
+Simufilam was tested in single dose and repeat dose oral toxicity studies in rats and dogs.
+A 6-month repeat d ose oral toxicity study in rat (PTI-125-NC-049) used the same doses
+as a 28-day study (50, 500 and 1000 mg/kg/day) , which found 500 mg/kg/day  to be the
+no ob servable adverse effect level ( NOAEL). In the 6 -month study, t he toxicological
+response was charact erized by decreased body weights and  adverse structural and
+functional alterations in the liver of 500 and 1000 mg/kg ani mals, including in creased
+weight, hepa tocellular hypertrophy and vacuolat ion, single/multiple basophilic/
+eosinophilic/clear cell focus , hepa tocellular degeneration, pigmentation, and oval cell
+hyperplasia. The presence of bile pigment was consistent with cholestasis. These findings
+correlated with changes to the clinical chemi stry profile, including increased ALP and
+total/direct bilirubin. Over the 1 -month recovery period, there was complete recovery of
+the hepatocellular degeneration and partial recovery  of hepatocellular hypertrophy. The
+NOAEL from this 6-month study was 50 mg/kg/day (equivalent to 300 mg/m2). A second
+ongoing 6-month repeat dose oral toxicity study in rat will more accurately determine the
+6-month NOAEL in rat. Doses are vehicle and 125 and 250 mg/kg/day.
+In a 9-month toxicity study in dog  (PTI-125-NC-050), the no observable effect level
+(NOEL) of simufilam was 25 mg/kg. The 200 mg/kg (high) dose was decreased to 150 at
+1 month due to bodyweight loss thought unsustainable for 9 months. Clinical signs were
+salivation and a f ew instances of muscle fascicula tions. There were no pathology
+findings, but the high dose  was considered adverse d ue to two unexplained d eaths. The
+75 mg/kg/day NOAEL pro vides 38- and 19-fold safety margins by Cmax and AUC over
+the 100 mg b.i.d. dose in patients.
+<<<SECTION 2.3. CLINICAL STUDIES>>>
+2.3. CLINICAL STUDIES
+<<<SECTION 2.3.1. A first-in-human Si ngle Ascending Dose clinical trial>>>
+2.3.1. A first-in-human Si ngle Ascending Dose clinical trial
+A first -in-human, double-blind, Si ngle Ascending Dos e clinical trial was c onducted in
+healthy normal volunteers, age 18-45 with oral dosing solution . Doses were placebo, 50,
+100 and 200 mg (equivalent to 31, 62, and 123 mg/m2, respectively) administered to three
+different groups of volunteers . The study sho wed dose proportion al PK, and there were
+no drug-related adverse events (AEs).
+2.3.2. First-in-patient multidose clinical trial in mild-to-moderate AD patients
+In a Phase 2a 28-day study, 13 mild-to-moderate AD patients received simufilam 100 mg
+b.i.d. as oral tablets. Patients were MMSE ≥ 16 and ≤ 24, age 50-85, with a CSF t otal
+tau/Aβ42 ratio ≥ 0.30. A se cond CSF sample  was collected on Day 28 , allowing
+assessment of change from baseline in b iomarkers using commercial ELISA kits. All 8
+biomarkers that are elevated in AD were sig nificantly reduced from baseline (Fig. 1).4
+Aβ42, which is low in AD, was increased slightly but non -significantly. Reduced
+inflammatory cyto kines and YKL-40 indicated reduced neuroinfla mmation. A reduced
+neurodegenerative drive was suggested by reductions in n eurogranin, neurofilament light
+<<<PAGE 14>>>
+Amendment #7    Page 14 of 39   CONFIDENTIAL
+chain, and total tau. The robust reduction in phospho-tau ( P-Tau181) confirms the
+mechanism of action of simufilam. Simufilam was safe and well tolerated in all patients.
+Fig. 1   Phase 2a Mean Change from Baseline to Day 28 in CSF biomarkers (±SEM)
+2.3.3. Double-blind placebo-controlled clinical trial in mild-to-moderate AD patients
+A Phase 2b  randomized, placebo -controlled clinical t rial of simufilam 50 or 100 m g
+tablets or placebo (1:1:1) enrolled 64 mild-to-moderate AD patients with MMSE 16-26.
+Both 50 and 100  mg doses significantly improved eleven CSF biomarkers o f AD
+pathology, neurodegeneration, neuroinflammation and blood-brain barrier integrity (Fig.
+2). CSF b iomarker analyses  were condu cted blind to treatment and timepoint by an
+outside lab , and s creening and Day 28 samples for each patient were measured in
+triplicate in the same ELISA plates. Albumin and immunoglobulin G (IgG) were
+measured by immunob lotting and quanti fied by densitometric quanti tation. These data
+suggest disease modification and replicate our Phase 2a results in a well-controlled study.
+Fig. 2   Phase 2b Mean Change from Baseline to Day 28 in CSF biomarkers (±SEM)
+<<<PAGE 15>>>
+Amendment #7    Page 15 of 39   CONFIDENTIAL
+The secondary endpoints in the Phase 2b trial were two cognitive me asures us ing the
+Cambridge Neuropsychological Test Automated Battery. Patients were assessed  on the
+Paired Associate Learning (PAL) test , measuring episodic memory, and a test o f spatial
+working memory. The primary outcome measures for each were total erro rs, with errors
+imputed for m ore difficult le vels not rea ched in the PAL test. Simufilam produced
+encouraging eff ect sizes ( calculated by He dge’s g for group sizes of 20) , s uggesting
+cognitive enhancement (Fig. 3). Effect sizes versus placebo for the test of episo dic
+memory were 37% and 23% for the 50 and  100 mg groups, respectively, after removing
+the mo st and least  impaired subjects by baseline score. For spati al working memory ,
+effect sizes were 17% and 46% for these respective dose groups.  Cognitive enhancement
+by simufilam is supported by preclinical d ata showing improved function of α7nAChR,
+NMDAR and insulin receptors and improved synaptic plasticity in 3xTg AD mice and in
+postmortem human AD brain tissue. In both Phase 2 clinical trials, simufilam was well
+tolerated and no patients discontinued due to AEs.
+Fig. 3   Phase 2b Mean Change from Baseline to Day 28 in Total Errors in Memory Test
+<<<SECTION 2.3.4. Open-label safety clinical trial in mild-to-moderate AD patients>>>
+2.3.4. Open-label safety clinical trial in mild-to-moderate AD patients
+We are conducti ng a 1 -year, open-label safety study in mild -to-moderate AD patients.
+The study was meant to offer open -label drug to participants of our two Phase 2 studies
+and is also enrolling new patients. In the first 50 patients to reach 6 months , simufilam
+improved cognition and behavior a t 1, 3 and 6 months. ADAS-Cog11 scores improved
+1.6 points and NP I scores improved 1.3 points from baseline at 6 months. Mean baseline
+MMSE was 22.1, and mean ADAS-Cog11 was 15.5 for these 50 patients.
+<<<PAGE 16>>>
+Amendment #7    Page 16 of 39   CONFIDENTIAL
+3. STUDY OBJECTIVES
+The objectives of this study are to establish 1-year safety and to investigate the effect of
+simufilam on biomarkers, cogn ition and neuropsychiatric symptoms  during 12 -month
+repeat-dose oral administration in mild-to-moderate AD patients, 50-85 years of age. An
+objective of the 6 -month randomized with drawal is to determine whet her mild-to-
+moderate A D patients, age 50 -85, who have completed a one-year open -label study of
+100 mg b.i.d. simufilam and who continue with active dosing will show slower decline on
+ADAS-Cog11 and the NPI than patients who withdraw from this treatment.
+4. SUMMARY OF STUDY DESIGN
+The first 12 months is an open-label treatment of simufilam 100 mg b.i.d. for patients
+who com pleted prior Phase 2 studies PTI-125-02 and PTI-125-03. New patie nts are
+included so that up to 200 patients are enrolled in this stu dy. Month 12 to Month 18 is a
+randomized withdrawal phase; patients will be randomized to continue  taking simufilam
+100 mg b.i.d. or matching placebo. Month 18 to Month 24 will be an a dditional 6 months
+of open-label simufilam 100 mg b.i.d.  Simufilam and p lacebo will be administered as
+coated oral tablets. Patients who were enrolled prior to this amendment can continue
+upon reconsenting to the randomized withdrawal and final 6-month open-label portion.
+All patients wil l provide consent to enroll into t his study. Unless patients hav e a p rior
+positive amyloid PET sc an, MRI showing hippocampal v olume loss  or oth er prior
+evidence of AD, patients will undergo a CSF draw (if all other screening criteria are met)
+to confirm a total tau/Aβ42 ratio ≥ 0.28.
+Patients will report to the clinic in the morning of Day 1. Prior to dosing, patients will
+complete the following baseline measures: ECG, vital signs, clinical labs , urinalysis ,
+listen to he art and lungs, ADAS-Cog11, neuropsychiatric inventory ( NPI), geriatric
+depression scale ( GDS), and the C-SSRS. A blood sample will be collected for plasma-
+based biomarkers and genetic testing.
+Patients will return to the clinic every month through Mont h 3 and every 1.5 months
+through Month 12. Visits on Months 4.5, 7.5 and 10.5 will include vital signs, listening to
+heart and lungs, AE monit oring, C-SSRS, and drug dispensation an d accountability only
+and may be conducted by telemedicine, based on the judgement of the Investigator. After
+Month 12, visits will be on Months 13, 15, 18, 21 and 24. Patients completing Month 12
+prior to availability o f drug supply for the randomized withdrawal phase will continue
+with active treatment until drug supply is ready and therefore will have an additional
+“Withdrawal Day 1” visit before resuming with the Month 13 visit one month later.
+<<<PAGE 17>>>
+Amendment #7    Page 17 of 39   CONFIDENTIAL
+PK blood samples will be obtained in the morning  before dosing at  return visits  on
+Months 15 and 18.
+Blood draws for clinical laboratory tes ting and urine collection  for urinalysis will be
+performed at Day 1 and Months 1, 2, 3, 6, 9, 12, 15, 18, 21 and 24. Safety assessments of
+vital signs and  listening to heart and lungs  will be conducted at all visits . ECGs will be
+conducted on Day 1 and Months 1, 3, 6, 9, 12, 18 and 24.
+For plasma biomarkers, plasma samples will be collected on Day 1 prior to dosing and on
+Months 3, 6, 9 , 12, 15, 18, 21 and 24 . Plasma mark ers include SavaDx, the
+complementary diagnostic/biomarker, and a subset of CSF biomar kers (NfL,
+neurogranin, t otal tau, Aβ42 and Y KL40). For the fi rst 50 patients who provided a
+screening CSF sample, an additional CSF sample will be collected at Month 6 or Month
+12 (25 patients each Month 6 and Month 12). This sample will be use d to asses s CSF
+biomarker changes. These CSF draws will, however, become OPTIONAL after 50
+patients have provided either a Month 6 or Month 12 CSF sample. Further, these optional
+Month 6 or Month 12  samples should NOT be obtained from  patients who  did not
+provide a CSF sample at screening.
+An independent Data Safety Monitoring Board (DSMB), will meet periodically to review
+patient safety assessments and determine if dosing may continue.
+5. SUBJECT SELECTION
+<<<SECTION 5.1. STUDY POPULATION>>>
+5.1. STUDY POPULATION
+Up to 200 patients will be enrolled in the study (male and female).
+<<<SECTION 5.2. INCLUSION CRITERIA>>>
+5.2. INCLUSION CRITERIA
+All patients must comply with the following Inclusion Criteria:
+<<<SECTION 1. Informed consent form (ICF) signed by the subject or legally acceptable>>>
+1. Informed consent form (ICF) signed by the subject or legally acceptable
+representative. If a legally acceptable representative signs the ICF, a notation of
+capacity of the subject must be noted.
+2. Patient has a caregiver or legal representative r esponsible for administering the drug
+and recording the time.
+3. Ages ≥ 50 and ≤ 85 years
+<<<PAGE 18>>>
+Amendment #7    Page 18 of 39   CONFIDENTIAL
+4. Clinical diagnosis of dementia due to possible or probable AD consistent with criteria
+established by a workgroup of the National Institute on Aging and the Alzheimer's
+Disease Association.
+5. If female, postmenopausal for at least 1 year
+6. Patient living at home, senior residential setting, or an institutional setting without the
+need for continuous (i.e. 24-h) nursing care
+7. General health status acceptable for participation in the study
+8. Fluency (oral and written) in English or Spanish
+9. If receiving memantine, rivastigmine, galantamine or an AChEI, receiving a stable
+dose for at least 3 months (90 days) before screening. If receiving donepezil,
+receiving any dose lower than 23 mg once daily. Multiple medications are allowed.
+10. The patient is a non-smoker for at least 3 years.
+11. The patient or legal representative must agree to comply with the drawing of blood
+samples for the PK assessments, laboratory assessments and SavaDx.
+12. MMSE-2 score ≥ 16 and ≤ 26 at screening, OR if > 26, must have evidence of AD
+pathology such as a prior CSF total tau/Aβ42 ratio ≥ 0.28, an amyloid positive PET
+scan or hippocampal volume loss consistent with AD.
+<<<SECTION 5.3. EXCLUSION CRITERIA>>>
+5.3. EXCLUSION CRITERIA
+Patients meeting any of the following Exclusion Criteria will be excluded from the study:
+1. Anything that in the opinion of the Investigator would preclude participation in a 2-
+year study.
+2. BMI < 18.5
+3. Positive urine drug screen.
+4. Positive HIV, HCV or HbsAg screen.
+5. Suicidality on C-SSRS
+6. Exposure to an experimental drug other than simufilam, experimental biologic or
+experimental medical device within 3 months before screening
+7. A medical condition that would interfere with a lumbar puncture
+8. Residence in a skilled nursing facility and requiring 24 h care.
+9. Clinically significant laboratory test results
+<<<PAGE 19>>>
+Amendment #7    Page 19 of 39   CONFIDENTIAL
+10. Clinically significant untreated hypothyroidism (if treated, thyroid-stimulating
+hormone level and thyroid supplementation dose must be stable for at least 6 months
+before screening)
+11. Insufficiently controlled diabetes mellitus, including requiring insulin or metformin
+>1000 mg/day.
+12. Renal insufficiency (serum creatinine > ULN and clinically significant in the opinion
+of PI and/or Sponsor OR eGFR <60 ml/min/m2 as estimated by either the MDRD or
+CKD-EPI equation)
+13. Malignant tumor within 3 years before screening (except squamous and basal cell
+carcinoma or cervical carcinoma in situ or localized prostate cancer or localized stage
+1 bladder cancer)
+14. History of ischemic colitis or ischemic enterocolitis
+15. Unstable medical condition that is clinically significant in the judgment of the
+investigator
+16. Alanine transaminase (ALT) or aspartate transaminase (AST) > ULN or total
+bilirubin > ULN and clinically significant in the opinion of PI and/or Sponsor.
+17. History of myocardial infarction or unstable angina within 6 months before screening
+18. History of more than 1 myocardial infarction within 5 years before screening
+19. Clinically significant cardiac arrhythmia (including atrial fibrillation),
+cardiomyopathy, or cardiac conduction defect (patients with a pacemaker are
+acceptable)
+20. Symptomatic hypotension, or uncontrolled hypertension
+21. Clinically significant abnormality on screening electrocardiogram (ECG), including
+but not necessarily limited to a confirmed QTc (Fridericia correction method) value ≥
+450 msec for males or ≥ 470 msec for females.
+22. Stroke within 18 months before screening, or history of a stroke concomitant with
+onset of dementia
+23. History of brain tumor or other clinically significant space-occupying lesion on CT or
+MRI
+24. Head trauma with clinically significant loss of consciousness within 12 months before
+screening or concurrent with the onset of dementia
+25. Onset of dementia secondary to cardiac arrest, surgery with general anesthesia, or
+resuscitation
+26. Specific degenerative CNS disease diagnosis other than AD (e.g., Huntington's
+disease, Creutzfeld-Jacob disease, Down's syndrome, Frontotemporal Dementia,
+Parkinson's disease)
+<<<PAGE 20>>>
+Amendment #7    Page 20 of 39   CONFIDENTIAL
+27. Wernicke's encephalopathy
+28. Active acute or chronic CNS infection
+29. Donepezil 23 mg or greater QD currently or within 3 months prior to enrollment
+30. Discontinued AChEI < 30 days prior to enrollment
+31. Antipsychotics; low doses are allowed only if given for sleep disturbances, agitation
+and/or aggression, and only if the subject has received a stable dose for at least 3
+months before enrollment
+32. Tricyclic antidepressants and monoamine oxidase inhibitors; all other antidepressants
+are allowed only if the subject has received a stable dose for at least 3 months before
+enrollment
+33. Anxiolytics or sedative-hypnotics, including barbiturates (unless given in low doses
+for benign tremor); low doses of benzodiazepines and zolpidem are allowed only if
+given for insomnia/sleep disturbance, and only if the subject has received a stable
+dose for at least 3 months before enrollment
+34. Immunosuppressants, including systemic corticosteroids, if taken in clinically
+immunosuppressive doses (Steroid use for allergy or other inflammation is
+permitted.)
+35. Antiepileptic medications if taken for control of seizures
+36. Chronic intake of opioid-containing analgesics
+37. Sedating H1 antihistamines
+38. Nicotine therapy (all dosage forms including a patch), varenicline (Chantix), or
+similar therapeutic agent within 30 days before screening
+39. Clinically significant illness within 30 days of enrollment
+40. History of significant neurological, hepatic, renal, endocrine, cardiovascular,
+gastrointestinal, pulmonary, or metabolic disease
+41. Loss of a significant volume of blood (> 450 mL) within 4 weeks prior to enrollment
+42. COVID-19 infection within 3 months of screening
+<<<SECTION 6. STUDY DRUG>>>
+6. STUDY DRUG
+<<<SECTION 6.1. STUDY DRUG PHYSICAL DESCRIPTION AND PREPARATION>>>
+6.1. STUDY DRUG PHYSICAL DESCRIPTION AND PREPARATION
+Investigational simufilam and placebo will be s upplied by Cassava Sciences as coated
+tablets in 70- or 200-count bottles. Several days of ex tra tablets are included in each
+bottle to allow flexibility of scheduling visits.
+<<<PAGE 21>>>
+Amendment #7    Page 21 of 39   CONFIDENTIAL
+All remaining study drug will be returned to the sponsor or designee.
+<<<SECTION 6.1.1. Storage>>>
+6.1.1. Storage
+Bottles of study drug tablets should be stored at controlled room temperature, 20-
+25º C (68-77º F)  and protected from light and moisture.
+<<<SECTION 6.1.2. Drug Accountability>>>
+6.1.2. Drug Accountability
+The Investigator will be responsible for monitoring the receipt, storage, dispensing
+and accounting of all study medications according to site SO Ps. All invoices of
+study medication shipments must be retained in the site study file. Accurate,
+original site records must be maintained of drug inventory and dispensing. All
+records must be made available to the sponsor (or designee) and appropria te
+regulatory agencies upon request.
+<<<SECTION 6.2. ADMINISTRATION AND DOSING REGIMEN>>>
+6.2. ADMINISTRATION AND DOSING REGIMEN
+Patients will receive 100 mg  simufilam b.i.d. during the  open-label portion s of the
+study and either 100 mg simufilam or matching placebo during the randomized
+withdrawal portion of the study. Simufilam or placebo tablets should be at lea st 1  h
+before or after a meal.
+<<<SECTION 6.3. CONCOMITANT MEDICATIONS>>>
+6.3. CONCOMITANT MEDICATIONS
+Use of prescription or non-prescription medications will be recorded during the
+study. Chronic medications must be stable for 3 months at entry.
+7. STUDY PROCEDURES
+Appendix A presents the Schedule of Activities.
+Prior to any study-related activities, the Informed Consent Form (ICF)  must be signed
+and dated by the patient or legal representative. The format and content of the ICF must
+be agreed upon by the Principal Investigator(s), the appropriate IRB and the Sponsor
+(or designee). The signed and dated ICF must be retained by  the Investigator in the
+subject's file.
+<<<SECTION 7.1. STOPPING CRITERIA>>>
+7.1. STOPPING CRITERIA
+Liver chemistry threshold stopping criteria have  been designed to assure  patient safety
+and to e valuate l iver ev ent etiology during adm inistration of S tudy Drug.
+Administration of Study  Drug will be discontinued if a ny of the following liv er
+chemistry stopping criteria occurs:
+<<<PAGE 22>>>
+Amendment #7    Page 22 of 39   CONFIDENTIAL
+• ALT or AST ≥ 3 x ULN.
+• ALT or AST ≥ 2.5 x ULN and total bilirubin ≥ 2 x ULN.
+• ALT or AST ≥ 2 x ULN if associated with appearance or worsening of a ra sh
+or hepatitis symptoms (fatigue, nausea, vomiting, right upper quadrant pain or
+tenderness, fever, rash or eosinophilia).
+• ALT or GGT ≥ 2.5 x ULN that persists for ≥4 weeks.
+In the event of discontinuation due to liv er abnormalities, the patient will be
+appropriately investigated to determine the potential cause and ref erred to a ph ysician
+experienced in the treatment of hepatic disorders.
+An additional stopping criterion will be bodyweight loss of ≥ 2 kg resulting in a BMI <
+18.5.
+<<<SECTION 7.2. EVALUATIONS BY VISIT>>>
+7.2. EVALUATIONS BY VISIT
+<<<SECTION 7.2.1. Screening Visit 1 (Days -29 to 0)>>>
+7.2.1. Screening Visit 1 (Days -29 to 0)
+Patients who completed PTI-125-02 < 60 days of study start  will not be res creened
+but will sign the ICF on Day 1 or earlier for this open-label extension.
+For all other patients, the following will be completed in the screening visit:
+• Informed Consent
+• Review of Inclusion and Exclusion Criteria
+• Medical history
+• Review of concomitant medications
+• Confirmation that the patient is either fully vaccinated for the COVID -19
+virus at least 2 weeks prior to first dose of simufilam, or a positive  serology
+test for the COVID-19 virus with no current symptoms
+• If needed, CT scan to confirm I/E criteria, per investigator judgement
+• MMSE-2 evaluation (prior patients do not need to meet 16 to 26 range)
+• Columbia Suicide Severity Rating Scale (C-SSRS)
+• Physical examination, including measurement of vital signs (blood pressure,
+temperature, pulse and respiratory rate), height, weight
+• A 12-lead ECG (5-min supine)
+• Laboratory assessments, including serum chemistry, hematology, urinalysis,
+and screens for HCV, HIV and HBsAg.
+• Urine drug screen.
+<<<PAGE 23>>>
+Amendment #7    Page 23 of 39   CONFIDENTIAL
+<<<SECTION 7.2.2. Screening Visit 2 (Days -28 to 0)>>>
+7.2.2. Screening Visit 2 (Days -28 to 0)
+This CSF draw is required for all NE W patients meeting Screening Visit 1 cr iteria
+who do not have  a prior positive a myloid PE T scan or MRI showi ng hippo campal
+volume loss OR prior CSF biomarkers confirming AD. If Screening Visit 2 and Study
+Day 1 visit are combined, the CSF sample collection will occur 1-3 h after dosing and
+after the MMSE-2, ADAS-Cog11, NPI and GDS testing has been completed.
+• CSF sample collection (5 mL)
+• CSF samp les should be he ld at the study  site frozen at  -70°C, pending
+shipping instructions from the Sponsor.
+<<<SECTION 7.2.3. Study Day 1 (Dosing Initiation)>>>
+7.2.3. Study Day 1 (Dosing Initiation)
+Patients will come to  the clinic in the mor ning. P rior to dosing , the following
+assessments will be conducted:
+• Confirmation of Inclusion/Exclusion Criteria
+• Review of concomitant medications
+• Vital signs (b lood pressure, temperature, pulse and respiratory rat e), and
+weight
+• Listen to heart and lungs
+• ADAS-Cog11, NPI, GDS testing and C-SSRS – Since Last Visit version. If
+the C -SSRS indicate s imminent risk for suicidality, defined as the patient
+positively endorsing questions 4 or 5 of the s uicidal ideation section or any
+suicidal behavior questions, discontinue study drug and refer for appro priate
+care.
+• Blood sample collection for clinical laboratory tests
+• Plasma sample collection for SavaDx and other plasma biomarkers.
+• ECG
+Patients will be administered 100 mg simufilam b.i.d. 1-2 h before or after a meal.
+After dose on Study Day 1, the following assessments will be conducted:
+• Vital signs (b lood press ure, t emperature, pulse and resp iratory rate) at
+approximately 30 min, and 1 and 2 h post-dose.
+• Adverse event monitoring
+Clinic personnel will monitor the patients for AEs until discharge from the clinic.
+Upon investigator judgment, patients will be discharged with their supply of study
+<<<PAGE 24>>>
+Amendment #7    Page 24 of 39   CONFIDENTIAL
+drug until the next visit. They will be instructed to take study drug twice daily, at least
+1-2 h before or after a meal. A dose can be up to 4 h l ate, but if a dose is missed, the
+next dose should NOT be doubled.
+All follo w-up v isits c an b e +/- five (5) days  for flex ibility. For all follow-up visits
+except Months 4.5, 7.5 and 10.5 , patients will come to the cl inic in t he morning and
+will be instructed NOT to take their morning dose prior to coming to the clinic.
+<<<SECTION 7.2.4. Follow-up Visits on Months 1, 3, 9, 13, 15, 21>>>
+7.2.4. Follow-up Visits on Months 1, 3, 9, 13, 15, 21
+Patients will return to clinic in the morning before taking their morning dose.
+Within 30 min prior to dosing, the following assessments will be conducted:
+• Blood sample collection for PK assessment (for Cmin – Month 15 only)
+• Clinical laboratory tests (blood and urine) (All visits except Month 13)
+• Plasma sample collec tion (from 8 mL whole blood)  for SavaDx and other
+plasma biomarkers (All visits except Months 1 and 13)
+After dose, the following assessments will be conducted:
+• Vital signs ( blood press ure, temperatu re, pul se an d respiratory rate), and
+weight
+• Listen to heart and lungs
+• ECG (Month 1 only)
+• Adverse event monitoring
+• ADAS-Cog11, NPI, GDS  and C-SSRS – Since Last Visit v ersion. If the C -
+SSRS indicates imminent risk for suicidality, defined as the patient positively
+endorsing qu estions 4 or 5 of the s uicidal ideation section o r an y suicidal
+behavior questions, discontinue study drug and refer for appropriate care.
+• Saliva collection for genetic testing (Month 15 Visit only)
+<<<SECTION 7.2.5. Follow-up Visit on Month 2>>>
+7.2.5. Follow-up Visit on Month 2
+Patients will return to clinic in the morning before taking their morning dose.
+Within 30 min prior to dosing, the following assessments will be conducted:
+• Clinical laboratory tests (blood and urine)
+After dose, the following assessments will be conducted:
+• Vital signs (blood pressure, temperatu re, pulse and re spiratory r ate), and
+weight
+<<<PAGE 25>>>
+Amendment #7    Page 25 of 39   CONFIDENTIAL
+• Listen to heart and lungs
+• Adverse event monitoring
+• C-SSRS – Since Last Visit version. If the C-SSRS indicates imminent risk for
+suicidality, defined as the patient positively endorsing questions 4 or 5 of the
+suicidal ideation section or any suicidal behavior questions, discontinue study
+drug and refer for appropriate care.
+7.2.6. Follow-up Visits on Months 4.5, 7.5 and 10.5
+Patients will return t o clin ic at an y tim e of day . The visit may be conducted by
+telemedicine, based on the judgement of the Investigator.
+The following assessments will be conducted:
+• Vital signs (blood pressure, te mperature, pulse and r espiratory ra te), an d
+weight
+• Listen to heart and lungs
+• Adverse event monitoring
+• C-SSRS – Since Last Visit version. If the C-SSRS indicates imminent risk for
+suicidality, defined as t he patient positively endorsing questions 4 or 5 of the
+suicidal ideation section o r any suicidal behavior questions, discontinue study
+drug and refer for appropriate care.
+<<<SECTION 7.2.7. Follow-up Visits on Month 6 and 18>>>
+7.2.7. Follow-up Visits on Month 6 and 18
+Patients will return to the clinic in the morning on the Month 6 Visit. Those patients
+undergoing a CSF draw wi ll take their morning dose upon arrival (time of d osing to
+be recorded).
+Patients will return to clinic in the morning before taking their morning dose.
+Within 30 min prior to dosing, the following assessments will be conducted:
+• Blood sample collection for PK assessment (for Cmin – Month 18 only)
+• Clinical laboratory tests (blood and urine)
+• Plasma sample collec tion (from 8 mL whole blood ) for SavaDx and other
+plasma biomarkers.
+After dose, the following assessments will be conducted:
+• Vital signs (blood press ure, t emperature, p ulse and r espiratory ra te), and
+weight
+• Listen to heart and lungs
+<<<PAGE 26>>>
+Amendment #7    Page 26 of 39   CONFIDENTIAL
+• Adverse event monitoring
+• ECG
+• ADAS-Cog11, NPI, GDS, and C -SSRS – Since Last Visit ve rsion. If the C-
+SSRS indicates imminent risk for suicidality, defined as the patient positively
+endorsing questions 4 or 5 of the s uicidal i deation section o r any suicidal
+behavior questions, discontinue study drug and refer for appropriate care.
+• CSF sample collection at Month 6 (time post-dose to be recorded) only for
+the first 25 patients with a baseline  CSF. (The next 25 patients with a
+baseline CSF will have CSF drawn at Month 12 ). Month 18  CSF draw is
+OPTIONAL for patients who provided a Month 6 or Month 12 CSF and is not
+an option for any other patients.
+<<<SECTION 7.2.8. Month 12 and 24 Follow-up Visits>>>
+7.2.8. Month 12 and 24 Follow-up Visits
+Patients will return to clinic in the morning before taking their morning dose. Patients
+who we re enrolled prior to this amendment can terminate after completing the
+original 12-month open-label portion or can reconsent to the randomized withdrawal
+and final 6-month open-label portion.  Month 12 morning dose in the clinic will be
+from Op en-Label Period 1 bottle.  Month 12 eve ning do se will be fro m the
+Randomized Period 2 bottle.
+Within 30 min prior to dosing, the following assessments will be conducted:
+• Clinical laboratory tests (blood and urine)
+• Plasma sample collec tion (from 8 mL whole blood)  for SavaDx and other
+plasma biomarkers.
+After dose, the following assessments will be conducted:
+• Full physical exam
+• Adverse event monitoring
+• MMSE-2
+• ECG
+• ADAS-Cog11, NPI, GDS, and C-SSRS – Since Last Visit version . If the C -
+SSRS indicates imminent risk for suicidality, defined as the patient positively
+endorsing questions 4 or  5 of the s uicidal ideation section o r any suicidal
+behavior questions, discontinue study drug and refer for appropriate care.
+• CSF sample col lection at M onth 12 (time post -dose to be recorded)  for
+patients with a screening CSF who did not provide a CSF  sample at
+Month 6. For those patients who provided a Month 6 CSF, this Month 12
+CSF will be OPTIONAL. After 50 patients have provided either Month 6
+<<<PAGE 27>>>
+Amendment #7    Page 27 of 39   CONFIDENTIAL
+or M onth 12  CSF, no additional patients will have CSF drawn after
+screening. No CSF will be drawn at Month 24.
+For patients undergoing a CSF draw, CSF sample collection (5 mL) will occur 1-3 h
+after dosin g and after the MMSE , ADAS-Cog11, NPI and GDS  testing has been
+completed. These samples will be tested for CSF biomarkers.
+Patients who compl ete Month 12 prior to a vailability of drug supply for the
+randomized withdrawal ph ase (Months 12  – 18) will be dispensed additional open -
+label simufilam and will return for a Withdrawal Day 1 Visit as appropriate.
+7.2.9. Withdrawal Day 1 Visit – If Needed
+This a dditional visit is only for patients w ho c omplete Mont h 12 prior to
+availability of  drug supply for the randomized withdrawal phase (Months 12 –
+18) and who hav e been dispensed additional open-label simufilam while waiting .
+Patients will return to the clinic at any time of day for the following assessments:
+• ADAS-Cog11, NPI, GDS, and C -SSRS – Since Last Visit version . If the C -
+SSRS indicates imminent risk for suicidality, defined as the patient positively
+endorsing questions 4 or  5 of the s uicidal ideation s ection o r any suicidal
+behavior questions, discontinue study drug and refer for appropriate care.
+These patients will return to the clinic one month later for the Month 13 visit and
+continue with the rest of the scheduled visits.
+<<<SECTION 7.3. LABORATORY ASSESSMENTS>>>
+7.3. LABORATORY ASSESSMENTS
+<<<SECTION 7.3.1. Clinical Laboratory Tests>>>
+7.3.1. Clinical Laboratory Tests
+The fo llowing clinical laboratory tests will be performed at sc reening, Day 1 pre -
+dose, and at Months 1, 2, 3, 6, 9, 12, 15, 18, 21 and 24:
+• Hematology:  white blood cell (WBC) count with differential, red blood cell
+(RBC) count, hemoglobin, hematocrit, platelet count.
+• Serum Chemistry:  glucose, sodium, potassium, chloride, bicarbonate,
+calcium, phosphate, blood urea nitrogen (BUN), total bilirubin, creatinine,
+cholesterol, triglycerides, albumin, globulin, total protein, uric acid, alkaline
+phosphatase, alanine transaminase (ALT), aspartate transaminase (AST),
+gamma glutamyl transpeptidase (GGT), lactose dehydrogenase (LDH).
+• Urinalysis: color, specific gravity, pH, protein, sugar, ketones, occult blood,
+creatinine clearance calculation by Co ckcroft-Gault equation (without
+requiring a 24-h urine collection).
+<<<PAGE 28>>>
+Amendment #7    Page 28 of 39   CONFIDENTIAL
+<<<SECTION 7.3.2. Preparation of Whole Blood Samples for Lymphocyte and Plasma Biomarkers>>>
+7.3.2. Preparation of Whole Blood Samples for Lymphocyte and Plasma Biomarkers
+Whole blood samples will be collected on Day 1 and Months 3, 6, 9 , 12, 15, 18, 21
+and 24 . Blood s amples (8 mL t otal) will be drawn into a Vacutainer® tube
+containing K2EDTA. As advise d by Sponsor, the blood may be  spun down to
+separate the plasma (all new patients ) OR shipped as whole bl ood (patients with
+prior samples shipped as whole blood. These patients with prior samples shipped as
+whole b lood will contin ue to have samples shipped as whole blood only through
+Month 12. Samples at Months 15 , 1 8 21 and 24 will be s pun to plasma). Plasma
+should be frozen at -70°C and held until advised by the Sponsor to ship to: Dr. John
+Xu, Abil ene Christian U niversity, HAL R esearch Center Room 201, 1 201 East
+Ambler Ave, Abilene, TX 79699. Whole blood should be shipped immediately at 4°C
+to: Dr. Hoau-Yan Wang, CUNY School of Medicine, SOM CDI 3370, 85 St. Nicolas
+Terrace, New York, NY 10027, or another lab.  Do not ship samples on Friday.
+<<<SECTION 7.3.3. Preparation of Plasma Samples for Pharmacokinetic Determination>>>
+7.3.3. Preparation of Plasma Samples for Pharmacokinetic Determination
+At each blood collection for PK (pre-dose samples for Cmin at Months 15 and 18
+only, blood samples (4 mL) will be drawn into a Vacutainer® tube containing
+K2EDTA. The tubes will be placed on ice. Within 30 min of collection, the blood
+will be centrifuged at approximately 1000 X G for 15 min between 4-5°C. Within
+30 min of centrifuging, plasma (at least 1.5 mL) will be split into t wo aliquots,
+transferred to polypropylene tubes and stored at -20°C or below until analysis.
+At the end of the study, PK samples will be shipped frozen on dry ice to:
+Worldwide Clinical Trials Bio analytical Sciences, 8609 Cross Park Drive, Austin,
+TX 78754 for bioanalytical analysis of simufilam with a validated assay. The second
+set of samples will be shipped separately once receipt of the first set is confirmed.
+<<<SECTION 7.3.4. Preparation of CSF samples>>>
+7.3.4. Preparation of CSF samples
+CSF will be collected and aliquoted into 5 ml Screw-Cap LoBind Eppendorf® tubes
+(# 0030122356). CSF samples should be s plit into two aliqu ots of 2.5 mL. Samples
+will be held frozen at -70°C.
+When notified by Sponsor, samples will be shipped to Dr. Wang at CUNY (address
+above) for biomarker analyses or another lab. Samples will be shipped frozen on dry
+ice (Mon – Wed).
+<<<SECTION 7.3.5. Collection of Cheek Swab Saliva Samples for Genetic Testing>>>
+7.3.5. Collection of Cheek Swab Saliva Samples for Genetic Testing
+Saliva samples will be collected only at Month 15. Patients will refrain from eating or
+drinking 1 h prior to saliva colle ction. Each patient will be instructed to spit into a
+saliva collection tube. The saliva will be stored at -20°C until instructed to ship by the
+Sponsor.
+<<<PAGE 29>>>
+Amendment #7    Page 29 of 39   CONFIDENTIAL
+8. EARLY DISCONTINUA TION
+Patients may choose to discontinue study drug or study participation at any time, for
+any reason, and without prejudice. Patients who discontinue may be replaced at Sponsor
+discretion.
+The following must be completed and documented in the source documents and CRFs
+for all patients who discontinue the study early:
+• The reason for early study discontinuation.
+• Vital signs (blood pres sure, te mperature, pulse and res piratory rate ), weight, full
+physical examination, clinical laboratory tests, ECG, use of concomitant
+medications, and adverse events) should be obtained at discharge prior to release.
+• Collection of plasma for biomarkers
+• MMSE-2
+• ADAS-Cog11, NPI and GDS (If the patient scores above 4 on the GDS assessment,
+a referral for further f ollow-up with the patient ’s primary care p hysician or
+psychiatrist is required. In addition, immediately administer the C-SSRS. If the C -
+SSRS indicate s imminent risk for suicidality, define d as the patient pos itively
+endorsing questions 4 or  5 of the s uicidal ideation section o r any suicidal behavior
+questions, immediately contact the sponsor.)
+9. ADVERSE EVENTS/SERI OUS ADVERSE EVENTS
+<<<SECTION 9.1. ADVERSE EVENTS - DEFINITION>>>
+9.1. ADVERSE EVENTS - DEFINITION
+An adverse event (AE) is any undesirable event that occurs to a subject during a
+study, whether or not that event is considered study drug-related. Monitoring for AEs
+will start at dosing. Examples include:
+• Any treatment-emergent signs and symptoms (events that are marked by a
+change from the subject's baseline/entry status [e.g., an increase in severity or
+frequency of pre-existing abnormality or disorder])
+• All reactions from study drug, an overdose, abuse of drug, withdrawal
+phenomena, sensitivity or toxicity to study drug
+• Apparently unrelated illnesses
+• Injury or accidents (Note: if a medical condition is known to have caused the
+injury or accident, the medical condition and the accident should be reported as
+two separate medical events [e.g., for a fall secondary to dizziness, both
+"dizziness" and "fall" should be recorded separately])
+• Extensions or exacerbations of symptoms, subjective subject-reported events,
+<<<PAGE 30>>>
+Amendment #7    Page 30 of 39   CONFIDENTIAL
+new clinically significant abnormalities in clinical laboratory, physiological
+testing or physical examination
+All AEs, whether or not related to the study drug, must be fully and completely
+documented on the AE page of the electronic Case Report Form (eCRF) and in the
+subject's clinical chart.
+In the event that a subject is withdrawn from the study because of an AE, it must be
+recorded on the eCRF as such. The subject should be followed and treated by the
+Investigator until the abnormal parameter or symptom has resolved or stabilized.
+The Investigator must report all directly observed AEs and all spontaneously
+reported AEs. The Investigator will ask the subject a non-specific question (e.g.,
+"Have you noticed anything different since your dose of the study medication?") to
+assess whether any AEs have been experienced since the last assessment. AEs will
+be identified and documented on the eCRF in appropriate medical terminology. The
+severity and the relationship to the study drug will be determined and reported on the
+CRF (see below).
+<<<SECTION 9.2. ADVERSE EVENTS - SEVERITY RATING>>>
+9.2. ADVERSE EVENTS - SEVERITY RATING
+The severity of each AE should be characterized and then classified into one of three
+clearly defined categories as follows:
+• Mild - the AE does not interfere in a significant manner with the subject's
+normal functioning level. It may be an annoyance.
+• Moderate - the AE produces some impairment of functioning but is not
+hazardous to health. It is uncomfortable or an embarrassment.
+• Severe - the AE produces significant impairment of functioning or
+incapacitation and is a definite hazard to the subject's health.
+These three categories are based on the Investigator's clinical judgment, which in turn
+depends on consideration of various factors such as the subject's report, and the
+physician's observations. The severity of the AE should be recorded in the
+appropriate section of the Adverse Event CRF.
+<<<SECTION 9.3. ADVERSE  EVENTS  -  RELATIONSHIP TO  STUDY   DRUG>>>
+9.3. ADVERSE  EVENTS  -  RELATIONSHIP TO  STUDY   DRUG
+The relationship of each AE to the study drug will be classified into one of three
+defined categories as follows:
+• Unlikely - a causal relationship between the AE and the study drug is unlikely.
+• Possible - a causal relationship between the AE and the study drug is possible.
+<<<PAGE 31>>>
+Amendment #7    Page 31 of 39   CONFIDENTIAL
+• Probable - a causal relationship between the AE and the study drug is probable.
+For example, the AE is a common adverse event known to occur with the
+pharmacological class the study drug belongs to; or the AE abated on study
+drug discontinuation and reappeared upon re-challenge with the study drug.
+These three categories are based on the Investigator's clinical judgment and
+consideration of various factors such as the subject's report, the timing of the AE in
+relationship to study drug administration/discontinuation, the Investigator's
+observations and the Investigator's prior experience. The relationship of the AE to the
+study drug will be recorded in the eCRF.
+<<<SECTION 9.4. SERIOUS ADVERSE EVENTS AND UNEXPECTED ADVERSE EVENTS - DEFINITIONS>>>
+9.4. SERIOUS ADVERSE EVENTS AND UNEXPECTED ADVERSE EVENTS - DEFINITIONS
+A Serious Adverse Ev ent ( SAE) includes (but is not limited to) an experience
+occurring at any dose that results in any of the following outcomes:
+• Death
+• A life-threatening event (i.e., the subject is at immediate risk of death from the
+reaction as it occurs). "Life-threatening" does not include an event that, had it
+occurred in a more serious form, might have caused death. For example, drug-
+induced hepatitis that resolved without evidence of hepatic failure would not be
+considered life-threatening even though drug-induced hepatitis can be fatal.
+• In-patient hospitalization (hospital admission, not an emergency room visit) or
+prolongation of existing hospitalization.
+• A persistent or significant disability/incapacity (i.e., a substantial disruption of
+the subject's ability to carry out normal life functions).
+• A congenital anomaly/birth defect.
+In addition, medical and scientific judgment should be exercised in deciding whether
+other situations should be considered an SAE (i.e., important medical events that may
+not be immediately life-threatening or result in death but may jeopardize the subject
+or may require medical or surgical intervention to prevent one of the other outcomes
+listed in the definition above). Examples of such medical events include (but are not
+limited to): allergic bronchospasm requiring intensive treatment in an emergency
+room or at home, blood dyscrasias or convulsions that do not result in in-patient
+hospitalization, or the development of drug dependency or drug abuse.
+An unexpected AE is one for which the specificity or severity is not consistent with the
+current Investigator's Brochure. For example, hepatic necrosis would be unexpected (by
+virtue of greater severity) if the Investigator's Brochure only listed elevated hepatic
+enzymes or hepatitis.
+<<<PAGE 32>>>
+Amendment #7    Page 32 of 39   CONFIDENTIAL
+Similarly, cerebral thromboembolism an d cerebral vasculitis would be unexpected
+(by virtue of greater specificity) if the Investigator's Brochure only listed cerebral
+vascular accidents.
+<<<SECTION 9.5. SERIOUS ADVERSE EVENTS REPORTING>>>
+9.5. SERIOUS ADVERSE EVENTS REPORTING
+The reporting of SAEs by the Sponsor to Regulatory Authorities (e.g., FDA) is a
+regulatory requirement.
+All SAEs must be reported immediately (within 24 h of learning of the event) by
+telephone or notification via email through the EDC system to:
+Nadav Friedmann, PhD, MD
+Cassava Sciences, Inc.
+Email: nfriedmann@cassavasciences.com
+Phone:    925-788-4585
+Do not delay reporting a suspected SAE to obtain additional information. Any
+additional information, if collected, can be reported to the Sponsor as a follow-up
+to the initial report.
+A completed SAE report form must be sent within five (5) working days to the
+medical monitor. The Sponsor will report SAEs to the IRB and FDA as required.
+In the case of a death or other SAE that has occurred within 30 days after
+receiving study drug, the Principal Investigator must also report such an event
+within 24 hours of being notified.
+In the event of any SAE (other than death), the subject will be instructed to contact
+the study physician (P rincipal Investigator or designee) using the phone number
+provided in the ICF. All patients experiencing an SAE will be seen by a Principal
+Investigator or designee as soon as feasible following the report of an SAE.
+10. STATISTICAL CONSIDERATI ONS
+<<<SECTION 10.1. ANALYSIS POPULATIONS>>>
+10.1. ANALYSIS POPULATIONS
+All patients who receive study medication will be included in safety analyses. All
+patients who have sufficient data for biomarker, ADAS-Cog11, NPI and GDS analyses
+will be included in the analysis population for each measure individually.
+<<<PAGE 33>>>
+Amendment #7    Page 33 of 39   CONFIDENTIAL
+<<<SECTION 10.2. PHARMACOKINETIC PARAMETERS>>>
+10.2. PHARMACOKINETIC PARAMETERS
+The only plasma PK parameters to be collected from this study are the Cmin values from
+blood samples taken prior to dosing at Months 15 and 18.
+<<<SECTION 10.3. STATISTICAL ANALYSIS>>>
+10.3. STATISTICAL ANALYSIS
+Biomarker endpoints to be analyzed include: 1) CSF Aβ42, 2) CSF total tau 3) CSF p-
+tau181, 4) CSF neur ofilament light chain, 5) C SF neurogranin, 6) CSF sTREM2, 7)
+plasma neurofilament li ght chain, 8) plasma ne urogranin, 9) plasma total tau, 10)
+plasma Aβ42, 11) SavaDx lymphocyte assay, 12) SavaDx plasma assay and 13) mTOR
+assay. These data will be a nalyzed by paired t test  comparing baseline t o Month 6 or
+Month 12. Other appro priate statistics may be perfo rmed to compare mild versus
+moderate patients.
+The ADAS-Cog11, NPI and GDS endpoints will be analyzed by linear regression with
+pre-planned comparisons of mild versus moderate patients. Other appropriate statistics
+may be performed.
+Month 12 to Month 18 ADAS-Cog11, NPI and GDS data will be analyzed by mixed
+model repeated measures (MMRM) analys is. Month 6/12 to Month 18 CSF biomarker
+data will be analyzed b y ANCOVA for the effe ct of treatment with Month 6/12 value
+as the covariate, or by ANOVA.
+<<<SECTION 10.4. SAFETY ANALYSIS>>>
+10.4. SAFETY ANALYSIS
+Adverse events reported on case report forms will be mapped to preferred terms and
+organ systems using the MedDRA mapping system. Vital signs and clinical
+laboratory results will be descriptively summarized in terms of change from
+screening values.
+<<<SECTION 10.5. SAMPLE SIZE>>>
+10.5. SAMPLE SIZE
+Up to 200 patients may be enrolled in this study. Eligible patients include those who
+completed PTI-125-03 and PTI-125-02 as well as new patients.
+11. STUDY TERMINATIO N
+The study will be terminated following completion of the study or at any time at the
+discretion of the Sponsor.
+<<<PAGE 34>>>
+Amendment #7    Page 34 of 39   CONFIDENTIAL
+12. DATA COLLECTION, RETENTION AND MONITORING
+<<<SECTION 12.1. CASE REPORT FORMS>>>
+12.1. CASE REPORT FORMS
+Electronic case report forms (eCRFs) will be used for each subject. The patients in the
+study will not be identified by name on any study documents to be collected by the
+Sponsor (or CRO designee) but will be identified by a unique patient number.
+All clinical information requested in this protocol will be recorded in the eCRFs
+provided by CSI. In case of error, the correction will be noted, initialed and dated.
+eCRFs must be reviewed and verified for accuracy by the Principal Investigator and
+signed-off before collection by the Sponsor (or CRO designee). Paper source
+documents, if used, will remain at the Investigator's site after study completion.
+<<<SECTION 12.2. AVAILABILITY AND RETENTION OF INVESTIGATIONAL RECORDS>>>
+12.2. AVAILABILITY AND RETENTION OF INVESTIGATIONAL RECORDS
+The Investigator must make study data accessible to the monitor, other authorized
+representatives of the Sponsor (or designee) and Regulatory Agency (e.g., FDA)
+inspectors upon request. To assure accuracy of data collected in the eCRFs, it is
+mandatory that Sponsor representatives have access to original source documents
+(e.g., subject records, subject charts, and laboratory reports). During review of these
+documents, the subject's anonymity will be maintained with adherence to
+professional standards of confidentiality and applicable laws. A file for each subject
+must be maintained that includes the signed ICF and all source documentation
+related to that subject. The Investigator must ensure the reliability and availability of
+source documents for the eCRF.
+Investigators are required to maintain all study documentation until notification by
+CSI that any records may be discarded.
+The Investigator is responsible for maintaining adequate case histories in each
+subject's source records.
+<<<SECTION 12.3. SUBJECT CONFIDENTIALITY>>>
+12.3. SUBJECT CONFIDENTIALITY
+All reports and subject samples will be identified only by the assigned patient number
+and in itials to maintain subject confidentiality. Additional subject confidentiality
+issues (if applicable) are covered in the Clinical Trial Agreement.
+<<<PAGE 35>>>
+Amendment #7    Page 35 of 39   CONFIDENTIAL
+<<<SECTION 12.4. LIABILITY>>>
+12.4. LIABILITY
+In the event of a side effect or injury, appropriate medical care as determined by the
+Investigator or his/her designated alternate will be provided.
+If a bodily injury is sustained, resu lting directly fr om the use of the study drug, the
+Sponsor will reimburse for reasonable physician fees and medical expenses necessary
+for treatment of only the bodily injury which is not covered by the subject's medical or
+hospital insurance, provided that the injury is not due to a negligent or wrongful act or
+omission by the study doctor and his/her staff. No other compensation of any type will
+be provided by the Sponsor. Compensation for lost wages, disability or discomfort due
+to the study is not available.
+<<<SECTION 12.5. ETHICAL AND LEGAL ISSUES>>>
+12.5. ETHICAL AND LEGAL ISSUES
+The Investigator and site personnel are responsible for conducting this study in
+accordance with the ICH, GCP, and all other applicable laws and regulations.
+<<<SECTION 12.5.1. Institutional Review Board>>>
+12.5.1. Institutional Review Board
+The protocol and Informed Consent Form must be approved by an IRB before the
+study is initiated. The IRB must comply with U.S. CFR 21 Part 56 and local laws.
+Documentation of IRB approval must be provided to the Sponsor. Investigators are
+responsible for the following:
+• Obtaining IRB approval of the protocol, Informed Consent Form, and any
+advertisements to recruit patients and IRB approval of any protocol
+amendments and Informed Consent Form revisions before implementing the
+changes.
+• Providing the IRB with any required information before or during the study.
+• Submitting progress reports to the IRB, as required, requesting additional
+review and approval, as needed; and providing copies of all relevant IRB
+communications to the Sponsor.
+• Notifying the IRB within 15 calendar days of all SAEs and unexpected AEs
+related to study medications reported by the Sponsor to the Investigator.
+<<<PAGE 36>>>
+Amendment #7    Page 36 of 39   CONFIDENTIAL
+<<<SECTION 12.6. INFORMED CONSENT FORM>>>
+12.6. INFORMED CONSENT FORM
+The Sponsor (or designee) must review the Investigator's proposed ICF prior to IRB
+submission for approval. An IRB-approved copy of the Informed Consent Form is
+forwarded to the Sponsor.
+The ICF documents study-specific information the Investigator provides to the subject
+and the subject's agreement to participate. The Investigator explains in plain terms the
+nature of the study along with the aims, methods, anticipated benefits, potential risks,
+and any discomfort that participation may entail. The ICF must be signed and dated
+before the subject enters the study. The original ICF and any amended ICF, signed and
+dated, must be retained in the subject's file at the study site and a copy must be given to
+the subject.
+13.  INVESTIGATOR RESPONSIBILITIES
+The Investigator agrees to:
+• Conduct the study in accordance with the protocol, except to protect the safety,
+rights, or welfare of patients.
+• Personally conduct or supervise the study.
+• Ensure that requirements for obtaining informed consent comply with ICH, CFR
+21 Parts 50 and 56 and local laws.
+• Report to the Sponsor any AEs that occur during the study in accordance with
+ICH, CFR 21 Part 312.64 and local laws.
+• Read and understand the Investigator's Brochure including potential risks and side
+effects of the drug.
+• Ensure that all associates, colleagues, and employees assisting in the conduct of
+the study are informed about their obligations in meeting the above commitments.
+• Maintain adequate records in accordance with ICH, 21 CFR Part 312.62, and
+local laws and have records available for inspection by the Sponsor, FDA, or
+other authorized agency.
+• Promptly report to the Sponsor all changes in research activity and unanticipated
+problems involving risks to patients or others (including amendments and
+expedited safety reports).
+• Comply with all other requirements regarding obligations of Clinical Investigators
+and all other pertinent requirements listed in ICH, 21 CFR Part 312 and local
+laws.
+<<<PAGE 37>>>
+Amendment #7    Page 37 of 39   CONFIDENTIAL
+14. REFERENCES
+1. Wang H-Y, Pei Z, K.-C. Lee K-C, et al. PTI-125 Reduces Biomarkers of Alzheimer’s Disease
+in Patients. J Prevent Alzheimer's Disease 2020; doi:10.14283.
+2. Burns LH, Wang H-Y. Altered filamin A enables amyloid beta-induced tau
+hyperphosphorylation and neuroinflammation in Alzheimer’s disease. Neuroimmunol
+Neuroinflammation 2017;4:263-71.
+3. Wang H-Y, Lee K-C, Pei Z, Khan A, Bakshi K, Burns L. PTI-125 binds and reverses an altered
+conformation of filamin A to reduce Alzheimer's disease pathogenesis. Neurobiol Aging
+2017;55:99-114.
+4. Wang H-Y, Bakshi K, Frankfurt M, et al. Reducing amyloid-related Alzheimer’s disease
+pathogenesis by a small molecule targeting filamin A. J Neurosci 2012;32:9773-84.
+5. Hansson O, Seibyl J, Stomrud E, et al. CSF biomarkers of Alzheimer’s disease concord with
+amyloid-β PETand predict clinical progression: A study of fully automated immunoassays in
+BioFINDER and ADNI cohorts. Alzheimer's Dement 2018;14:1470-81.
+<<<PAGE 38>>>
+Amendment #7    Page 38 of 39   CONFIDENTIAL
+15. APPENDIX A
+Events Schedule
+PROCEDURE Screen
+Visit 1
+Screen
+Visit 2
+DAY
+1
+Month
+1
+Months
+2, 4.5, 7.5
+& 10.5
+Months
+3, 9, 15
+& 21
+Month
+13
+Months
+6 & 18
+Month
+12 &
+24
+( With-
+drawal
+Day 1 )
+Informed
+Consent a X        (X)
+Medical
+histories X
+ECG  X  X X    X X
+CT scan  (X)
+Vital signs dX  XX (X) XXXX
+Physical
+examination X  * * (*) * * * X
+Biochemistry,
+hematology,
+urinalysis
+X
+XX Month 2
+only X
+X X
+MMSE-2 X        X
+Saliva
+collected for
+genetic testing
+Month
+15 only
+HCV, HBsAg
+& HIV screen X
+Urine drug
+screen X
+Drug
+dispensation   X X X X  X Xe X
+Pre-dose blood
+sample for PK
+Month
+15 only
+Month
+18
+only
+Adverse
+events   XXXXXXX
+Blood draw
+for biomarkers   X   X  X X
+CSF draw  (X) b      (X) c (X) c
+ADAS-Cog,
+NPI and GDS    X X  X X X X X
+C-SSRS X  XXXXXXXX
+(  ) indicates performed per investigator judgement or not for all patients
+* Listen to heart and lungs
+a   Patients who did not initially consent for a 2-year study should be reconsented at their next study visit.
+b Patients who have a prior amyloid PET or other confirmation of AD can bypass this baseline CSF draw
+<<<PAGE 39>>>
+Amendment #7    Page 39 of 39   CONFIDENTIAL
+c Only for patients with a baseline CSF. Patients with a baseline CSF have the option to do a Month 6 or 12 CSF draw. Month 18 CSF
+draw is an option only for patients who provided Month 6 or 12 CSF.
+d Include weight for BMI calculation
+e Drug dispensation only at Month 12
+NB: Withdrawal Day 1 is only for patients who complete Month 12 prior to drug supply availability for the randomized withdrawal.

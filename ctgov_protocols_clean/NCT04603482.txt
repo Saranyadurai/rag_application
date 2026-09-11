@@ -1,0 +1,1921 @@
+<<<PAGE 1>>>
+<<<PAGE 2>>>
+Page 1 of 45
+[USE THIS SOCIAL, BEHAVIORAL, AND EDUCATIONAL PROTOCOL TEMPLATE IF YOUR
+PROJECT INCLUDES SURVEY, INTERVIEWS, FOCUS GROUPS OR EDUCATIONAL
+RESEARCH ACTIVITIES WITH NO BIOMEDICAL/CLINICAL COMPONENTS]
+INSTRUCTIONS:
+Use this template to prepare a document with the information from the following
+sections.
+Depending on the nature of what you are doing, some sections may not be applicable to
+your research. If so, please mark as N/A. You may delete contents of sections, but will not
+be able to delete the headings of the sections.
+When you write a protocol, keep an electronic copy. You will need to modify this copy
+when making changes.
+Consider using a different color font for your answers.
+PROTOCOL TITLE:
+Self-Management Intervention: Considering Needs & Preferences of Dementia Caregivers
+(aka “Caregiver Career Study”)
+PRINCIPAL INVESTIGATOR
+Jaclene Zauszniewski
+Nursing Science
+216-368-3612
+jaz@case.edu
+UH FACULTY ADVISOR:
+If the principal investigator’s primary role at UH is resident, fellow or student, identify a faculty
+advisor.
+N/A
+OTHER DEPARTMENTS INVOLVED IN THIS STUDY (IF APPLICABLE):
+VERSION NUMBER:
+Include the version number of this protocol if assigned by an outside entity.
+DATE:
+V1 12/19/19
+V2 Updated 1.3.20
+V3 Updated 10.7.2020, 11.23.20
+V4 Updated 2.18.21, 5.14.21
+V5 Updated 8.29.22
+V6 Updated 2.1.23
+<<<PAGE 3>>>
+Page 2 of 45
+Indicate the origin of this protocol (who conceived of and leads the development of the
+protocol regardless of funding):
+Investigator initiated (Investigator(s) developed protocol, regardless of funding)
+Industry (Pharmaceutical, Device, etc.) (Industry developed protocol)
+Federal (NIH, DOD, etc.)
+Cooperative Group (SWOG, GOG, etc.)
+Other - Please specify:
+Funding
+Objectives
+Our primary aim is to examine the effects of a health self-management intervention
+(Biofeedback or Resourcefulness Training) delivered by need or preference in family carers of
+persons with dementia on caregiving responses (1a) and health outcomes (1b) over time. We
+hypothesize that family carers who receive either Biofeedback Training (BF) or Resourcefulness
+Training (RT) based on need or preference will have better health outcomes than carers in the
+attention control condition, regardless of caregiving phase.
+The second aim is to determine whether differences exist among caregivers, care partners, and
+caretakers in carer responses (2a) and health outcomes (2b) over time. All carers will complete
+measures of caregiving responses and health outcomes at baseline (T1), 6 months (T2), and 12
+months (T3). The four-week interventions will occur between T1 and T2 data points. Carers may
+use the intervention as often as they wish (i.e., self-tailoring); dosing and fidelity will be
+measured. Repeated measures bivariate and multivariate analyses will address the study aims
+while controlling for dementia symptom severity and caregiving demands.
+Background
+Directions: Describe the relevant prior experience and gaps in current knowledge describing
+how it will add to existing knowledge. Include any relevant preliminary data.
+Dementia is the most under recognized health crisis of the 21st century, with over 46
+million people worldwide living with dementia, a number that is expected to reach 131.5 million
+by 2050.4 In the United States, family members provide care for over 5.4 million elders with
+some form of dementia. Regardless of cause, dementia has a slow, progressive, fairly predictable
+downward course, with losses in mental and physical functioning that generate negative carer
+responses (i.e., perceived stress, depressive cognitions, negative emotions) and may seriously
+compromise the family carer’s health risks and physical and mental health (i.e., health
+outcomes). Research shows that within six months of a transition to a new caregiving phase (i.e.,
+from caregiver, to care partner, to caretaker), the health of family carers shows evidence of
+substantial decline. Although researchers have identified factors occurring throughout the
+caregiving career that may adversely affect the carer’s health, interventions to promote health
+self-management by reducing negative caregiving responses have not been tested in carers who
+have recently transitioned into the role of caregiver, care partner, or caretaker. Consistent with
+<<<PAGE 4>>>
+Page 3 of 45
+the Precision Medicine Initiative, which presents an innovative model that accounts for
+individual differences and empowers health care recipients (i.e., family carers) to participate
+actively in health care decisions, sustainable self-management interventions should be designed
+and tailored to match the carer’s needs and preferences and then tested with randomized,
+controlled trials.
+There are several scientific premises underlying the fundamental assumptions of the
+proposed study:
+1) Having an elderly family member with any form of dementia is a devastating
+experience that takes its toll on other family members (i.e., spouses, adult children)
+who assume responsibility for their care and welfare;
+2) The caregiving career follows a long-term trajectory that may last from 4-20 years
+and involves a predictable downward spiral of losses in the elder’s mental and physical
+functioning, accompanied by changes in the level of care needed by the elder;
+3) Changes in level of care required to meet the needs of the elder over the course of
+dementia are reflected in a caregiving career comprised of the roles of primary
+caregiver (in the home), care partner (with facility placement), caretaker (following
+death of the loved one);
+4) Family carers, regardless of phase in the caregiving career, are prone to experience
+stress and depressive thoughts and feelings that can adversely affect their physical and
+mental health over time; and
+5) Existing interventions that strengthen family carer’s self-management skills,
+including Heart Rate Biofeedback (BF) and Resourcefulness Training (RT),© will
+reduce their stress, minimize their depressive feelings, and ultimately sustain their
+physical and mental health at any phase of the caregiving career.
+As the population >age 65 continues to age, the number of persons with Alzheimer’s
+and other forms of dementia is expected to escalate. More than 15 million family members
+provide some form of care or assistance for the over 5 million American elders who have some
+form of dementia.  Research shows that family carers provide more than 18 billion hours of
+informal, unpaid care for elders with dementia, constituting an annual cost to the nation that
+surpasses $221 billion.  In addition, the paid costs associated with health care, long-term care,
+and hospice for persons with Alzheimer’s and other dementias are estimated to be $214 billion
+each year, making dementia one of the most costly chronic illnesses in our nation. Although
+Medicare or Medicaid may cover up to 70% of the expenses, family carers assume remaining
+costs by paying out-of-pocket, contributing to additional stress on them. Thus, the tremendous
+societal burden associated with Alzheimer’s and other forms of dementia extends well beyond
+those who suffer from this devastating condition.
+Systematic reviews have shown that researchers have examined interventions for
+dementia carers who are primary caregivers, including some that focused on reducing their
+stress or promoting/preserving health.  NIH-funded researchers have engaged in multi-site
+projects, Resources for Enhancing Alzheimer’s Caregiver Health (REACH), since 1995, and
+have tested educational support groups, behavioral care, skills training programs, family-based
+interventions, environmental modifications, computer-based information, and communication
+services. All of the interventions were found to be superior to control conditions for women
+versus men and for caregivers with lower versus higher education. Positive outcomes include
+<<<PAGE 5>>>
+Page 4 of 45
+fewer depressive and anxious symptoms, greater satisfaction, and a better sense of well-being.
+These studies, however, were limited to one phase of the caregiving career, primary
+caregiving; interventions were not tested in care partners or caretakers, who are believed to
+experience similar stress levels and deleterious effects on health. In addition, the interventions
+tested within the REACH projects did not include the implementation of biofeedback as a
+means for stress reduction or the teaching skills that constitute resourcefulness as proposed in
+this study.
+Only one study examined biofeedback in caregivers of persons with dementia and it
+found that biofeedback was feasible and effective for stress management in family caregivers.
+The study was missing a control group and the sample was very small (N=32) and limited to in-
+home dementia caregivers whose care recipient attended a senior day care facility. However,
+systematic review of other intervention studies of dementia caregivers have described beneficial
+effects on caregiver health of such skills as cognitive reframing, problem-solving, self-
+management, and help-seeking, all of which are incorporated within resourcefulness training.
+Consistent with the personal (self-help) and social (help-seeking) skills taught during
+Resourcefulness Training, researchers have identified the need for interventions to assist
+dementia caregivers to seek out and mobilize social resources while enhancing personal coping
+effectiveness.
+Resourcefulness Training (RT) has been found effective in reducing stress, depressive
+cognitions, and negative emotions, and improving mental and physical health in older adults and
+caregiver populations, including dementia caregivers. The PI’s pilot research with dementia
+caregivers shows they have a substantial need for resourcefulness skills as indicated by both
+subjective and objective measures, and that the RT intervention was found to be acceptable and
+feasible for dementia caregivers, particularly when it was tailored to meet their needs and
+preferences. The RT protocol with dementia caregivers was found to have implementation
+fidelity. Effect sizes on measures of caregiving responses (i.e., stress, depressive cognitions, and
+negative emotions) were found to be moderate to large when the dementia caregivers were given
+a choice in how they performed and reinforced resourcefulness skills
+Seminal research suggests that the primary carer role for elders with dementia typically
+falls on the shoulders of the closest and most accessible family member (spouses, adult children),
+with the caregiving career being punctuated by significant events that prompt a transition in the
+caregiving career, which has been conceptualized in three phases. Few studies have examined the
+experiences of family carers in the three phases of the caregiving career. Those that have showed
+that the carer’s sense of control declined with in-home caregiving, stabilized during institutional
+placement, and improved after bereavement, and that carers in all three phases had different,
+unmet needs for assistance and informational support that contributed to similar stress levels.
+These studies support further investigation of dementia caregiving as a career with distinct
+phases designed to capture the carer’s responses to a recent transition into a new phase of the
+caregiving career. Research shows that within six months of a transition to a new caregiving
+phase (i.e., from caregiver, to care partner, to caretaker), the health of family carers shows
+evidence of substantial decline. To date, no studies of the three phases of the dementia caregiving
+career that examined the responses to recent transitions into a new phase of the career have been
+conducted. This study will be the first to do so.
+Although the conceptualization of the dementia caregiving career dates as far back as
+1992, little research has been done to explicate the caregiving trajectory and transitions that occur
+during the progressive course of dementia. The preponderance of research on dementia
+<<<PAGE 6>>>
+Page 5 of 45
+caregiving has focused on in-home caregivers, and has shown that despite interventions aimed at
+reducing negative outcomes, 59% of family carers continue to report emotional stress and 43%
+believe that caregiving significantly depleted their physical health. Research has also shown that
+family caregivers continue to be involved in various forms of care following institutional
+placement, a time when the family carer becomes a care partner. Care partners of
+institutionalized elders with dementia experience similar effects on their stress level and health as
+in-home caregivers, as their involvement in the care of their family member continues. However,
+while the source of their stress is now associated with different factors (communication
+challenges with staff, role conflict), their stress levels remain unchanged.
+As the final stages of dementia culminate in the death of the loved one, family carers
+become caretakers. This caregiving career phase is typically overlooked, though caretakers may
+continue to experience stress and depressive thoughts and feelings that compromise their
+physical and mental health. As caretakers mourn their loss, they must engage in caring for their
+deceased loved ones in a new way (i.e., their belongings, property, estate). Thus, even as active
+caregiving ceases, effects of stress on health remain, losses and transitions continue, and
+caretakers must simultaneously rebuild their identity and sustain their health while experiencing
+bereavement. To date, research has not highlighted the importance of including the caretaking
+role as part of the caregiving career. However, one study that followed dementia caregivers for
+one year after their care recipients died found that almost half of the caregivers had clinically
+significant depression.
+Based on the foregoing review, this study will: 1) include a sample of dementia carers
+that include caregivers (in-home), care partners (with a facility), and caretakers (bereaved) who
+have recently (within six months) transitioned into a new phase of their caregiving career; 2)
+examine the effects of two self- management interventions delivered to carers based on their
+need (cut score) or preference in comparison with an attention control condition; 3) explore
+differences in carers at the three phases of the caregiving career on caregiver responses to their
+recent transition and health outcomes over time; and 4) control for the effects of number of
+months in carer role, dementia symptom severity, and caregiving demands. As such, this will be
+the first study to investigate self-management interventions across all three phases of the
+caregiving career of dementia carers.
+Inclusion and Exclusion Criteria
+Directions: Describe how individuals will be screened for eligibility. Using the tables below,
+describe the inclusion and exclusion criteria that will define who will be included and
+excluded in your final study sample.
+Inclusion
+<<<SECTION 1. At least 18 years old>>>
+1. At least 18 years old
+2. Have a living family member, or a recently deceased family member diagnosed
+with Alzheimer’s disease or another dementia
+<<<SECTION 3. Identify self as a primary caregiver>>>
+3. Identify self as a primary caregiver
+4. In-home C aregivers: must be currently providing a minimum of 4 hours per day
+of supervision/direct care, and have entered that role within the past six twelve
+months;
+Care partners whose family member moved into a nursing or assisted living
+<<<PAGE 7>>>
+Page 6 of 45
+facility within the past six twelve months, and must report visiting their care
+recipient at least once per week (or have similar involvement with COVID-19
+restrictions).
+Caretakers (i.e. bereaved) whose family member is deceased within the past six
+twelve months, and are persons with direct oversight of the deceased person’s
+belongings, estate, finances, etc., and/or while their family member was alive, did
+they consider yourself a primary caregiver (whether care recipient was at home or
+in a facility).
+5. Be capable of performing informed consent and participating in study procedures
+Exclusion
+1. Does not have family member with Alzheimer’s disease or another dementia
+2. Has not cared for a living family member with dementia within the last six twelve
+months, or the family member has been deceased for more than six twelve months
+3. Has knowledge of another family member in the same household enrolled in the
+study
+<<<SECTION 4. Currently pregnant>>>
+4. Currently pregnant
+<<<SECTION 5. Has a pacemaker>>>
+5. Has a pacemaker
+<<<SECTION 6. Lives outside of the study area>>>
+6. Lives outside of the study area
+Number of Research Participants
+Directions: Indicate the target number of research participants to be accrued locally, and, if this
+is a multi-site study, indicate the total number of research participants to be accrued across all
+sites.
+Based on previous research by the PI and Co-Is, we conservatively estimate that ~20% of carers
+may not meet eligibility criteria. Thus, we will screen ~375 participants 600 individuals  to
+obtain the desired sample of size of 300 350.
+Special/Vulnerable Populations
+1. Indicate specifically if you will include each of the following special populations by checking
+the appropriate box:
+Adults unable to consent
+Minors (infants, children, teenagers)
+Wards of the state
+Foster Children
+Pregnant Women
+Neonates
+Neonates of Uncertain Viability
+Employees of CWRU or UHHS
+Prisoners
+Illiterate Individuals
+<<<PAGE 8>>>
+Page 7 of 45
+Non-English Speaking
+University Students
+None
+2. If the research involves individuals that are included in a special/vulnerable population,
+describe the additional safeguards included to protect the rights and welfare of the
+individuals for each population indicated.
+If family caregivers who do not speak/understand the English language come forward
+with interest in participating and if they meet all other study criteria, we will make
+accommodations for translating the study measures and intervention materials or for having
+and interpreter provide appropriate explanations. If an illiterate individual comes forward
+with interest in participating and if they meet all other study criteria, we will make
+accommodations to dictate the consent form and all study questions. If a caregiver is an
+employee or student of CWRU, the consent form identifies participation in this research
+study is voluntary and if they choose not to participate, it will not affect their current or
+future relations with the university. No caregivers unable to consent will be enrolled. Adults
+unable to consent are only subjects to the extent that there is any identifiable information
+about them collected through the caregiver. They will not be present for any interventions or
+interactions.
+3. If excluding pregnant women, illiterate or non-English speaking individuals, provide a
+scientific rationale for the exclusion.  Inconvenience or cost is not an acceptable rationale.
+Pregnant women are excluded due to the measure of heart rate variability (HRV). The
+inclusion of pregnant women has the potential to alter the analyses that involve HRV
+measurement.
+Recruitment Methods
+Note: Attach all applicable recruitment materials to the last section of the Smart form under
+“Recruitment Materials.”
+1. Which of the following methods will be used to recruit research participants. – Select all that
+apply
+Email
+Phone call
+Letter
+Advertisement (e.g., poster, flyer, etc.)
+Social media
+Other. Please specify:
+2. Describe when, where, and how potential research participants will be recruited.
+<<<PAGE 9>>>
+Page 8 of 45
+The 300 350 family caregivers will be recruited from Cuyahoga County, and 6 adjacent
+counties (Lorain, Medina, Summit, Portage, Geauga and Lake), as well as Erie, Huron,
+Ashland, Wayne, Stark, Mahoning, Trumbull, and Ashtabula counties.
+The potential research participants will be recruited through a variety of community-based
+strategies:
+We will post flyers and distribute postcards in the community to recruit potential
+study participants, as well as recruit through social service advocacy agencies, and
+other community agencies.
+We will contact dementia care day programs and care facilities, and private
+physicians’ offices who agree (with a signed Letter of Cooperation) to provide us
+with access for posting / distributing information about the study. Agency personnel
+may assist us in identifying potential study participants who meet the inclusion
+criteria. We may also recruit through these agencies with digital or printed ads in
+newsletters.
+We will collaborate with community agencies (e.g. senior centers) to conduct short
+presentations to interested audiences. Time permitting, we will utilize the NIH
+Recruiting Older Adults into Research (ROAR) open-source short form PowerPoint
+presentation (https://www.nia.nih.gov/health/recruiting-older-adults-research-roar-
+toolkit) in addition to presenting information about our study (e.g. distributing flyers).
+Health fairs and other community events.
+We will recruit via the internet using social media sites (e.g. Twitter, Facebook,
+Instagram, and other online sources). We will also utilize paid digital and print
+advertising in local newspapers and other appropriate media outlets, including the use
+of advertorials and/or posted ads.
+Digital recruitment may include a link to a secure REDCap form so that people may
+leave their contact information for us to follow-up with. The form will include a brief
+description of the study.
+Most potential study participants will be those who see a posted advertisement or
+receive a flyer describing the study from one of agencies, centers, dementia care
+facilities, offices, etc., where we have permission to post / distribute information
+about the study. Contact information for the research office will be included on the
+flyers, postcards, and other advertisements. Potential study participants will contact
+the research office for screening by a research team member to ensure he/she meets
+the eligibility criteria. If eligible, the research team member will confirm their name,
+contact information (phone and/or email), address, and time / best method for the
+research team to contact them, and proceed with the consent process and scheduling
+the first data collection session.
+Finally, we will use snowball recruitment by asking study participants to refer others
+like them to the study.
+3. Describe the source (e.g., from what department, EMR, etc.) of the research participants.
+<<<PAGE 10>>>
+Page 9 of 45
+Potential study participants will be recruited through flyer postings, health fairs and other
+community events, print and e-newsletters (e.g. CASE Daily), community bulletin boards
+(both physical and virtual, e.g. Case Campus Groups), listservs, local magazines and
+newspapers, volunteer recruitment sites such as ResearchMatch.com and Alzheimer’s
+Association TrialMatch, both public and private advocacy agencies, care facilities, support
+groups, community health centers, and private physician offices in Cuyahoga and 6 adjacent
+other approved counties in Northeastern Ohio.
+To enhance recruitment of bereaved caretakers, we will also work with a large mortuary firm
+in Cleveland, known for its efforts to provide post-funeral support to bereaved families, as
+well as other mortuaries that serve the study area. We will also work with funeral homes,
+regional hospice agencies, bereavement support groups, and online obituary and memorial
+sites (e.g. Cleveland.com, legacy.com). Letters of Cooperation will be obtained from these
+agencies.
+4. Describe the methods that will be used to identify potential research participants.
+When a person contacts the study to be screened, they will receive a screening ID in the
+Screening & Enrollment log. Contact information will then be collected including date of
+initial contact, name, telephone number(s), email address(es), and mailing address on all
+individuals screened will collected for our screening log; this information will be stored in
+REDCap and a password-protected computer file (Box.com).
+The project manager or other trained research staff will screen by phone to ensure that
+caregivers meet all eligibility criteria. We will also be collecting demographic information
+(gender, race, ethnicity, etc.). They will also be asked if they would like to be contacted
+regarding future research opportunities that may be of interest to them. All screening
+question documentation will be kept in a screening form on REDCap along with screening
+ID.
+If the screenee is eligible:
+After eligibility is verified during phone screening by team member, the consent will be
+reviewed verbally, questions about the study will be answered. They will be asked if they
+verbally consent to the study, with the understanding that the Consent Form will be reviewed
+and signed  prior to the first timepoint (T1) data collection. If they agree to participate, the
+research team member will then confirm and update any contact information into CWRU
+Box Screening and Enrollment Log and REDCap form; this includes the individual’s full
+name, mailing address, phone number(s), email address, best time of day to call, and
+confirming if the study team can leave voice mail messages, text to schedule / confirm study
+visits and intervention check-ins, and/or send mail to their mailing address if we are having
+trouble contacting them by phone or email. The study enrollment/first data collection
+appointment will be made at this time.
+If the screenee is not eligible/ declines verbal consent:
+<<<PAGE 11>>>
+Page 10 of 45
+If the individual does not meet the study criteria, they are asked if they would like to have
+their contact information kept on file in the event that the screening criteria are modified (e.g.
+study radius) and would like to be contacted to re-assess eligibility. If they say yes, the staff
+member will proceed to collect contact information in CWRU BOX and REDCap form
+(confirm full name, mailing address, phone number(s), email address).
+Screening data (questions asked to determine eligibility) is kept in the REDCap form in
+which it was entered in for tracking and reporting purposes.
+5. Describe the feasibility of recruiting the required number of suitable research participants
+within the agreed recruitment period. For example, how many potential research participants
+do you have access to?
+Based on previous research by the PI, we conservatively estimate that 20% 45% 58% of
+caregivers may not meet eligibility criteria. Thus, we will screen ~375 ~550 600 individuals
+potential participants to obtain the desired sample size of 300 350.
+Setting
+Directions: Make sure to describe: 1) sites and locations where your research team will conduct
+the research; 2) where your research team will identify and recruit potential research participants;
+and 3) include the physical location where research procedures will be performed.
+The project manager or other research team member will screen by phone to determine
+eligibility and schedule first data collection meeting. All data will be collected either in the
+community (e.g. participants home or other private venue of their choice, including mental
+health center/physician’s office, private/ closed room in local library, etc.), on the campus of
+Case Western Reserve University (e.g. the School of Nursing).
+COVID-19 Modifications: Consent, data collection, and intervention delivery has been
+modified to include virtual options: email, video chat (Zoom), phone, or some combination
+of the three, to meet study participants’ needs). This information is included throughout the
+protocol.
+Updated COVID-19 Modifications May 2021:  The study team will continue using virtual
+options when possible, but will also resume in-person study activities per the signed CWRU
+Safety Plan for In-Person Research Activities.
+Potential study participants will be recruited through flyer postings, health fairs and other
+community events, print and e-newsletters (e.g. CASE Daily), listservs, local magazines and
+newspapers, volunteer recruitment sites such as ResearchMatch.com and Alzheimer’s
+Association TrialMatch, both public and private advocacy agencies, care facilities, support
+groups, community health centers, and private physician offices in Cuyahoga and 6 adjacent
+counties in Northeastern Ohio.
+<<<PAGE 12>>>
+Page 11 of 45
+To enhance recruitment of bereaved caretakers, we will also work with a large mortuary firm
+in Cleveland, known for its efforts to provide post-funeral support to bereaved families, as
+well as other mortuaries that serve the study area. We will also work with regional hospice
+agencies, bereavement support groups, and online obituary and memorial sites (e.g.
+Cleveland.com, legacy.com). Letters of Cooperation will be obtained from these agencies.
+Consent Process
+Indicate whether you will be obtaining consent:
+Yes  No
+If yes, answer the following questions:
+Describe where the consent process will take place:
+After eligibility is verified during phone screening by a team member the consent form
+will be reviewed verbally and questions about the study will be answered. Prior to
+initiating the first data collection, the consent form will be reviewed again and signed by
+both the study participant and data collector before beginning the data collection
+interview.
+COVID-19 remote modification: e-Consent, via REDCap Screening Project, will be
+emailed to potential participants for review e-signature and date after verbal review with
+team member. Once signed, a blank copy of the consent form is emailed to the participant
+via the REDCap e-consent framework, and a copy of the signed consent form is auto-
+saved in the REDCap File Repository. This File Repository saves, with each file, the date
+and time of consent, the version of the consent form signed, and an IP address. Digital
+files of signed consent forms (ONLY) will be backed up and downloaded to a secure
+Box.com folder. Team members will have upload and view access, but will not be able to
+edit or delete files.
+If a potential enrollee does not have email access at home, two consent forms will be
+mailed to them, along with a pre-stamped return envelope. They will be asked to sign,
+date, and return one copy, and to keep the second copy for their records. The
+corresponding data collector will sign and date the returned consent form.
+The time that will be devoted to the consent discussion:
+There are no time constraints to the consent discussion. The consent discussion will take
+place during the screening phone call and again at the enrollment meeting, prior to data
+collection.
+Any waiting period available between informing the prospective subject and obtaining
+the consent:
+Yes. After verifying eligibility and reviewing the consent form during the screening
+phone call, there is a period of time between the phone call and the enrollment meeting.
+<<<PAGE 13>>>
+Page 12 of 45
+The length of time between the two varies depending on the meeting time selected by the
+research participant and team member.
+COVID-19 remote modification: after phone screen and verbal review of consent form,
+e-consent will be emailed within 48 business hours. Study will utilized REDCap’s auto-
+email reminder to send 3 reminders over the course of two weeks. After that, a team
+member will follow-up by phone/text/email (potential participant’s stated preference of
+communication) to see if they are still interested in joining the study. For consent forms
+mailed to the home, similarly timed follow-up will take place by phone (call/text) and/or
+email.
+Steps that will be taken to ensure the research participants’ understanding:
+Study participants will have time to ask questions about the study and review the consent
+form before signing it.
+Any process to ensure ongoing consent:
+Within approximately one month of the first data collection session, the participants will
+be made aware of which of the three study arms (Self-management need, self-
+management preference, or attention control) to which they have been randomly
+assigned. They will be reminded of remaining study procedures and research staff will
+answer any questions regarding study procedures or participant concerns as they arise.
+Steps that will be taken to minimize the possibility of coercion or undue influence to the
+subjects:
+The study participants will be informed that his or her participation in the research study
+is completely voluntary. If he or she chooses not to participate, it will not affect their
+current or future relations with the University or with physicians, mental health centers,
+or community venues from whom they may have obtained information about the study.
+Study participants will also be informed that there is no penalty of loss of benefits for not
+participating of for discontinuing participation in the study.
+For Adult Participants
+Indicate if you will be asking for a waiver or alteration of consent process or
+documentation (consent will not be obtained, written consent will not be documented)
+Yes No
+If yes, indicate which part of the consent process you are requesting be waived or
+altered and the rationale for requesting the waiver or alteration:
+I will obtain consent, but not participant’s signature
+I will obtain consent, but request a waiver for pre-screening purposes
+<<<PAGE 14>>>
+Page 13 of 45
+I will obtain consent, but request a waiver of some of the elements of consent
+(e.g. use of deception)
+I will not obtain consent, and I am requesting a full waiver of consent
+Give the rationale for the request of a waiver or alteration of the consent process or
+documentation.
+N/A
+Explain how the research involves no more than minimal risk.
+N/A
+Explain why the waiver or alteration of consent will not adversely affect the rights and
+welfare of the participants.
+N/A
+Explain why the research could not practicably be carried out without the waiver or
+alteration of consent.
+N/A
+Indicate if the subjects will be provided with additional information about the study after
+participation.
+N/A
+If you will obtain consent, but not document consent in writing (e.g. over the phone,
+verbally, electronic survey, etc.), please describe and provide a rationale.
+N/A
+Describe how you will be documenting that a research participant has consented.
+N/A
+Additional Considerations for Consent Process with Adults
+Non English Speakers (Please select one)
+I am not enrolling non-English speaking individuals in this research study. The following is
+justification for why non-English speaking individuals cannot be enrolled:
+I will be targeting non-English speaking adults
+Describe the process to ensure that the oral and written information provided to those
+research participants will be in that language during initial consent as well as throughout
+the study.
+List the language(s) other than English that will be targeted:
+I am not targeting non-English speaking individuals. If a non-English speaking individual is
+eligible for the study, we will use the following procedures to enroll:
+1. Describe the process to ensure that the oral and written information provided to those
+research participants will be in that language during initial consent as well as throughout
+the study.
+<<<PAGE 15>>>
+Page 14 of 45
+If family caregivers who do not speak/understand the English language come forward
+with interest in participating and if they meet all other study criteria, we will make
+accommodations for translating the study measures and intervention materials or for
+having an interpreter provide appropriate explanations.
+2. List the language(s) other than English that will be targeted:
+Adults Unable to Consent
+I am not enrolling adults unable to consent in this research study – please leave the rest of
+this section blank.
+There is an anticipated direct benefit to the subject. Explain:
+There is NOT an anticipated direct benefit to the subject. Explain:
+No caregivers unable to consent will be enrolled. Adults unable to consent are only subjects to
+the extent that there is any identifiable information about them collected through the caregiver.
+They will not be present for any interventions or interactions.
+1. Describe the process to determine whether an individual is capable of consent.
+Inclusion exclusion requires that the caregivers be caregivers of those with dementia and in
+addition a waiver of assent is requested.
+2. List the individuals from whom permission will be obtained in order of priority (e.g.
+durable power of attorney for health care, court appointed guardian for health care
+decisions, spouse, and adult child).
+Waiver is requested
+3. For research conducted outside of the state, provide information that describes which
+individuals are authorized under applicable law to consent on behalf of a prospective
+subject to their participation in the procedure(s) involved in the research.
+N/A
+4. Describe the process for assent of the research participants. Indicate:
+1. Which subjects that are unable to consent will be required to give assent? If not all,
+explain why.
+Waiver is requested for all patients with dementia because they will not be present and it
+would be impractical to obtain it and the waiver will not impose on their rights or
+welfare. Patients with dementia will be living in a variety of places, and may not be able
+to be practically reached by phone or in person for giving assent solely for the purposes
+of collecting data about them (perceptions and observations by the caregiver) that may
+potentially identify them indirectly. The burden of attempting to gain an assent would be
+more harmful to these patients than any potential benefit. In addition, it would make the
+research project impractical and the benefits of the research justify the waiver of assent.
+There are suitable data security and other means of preserving confidentiality in place.
+<<<PAGE 16>>>
+Page 15 of 45
+2. Describe whether assent of the research participants will be documented and the process
+to document assent.
+N/A; a waiver is requested. No interaction or intervention with those who are unable to
+consent.
+The subject will be informed about the research to the extent compatible with the
+subject’s understanding.
+Subjects will be closely monitored.
+The subject will be withdrawn if they appear unduly distressed.
+Research Participants Who Are Not Yet Adults (infants, children, teenagers)
+I am not enrolling participants who are not yet adults in this research study. – please leave the
+rest of this section blank
+1. Will parental permission be obtained from:
+One parent even if the other parent is alive, known, competent, reasonably
+available, and shares legal responsibility for the care and custody of the child
+Both parents unless one parent is deceased, unknown, incompetent, or not
+reasonably available, or when only one parent has legal responsibility for the
+care and custody of the child
+Requesting a waiver of parental permission
+If you are getting parental/guardian permission:
+1. Indicate how you will be documenting the permission:
+Signed consent form
+Requesting a waiver of documentation of parental permission
+2. Describe whether permission will be obtained from individuals other than parents, and if
+so, who will be allowed to provide permission. Describe the process used to determine
+these individuals’ authority to consent to each child’s participation in research.
+If a waiver of parental permission is being requested:
+1. Describe how the study is designed for a subject population for which
+parental/guardian permission is not a reasonable requirement to protect the
+subjects, if applicable.
+2. Describe how the research could not practicably be carried out without the waiver
+of parental permission.
+a. Indicate if the subjects will be provided with additional information about the
+study after participation.
+3. Will assent be obtained from:
+<<<PAGE 17>>>
+Page 16 of 45
+all of the children
+some of the children
+none of the children
+If assent will be obtained from some children, indicate which children will be
+required to assent.
+When assent of children is obtained, describe how it will be documented.
+4. For children who are pregnant, describe how assent and permission are obtained.
+N/A
+Sharing of Results with Research Participants
+Results will be shared with research participants:
+Yes  No
+If yes, describe how the results will be shared.
+Study participants will receive a one-page summary of the aggregated results by mail or
+email based on contact preference.
+Results will be shared with others:
+Yes  No
+If yes, describe with whom and how the results will be shared.
+Aggregated results of the study will be shared with others through manuscripts and
+presentations.
+Study Design/Procedures
+Directions: 1) Describe the overall study design. 2) Provide a description of all study-
+related research procedures being performed, including the length of time involved. 3)
+Include procedures being performed to monitor research participants for safety or
+minimize risks. 4) Describe the source records including medical or educational records,
+which will be used to collect data about subjects.
+The proposed 1-year randomized controlled trial will compare the effectiveness of two
+tailored health self-management interventions (resourcefulness training and biofeedback) with
+usual care in family caregivers of persons with dementia.
+SCREENING: Prior to the first data collection session, the individual is screened over
+the phone. If the screenee is eligible, the consent form will be reviewed verbally, questions about
+the study will be answered. They will be asked if they verbally consent to the study, with the
+understanding that the Consent Form will be reviewed and signed electronically by an e-consent
+form, or if requested, a consent form will be mailed to the home for signature, date and return
+(envelope provided), and prior to the T1 data collection. If they verbally agree to participate, the
+<<<PAGE 18>>>
+Page 17 of 45
+research team member will then confirm and enter contact information into CWRU Box and a
+REDCap form; this includes the individual’s full name, mailing address, phone number(s), email
+address, best time of day to call, and confirming if the study team can leave voice mail messages,
+text to schedule / confirm study visits and intervention check-ins, and/or send mail to their
+mailing address if we are having trouble contacting them by phone or email. The study
+enrollment/first data collection appointment will be made at this time.
+CONSENT: At the first meeting, before the T1 interview begins, the data collector will
+confirm receipt of signed consent form (digital or paper). All research staff (including the project
+manager, data collectors, and interventionists) will be required to complete the “human subjects”
+training and obtain certification prior to entering the field for data collection or intervention. The
+consent form will explain the expectations of caregivers as research participants, risks they may
+encounter, benefits they may accrue, measures to be taken to maintain confidentiality, and
+voluntary nature of their participation. Potential study participants will be told they are being
+asked to participate in a study to examine method for helping family caregivers to self-manage
+their health. They will be told that they will be randomly assigned (using a computerized system)
+to one of the three study arms (Self-management need, self-management preference, or attention
+control). They will be told the study involves 3 face-to-face interviews with a trained data
+collector during which objective, validated questionnaires and HRV measures will be completed,
+as well as an intervention (“stress management method”) between the first and second data
+collection interviews. The caregivers will be told that their confidentiality will be protected and
+that their names will not be revealed; results of the study will be reported in aggregate. They will
+be told that they are free to withdraw from the study at any point in time and that they do not
+need to supply responses to all questions posed on the study questionnaires. They will be told
+about the possible risk of feeling distressed while answering questionnaires or completing their
+daily logs, or using the biofeedback device (if applicable) and about measures that will be taken
+to minimize / manage the distress, including discontinuing participation and referral to mental
+health professionals if needed. They will be told that if a research team member, during a data
+collection or intervention meeting or call, suspects or witnesses any signs of elder abuse, neglect,
+or exploitation, a report will be filed with the county department of job and family services in
+compliance with Ohio law. They will be told about the potential benefit of stress reduction.
+Finally, they will be told that they will receive an incentive of a gift card valued at $20 at Time
+Point 1 (T1), $25 at T2, and $30 at T3. In addition, they will receive $20 for completing the face-
+to-face or virtual intervention session and $5 for each week of completion of the progress log (up
+to 4 weeks or $20). Participants will receive up to $115 for completing all study activities.
+DATA COLLECTION: Following informed consent, research staff will collect detailed
+contact information and schedule the first data collection session. During the COVID-19
+pandemic, data collection will be completed verbally over the phone and/or electronically
+(emailed survey, video chat) using REDCap. For phone or video data collection, an email will be
+sent, if possible and requested, to participants with the answer response choices for each survey
+(this can also be sent by mail). If we are using phone for data collection, the Research Assistant
+(RA) will ask the participant each question and record the responses in our REDCap Surveys
+project. If collecting data using Zoom video, the RA will share the screen of the REDCap
+Surveys project, and record the answers for the participant as they review each survey question.
+<<<PAGE 19>>>
+Page 18 of 45
+If neither of those two options are available for the participant (e.g., limited phone minutes,
+inability to use Zoom), and/or email is preferred, the study may email the REDCap surveys to
+study participants for them to complete on their own at an agreed upon date / time (similar to in-
+person appointment); in this instance, the RA can be available to answer questions or clarify
+information as needed, by phone or email. It may be that none of these options will work for a
+study participant, in which case we will consider that data “missed” if we cannot wait to collect
+the data in person at a later date (when we resume normal study activities). The precise
+method(s) will depend on the ability and resources of the study participant. We will contact
+active participants with Zoom/ phone instructions, by phone/text and/or email, as needed, and we
+will record the methods used for each data collection done remotely.
+The data collection for caregivers sampled involves three structured face-to-face sessions with
+data collectors, each lasting typically 60-90 minutes.  Data will be collected at baseline (T1), at 4-
+6 months (T2) after the 4-week intervention, and at 12 4-6 months later (T3). The data collection
+includes measures of carer health conditions, carer life events, health rating of care recipient,
+resourcefulness (including financial resourcefulness), dementia symptom severity, caregiving
+demands, carer responses to perceived stress, depressive cognitions, negative emotions, carer
+health outcomes, caregiving effort scales, and COVID-19 questions comprising the 158-225 item
+questionnaire (bereaved caretakers are not asked all study measures since they are no longer
+actively caring for their family member). Demographic information will also be collected (e.g.
+occupation, annual income, education, and questions about the care recipient such as age, number
+of years diagnosed with dementia, specific diagnoses, and questions related to the participant’s
+caring of their family member with dementia). The third, and final, data collection session
+involves the additional measure of an Intervention Evaluation Questionnaire that will ask
+participants for feedback regarding the intervention they received.
+The table below shows which study instruments are administered at each time point:
+Data Collection Instrument
+Baseline /
+T1
+4-6 months
+post-
+intervention /
+T2
+12 4-6
+months
+post-T2 /
+T3
+Demographic and Descriptive Data* X X X
+Health Rating of Elder Care Recipient** X X X
+Cultural Justification for Caregiving X X X
+Resourcefulness Scale XXX
+Financial Resourcefulness X
+Revised Social Readjustment Rating Scale X X X
+Revised Memory and Behavior Problems Checklist** X X X
+Perceived Stress Scale X X X
+Depressive Cognition Scale X X X
+Negative Emotions Checklist X X X
+Caregiver Appraisal of Functional Capacity** X X X
+Health Risk Behavior Scale X X X
+PROMIS Global Health Measures X X X
+<<<PAGE 20>>>
+Page 19 of 45
+Caregiving Effort Scales X X X
+Financial Stress X
+COVID-19 Questions XXX
+Intervention Evaluation Questionnaire X
+Heart Rate Variability X X X
+* Questions 7-13 of the Demographics will NOT be asked to caretakers.
+** These scales will NOT be asked to caretakers.
+For in-person data collection: Research assistants will encourage caregivers to respond to
+items displayed on an iPad/ tablet as they wish, ensuring there are no right or wrong responses.
+Data is collected on an iPad through the REDCap Mobile App – which can be used when there is
+no wireless connection available. The data is stored securely in the app until it can be uploaded
+with a secure wi-fi connection (and then is removed from the iPad completely). IPads have a
+secure connection to login to the device, and another secure login to connect to the REDCap app.
+IPads are shut down completely at the end of every data collection session. At the first data
+collection session, the study participant will receive a resource list for Dementia Care support and
+services in Cuyahoga and surrounding counties.
+Heart-rate variability (HRV) data will be collected with a Byteflies or a similar HRV
+device, used either on the chest or on the wrists. Once a data collection (T1, T2, or T3) is
+complete, a team member will make an arrangement to collect HRV data at the study
+participant’s home or another agreed upon meeting location at a set day/time.
+Remote HRV data collection: The participant will receive instructions of how to use
+the HRV device for 10-20 minutes data collection of HRV. The team member will be
+available to provide support during this time by phone or video call, and participants
+will be provided written instructions as well. There will be a pre-determined time set
+for pick-up of the device. If need be, this process may be repeated in order to obtain
+reliable data, and if this data is unable to be collected due to scheduling, it will be
+considered missing data for that time point.
+In-Person HRV data collection: Following approved safety plan guidelines (May
+2021), a research team member will meet with the study participant to collect the
+HRV data in person. The data collection will take 10-20 minutes; the entire meeting
+should be completed within 30 minutes. Like remote data collection, this process may
+be repeated in order to obtain reliable data (not confirmed until data is analyzed by
+another team member). Currently enrolled participants will consent to this updated
+procedure.
+INTERVENTION: Within two weeks of the first data collection session (including
+study scales and HRV data collection), carers within each of the three caregiving phases
+(caregivers, care partners, and caretakers) will be randomly assigned using a computer program
+to one of three treatment groups: 1) Self-management (SM) need, 2) Self-management (SM)
+preference, or 3) attention control. The SM-need group will receive a self-management
+intervention tailored to meet their need for resourcefulness training (RT) or biofeedback (BF) as
+<<<PAGE 21>>>
+Page 20 of 45
+determined by whichever baseline cut score is lower, the Resourcefulness Scale or the SDNN
+parameter for age and gender. Carers randomly assigned to the SM-preference will choose to do
+RT or BF according to their personal preference. However, we will use minimization methods
+for group assignment to ensure equivalent representation across the three treatment groups, and
+factors likely to affect variables of interest, including carer age, gender, and race/ethnicity, in
+order to insure demographic similarity.
+Carers in the SM-need and SM-preference groups will receive the training and practice a
+self-management intervention between the T1 and T2 data collections and may continue to use
+the intervention between T2 and T3 if they wish. The attention control (AC) condition, which
+consists of diversional activities, will also take place between T1 and T2 data collections. The
+RT, BF, or AC will be introduced during a single virtual session (Zoom, or iPad + phone call,
+depending on study participants ability / preference) during the COVID-19  pandemic, otherwise
+during a single face-to-face session in a mutually agreed upon private location. These
+intervention meetings last about 30-60 minutes and include a voice-over PowerPoint
+presentation, a summary of the information in a print brochure or electronic PDF, and a
+workbook (print or electronic) to be completed daily over 28 days, as they independently
+practice the intervention. RT participants will also be given a printed or emailed PDF list of
+examples (differ depending on caregiving type) from the training. The electronic workbook will
+be a form that is emailed daily over 28 days, but a print booklet will be provided for those that
+prefer it, and will be collected after 28 days. They will receive telephone, text or email follow-up
+(their preference) once per week for the 28-day intervention period while practicing the
+intervention (or activities) independently and keeping a daily workbook. Interventionists will be
+carefully trained by PI Zauszniewski and CNS Juratovac during a 2-day session that will include
+intervention delivery, cultural diversity training, and methods for providing psychological
+support/referral (e.g., “first call for help”) in case carers experience psychological or physical
+distress during the training session or 28-day intervention period. Interventionists will be blinded
+to fidelity measures and different interventionists will provide the RT, BF, or AC; they will keep
+field notes and have weekly supervision by CNS Juratovac and PI Zauszniewski, who has been
+trained in delivering biofeedback and has pilot-tested both interventions for feasibility and
+efficacy in similar populations. Commonalities during the single session for the RT, BF, or AC
+are:
+1) All carers will keep a progress log, though its content will differ by
+intervention/condition;
+2) All will be taught to indicate day and time of the log entry, with the suggestion to do it
+at the same time each day; and
+3) All will complete a log entry during the training session.
+Consistently, during the 4 weeks after the initial session:
+1) All carers will perform the assigned intervention (or activities) on their own,
+2) All will have access to intervention/activity content for review as they wish,
+3) All will receive weekly follow-up calls/emails from interventionists (3-5 minutes) to
+remind them to follow respective intervention/activity protocols, and
+4) All will be encouraged to continue their logs even if days have been missed (although
+BF data may be missing).
+Resourcefulness Training Intervention
+<<<PAGE 22>>>
+Page 21 of 45
+Resourcefulness training involves teaching skills constituting personal (self-help) and
+social (help-seeking) resourcefulness.  The proposed method for teaching resourcefulness extends
+beyond simply teaching the skills to the caregivers of persons with dementia to facilitating the use
+of resourcefulness skills through self-reinforcement by daily tracking in a tracking log. Therefore,
+in this unique intervention, a mnemonic device will be used to facilitate recall of specific skills
+within the repertoire comprising resourcefulness. Three mnemonic techniques are used in (RT):
+acronyms, chunking, and practice.  The techniques are explained on the slides.
+An acronym is formed by the first letter of words or groups of words to form a new word.
+In the case of RT, the mnemonic device uses the 8 letters spelling RESOURCE to prompt recall
+of specific personal and social resourcefulness strategies as follows:
+Rely on family / friends;
+Exchange ideas with others;
+Seek professionals or experts;
+Organize daily activities;
+Use positive self-talk;
+Reframe the situation positively;
+Change from usual reaction;
+Explore new ideas.
+The second mnemonic technique to be used in RT is chunking, which refers to the
+common rule that an individual can remember between 5 and 9 things at one time. In RT, the word
+RESOURCE contains 8 letters, which is a reasonable “chunk” of ideas of ideas for study
+participants to remember. Another way in which chunking is used is that the first three
+resourcefulness skills refer to social resourcefulness and involve help-seeking behavior, while the
+last five refer to personal resourcefulness and use self-help behaviors.
+The third mnemonic technique involves practice.  In this clinical trial, practice will be
+done through keeping a daily tracking log reviewing which strategies were used that day, along
+with review of a RESOURCE card and Resourcefulness Training pamphlet. Intervention recipients
+will choose the practice method they want to use.
+Biofeedback Training Intervention
+A proposed method of stress reduction for the family caregivers of persons with dementia
+disorder involves biofeedback that focuses on heart rate variability (HRV).  Through HRV
+biofeedback, one is able to learn how breathing patterns relate to changes in heart rate. HRV
+biofeedback has been found to be effective in reducing stress and enhancing relaxation.
+The iRelax device is a small hand held device and contains a screen that displays one’s
+heart wave, similar to an EKG tracing.  Under each wave appears a bar that shows how well one
+is breathing in relation to heart rate.  With each breath, one can score 1 point or a fraction of it
+(1/3 or 2/3).  The device will beep with a minimum breath score of 2/3. The Interventionist will
+teach the caregivers:
+1) How to turn the iRelax on and off.
+2) Insert a finger into the sensor clip that detects their pulse rate.
+3) Inhale slowly and gently while observing the waves on the screen
+4) Exhale slowly and gently while counting slowly from one to five when a new triangle
+appears above the wave
+<<<PAGE 23>>>
+Page 22 of 45
+5) Begin to inhale when the next wave starts to rise
+6) How points are scored to show “heart rhythm coherence” - under each wave appears a
+bar that shows how well one is breathing in relation to heart rate.  With each breath,
+one can score 1 point or a fraction of it (1/3 or 2/3).  The device will beep with a
+minimum breath score of 2/3.
+7) Use of a daily workbook to record daily points earned during the biofeedback session.
+The caregiver will be asked to describe his/her general emotional state each day and
+any specific stresses / frustrations he/she experienced in relation to the diagnosed
+family member. He/she will be asked to do this for the 4-week intervention period (28
+days). A Biofeedback breathing card and pamphlet (or electronic PDF) will also be
+provided to the participant.
+Study Timeline (optional)
+ClinicalTrials.gov Information
+Directions: If this study has been registered on ClinicalTrials.gov, provide the ClinicalTrials.gov
+identifier and the investigator/sponsor responsible for registering. If this study has not been
+registered on ClinicalTrials.gov, provide the rationale as to why and if/when it will be. If it does
+not meet the requirement for being registered on ClinicalTrials.gov, please state that.
+The study is approved on ClinicalTrials.gov.
+Clinical Trials.gov ID: NCT04603482
+List of Data to be Collected
+<<<SECTION 1. Indicate what identifiers you will collect>>>
+1. Indicate what identifiers you will collect
+Name
+Address (e.g., Zip code, other geographical designation, etc.)
+Dates related to an individual (e.g., Date of admission, birth, surgery, etc.)
+Telephone number
+Fax number
+Email address
+Social security number
+Medical record number
+Health plan beneficiary number
+Account number
+Certificate/license number
+Any vehicle or other device serial
+Device identifiers or serial numbers
+Web URL
+Internet protocol (IP) address
+Finger or voice prints (includes audio recordings)
+Photographic images (includes video recordings)
+<<<PAGE 24>>>
+Page 23 of 45
+Other: Any characteristic that would uniquely identify the individual
+If other, please explain:
+Heart rate variability requires non-invasive electrocardiography
+1. List all other data to be collected for the research study. Attach all data collection tools on
+the Local Site Documents page of the SpartaIRB smart form (Other Attachments).
+Demographics
+Questionnaires to measure carer health conditions, carer life events, health rating of
+care recipient, dementia symptom severity, caregiving demands, carer responses to
+perceived stress, depressive cognitions, and negative emotions, financial
+resourcefulness and stress, carer health outcomes, and COVID-19 questions (Listed
+under site related documents as ‘instruments & measures.pdf’)
+Intervention evaluation questionnaire
+(Listed under site related documents as ‘CCS intervention eval questionnaire.pdf’)
+Intervention workbooks
+(Listed under site related documents as ‘AC / BF / RT workbook page.pdf’
+Data Analysis Plan
+Directions: Describe the data analysis plan, including any statistical procedures. If applicable,
+provide a power analysis, and study/safety endpoints.
+Prior to testing the study aims, demographic profiles for caregivers, care partners, and
+caretakers will be created through univariate descriptive statistics, including means, standard
+deviations, and range of scores, and will be used to assess continuous data; frequencies and
+percentages will be used to describe categorical data. We will track the health conditions and
+the life events of all carers and dementia symptoms, level of care, and health rating of the care
+recipient for those who are not bereaved. However, the primary aim (Aim 1) is to test the
+effects of health self-management interventions (RT or BF) delivered based on need (i.e., cut
+score) or preference (i.e., personal choice) of dementia carers who have transitioned within six
+months to a new phase in the caregiving career (to at-home caregiver, to care partner with a
+facility, or to caretaker following the death of care recipient). Aim 1 is to compare carers who
+are randomly assigned to the need (SM-need, preference (SM-preference) group, or an
+attention control condition over 3 time points (baseline, 6 months, and 12 months) on carer
+responses (i.e., perceived stress, depressive cognitions, and negative emotions) (Aim 1a), and
+health outcomes (health risk, and physical and mental health) (Aim 1b). Aim 2 will focus on
+comparing caregivers, care partners, and caretakers. For Aims 2a and 2b, we will determine
+whether differences exist among caregivers, caregivers, care partners, and caretakers in carer
+responses (2a) and health outcomes (2b) over time. For all analyses, we will control for the
+effects of three covariates: months in caregiver, care partner, or caretaker role, dementia
+symptom severity, and caregiving demands.
+For both study aims, we will use a 3 group by 3-time point Repeated Measures Analysis
+of Variance (RMANOVA), as well as 3 group by 3-time point Repeated Measures Analyses of
+<<<PAGE 25>>>
+Page 24 of 45
+Covariance (RMANCOVA) to control for the three covariates on carer responses (i.e.,
+perceived stress, depressive cognitions, and negative emotions) (Aim 1a and Aim 2a) and
+health outcomes (health risk, and physical and mental health) (Aim 1b and 2b). We will use
+both analyses in a two-step process: first, we will use RMANOVA to determine if mean
+differences exist among the 3 groups over 3 time points. If we find mean differences, for the
+second step we will run RMANCOVA to identify how the covariates impact the initial
+findings. This controls for any confounding effects of the covariates on the repeated measures
+models and will also allow us to determine how much of an impact the covariates have on
+carer responses and health outcomes.
+The RMANOVA and RMANCOVA will allow us to not only assess mean differences
+across time, group differences, and the interaction of time X group in order to test the trend of
+the means over time across the SM- need, SM-preference, and attention control condition in
+Aim 1 and caregiver vs. care partner vs. caretaker in Aim 2. The RMANOVA and
+RMANCOVA not only can be used to determine if there are mean differences across the three
+time periods, but can also utilize orthogonal polynomial contrasts to determine whether linear
+and quadratic trends of the means across time are significant.
+Confidentiality of Data
+1. To maintain the confidentiality of the data:
+I will use a unique study identifier to code individuals’ identifiable data and will
+store the master list separate from the study data..
+Other (please explain)
+Provide a plan to destroy identifiers including how and when.
+Identifiers in the Screening log (Box.com) and Contact Form (REDCap and CWRU
+BOX) will be destroyed after data collection is complete, and before the study is closed,
+by deleting the files.
+How are you storing your electronic data?
+UH Redcap
+CWRU Redcap
+Secure Research Environment (SRE)
+CWRU Box
+OnCore
+UH Secure Network Drive
+CWRU Secure Network Drive
+Other - List storage method and provide justification:
+2. Storage location of the paper research data and documents, if applicable:
+<<<PAGE 26>>>
+Page 25 of 45
+Paper research data and documents will be stored in a double-locked secure
+environment in the following location:
+France Payne Bolton School of Nursing – Health Research Campus study office
+3. Will data be shared?
+Yes
+1. List the exact data elements that will be shared:
+2. Describe how data will be sent :
+No
+N/A
+(Please note: if sharing data, please contact the UH Grants and Contracts Specialist or
+CWRU Tech Transfer Office to ensure the proper contracts/agreements are in place.)
+HIPAA Authorization
+Does this study collect, access, use, or distribute any Protected Health Information (PHI)?
+Yes   No
+If yes, indicate how HIPAA authorization will be obtained (check all that apply):
+HIPAA authorization is in the consent form
+Requesting a full or partial waiver of HIPAA for prescreening
+I will complete the Request for Waiver of HIPAA Authorization form.  See
+SpartaIRB Library
+Requesting a full or partial waiver of HIPAA
+I will complete the Request for Waiver of HIPAA Authorization form.  See
+SpartaIRB Library
+Devices
+This is not device study. The protocol is considered non-therapeutic (non-therapeutic is defined
+as research not intended to diagnose, prevent, cure, mitigate, treat, etc. a disease or condition)
+by the FDA. – You may delete the rest of this section.
+OR
+This is a device study. The protocol is considered therapeutic (research intended to diagnose,
+prevent, cure, mitigate, treat a disease or condition) by the FDA.
+1. Is there an IDE (Investigational Device Exemption) for the proposed study?
+Yes, provide an official letter of support or proof of approval which identifies the IDE
+holder and IDE number.
+No
+<<<PAGE 27>>>
+Page 26 of 45
+2. Is the device (and its use) a non-significant risk device for the proposed study design?
+Yes
+No
+N/A
+3. If the research involves device(s), describe your plans to use, store, handle, administer and
+track those device(s) to ensure that they will be used only on research participants and be
+used only by authorized investigators.
+Risks to Research Participants
+2. List the reasonably foreseeable risks such as breach of confidentiality, discomforts,
+hazards, or inconveniences to the research participants related to their participation in the
+research. Include a description of the probability, magnitude, duration, and reversibility
+of the risks. Include the physical psychological, social, legal, and economic risks.
+No physical, psychological, social, legal, or economic risks other than associated with
+daily living, are expected for the carer who participates in this study. Thus, the risks for
+emotional/physical distress should be minimal. Several measures will be taken to minimize
+the potential risk for distress while completing study questionnaires, HRV measurement, or
+during the interventions that involve using a workbook about the use of diversional activities
+(the attention control), resourcefulness skills or breathing techniques, or use of the
+biofeedback device. If a carer becomes upset during a data collection interview or
+intervention meeting or phone call/email/text, the team member will offer to end it
+immediately, provide emotional support and/or make a referral to a mental health
+professional as needed. It is possible that discussion of stresses related to having a family
+member with dementia, or being recently bereaved, may stimulate emotional responses in the
+caregiver during the 4 week interventions. All weekly phone call/email/text field notes will
+be stored in Box or REDCap. In addition, there will be ongoing supervision by the
+intervention supervisor (Juratovic), who is an experienced, doctorally-prepared nurse. The
+data collectors and interventionists will report adverse effects to Dr. Juratovic and PI
+Zauszniewski as soon as discovered.
+With regard to the use of the HRV measuring instrument, there have been no reported
+safety risk with the use of this instrument. It has passed electromagnetic interference and
+compatibility tests. Thus, there is no danger of electric shock from use of the device. We let
+the individual know that the device is for research purposes only and not meant to be
+diagnostic, the data obtained from the device will record heart rhythm but will not give
+information about treatments needed for heart health. If the individual would like more
+information about heart health or risk, they will be encouraged to talk to their doctor.
+However, when analyzing their heart rate data, if the score indicates an irregularity with your
+heart rate or rhythm (e.g., SDNN <50ms), a study team member will contact the study
+participant as soon as possible, let the participant know that while the BioRadio reading is
+not diagnostic, their score indicates they may have some irregularity with their heart rate, and
+we will recommend that they follow-up with their health care provider at their earliest
+convenience.
+<<<PAGE 28>>>
+Page 27 of 45
+3. If applicable, indicate which experimental procedures may have risks to the research
+participants that are currently unforeseeable.
+N/A
+4. If applicable, describe the risks to others who are not research participants.
+N/A
+5. Describe the availability of medical or psychological resources that research participants
+might need.
+N/A
+Provisions to Protect the Privacy Interests of Research Participants
+Directions: Describe the steps that will be taken to protect research participants’ privacy
+interests.  (consider issues such as physical space, proximity to other, and participant
+preferences)
+After eligibility is verified during phone screening by a team member, we will confirm
+with all study participants whether or not we can leave a voicemail message on their phone(s),
+and whether or not we can send mail to their home (in the event we cannot reach them by phone,
+and/or if they are randomized to the control group). We will also ask if there are any disclosure
+concerns and make note if applicable in REDCap contact form and CWRU Box.
+Privacy language is included in the informed consent form. Participants have the option
+of withdrawing from the study at any time and can request that no further information be shared
+about them from that point on. Participant names will not be shared in any report of the finding
+or with other study participants. Data collection interviews and intervention sessions will be
+conducted virtually or in a private setting (i.e. participant’s home or other venue).
+Confidentiality will be assured during all phases of the project by the following
+procedures. Screening and Study ID numbers will be used for all caregivers. A list of screening
+and study ID numbers with identifying names, phone numbers, and addresses will be kept locked
+in password-protected files in Box.com and REDCap. The survey data will be kept in a separate
+file from the data collected during the study and will only be accessible to the PI and research
+staff that need access to assure accurate follow-up in this longitudinal study. This identifiable
+information will be destroyed after all data have been collected.
+Confidentiality issues will be addressed during training of research staff that will do the
+data collection and the interventionists. All data collected throughout the study, including signed
+consent forms, quantitative data using the REDCap system, HRV parameters, tracking logs,
+emails, and field notes maintained by research assistants and interventionists will be stored in
+locked files and password protected computer databases only accessible to the PI, Co-Is, project
+manager, and research staff. These data will not include any identifiable information that may
+have been obtained during recruitment and screening. These measures have been used
+successfully to protect the rights of human subjects in our previous studies. In addition, we will
+implement the following specific strategies to protect data obtained from the tracking logs or
+emails used by the caregivers:
+1)    Structured workbook specific to intervention – carers will be provided with a
+structured workbook (electronic or print) for their use during the four week intervention
+<<<PAGE 29>>>
+Page 28 of 45
+between the first (T1) and second (T2) data collection interviews. If provided a print
+copy, they will be instructed to store the workbook in a private place (known only to
+them) in their home during the four weeks. They will be directed to not use real names of
+friends, relatives, etc. within the workbook entries; they may use alternative names if they
+wish. Interventionists will review the workbooks immediately upon retrieval (after the 28
+day period) and if names are found, they will be blackened out and not appear within the
+transcribed text data files. The workbooks will be stored in a locked cabinet in the
+research office and the text files will be stored in a password protected computer
+database. Both the tracking log and text files will be kept for a period not to exceed 10
+years.
+2)    Email - Individuals may use email to get more information about the study, and/or to
+contact staff once enrolled in the study. Email contacts and outcomes will be recorded
+generally on our contact forms in Box and/or REDCap. If an email needs to be printed or
+otherwise saved, it will be securely downloaded to a PDF file, with names and other
+contact information redacted, and delete the original email message. The PDF file will be
+stored in the password protected computer file for a period not to exceed 3 years.
+Potential Benefit to Research Participants
+There is potential benefit to research participants.
+Describe the potential benefits that individual research participants may experience from
+taking part in the research. Include the probability, magnitude, and duration of the
+potential benefits.
+There is no direct benefit to research participants.
+If no direct benefit, state the potential benefit to society or others. Do not list
+compensation.
+Withdrawal of Research Participants
+Directions: Describe the anticipated circumstances under which research participants will be
+withdrawn from the research without their consent. Also include the procedures that will be
+followed when a research participant withdraws or are withdrawn from the research, including
+partial withdrawal from procedures with continued data collection.
+N/A
+Participants have the option of withdrawing from the study at any time and can request
+that no further information be shared about them from that point on. If a study participant
+withdraws consent to participate in the study, a research team member will notify the project
+manager to complete end of study documentation.
+The project manager will review cases regularly with research staff to determine which
+study participants should be withdrawn from the study. Research participants will be withdrawn
+from the research without their consent if they are non-responsive to phone calls, emails, texts, or
+letters and considered lost to follow up.
+Data that were collected prior to a study participant’s withdrawal will be de-identified
+and still be used in the data analysis for the study. After withdrawal, no further data will be
+collected for that participant.
+<<<PAGE 30>>>
+Page 29 of 45
+Alternatives to Participation
+Directions: List other options to participation.  If subjects will be compensated with extra course
+credit, the course instructor offering extra course credit must provide alternatives to earn extra
+course credit.  The alternative assignment must require equal or less time and effort for the same
+amount of earned extra credit that you can earn through participation in research.  If there are
+other available clinical treatments, what would be included if a subject continued on standard of
+care therapy. If there is a viable alternative you must list it in the consent.
+The alternative is for research subjects not to participate.
+Costs to Research Participants
+There are no costs to research participants or their insurance companies (there are no clinical
+visits or billable procedures.) – You may delete the rest of the section.
+1. Describe what costs research participants will be responsible for as a result of their
+participation in the research, including but not limited to: clinical services required by the
+protocol deemed billable to insurance, transportation to study visits, parking, costs of drugs, cost
+of therapy, lost broken or stolen devices, etc.
+2. Explain who will be responsible for payment of provided services in the event of insurance
+denials.
+3. List what procedures, drugs, devices, supplies will be paid by the study sponsor or covered by
+other funding. List the other funding source.
+Research Participant Compensation
+There is no compensation for research participants – please leave rest of this section blank
+There is compensation for research participants.
+Describe the schedule, payment method, and payment total of any incentives or
+compensation that research participants will receive for participation in the research (e.g., gift
+cards or cash with amount, t-shirts, devices, bags, swag, etc.)
+Gift card incentives will be increased over time: $20 at T1, $25 at T2, and $30 at T3.  Carers
+will also receive a $20 gift card for the face-to-face intervention session and $5 gift cards for
+each week (up to 4 weeks/ $20) of completion of the workbook, distributed after the 28-day
+intervention time frame. Thus, each subject may receive up to $115 in gift card compensation
+for completion of all study activities.
+There will be reimbursement for research participants.
+Describe the schedule, payment method, and payment total of any reimbursement that
+research participants will receive for participation in the research (e.g., gift cards or cash with
+amount, etc.)
+<<<PAGE 31>>>
+Page 30 of 45
+If someone takes a bus or drives to CWRU or other community location to meet a research
+team member for T1, T2, T3, or an intervention meeting, we will reimburse that individual a
+2-trip bus pass or parking voucher as appropriate.
+Compensation for Research Related Injury
+Describe who will pay for the costs of medical treatment and/or compensation in the event of a
+research related injury:
+Funding agency is providing some/all payment for injury
+Funding agency is providing no payment for injury
+N/A
+Provisions to Monitor the Data to Ensure the Safety of Research Participants
+1. Describe how often the data will be monitored for completeness, accuracy and adherence
+to the protocol.
+2. Indicate if there will be a Data and Safety Monitoring Board or Committee:
+There will not be a formal Data and Safety Monitoring Board/Committee.
+There will be a formal Data and Safety Monitoring Board/Committee.
+Provide information about the DSMB/C including the contact information of the committee
+member(s) (as applicable); whether it is independent from the study sponsor; how often it
+meets; the type of data that will be used; written reports, etc.
+A Safety Monitoring Committee (SMC) has been formed as the monitoring entity for this
+grant. The SMC is independent from the study sponsor and consists of:
+Dr. Ronald Hickman , SMC chair, who serves as the Associate Dean for Research
+and is Associate Professor, Frances Payne Bolton School of Nursing, CWRU
+Rlh4@case.edu
+Dr. Sara Douglas, Assistant Dean for Research, and Professor, Frances Payne Bolton
+School of Nursing, CWRU
+Sld4@case.edu
+Dr. Martha Sajatovic, Professor of Psychiatry from the CWRU School of Medicine,
+martha.sajatovic@UHhospitals.org
+Study team members will include Dr. Jaclene A. Zauszniewski, PI, and Dr.
+Christopher J. Burant, statistician cxb43@case.edu
+<<<SECTION 1. Monitoring Study Safety>>>
+1. Monitoring Study Safety
+a) Monitoring schedule - Twice per year throughout the project, the SMC will review data
+on the study regarding study safety. For example, the SMC will review any occurrences of
+carer emotional distress that required intervention by data collector or interventionist as
+well as those requiring referral and follow-up and instances where carers withdrew from
+the study.
+<<<PAGE 32>>>
+Page 31 of 45
+b) Audits for compliance with IRB requirements – Random internal audits of 10% of the
+files will be done twice annually to insure the approved IRB protocol is being followed.
+The SMC will review recruitment procedures, compliance with meeting the
+inclusion/exclusion criteria, consistency with random assignment process to the treatment
+conditions, provision of interventions within timeframe defined within the protocol, and
+scheduling of data collection sessions as outlined within the protocol.
+c) Conformance with informed consent requirements – Random internal audits will be
+conducted twice per year to verify that informed consent requirements are being met.  For
+example, the SMC will review 10% of the consent forms for signatures and dates, make
+sure all consent forms are accounted for and stored in locked files and that the correct form
+is being used.  Data collectors will be asked to describe the consent process quarterly to re-
+assess their knowledge of this process quarterly and review / retraining will be done as
+needed.
+d) Verification of source documents – This study does not involve printed or written
+documents; data will be collected through electronic data capture using REDcap software
+and then downloaded directly into SPSSPC files. Heart rate variability data will be
+downloaded from the assessment device and transcribed into the SPSSPC files.  These
+sources will not include any data that would be personally identifiable.
+The SMC will review 1) all causes of mortality (e.g., carer death); 2) issues with
+participation (e.g., numbers and reasons for withdrawing from the study or refusing
+interventions, etc.) as well as recruitment refusal (percent and reasons) and subject attrition
+(percent and reasons); 3) missing data (including whether there are systematic patterns or
+whether data are missing at random); and 4) errors in data entry (which are expected to be
+minimal given the use of software for data collection with direct download into SPSS).  In
+addition, differential attrition from the intervention groups (including the control and usual
+care groups, and the groups assigned to intervention based on need or personal preferences)
+will be monitored.
+If concerns or problems are identified by the SMC, they will be reported to the IRB and
+NINR/NIH via email by Dr. Zauszniewski and Dr. Hickman, respectively, within 3
+business days after they are identified. If there are recommendations made by the SMC, the
+action plan for response or notice of any actions taken by the IRB regarding the research
+and any responses to those actions will be provided to NINR Officials within 2 weeks.
+e) Investigator compliance – Compliance of the investigators and all research team
+members who will have access to the data will be monitored annually.  All research team
+members will be CREC certified; the CWRU intranet hosts a website where verification of
+compliance with continuing education for all investigators and team members can be
+evaluated.
+2.) Reviewing and Reporting Adverse Events/unanticipated problems
+<<<PAGE 33>>>
+Page 32 of 45
+<<<SECTION 1. Event identification>>>
+1. Event identification
+At the onset and for the duration of the study, all research staff and investigators will have
+instructional review of the nature and types of unanticipated and adverse events as described by
+the CWRU IRB. Potential risks for this study may include carer distress and breach of
+confidentiality (as described above). Carer distress may be identified by the data collector
+(during data collection) or the interventionist (during the interventions or phone follow-up).
+Breach of confidentiality may be identified by any research team member.
+<<<SECTION 2. Reviewing and reporting>>>
+2. Reviewing and reporting
+As they occur, all unanticipated events and adverse events will immediately be reported
+to Dr. Zauszniewski (PI) who will report them to the IRB according the CWRU IRB protocol
+reporting procedures for both serious and non-serious adverse events  and unanticipated problem
+reporting. These will be summarized in the semi-annual reports to the SMC. Annual progress
+reports to the CWRU IRB and NINR/NIH will include a summary of the SMC’s activities and
+findings as well as any adverse events regarding human subjects. Program Officials at NINR will
+be informed in a timely manner (3 business days) of unanticipated problems (e.g., a data breach)
+or unexpected serious adverse events that may be related to the study protocol or IRB-approved
+revisions to the study protocol that indicate a change in risk for participants. All adverse events
+and protocol deviations will be reviewed with the staff involved within 3 business days.  Factors
+leading up to the event or deviation will be discussed and strategies for preventing recurrence
+will be developed and implemented immediately.
+Community-Based Participatory Research
+This is not a community-based participatory research project – please leave the rest of
+this section blank
+This is a community-based participatory research project
+Describe the involvement of the community in the design and conduct of the research.
+Note: Community based research is research that is conducted as an equal partnership between
+academic investigators and members of a community. In Community Based Participatory
+Research (CBPR) projects, the community participates fully in all aspects of the research
+process.
+MULTI-SITE RESEARCH (when UH or CWRU is the IRB of Record)
+Does this project have multiple sites?
+Yes
+No – please leave the rest of this section blank
+Non-Local Site Information for Multi-Site Studies
+If this is a multi-site study where you are the lead investigator, list the following information for
+each relying site:
+<<<PAGE 34>>>
+Page 33 of 45
+1. Name of site:
+2. PI of relying site:
+3. Name of IRB contact:
+4. Phone number of IRB contact:
+5. Email address of IRB contact:
+Non-Local Recruitment Methods for Multi-Site Studies
+If this is a multi-site study and research participants will be recruited by methods not under the
+control of the local site (e.g. call centers, national advertisements) describe those methods.
+Local recruitment methods are described above.
+1. Describe when, where, and how potential research participants will be recruited.
+2. Describe the methods that will be used to identify potential research participants.
+3. Describe the materials that will be used to recruit research participants.
+Multi-Site Research Communication Plan (when you are the lead investigator)
+If this is a multi-site study where you are the lead investigator, describe the processes to ensure
+communication among sites including:
+All sites will have the most current version of the protocol, consent document, and
+HIPAA authorization
+All required approvals (initial, continuing review and modifications) have been obtained
+at each site (including approval by the site’s IRB of record)
+All modifications have been communicated to sites, and approved (including approval of
+the site’s IRB of record) before the modification is implemented
+All engaged participating sites will safeguard data, including secure transmission of
+data, as required by local information security policies
+All engaged participating sites will safeguard data, including secure transmission of
+data, as required by local information security policies
+All local site investigators conduct the study in accordance with applicable federal
+regulations and local laws
+All non-compliance with the study protocol or applicable requirements will be reported
+in accordance with local policy
+If this is a multi-site study where you are the lead investigator, describe the method for
+communicating to engaged participant sites the following:
+1.   Problems:
+2.   Interim results:
+3.   The closure of the study:
+Additional Information
+If you have any additional information regarding your study not covered in the template, please
+include it here.
+<<<PAGE 35>>>
+Page 34 of 45
+Study Information stored in Box.com:
+Screening & Enrollment Log (screening ID, name, phone number and/or email, staff
+notes regarding eligibility status of individual, Study ID, Screen date, Informed Consent
+date, T1 date, Intervention date, T2 date, T3 date, End-of-Study date)
+Uploaded HRV data
+Copy of current informed consent form, and current protocol
+Project Manager will keep REDCap back-up files (updated monthly) in Box.com. Files
+will be in SPSS format, and these separate files will be accessible only to the Project
+Manager and Data Coordinator.
+Study Information stored in REDCap:
+Screening form (criteria questions answered, verbal study consent, and consent for future
+research), Contact Form (name, address, phone number, preferred contact methods and
+times), eConsent (signed copies saved in File Repository, automatically includes IP
+address), Enrollment form confirming enrollment date, consent form signed digitally or
+paper copy; Randomization form with intervention assignment and End-of-Study forms.
+Study team members, depending on role, have access to different forms.
+Interventions and Weekly meetings (different staff, depending on role, have access to
+different forms): Intervention tracking (date of intervention, weekly follow-up contact).
+Surveys Project: All study instruments
+Stored on Network drives:
+No PHI is stored on network drives
+Internal study files such as grant proposal, IRB folder, marketing materials.
+References
+1. Alzheimer’s Association. (2016). Alzheimer’s disease facts and figures.  Alzheimer’s &
+Dementia,12(4),     22. http://dx.doi.org/10.1016/j.jalz.2016.03.001
+2.  Gaugler, J.E., & Teaster, P.  (2006). The family caregiving career for community-based long-
+term care practice and policy. Journal of Aging & Social Policy, 18(3/4), 2006, 141-154. doi:
+10.1300/J031v18n03_10
+3.   Peacock, S.C., Hammond-Collins, K., & Forbes, D.A.  (2014). The journey with dementia
+from the
+perspective of bereaved family caregivers: A qualitative descriptive study. BMC Nursing, 13,
+42.
+doi: 10.1186/s12912-014-0042-x
+4. Prince, M., Wimo, A., Guerchet, M., Ali, G.C., Wu, Y.T., & Prina, M. (2015). World Alzheimer
+Report 2015 The Global Impact of Dementia An analysis of prevalence, incidence, cost and
+trends: Executive Summary. London: Alzheimer’s Disease International
+5. Chiao, C.Y., Wu, H.S., & Hsiao, C.Y.  (2015). Caregiver burden for informal caregivers of
+patients with dementia: A systematic review.  International Nursing Review, 62, 340-250.
+doi: 10.1111/inr.12194
+<<<PAGE 36>>>
+Page 35 of 45
+6. Gaugler, J.E., Anderson, K.A., Zarit, S.H., & Pearlin, L.I. (2004). Family involvement in
+nursing homes: effects on stress and well-being. Aging & Mental Health, 8(1), 65–75. doi:
+10.1080/13607860310001613356
+7. Romero, M.M., Ott, C.H., Kelber, S.T.  (2014). Predictors of grief in bereaved family
+caregivers of persons with Alzheimer’s Disease: A prospective study. Death Studies, 38,
+395–403. doi: 10.1080/07481187.2013.809031
+8. Bangerter, L.R., Liu, Y., & Zarit, S.H. (2017, online). Longitudinal trajectories of subjective
+care stressors; The role of personal, family, and dyadic resources. Aging and Mental Health.
+doi: 10.1080/13607863.2017.1402292
+9. Von Kanel, R., Mills, P.J., Mausbach, B.T., Dimsdale. J.E., Patterson, T.L., Ziegler, M.G.,
+Ancoli-Israel, S., Allison, M., Chattillion, E.A., & Grant, I.  (2012a). Effects of Alzheimer’s
+caregiving on circulating levels of c-reactive protein and other biomarkers relevant to
+cardiovascular disease risk: A longitudinal study. Gerontology, 58, 354-365. doi:
+10.1159/000334219.
+10. Von Kanel, R., Mausbach, B.T., Dimsdale. J.E., Mills, P.J., Patterson, T.L., Ancoli-Israel, S.,
+Ziegler, M.G., Roepke, S.K., Chattillion, E.A., Allison, M., & Grant, I.  (2012b). Effect of
+chronic dementia caregiving and major transitions in the caregiving situation on kidney
+function: A longitudinal study. Psychosomatic Medicine, 74, 214-220. doi:
+10.1097/PSY.0b013e3182408c14.
+11. Von Kanel, R., Mausbach, B.T., Ancoli-Israel, S., Dimsdale. J.E., Mills, P.J., Patterson, T.L.,
+Ziegler, M.G., Roepke, S.K., Chattillion, E.A., Allison, M., & Grant, I.  (2012c). Sleep in
+Alzheimer’s caregivers: A longitudinal study with a focus on the effects of major patient
+transitions on sleep.  Sleep, 35(2), 247-255. doi: 10.5665/sleep.1632.
+12. Gaugler,J.E., Kane, R.L., & Newcomer, R. (2007).  Resilience and transitions from dementia
+caregiving. Journal of Gerontology: Psychological Sciences, 62(1), 38-44.
+13. Collins, F.S., & Varmus, M.D. (2015).  A new initiative on precision medicine.  New England
+Journal of Medicine, 372, 793-795. doi:10.1056/NEJMp1500523.
+14. The White House (2015). Fact sheet: President Obama’s Precision Medicine Initiative.
+Retrieved from https://www.whitehouse.gov/the-press-office/2015/01/30/fact-sheet-
+president-obama-s-precision-medicine-initiative.
+15. Ryan, P., & Sawin, K. (2009).  The individual and family self-management theory:
+Background and perspectives on context, process, and outcomes. Nursing Outlook, 57,
+217-225. doi:10.1016/j.outlook.2008.10.004.
+16. UWM Self-Management Science Center Working Group. (2011). Individual and Family Self-
+management Theory: Definition of self-management. Retrieved from
+http://www4.uwm.edu/smsc/framework/
+17. Zauszniewski, J.A., Eggenschwiler, K., Preechawong, S., Roberts, B.L., & Morris, D.L.  (2006).
+Effects of teaching resourcefulness skills in elders. Aging and Mental Health, 10(4), 1-9.
+doi:10.1080/13607860600638446.
+18. Zauszniewski, J.A., Eggenschwiler, K., Preechawong, S., Roberts, B.L., & Morris, D.L.  (2006).
+Effects of teaching resourcefulness and acceptance on affect, behavior, and cognition of
+chronically ill elders.  Issues in Mental Health Nursing, 28(6), 575-592.
+doi:10.1080/01612840701354547.
+19. Zauszniewski, J.A., Musil, C.M., Au. T.Y., Burant, C.J., & Standing, T.S.  (2014).
+Resourcefulness training for grandmothers raising grandchildren: Establishing fidelity.
+Western Journal of Nursing Research, 36(2), 228-244. doi:10.1177/0193945913500725.
+20. Zauszniewski, J.A., Musil, C.M., Burant, C.J., & Au, T.Y. (2014). Evidence for preliminary
+effectiveness of resourcefulness training interventions for grandmothers raising
+grandchildren. Research in Nursing and Health, 37(1), 42-52. doi: 10.1002/nur.21574.
+<<<PAGE 37>>>
+Page 36 of 45
+21. Zauszniewski, J.A., Lekhak, N., Morris, D.L., Burant, C., & Underwood, P.  (2016).
+Resourcefulness training for women caregivers of elders with dementia: Establishing fidelity.
+Western Journal of Nursing Research, 38(12), 1554-1573. doi:  10.1177/0193945916655798.
+22. Zauszniewski, J.A., Lekhak, N., Burant, C., & Morris, D.L. (2016).  Preliminary evidence for
+effectiveness of resourcefulness training for women dementia caregivers.  Journal of Family
+Medicine, 3(5), 1069-1078.
+23. Alzheimer's Association. (2011). Advocacy Center Federal Policy Priorities: National
+Alzheimer's Project Act (NAPA). Available at http://www.alz.org/advocacy/federal-
+priorities.asp#napa.  Last accessed May 18, 2019.
+24. National Institute on Aging. (2012). Alzheimer’s Disease Research Summit 2012: Path to
+Treatment and Prevention. Available at
+https://www.nia.nih.gov/about/events/2012/alzheimers-disease-research-summit-2012-path-
+treatment-and-prevention. Last accessed May 18, 2019.
+25. National Institute on Aging. (2012). Alzheimer’s Disease Research Summit 2012: Path to
+Treatment and Prevention. Available at
+https://www.nia.nih.gov/about/events/2012/alzheimers-disease-research-summit-2012-path-
+treatment-and-prevention. Last accessed May 18, 2019.
+26. Obama calls on Congress to fund 'precision medicine' studies (2015, January 30).  Available
+at http://medicalxpress.com/news/2015-01-obama-precision-medicine-one-size-fitsall.html.
+Last accessed May 18, 2019.
+27. Tom, S.E., Hubbard, R.A., Crane, P.K., Haneuse, S.J., Bowen, J., McCormick, W.C.,
+McCurry, S., & Larson, E.B. (2015). Characterization of dementia and Alzheimer’s Disease
+in an older population: Updated incidence and life expectancy with and without dementia.
+American Journal of Public Health, 105(2), 408-413. doi: 10.2105/AJPH.2014.301935
+28. Hurd, M.D., Martorell, P., Delavande, A., Mullen, K.J., Langa, K.M. (2013). Monetary costs
+of dementia in the United States. New England Journal of Medicine, 368(14), 1326-1334.
+doi: 10.1056/NEJMsa1204629
+29. Cooke, D.D., McNally, L., Mulligan, K.T., Harrison, M.J., & Newman, S.P. (2001).
+Psychosocial interventions for caregivers of people with dementia: A systematic review.
+Aging and Mental Health, 5(2), 120-135. doi: 10.1080/713650019
+30. Dam, A. E., de Vugt, M. E., Klinkenberg, I. P., Verhey, F. R., & van Boxtel, M. P. (2016). A
+systematic review of social support interventions for caregivers of people with dementia: Are
+they doing what they promise?. Maturitas, 85,117-130. doi:10.1016/j.maturitas.2015.12.008
+31. Elvish, R., Lever, S.J., Johnstone, J., Cawley, R., & Keady, J.  (2013). Psychological
+interventions for carers of people with dementia: A systematic review of quantitative and
+qualitative evidence.  Counselling and Psychotherapy Research, 13(2), 106-125.
+doi:10.1080/14733145.2012.739632
+32. Huis, J.G., Verkaik, R., Mistiaen, P., vn Meijels, B., & Francke, A.L. (2014).  The
+effectiveness of interventions in supporting self-management of informal caregivers of
+people with dementia: A systematic review. BMC Geriatrics, 15(147), 1-10. doi:
+10.1186/s12877-015-0145-6
+33. Li, R., Cooper, C., Austin, A., & Livingston, G. (2013). Do changes in coping style explain
+the effectiveness of interventions for psychological morbidity in family carers of people with
+dementia? A systematic review and metaanalysis. International Psychogeriatrics, 25(2),
+204-214 doi: 10.1017/S1041610212001755
+34. McKechnie, V., Barker, C., & Stott, J. (2014). Effectiveness of computer-mediated
+interventions for informal carers of people with dementia systematic review. International
+Psychogeriatrics, 26(10), 1619-1637. doi: 10.1017/S1041610214001045
+35. Petriwskyj, A., Parker, D., O’Dwyer, S., Moyle, W., & Nucifora, N. (2015). Interventions to
+build resilience in family carers of people living with dementia: a systematic review protocol.
+<<<PAGE 38>>>
+Page 37 of 45
+JBI Database Of Systematic Reviews & Implementation Reports, 13(7), 44-61. doi:
+10.11124/jbisrir-2015-1994
+36. Scott, J. L., Dawkins, S., Quinn, M. G., Sanderson, K., Elliott, K. J., Stirling, C., & ...
+Robinson, A. (2016). Caring for the carer: A systematic review of pure technology-based
+cognitive behavioral therapy interventions for dementia carers. Aging & Mental Health,
+20(8), 793-803. doi: 10.1080/13607863.2015.1040724
+37. Tang, W.K., & Chan, C.Y.J. (2016). Effects of psychosocial interventions on self-efficacy of
+dementia caregivers: A literature review. International Journal of Geriatric Psychiatry, 31,
+475-493. doi: 10.1002/gps.4352
+38. Gitlin, L.N., Belle, S.H., Burgio, L.D., Czaja, S.J., Mahoney, D., Gallagher-Thompson, D.,
+Burns, R., Hauck, W.W., Zhang, S., Schulz, R., & Ory, M.G. (2003). Effect of
+multicomponent interventions on caregiver burden and depression: The REACH multisite
+initiative at 6-month follow-up. Psychology and Aging, 18(3), 361-374. doi: 10.1037/0882-
+7974.18.3.361
+39. Shulz, R., Burgio, L., Burns, R., Eisdorfer, C., Gallagher-Thompson, D., Gitlin, L.N., &
+Mahoney, D.F. (2003). Resources for Enhancing Alzheimer’s Caregiver Health (REACH):
+Overview, site-specific outcomes, and future directions. The Gerontologist, 43(4), 514-520.
+doi: 10.1093/geront/43.4.514
+40. Wisniewski, S.R., Belle, S.H., Coon, D.W., Marcus, S.M., Ory, M.G., Burgio, L.D., Burns, R.,
+& Schulz, R. (2003). The Resources for Enhancing Alzheimer’s Caregiver Health (REACH):
+Project design and baseline characteristics. Psychology and Aging, 18(3), 375-384.
+doi: 10.1037/0882-7974.18.3.375
+41. Burgio, L., Stevens, A., Delois, G., Roth, D. L., & Haley, W. E. (2003). Impact of two
+psychosocial interventions on white and African American family caregivers of individuals
+with dementia. Gerontologist, 43(4), 568-579. doi: 10.1093/geront/43-4/568
+42. Burns, R., Nichols, L.O., Martindale-Adams, J., Graney, M.J., & Lummus, A. (2003). Primary
+care interventions for dementia caregivers: 2-year outcomes from the REACH study. The
+Gerontologist,43(4), 547-555. doi: 10.1093/geront/43.4.547
+43. Chee, Y.K., Gitlin, L.N., Dennis, M.P., & Hauck, W.W. (2007). Predictors of adherence to a
+skill building intervention in dementia caregivers. The Journals of Gerontology: Medical
+Sciences,62(6), 673-678.
+44. Eisdorfer, C., Czaja, S. J., Loewenstein, D. A., Rubert, M. P., Arguelles, S., Mitrani, V. B. et
+al. (2003). Effect of family therapy and technology-based intervention on caregiver
+depression. Gerontologist, 43(4), 521-531. doi: 10.1093/geront/43.4.521
+45. Gitlin, L.N., Hauck, W.W., Dennis, M.P., & Winter, L. (2005). Maintenance of effects of the
+home environmental skill-building program for family caregivers and individuals with
+Alzheimer’s disease and related disorders. The Journals of Gerontology: Medical Sciences,
+60(3), 368-374.doi: 10.1093/gerona/60.3.368
+46. Gitlin, L. N., Winter, L., Corcoran, M., Dennis, M. P., Schinfeld, S., & Hauck, W. W. (2003).
+Effects of the home environmental skill-building program on the caregiver-care recipient
+dyad: 6-month outcomes from the Philadelphia REACH initiative. Gerontologist, 43(4), 532-
+546. doi: 10.1093/geront/43.4.532
+47. Mahoney, D. F., Tarlow, B. J., & Jones, R. N. (2003). Effects on an automated telephone
+support system on caregiver burden and anxiety: findings from the REACH for TLC
+intervention study. Gerontologist, 43(4), 556-567. doi: 10.1093/geront/43.4.556
+48. Sarabia-Cobo, C.M. (2015).  Heart coherence: A new tool in the management of stress on
+professionals and family caregivers of patients with dementia. Applied Psycholophysiology
+and Biofeedback, 40, 75-83.  doi:10.1007/s10484-015-9276-y.
+<<<PAGE 39>>>
+Page 38 of 45
+49. Vernooji-Dassen, M., Draskovic, I., McCleery, J., & Downs, M.  (2011). Cognitive reframing
+for carers of people with dementia. Cochrane Database Systematic Reviews, 11, Art. No.:
+CD005318. doi: 10.1002/14651858.CD005318.pub2
+50. Werner, P., Goldstein, D., Karpas, D.S., Chan, L., & Lai, C.  (2014). Help-seeking for
+dementia: A systematic review of the literature. Alzheimer Disease and Associated
+Disorders, 28(4), 299-310. doi: 10.1097/WAD.0000000000000065
+51. Nolan, M., Ingram, P., & Watson, R. (2002). Working with family carers of people with
+dementia: Negotiated coping as an essential outcome. Dementia, 1(1), 75-93. doi:
+10.1177/147130120200100104
+52. Bekhet, A.K., Zauszniewski, J.A., & Matel-Anderson, D. (2012).  Resourcefulness Training
+Intervention: Assessing critical parameters from relocated older adults’ perspectives.  Issues
+in Mental Health Nursing, 33(7), 430-435. doi: 10.3109/01612840.2012.664802
+53. Gonzalez, E. W., Polansky, M., Lippa, C. F., Gitlin, L. N., & Zauszniewski, J. A. (2014).
+Enhancing resourcefulness to improve outcomes in family caregivers and persons with
+Alzheimer's Disease: A pilot randomized trial. International Journal of Alzheimer's Disease,
+2014, Article ID 323478, 10 pages. doi: 10.1155/2014/323478.
+54.Musil C.M., Zauszniewski, J.A., Burant, C.J., Toly, V.B., & Warner, C.  (2016). Evaluating an
+Online Resourcefulness Training Intervention Pilot Test Using Six Critical Parameters.
+International Journal of Aging and Human Development, 82 (1), 117-135. doi:
+10.1177/0091415015623552
+55. Toly, V., Musil, C.M., & Zauszniewski, J.A. (2014).  Resourcefulness Training Intervention: A
+Promising Approach to Improve Mental Health of Mothers with Technology-Dependent
+Children. Applied Nursing Research, 27(1), 87-90. doi: 10.1016/j.apnr.2013.11.003
+56. Zauszniewski, J.A., Bekhet, A.K., Lai, C.Y., McDonald, P., & Musil, C.M., (2007). Effects of
+teaching resourcefulness and acceptance on affect, behavior, and cognition of chronically ill
+elders.  Issues in Mental Health Nursing, 28(6), 575-592. doi: 10.1080/01612840701354547
+57. Zauszniewski, J.A., Lekhak, N., Au, T.Y., Yolpant, W., & Morris, D.L., (2015). Need for
+resourcefulness training for women caregivers of elders with dementia. Issues in Mental
+Health Nursing, 36(12), 1007-
+58. Zauszniewski, J.A., Morris, D.L., Lekhak, N., Au, T.Y., & Napoleon, B.  (2016).
+Resourcefulness Training for women dementia caregivers: Acceptability and feasibility of
+two practice methods. Issues in Mental Health Nursing, 37(4), 249-256. doi:
+10.3109/01612840.2015.1119222
+59. Aneshensel, C.S., Pearlin, L.I., Mullan, J.T., Zarit, S.H., & Whitlatch, C.J. (1995). Profiles in
+Caregiving: The Unexpected Career. San Diego: Academic Press.
+60. Lindgren, C.L. (1993). The caregiving career. Journal of Nursing Scholarship, 25(3), 214-
+219. doi: 10.1111/j.1547-5069.1993.tb00784.x
+61. Pearlin, L. I., & Aneshensel, C. S. (1994). Caregiving: The unexpected career. Social Justice
+Research, 7(4), 373-390. doi: 10.1007/BF02334863
+62. Pearlin, L. I., & Aneshensel, C. S. (1996). Profiles in caregiving: The unexpected career.
+Social Justice Research, 33(10), 5733-5748
+63. Gaugler, J.E., Wackerbarth, S.B., Mendiondo, M., Schmitt, F.A., & Smith, C.D.  (2003).
+Characteristics of dementia caregiving onset.  American Journal of Alzheimer’s Disease and
+Other Dementias,18(2), 97-104. doi: 10.1177/153331750301800208
+64. Robinson, C.A., Bottorff, J.L., Pesut, B., Oliffe, J.L., & Tomlinson, J.  (2014). The male face
+of caregiving: A scoping review of men caring for a person with dementia. American Journal
+of Men’s Health, 8(5) 409–426. doi: 10.1177/1557988313519671
+65. Ducharme, F., Levesque, L., Lachance, L., Kergoat, M.J., Coulombe, R.  (2011). Challenges
+associated with transition to caregiver role following diagnostic disclosure of Alzheimer
+<<<PAGE 40>>>
+Page 39 of 45
+disease: A descriptive study. International Journal of Nursing Studies 48(2011), 1109–1119.
+doi: 10.1016/j.ijnurstu.2011.02.011
+66. Adams, K.B. (2006). The transition to caregiving, Journal of Gerontological Social Work,
+47,(3-4), 3-29. doi: 10.1300/J083v47n03_02
+67. Kramer, B.J., & Lambert, J.D. (1999). Caregiving as a life course transition among older
+husbands: A prospective study. The Gerontologist, 39, 658-667. doi:
+10.1093/geront/39.6.658
+68. Seltzer, M.M., & Li, L.W. (2000). The dynamics of caregiving: Transitions during a three-year
+prospective study. The Gerontologist, 40, 165-178. doi: 10.1093/geront/40.2.165
+69. Wuest, J., Ericson, P.K.,&Stern, P.N. (1994). Becoming strangers: The changing family
+caregiving relationship in Alzheimer’s disease. Journal of Advances in Nursing, 20 (3), 437-
+443. doi: 10.1111/j.1365-2648.1994.tb02378.x
+70. Skaff, M.M., Pearlin, L.I., & Mullan, J.T.  (1996).  Transitions in the caregiving career:
+Effects on sense of mastery. Psychology and Aging, 2(2), 247-257. doi:10.1037/0882-
+7974.11.2.247
+71. Gaugler, J.E., Anderson, K.A., Leach, C.R., Smith, C.D., Schmitt, F.A., & Mendiondo, M.
+(2004). The emotional ramifications of unmet need in dementia caregiving. American
+Journal of Alzheimer’s Disease and Other Dementias, 19(6), 369-380. doi:
+10.1177/153331750401900605
+72. Rose, K.M., & Lopez, R.P. (2012). Transitions in dementia care.  Online Journal of Issues in
+Nursing, 17(2), 1-17. doi:10.1177/1054773811431883
+73. Niksad-Terhune, K.A., Newcomer, R., & Gaugler, J.E. (2010). Do trajectories of at home
+dementia caregiving account for burden after nursing home placement? A growth curve
+analysis. Social Work Health Care, 49(8): 734–752. doi: 10.1080/00981381003635296
+74. Orzeck, P., & Silverman, M.  (2008). Recognizing post-caregiving as part of the caregiving
+career: Implications for practice. Journal of Social Work Practice 22(2), 211–220. doi:
+10.1080/02650530802099866
+75. Pearlin, L. I. (1992). The careers of caregivers. The Gerontologist, 32(5), 647.
+76. Bertrand, R.M., Fredman, L., & Saczynski, J. (2006). Are all caregivers created equal?
+Stress in caregivers to adults with and without dementia.  Journal of Aging and Health,
+18(4), 534-551. doi: 10.1177/0898264306289620
+77. Eifert, E.K., Adams, R., Dudley, W., & Perko, M.  (2015). Family caregiver identity: A
+literature review. American Journal of Health Education, 46, 357-367. doi: 10.1080/
+19325037.2015.1099482
+78. Lindauer, A., & Harvath, T.A. (2015). The meanings caregivers ascribe to dementia-related
+changes in care recipients: A meta-ethnography. Research in Gerontological Nursing, 18(1),
+39-48. doi: 10.3928/19404921-20141121-01
+79. Schultz, R., & Martire, L.M.  (2004). Family caregiver of persons with dementia: Prevalence,
+health effects, and support strategies. American Journal of Geriatric Psychiatry, 12(3), 240-
+249. doi:10.1097/00019442-200405000-00002
+80. Brodaty, H. (2007). Meaning and measurement of caregiver outcomes. International
+Psychogeriatrics, 19, 363–381. doi: 10.1017/S1041610207005182
+81. Brodaty, H., Draper, B., & Low, L. (2003). Nursing home staff attitudes towards residents
+with dementia: strain and satisfaction with work. Journal of Advanced Nursing, 44(6), 583–
+590.
+82. Butcher, H. K., Holkup, P. A., Park, M., & Maas, M. (2001). Thematic analysis of the
+experience of making a decision to place a family member with Alzheimer’s disease in a
+special care unit. Research in Nursing and Health, 24(6), 470–480 doi: 10.1002/nur.10005
+<<<PAGE 41>>>
+Page 40 of 45
+83. Coehlo, D.P., Hooker, K., & Bowman, S.  (2007). Institutional placement of persons with
+dementia: What predicts occurrence and timing?  Journal of Family Nursing, 13(2), 253-277.
+doi: 10.1177/1074840707300947
+84. Cohen, L.W., Zimmerman, S., Reed, D., Sloane, P.D., Beeber, A.S., Washington, T., Cagle,
+J.G., & Gwyther, L.P. (2014).  Dementia in relation to family caregiver involvement and
+burden in long-term care.  Journal of Applied Gerontology, 33(5), 522-540.
+Doi:10.1177/0733464813505701
+85. Gaugler, J. E., Kane, R. L., Kane, R.A., & Newcomer, R. (2005). Unmet care needs and key
+outcomes in dementia. Journal of American Geriatric Society, 53(12), 2098-2105. doi:
+10.1111/j.1532-5415.2005.00495.x
+86. Gaugler, J.E., Zarit, S.H., & Pearlin, L.I. (2003). The onset of dementia caregiving and its
+longitudinal implications. Psychology and Aging,18(2):171–80. DOI: 10.1037/0882-
+7974.18.2.171
+87. Rowles, G.D., & High, D.M. (1996). Individualizing care: Family roles in nursing home
+decision-making. Journal of Gerontological Nursing, 22(3), 20–25. doi: 10.3928/0098-9134-
+19960301-08
+88. Zarit, S.H., Whitlatch, C.J. (1992). Institutional placement: Phase of transition. Gerontologist,
+32, 665–672. doi: 10.1093/geront/32.5.665
+89. Bramble, M., Moyle, W., & Shum, D., (2011). A quasi-experimental design trial exploring the
+effect of a partnership intervention on family and staff well-being in long-term dementia care.
+Aging & Mental Health, 15(8), 995–1007. doi: 10.1080/13607863.2011.583625
+90. Ryan, A.A., & Scullion, H.F.  (2000). Family and staff perceptions of the role of families in
+nursing homes.  Advanced Nursing, 32(3), 626-634. doi: 10.1046/j.1365-2648.2000.01521.x
+91. Gaugler, J.E., & Kane, R.L. (2007). Families and assisted living. Gerontologist, 47(Suppl
+1),83–99. doi: 10.1093/geront/47.Supplement_1.83
+92. Majerovitz, S.D. (2007). Predictors of burden and depression among nursing home family
+caregivers.  Aging and Mental Health, 11(3), 323-329. doi: 10.1080/13607860600963380
+93. Whitlatch, C.J., Schur, D., Noelker, L.S., Ejaz, F.K., & Looman, W.J. (2001). The stress
+process of family caregiving in institutional settings. Gerontologist,  41(4), 462–473. doi:
+10.1093/geront/41.4.462
+94. Williams, S.W., Williams, C.S., Zimmerman, S., Munn, J., Dobbs, D., & Sloane, P.D. (2008).
+Emotional and physical health of informal caregivers of residents at the end of life: The role
+of social support. Journals of Gerontology – Psychological and Social Sciences, 63B(3),
+S171–S183.
+95. Schultz, R., Boerner, K., Shear, K., Zhang, S., & Gitlin, L.N. (2006). Predictors of
+complicated grief among dementia caregivers: A prospective study of bereavement.
+American Journal of Geriatric Psychiatry, 14(8), 650-658. doi:
+10.1097/01.JGP.0000203178.44894.db
+96. Meleis, A. I., Sawyer, L. M., Im, E. O., Messias, D. K. H., & Schumacher, K. L. (2000).
+Experiencing transitions: An emerging middle-range theory. Advances in Nursing Science,
+23(1), 12-28. doi: 10.1097/00012272-200009000-00006
+97. Rosswurm, M.A., Larrabee, J.H., & Zhang, J. (2002). Training family caregivers of
+dependent elderly adults through on-site and telecommunication programs. Journal of
+Gerontological Nursing, 28, 27-38. doi: 10.3928/0098-9134-20020701-07
+98. Zauszniewski, J.A., & DiMarco, M. (2004). [A pilot test of the use of journals to reinforce the
+teaching of resourcefulness in older adults with chronic conditions]. Unpublished raw data.
+99. Zauszniewski, J. A., & Rosswurm, M.A. (2003). Resourceful caregiving. Journal of
+Gerontological Nursing 29(1): 5; author reply 6.
+100. Zauszniewski, J.A., & Suresky, M.J. (2012). [A pilot study to test resourcefulness training
+in family members of adults who use substances]. Unpublished raw data.
+<<<PAGE 42>>>
+Page 41 of 45
+101. Zauszniewski, J.A., & Suresky, M.J. (2005). [A pilot study of two methods for reinforcing
+resourcefulness skills in mothers of children with challenging behaviors]. Unpublished raw
+data.
+102. Zauszniewski, J.A., Au, T.Y., & Musil, C.M. (2012). Resourcefulness training for
+grandmothers raising grandchildren:  Is there a need?  Issues in Mental Health Nursing,
+33(10), 680-686. doi:  10.3109/01612840.2012.684424
+103. Vaschillo, E., Lehrer, P., Rishe, N., & Konstantinov, M. (2002). Heart rate variability
+biofeedback as a method for assessing  function: a preliminary study of
+resonance in the cardiovascular system. Applied Psychophysiology and Biofeedback,
+27(1), 1–27. doi:10.1023/A:1014587304314.
+104. Lehrer, P.M., Vaschillo, E.G., Vaschillo, B., Lu, S., Eckberg, D.L., & Edelberg, R. (2003).
+Heart rate variability biofeedback increases baroreflex gain and peak expiratory flow.
+Psychosomatic Medicine, 65, 796–805. doi:10.1097/01.PSY.0000089200.81962.19
+105. Prinsloo, G.E., Rauch, H.G.L., Lambert, M.I., Muench, F., Noakes, T.D., & Derman,  W.E.
+(2011). The effect of short duration heart rate variability (HRV) biofeedback on cognitive
+performance during laboratory induced cognitive stress. Applied Cognitive Psychology,
+25(5), 792-801. doi: 10.1002/acp.1750
+106. Siepmann, M., Aykac, V., Unterdorfer, J., Petrowski, K., & Mueck-Weymann, M. (2008). A
+pilot study on the effects of heart rate variability biofeedback in patients with depression
+and in healthy subjects. Applied Psychophysiology and Biofeedback, 33, 195-201. doi:
+10.1177/0193945906298607
+107. Helicor (2007).  Stresseraser® Owner’s Manual. New York, NY: Helicor Inc.
+108. McCraty, R., & Tomasino, D.  (2004, November).  Heart rhythm coherence feedback: A
+new tool for stress reduction, rehabilitation, and performance enhancement. Paper
+presented at the First Baltic Forum on Neuronal Regulation and Biofeedback, Riga, Latvia.
+Retrieved from website:
+http://www.heartmath.com/health/professional/hrv_biofeedback.pdf.
+109. Ebben, M.R., Kurbatov, V., & Pollak, C.P. (2009). Moderating laboratory adaptation with
+the use of a heart-rate variability biofeedback Device (StressEraser®).  Applied
+Psychophysiology and  Biofeedback, 34, 245–249.  doi: 10.1007/s10484-009-9086-1.
+110. Heilman, K.J., Handelman, M., Lewis, G., & Porges, S.W. (2008). Accuracy of the
+StressEraser® in the detection of cardiac rhythms. Applied Psychophysiology
+and Biofeedback, 33(2), 83–89. doi: 10.1007/s10484-008-9054-1.
+111. Muench, F. (2008). The portable StressEraser heart rate variability biofeedback device:
+Background and research. Biofeedback, 36(1), 35-39.
+112. Zauszniewski, J.A., Au, T.Y., & Musil, C.M. (2013). Biofeedback in grandmothers raising
+grandchildren: Effects on stress, emotions, and cognitions. Biofeedback, 41(3), 144-149.
+doi:10.5298/1081-5937-41.3.06.
+113. Zauszniewski, J.A., Musil, C.M., & Au, T.Y. (2013). Heart rate variability biofeedback
+versus  resourcefulness training interventions. Applied Psychophysiology and
+Biofeedback, 38(213-238).
+114. Zauszniewski, J.A., & Musil, C.M. (2014).  Interventions for grandmothers: Comparative
+effectiveness of resourcefulness training, HRV biofeedback, and journaling. Biofeedback,
+42(3), 121-129. doi:10.5298/1081-5937-42.3.03
+115. Bilchick, K.C., & Berger, R.D. (2006).  Heart rate variability.  Journal of Cardiovascular
+Electrophysiology, 17, 691–694.  doi:10.1111/j.1540-8167.2006.00501.x.
+116. Nunan, D., Sandercock, G.R.H., & Brodie, D.A.  (2010). A quantitative systematic review
+of normal values for short term heart rate variability in healthy adults.  Pacing Clinical
+Electrophysiology, 33, 1407-1417. doi:10.1111/j.1540-8159.2010.02841.x.
+<<<PAGE 43>>>
+Page 42 of 45
+117. Zauszniewski, J.A. (1997). Evaluation of a measure of learned resourcefulness in older
+adults.  Journal of Nursing Measurement, 5, 71-86.
+118. Zauszniewski, J.A. (2012). Intervention development:  Assessing critical parameters from
+the intervention recipient’s perspective.  Applied Nursing Research, 25(1), 31-39. doi:
+10.1016/j.apnr.2010.06.002
+119. Zauszniewski, J.A., Lekhak, N., & Musil, C.M. (2018). Caregiver reactions to dementia
+symptoms: Effects on coping repertoire and mental health.  Issues in Mental Health, Epub
+ahead of print. doi:10.1080/01612840.1424974.
+120. Zauszniewski, J.A., Musil, C.M., Herbell, K., & Givens, S. (2017).  Heart Rate Variability
+Biofeedback in Grandmothers: Evaluation of Intervention Parameters.  Issues in Mental
+Health Nursing, 38(6), 493-499.
+121. Zauszniewski, J.A., Musil, C.M., & Variath, M. (2015).  Effects of biofeedback on stress,
+emotions, and cognitions in grandmothers:  Correlations between subjective and objective
+measures.  Biofeedback, 43(4), 193-199.
+122. Ohio Alzheimer’s Association. (2016). Fact Sheet on Alzheimer’s Disease. Available at
+http://www.alz.org/documents_custom/facts_2016/statesheet_ohio.pdf?type=interior_map
+&facts=undefined&facts=facts. Last accessed May 18, 2019.
+123 U.S. Census Bureau: State and County QuickFacts. (2015). American Community Survey.
+Available at http://www.census.gov/acs/www/data/data-tables-and-tools/index.php. Last
+accessed May 18, 2019.
+124.  Faul, F., Erdfelder, E., Buchner, A., & Lang, A.-G. (2009). Statistical power analyses using
+G*Power 3.1:    Tests for correlation, regression analyses, and repeated measures
+analysis of variance. Behavior Research Methods, 41, 1149-1160.
+doi:10.3758/BRM.41.4.1149
+125. Zauszniewski, J.A., Lai, C.Y., & Tithiphontumrong, S. (2006). Development and testing of
+the Resourcefulness Scale for older adults. Journal of Nursing Measurement, 14(1), 55-
+66. doi: http://dx.doi.org/10.1891/jnum.14.1.57
+126. Great Lakes Neurotechnologies, Inc. (2014). User Manual for BioRadio for Heart Rate
+Variability Measurement. Valley View, OH, USA: Author
+127. Vivonoetics, Inc. (2016). VivoSense: User Manual – Heart Rate Variability (HRV)
+Professional Edition Version 3.0. San Diego, CA, USA: Author.
+128. CleveMed Research, 2007. Bioradio 150 and Bioradio Capture Lite
+TM (Version
+1.02.07.0601) [Apparatus and Software]. CleveMed Medical Devices Inc, Cleveland, Ohio,
+USA: Author.
+129. Nachar, N., Lavoie, M.E., Marchand, A., O’Connor, K.P., & Guay, S. (2014). The effect of
+talking about psychological trauma with a significant other on heart rate reactivity in
+individuals with posttraumatic stress disorder. Psychiatry Research, 219, 171-176.
+doi:10.1016/jpsyres.2014.05.006.
+130. Billman, G.E.  (2011). Heart rate variability:  A historical perspective.  Frontiers in
+Physiology, 2, 1-12.  doi: 10.3389/fphys.2011.00086. PMCID:PMC3225923
+131. Pumprla, J., Howorka, K., Groves, D., Chester, M., & Nolan, J. (2002) Functional
+assessment of heart rate variability:  Physiological basis & practical applications.
+International Journal of Cardiology, 84, 1-14. doi:10.1016/S0167-5273(02)00057-8.
+132. Acharya, U.R., Joseph, K.P., Kannathal, N., Lim, C.M., & Surit, J.S. ( 2006). Heart rate
+variability: A review. Medical & Biological Engineering & Computing, 44, 1031-51.
+doi:10.1007/s11517-006-0119-0.
+133. Thayer, J.F., Ahs, F., Fredrikson, M., Sollers, J.J. , & Wager, T.D.  (2012). A meta-analysis
+of heart rate variability and neuroimaging studies: Implications for heart rate variability as a
+<<<PAGE 44>>>
+Page 43 of 45
+marker of stress and health.  Neuroscience and Biobehavioral Reviews, 36, 747-756.  doi:
+10.1016/j.neubiorev.2011.11.009.
+134. Cohen, H., & Benjamin, J. (2006).  Power spectrum analysis and cardiovascular morbidity
+in anxiety disorders, Autonomic Neuroscience, 128(1–2), 1-8.
+doi:10/1016/j.autneu.2005.06.007.
+135. Friedman, B.H. (2007). An autonomic  integration model of anxiety
+and cardiac vagal tone.  Biological Psychology 74, 185–199.
+doi:10.1016/j.biopsycho.2005.08.009.
+136. MindHow (2018). Twelve Best Brain Stimulating Activities for Seniors. Retrieved from
+website:  http://www.mindhow.com/best-brain-stimulating-activities-for-seniors/.  Last
+accessed May 18, 2019.
+137. Zauszniewski, J.A., & Bekhet, A.  (2011). Measuring use of resourcefulness skills:
+Psychometric testing of a new scale.  ISRN Nursing 1-7. doi:10.5402/2011/787363.
+doi:10.5402/2011/787363.
+138. Trogdon, J.G., Murphy, L.D., Khajvou, O.A., Li, R., Maylahn, C.M., Tangka, F.K.,
+Nurmagambetov, T.A., Ekwueme, D.U., Nwaise, I., Chapman, D.P., & Orenstein, D.
+(2015). Costs of chronic disease at the state level: The chronic disease cost calculator.
+Preventing Chronic Disease, 12, 1-9. http://dx.doi.org/10.5888/pcd12.150131
+139. Ward, B.W., Schiller, J.S., & Goodman, R.A. (2014). Multiple chronic conditions among
+U.S. adults: A 2012 update.  Preventing Chronic Disease, 11, 1-4.
+http://dx.doi.org/10.5888/pcd11.130389
+140. Holmes, T.H., & Rahe, R.H. (1967). The Social Readjustment Rating Scale.  Journal of
+Psychosomatic Research, 11, 213-218. http://dx.doi.org/10.1016/0022-3999(67)90010-4
+141. Hobson, C.J., Kamen, J., Szostek, J., Nethercut, C.M., Tiedmann, J.W., & Wojnarowicz, S.
+(1998). Stressful life events: A revision and update of the Social Readjustment Rating
+Scale.  International Journal of Stress Management, 5(1), 1-23. doi:
+10.1023/A:1022978019315
+142. Barreto, M.L., & Frazier, L.D. (2012). Coping with life events through possible selves.
+Journal of Applied Social Psychology, 42(7), 1785-1810. doi: 10.1111/j.1559-
+1816.2012.00918.x
+143. Gerst, M.S., Grant, I., Yager, J., & Sweetwood H. (1978). The reliability of the Social
+Readjustment Rating Scale: Moderate and long term stability. Journal of Psychosomatic
+Research, 22, 519-623. doi:10.1016/0022-3999(78)90008-9
+144. Scully, J.A., Tosi, H., & Banning, K. (2000). Life events checklists: Revisiting the Social
+Readjustment Rating Scale after 30 years. Educational and Psychological Measurement,
+60(6), 864-876. doi: 10.1177/00131640021970952
+145. Ball, J.M. (1977). Stressful life events and coping methods in mental illness and wellness
+behaviors. Nursing Research, 26(2), 136-141.
+146. Roca, M., Gili, M., Garcia-Campayo, J., Armengol, S., Bauza, N., & Garcia-Toro, M.
+(2013). Stressful life events severity in patients with first and recurrent depressive
+episodes. Social Psychiatry and Psychiatric Epidemiology, 48(12), 1963-1969. doi:
+10.1007/s00127-013-0691-1
+147. Teri, L., Trax, P., Logsdon, R., Uomoto, J., Zarit, S., & Vitaliano, P.P.  (1992). Assessment
+of behavioral problems in dementia: The revised memory and behavior problems checklist.
+Psychology and Aging, 7(4), 622-631. doi:10.1037/0882-7974.7.4.622
+148. Gitlin, L.N., Roth, D.L., Burgio, L.D., Lowenstein, D.A, Winter, L., Nichols, L., Arguelles, S.,
+Corcoron, M., Burns, R., & Martindale, J. (2005). Caregiver appraisals of functional
+dependence in individuals with dementia and associated caregiver upset. Journal of Aging
+and Health, 17(2), 148-171. doi: 10.1177/0898264304274184
+<<<PAGE 45>>>
+Page 44 of 45
+149. Cohen, S., Kamarck, T., & Mermelstein, R. (1983).  A global measure of perceived stress.
+Journal of Health and Social Behavior, 24, 385-396.
+150. Cohen, S., & Williamson, G. (1988).  Perceived stress in a probability sample of the United
+States.  In S. Spacapan & S. Oskamp (Eds.), The Social Psychology of Health. Newbury
+Park, CA:  Sage.
+151. Schwartz, K.A., & Dunphy, G.  (2003). An examination of perceived stress in family
+caregivers of older adults with heart failure.  Experimental Aging Research, 29(2), 221–
+235. doi: 10.1080/03610730303717
+152. Wright, R.J., Finn, P., Contreras, J.P., Cohen, S., Wright, R.O., Staudenmayer, J., Wand,
+M., Perkins, D., Weiss, S.T., & Gold, D.R.  (2004).  Chronic caregiver stress and IgE
+expression, allergen-induced proliferation, and cytokine profiles in a birth cohort
+predisposed to atopy.  The Journal of Allergy and Clinical Immunology, 113(6), 1051-1057.
+doi: 10.1016/j.jaci.2004.03.032
+153. Zauszniewski, J.A. (1995). Development and testing of a measure of depressive
+cognitions in older adults. Journal of Nursing Measurement, 3(1), 31-41.
+154. Zauszniewski, J.A. (1997). The Depressive Cognition Scale: Further psychometric
+evaluation. Journal of Nursing Measurement, 5(2), 191-200.
+155. Zauszniewski, J.A., & Bekhet, A.K.  (2012). Developing a screening measure for early
+detection of depressive symptoms:  The Depressive Cognition Scale. Western Journal of
+Nursing Research, 34(2), 228-242. doi:10.1177/0193945910396731. doi:
+10.1177/0193945910396731
+156. Zauszniewski, J.A., Picot, S.J.F., Debanne, S., Wykle, M., & Roberts, B.L. (2002).
+Psychometric characteristics of the Depressive Cognition Scale in African American
+women. Journal of Nursing Measurement, 10(2), 83-95. doi:10.1891/jnum.10.2.83.52557
+157. Zauszniewski, J.A., Chung, C., Krafcik, K., & Sousa, V. (2001). Psychometric testing of the
+Depressive Cognition Scale in women with type 2 diabetes. Journal of Nursing
+Measurement, 9(1), 61-72.
+158. Zauszniewski, J.A., & Suresky, M.J. (2010). Psychometric testing of the Depressive
+Cognition Scale in women family members of seriously mentally ill adults. Issues in Mental
+Health Nursing, 31(7), 483-490. doi:10.3109/01612841003602687. doi:
+10.3109/01612841003602687
+159. Sousa, V.D., Zauszniewski, J.A., & Jaber, A.F. (2010). Confirmatory factor analysis of the
+Depressive Cognition Scale among adults from the United States general population.
+Archives of Psychiatric Nursing, 24(6), 397-407. doi:10.1016/j.apnu.2010.03.004. doi:
+10.1016/j.apnu.2010.03.004
+160. Zauszniewski, J.A., Krafcik, K., Preechawong, S., Chung, C. Airey, T., Wilke, P. et al.
+(2004). Focused reflection: Reminiscence for elders using specific themes and visual
+images. Journal of the Applied Gerontology, 23(4), 429-442 doi:10.1891/jnum.14.1.57
+161. Zauszniewski, J.A. (2007). [Analysis of 6-week test-retest reliability of the Negative
+Emotions Checklist, Depressive Cognition Scale, and Resourcefulness Scale in older adult
+members of the control condition of the PIs former clinical trial]. Unpublished raw data.
+162. Burton, L. C., Newsom, J. T., Schulz, R., Hirsch, C. H., & German, P. S. (1997).
+Preventive health behaviors among spousal caregivers. Preventive Medicine, 26, 162–
+169. doi: 0.1006/ pmed.1996.0129
+163. Perlick, D.A., Miklowitz, D.J., Lopez, N., Chou, J., Kalvin, C., Adzhiashvili, V., & Aronson,
+A. (2010). Family-focused treatment for caregivers of patients with bipolar disorder. Bipolar
+Disorder, 12, 627–637. doi: 10.1111/j.1399·5618.2010.00852.x. PMCID:PMC2947337
+164. Gonzalez, J.M., Holman, C.S., Marcus, T., & Perlick, D.A.  (2011). Health risk behaviors in
+caregiving for bipolar disorder. International Society for Bipolar Disorders Global, 12(4), 1,
+12-13.
+<<<PAGE 46>>>
+Page 45 of 45
+165. Hays, R.D., Bjorner, J.B., Revicki, D.A.., Spitzer, K.L., & Cella, D.  (2009).  Development of
+physical and mental health summary scores from the patient-reported outcomes
+measurement information system (PROMIS) global items.   Quality of Life Research, 18,
+873-880.  doi:10.1007/s11136-009-9496-9. doi: 10.1007%2Fs11136-009-9496-9.
+166. Harris, P.A., Taylor, R., Thielke, R., Payne, J., Gonzalez, N., & Conde, J.G.  (2009).
+Research electronic data capture (REDCap): A meta-driven methodology and workflow
+process for providing translational research informatics support.  Journal of Biomedical
+Informatics, 42(2), 377-381.  doi:10.1016/j.bi.2008.08.010.
+167. Roberts, B.L., Madigan, E., Anthony, M., & Chen, Y. (1997). Data management: Cleaning
+and checking. Nursing Research, 46(6), 350-352.
+http://dx.doi.org/10.1371%2Fjournal.pmed.0020267
+168. Youngblut, J.M., Loveland-Cherry, C.J., & Horan, M. (1990). Data management issues in
+longitudinal research. Nursing Research, 39(3), 188-189.
+169. Field, A.P. (2013).  Discovering statistics using IBM SPSS statistics: And sex and drugs
+and rock and roll (4th Edition). London: Sage Publications.
+170. Sainani, K.L.  (2013).  Avoiding careless errors: Know your data. Physical Medicine and
+Rehabilitation, 5, 228-229. doi: 10.1016/j.pmrj.2013.01.012.
+171. Hair, J.F., Anderson, R.E., Tatham, R.L., & Black, W.C. (1998). Multivariate Data Analysis
+with Readings (4th Edition) Upper Saddle River, NJ: Prentice Hall.
+172. Field, A.P. (2013).  Discovering statistics using IBM SPSS statistics: And sex and drugs
+and rock and roll (4th Edition). London: Sage Publications.
+Please reference the Investigator Manual for local institutional requirements.

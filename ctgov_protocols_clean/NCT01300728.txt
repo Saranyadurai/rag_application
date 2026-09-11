@@ -1,0 +1,1721 @@
+<<<PAGE 1>>>
+A Randomized Double-Blinded Placebo-Controlled Exploratory Study of
+Intravenous Immunoglobulin (NewGam 10%) in Amnestic Mild Cognitive
+Impairment
+SPONSOR: Sutter Institute for Medical Research
+PRINCIPAL INVESTIGATOR: Shawn Kile, MD
+PROMOTER: Octapharma
+SPONSOR PROTOCOL #: IVIG-KILE-032010
+AMENDMENT 9 DATE: June 2016
+AMENDMENT 8 DATE: December 2014
+AMENDMENT 7 DATE: September 2014
+AMENDMENT 6 DATE: May, 2014
+AMENDMENT 5 DATE: November, 2013
+AMENDMENT 4 DATE: December, 2011
+AMENDMENT 3 DATE: June, 2011
+AMENDMENT 2 DATE: February, 2011
+AMENDMENT 1 DATE: September, 2010
+ORIGINAL VERSION DATE: August, 2010
+The information contained in this document is regarded as confidential and, except to the extent necessary to obtain  informed
+consent, may not be disclosed to another party unless law or regulations require such disclosure. Persons to whom the  information
+is disclosed must be informed that the information is confidential and may not be further disclose
+Page 1
+Version: 6.8.16
+<<<PAGE 2>>>
+Page 2
+Table of Contents
+1.0 BACKGROUND .......................................................................................... 5
+2.0 STUDY OBJECTIVES AND ENDPOINTS ................................................... 6
+2.2 Secondary objective .................................................................................. 6
+2.3 Primary endpoint ....................................................................................... 6
+2.4 Secondary endpoints ................................................................................ 7
+3.0 STUDY PLAN ............................................................................................. 7
+3.2 Subject population .................................................................................... 7
+3.3 Estimated study duration .......................................................................... 7
+4.0 SUBJECT SELECTION .............................................................................. 7
+4.1 Inclusion criteria........................................................................................ 7
+4.2 Exclusion criteria ...................................................................................... 8
+5.0 SUBJECT RANDOMIZATION AND ENROLLMENT .................................  10
+5.1 Randomization ........................................................................................ 10
+5.2 Enrollment ............................................................................................... 11
+6.0 STUDY DRUG AND TREATMENT ........................................................... 11
+6.2 Shipping, handling, and storage ............................................................ 11
+6.3 Special precautions for storage ............................................................. 11
+6.4 Drug accountability ................................................................................. 11
+6.5 Blinding and unblinding .......................................................................... 12
+6.6 Study drug dosage .................................................................................. 12
+6.7 Study drug preparation and infusion ..................................................... 12
+6.8 Incompatibilities ...................................................................................... 12
+6.9 Administration ......................................................................................... 13
+6.10 Rate of administration ........................................................................... 13
+6.11 Concomitant therapy ............................................................................. 13
+7.0     EVALUATIONS BY VISIT ......................................................................... 14
+7.1 VISIT 1: Screening ................................................................................... 14
+7.2 VISIT 2: Day 1 – First Infusion ................................................................ 15
+7.3 VISIT 3 (Day 14 -Second Infusion) through VISIT 6 (Day 56 – Fifth
+Infusion) ........................................................................................................... 16
+7.4 VISIT 7: Month 4 (±7 days) ...................................................................... 16
+7.5 VISIT 8: Month 8 (±7 days) ...................................................................... 17
+<<<PAGE 3>>>
+Page 3
+7.6 VISIT 9: Month 12 (±7 days) - 12 months after baseline ......................... 17
+7.7 VISIT 10: Month 16 (±7 days) ...................................................................  17
+7.8 VISIT 11: Month 20 (±7 days) ...................................................................  17
+7.9 VISIT 12: Month 24 (±7 days) - 24 months after baseline ....................... 17
+7.10 VISIT 13: Month 36 (±14 days) – 36 months after baseline (extension
+visit) 18
+7.11 VISIT 14: Month 48 (±14 days) – 48 months after baseline (extension
+visit) 18
+7.12 VISIT 15: Month 60 (±14 days) – 60 months after baseline (extension
+visit) 18
+7.13 Early termination from the study .......................................................... 18
+8.0 CONVERSION TO ALZHEIMER DISEASE ............................................... 19
+9.0 WITHDRAWAL AND REPLACEMENT OF SUBJECTS ............................ 19
+9.2 Replacement of subjects ........................................................................ 19
+10.0 ADVERSE EVENTS................................................................................ 19
+10.2 Serious adverse event (SAE) definition ................................................ 20
+10.3 Other relevant drug safety information: ............................................... 20
+10.4 Adverse events severity ........................................................................ 21
+10.5 Adverse event reporting ........................................................................ 21
+10.6 Investigator reporting to the FDA ......................................................... 21
+10.7 Reporting of adverse drug reactions and other safety information to
+study supporter .............................................................................................. 21
+10.8 Report of adverse events to the institutional review board ................. 22
+10.9 Reporting of adverse drug reactions and other safety information to
+study sponsor ................................................................................................ 22
+10.10 Adverse event updates ....................................................................... 22
+11.0 IND ANNUAL REPORTS ........................................................................ 22
+11.1 IND annual reports ................................................................................ 22
+2.0 12.0 RESPONSE CRITERIA ..................................................................... 23
+3.0 13.0 PROTOCOL DEVIATIONS ................................................................ 23
+14.0 DATA RECORDING, RETENTION, AND MONITORING ......................... 23
+14.2 Study records retention ........................................................................ 23
+14.3 Data monitoring committee .................................................................. 23
+15.0 STATISTICAL ANALYSIS ...................................................................... 24
+15.2 Secondary Endpoints ............................................................................ 24
+16.0    SAMPLE SIZE AND POWER FOR PRIMARY ENDPOINT ..................... 25
+17.0    IMPLICATIONS AND DIRECTION FOR FUTURE STUDIES .................. 25
+18.0 ETHICAL AND LEGAL ISSUES ............................................................. 25
+<<<PAGE 4>>>
+Page 4
+18.1 Institutional review board approval ...................................................... 25
+18.2 Informed consent .................................................................................. 26
+18.3 Subject confidentiality .......................................................................... 26
+18.4 Protocol amendments ........................................................................... 26
+18.5 Premature discontinuation of study ..................................................... 26
+19.0 REFERENCES ........................................................................................ 27
+20.0 APPENDIX A. ......................................................................................... 29
+21.0 APPENDIX B .......................................................................................... 30
+22.0 APPENDIX C .......................................................................................... 34
+23.0 APPENDIX D. ......................................................................................... 36
+24.0 APPENDIX E. BRAIN MRI IMAGING INSTRUCTIONS ........................... 37
+25.0 AMENDMENT 1: FEBRUARY, 2011 ....................................................... 38
+25.2 AMENDMENT 1: SUMMARY OF CHANGES .......................................... 38
+26.0 AMENDMENT 2: MARCH 2011 .............................................................. 41
+26.2 AMENDMENT 2: SUMMARY OF CHANGES .......................................... 41
+27.0 AMENDMENT 3: JUNE 2011 .................................................................. 41
+27.2 AMENDMENT 3: SUMMARY OF CHANGES .......................................... 41
+28.0 AMENDMENT 4: DEC 2011 .................................................................... 42
+28.2 AMENDMENT 4: SUMMARY OF CHANGES .......................................... 42
+29.0 AMENDMENT 5: SUMMARY OF CHANGES .......................................... 42
+29.2 AMENDMENT 5:  Rationale ...................................................................  42
+30.0 AMENDMENT 6: SUMMARY OF CHANGES .......................................... 46
+30.2 Rationale:............................................................................................... 46
+31.0 AMENDMENT 7: SUMMARY OF CHANGES .......................................... 46
+31.2 Rationale: ............................................................................................... 48
+32.0 AMENDMENT 8: SUMMARY OF CHANGES ......................................... 48
+32.1     Introduction: ......................................................................................... 48
+32.2     Rationale: .............................................................................................. 48
+33.0 AMENDMENT 9: SUMMARY OF CHANGES ......................................... 48
+33.1     Change: .................................................................................................  48
+33.2     Rationale: .............................................................................................. 48
+<<<PAGE 5>>>
+Page 5
+<<<SECTION 1.0 BACKGROUND>>>
+1.0 BACKGROUND
+Alzheimer disease (AD), the most common cause of dementia, is a neurodegenerative
+disorder with the pathological abnormality of beta-amyloid (Aβ) plaques. One promising
+treatment for AD aims at clearing Aβ plaques through immunotherapy. Patients with amnestic
+mild cognitive impairment (a-MCI) are a group recognized at being at high risk of progressing to
+Alzheimer disease. Treatment of a-MCI with immunotherapy with intravenous immunoglobulins
+(IVIG) could potentially reduce the risk of progression to Alzheimer disease.
+Evidence for immunotherapy as a therapy for AD had its beginnings in 1996 when
+Solomon and colleagues demonstrated in vitro that Aβ monoclonal antibodies disassembled Aβ
+fibrils. This potential strategy of immunotherapy for AD was further supported by Schenk, et al.
+[1] who found that Aβ vaccination of mice diminished Aβ plaques.
+Immunotherapy research eventually progressed to a phase II trial of active immunization
+against Aβ-42 in 2001 and initially showed promising results. The group of subjects who
+successfully developed Aβ antibodies showed not only a significantly slower rate of cognitive
+decline over one year compared to the placebo group, but also improvement in memory scores
+which positively correlated with antibody titer [2]. A later neuropathological examination of three
+AD patients who were actively immunized against Aβ (deaths were not attributed to the
+immunization) revealed remarkable clearance of cortical Aβ [3]. Unfortunately, 6% of the 298
+participants who were immunized developed an aseptic meningoencephalitis and the trial was
+discontinued [4].
+A leading theory regarding the etiology of this postvaccination meningoencephalitis is T-
+cell mediated inflammation triggered by the Aβ-42 molecule used for active immunization [4].
+One strategy to avoid this adverse inflammation is to administer the Aβ antibodies passively
+such as via IVIG.
+Commercial IVIG has been shown to contain antibodies to Aβ [5] [6]. The molecular
+mechanism of Aβ clearance by IVIG was studied in vitro by Istrin and colleagues [6] who found
+that the antibodies in IVIG disassembled the fibril plaques by enhancing microglial migration
+thus leading to the phagocytosis of Aβ.
+In an open-label study, Dodel and colleagues [7] found that AD patients treated with
+IVIG (Octagam® 0.4 g/kg daily x 3 days every 4 weeks for 6 months) demonstrated a mean
+cognitive improvement of 3.7 points on the ADAS-cog after 6 months of treatment. Dodel et al.
+[7] also found that Aβ levels in the CSF decreased by 30% whereas serum Aβ levels increased,
+thus supporting amyloid clearance theories. There were no serious adverse events associated
+with IVIG in this study.
+Relkin et al. [8] completed an 18-month open-label study of IVIG (Gammagard) for mild
+AD where subjects were randomized to four consecutive dosing periods: 1) 0.4 g/kg every 2
+weeks, 2) 0.4 g/kg/week, 3) 1 g/kg every 2 weeks, and 4) 2 g/kg every 4 weeks for 6 months
+followed by a 3-month washout. All patients were then treated with 1g/kg every 2 weeks starting
+in months 10 through 12, then 0.4 g/kg every 2 weeks starting in months 13-18. The results
+showed a dose-dependent increase in serum Aβ suggesting amyloid clearance. A mean
+improvement of 2.5 points on the MMSE after 6 months (and mean improvement of 0.5 points at
+18 months) was observed; this is contrasted to the expected 1.5 point decline per 6 months with
+AD. Higher doses of IVIG did not lead to higher cognitive scores and, in fact, the group treated
+<<<PAGE 6>>>
+Page 6
+with the lowest dose of 0.4 g/kg per week maintained the highest MMSE scores. There were no
+serious adverse events during this study.
+In a Phase II trial of IVIG (Gammagard 10%) in mild to moderate Alzheimer disease,
+Relkin et al [9] studied IVIG at doses ranging from 0.2 to 0.8 g/kg every two to four weeks over
+18 months. The study demonstrated significantly decreased cognitive decline on the ADAS-cog
+as well as significantly decreased brain atrophy in subjects receiving early IVIG compared to the
+delayed treatment arm (placebo for 6 months then IVIG). On MRI, the annual ventricular
+enlargement rate was 6.7% for those treated with IVIG compared to 12.3% for those previously
+taking placebo; the rate of atrophy was lowest with the IVIG dose of 0.4 g/kg every 2 weeks.
+There were no serious adverse events during this study.
+There are two ongoing phase III trials of IVIG 10% (Octagam and Gammagard) for mild
+to moderate AD.
+In July 2009, Fillit et al [10] published a retrospective analysis of the risk of AD and
+related disorders in people ≥ 65 with a prior history of one or more IVIG treatments for
+indications other than AD. Cases were matched to controls on age, gender, and risk factors for
+AD and related disorders. This study analyzed an approximate 4-year period and demonstrated
+that previous treatment with IVIG was associated with a 42% lower risk of developing AD and
+related disorders.
+The potential protective effect of IVIG against AD could best be utilized in persons
+identified to be at greatest risk for developing AD prior to the development of advanced disease
+and neuropathology. Persons with a-MCI have been identified a group at high risk of
+progressing to AD with a conversion rate of approximately 15% per year. [11, 12] Vermuri used
+data from the Alzheimer Disease Neuroimaging Initiative including CDR-SB and MMSE to
+assess disease progression (while investigating potential biomarkers, MRI and CSF) of AD and
+demonstrated that 60 of the 192 subjects with a-MCI converted to AD over 1.5 years; i.e.,
+annual conversion rate from a-MCI to AD of 20.8% [13].
+This study will investigate treating persons with a-MCI with IVIG (NewGam 10%) 0.4g/kg
+every 14 days over the course of three months with the intent of showing differences in brain
+MRI volume, cognition, and conversion to AD when compared with placebo after 24 months. We
+chose this dose of IVIG based on recent evidence from Relkin [8] who showed that this may be
+an optimal IVIG dose for reduction of brain atrophy in patients with AD. Furthermore, Fillet [10]
+demonstrated a lower risk of AD in patients who had received only one treatment of IVIG.
+<<<SECTION 2.0 STUDY OBJECTIVES AND ENDPOINTS>>>
+2.0 STUDY OBJECTIVES AND ENDPOINTS
+2.1 Primary objective
+This randomized double-blinded study will evaluate the efficacy of intravenous
+immunoglobulin (NewGam 10%) in patients with a-MCI over 24 months after the first infusion.
+<<<SECTION 2.2 Secondary objective>>>
+2.2 Secondary objective
+Additionally, this randomized double-blinded study will evaluate the efficacy of
+intravenous immunoglobulin (NewGam 10%) in patients with a-MCI over 36 months, 48 months,
+and 60 months after the first infusion.
+<<<SECTION 2.3 Primary endpoint>>>
+2.3 Primary endpoint
+• Change in ventricular volumetric as measured by MRI at baseline, 24 months,
+36 months, 48 months, and 60 months following the first infusion of either 0.4 g/kg
+NewGam or 0.9% saline solution (placebo) every 14 days x 5.
+<<<PAGE 7>>>
+Page 7
+<<<SECTION 2.4 Secondary endpoints>>>
+2.4 Secondary endpoints
+• Conversion from a-MCI to AD as measured by NINCDS-ADRDA, National
+Institute on Aging (NIA) criteria for diagnosis of Alzheimer Disease, [14] and
+Clinical Dementia Rating (CDR)
+• Change in ventricular volume as measured by MRI at baseline, 12 months, 24
+months, 36 months, 48 months, and 60 months following infusion of either 0.4
+g/kg NewGam or 0.9% saline solution (placebo) every 14 days x 5 in patients with
+positive CSF Aβ1-42/CSF P-Tau181P Alzheimer signature
+• Change in cognitive performance between baseline and 4, 8, 12, 16, 20, 24,
+36, 48, and 60 months after the first infusion as measured by:Alzheimer Disease
+Assessment Scale-cognitive subscale (ADAS-cog)
+• Mini Mental State Exam (MMSE)
+• Clinical Dementia Rating (CDR) and Sum of Boxes (CDR-SB)
+<<<SECTION 3.0 STUDY PLAN>>>
+3.0 STUDY PLAN
+3.1 Study design
+This is a single center, randomized, double blind, placebo controlled, parallel-group, out-
+patient study in male and female subjects aged 50 to 84 years with amnestic-mild cognitive
+impairment. Subjects will be randomized to receive either an infusion of IVIG at 0.4 g/kg or 0.9%
+saline solution (placebo) every 14 days for two months for a total of five infusions.
+Fifty subjects will be enrolled and randomized in a 1:1 IVIG 2.0 g/kg: placebo ratio.
+Twenty-five subjects will receive IVIG and 25 subjects will receive placebo.
+<<<SECTION 3.2 Subject population>>>
+3.2 Subject population
+Subject population will consist of male and female subjects diagnosed with amnestic-
+mild cognitive impairment
+<<<SECTION 3.3 Estimated study duration>>>
+3.3 Estimated study duration
+The duration of each study subject is approximately 24 months, including one screening
+visit over a period of approximately 28 days, 5 days of infusions over a 2-month period of time,
+and follow-up visits at 4, 8, 12, 16, 20, and 24 months after the first infusion.  Subjects will be
+given the option to continue study follow-up visits at 36, 48, and 60 months after the first
+infusion.
+<<<SECTION 4.0 SUBJECT SELECTION>>>
+4.0 SUBJECT SELECTION
+Following are the eligibility criteria designed to select subjects who are considered
+appropriate for this protocol.
+<<<SECTION 4.1 Inclusion criteria>>>
+4.1 Inclusion criteria
+1. Signed and dated written informed consent obtained from the subject in accordance with
+the local regulations. The subject’s collaborative informant must also consent to
+participate in the study.
+2. Age from 50 to <85 years.
+<<<PAGE 8>>>
+Page 8
+3. Diagnosis of Mild Cognitive Impairment, Amnestic type (single or multi domain) according
+to Petersen criteria (Appendix B), NIA diagnostic guidelines, [15] and supported by a
+CDR score of 0.5.
+4. Mini-Mental State Examination (MMSE) score of 24-30, inclusive.
+5. Rosen Modified Hachinski Ischemic score ≤4.
+6. Willing to consent to ApoE testing and agree to disclose ApoE4 status. Previous ApoE
+testing will be accepted.
+7. Receiving stable doses of medication(s) for the treatment of non-excluded medical
+condition(s) for at least 30 days prior to screening.
+8. Agree to refrain from taking any medication, vitamin, or herbal supplement indicated for
+a-MCI or AD or considered to enhance cognition unless approved by the investigator for
+the duration of the study.
+9. Ability to attend all clinical visits and have an informant capable of accompanying the
+subject on specific clinic visits for two years or the duration of the study.
+10. The subject’s collaborative informant (support person) must be someone who has known
+the subject for at least 4 years; agrees to have at least 2 separate communications with
+the study participant per month for the duration of the study (one of these
+communications must be in person); and attends and completes the CDR interview at 8
+study visits along with the subject.
+11. Fluency in English and evidence of adequate premorbid intellectual functioning.
+12. Adequate manual dexterity, visual, and auditory abilities to perform all aspects of the
+cognitive and functional assessments.
+13. Venous access suitable for repeated infusion and phlebotomy.
+14. In the opinion of the investigator, the subject and informant will be compliant and have a
+high probability of completing the study, including all scheduled evaluations and required
+tests.
+<<<SECTION 4.2 Exclusion criteria>>>
+4.2 Exclusion criteria
+ANY one of the following will exclude a subject from being enrolled into the study:
+1. Has significant neurological disease, other than a-MCI that may affect cognition.
+2. History of clinically evident stroke or history of clinically significant carotid or
+vertebrobasilar stenosis or plaque.
+3. History of seizures, excluding febrile seizures in childhood.
+4. History of screening visit brain MRI scan indicative of any other significant abnormality,
+including but not limited to multiple microhemorrhages (2 or more), history or evidence of
+a single prior hemorrhage > 1 cm3, multiple lacunar infarcts (2 or more) or evidence of a
+single prior infarct > 1 cm3, evidence of a cerebral contusion, encephalomalacia,
+aneurysms, vascular malformations, subdural hematoma, or space occupying lesions of
+significance as determined by the PI (e.g., arachnoid cysts or brain tumors such as
+meningioma).
+5. Brain MRI shows moderate or severe cortical or hippocampal atrophy.
+<<<PAGE 9>>>
+Page 9
+6. Presence of pacemakers, aneurysm clips, artificial heart valves, ear implants, CSF
+shunts, claustrophobia, metal fragments or foreign objects in the eyes, skin, or body that
+would contraindicate a brain MRI scan.
+7. Current presence of a clinically significant major psychiatric disorder (eg., Major
+Depressive Disorder) according to the criteria of the Diagnostic and Statistical Manual of
+Mental Disorders, Fourth Edition (DSM-IV-TR) or symptom (eg., hallucinations) that could
+affect the subject’s ability to complete the study.
+8. Current clinically significant systemic illness that is likely to result in deterioration of the
+subject’s condition or affect the subject’s safety during the study including but not limited
+to renal failure or myocardial infarction.
+9. History of cancer within the last 5 years, with the exception of nonmetastatic basal cell
+carcinoma, and squamous cell carcinoma of the skin.
+10. Uncontrolled hypertension (diastolic BP> 100 mmHg or systolic BP> 160 mmHg, sitting).
+11. History or evidence of any clinically significant autoimmune disease or disorder of the
+immune system (eg., Crohn’s Disease, Rheumatoid Arthritis)
+12. Clinically significant infection within the last 30 days (eg., chronic persistent or acute
+infection (eg., upper respiratory infection [URI], urinary tract infection [UTI]).
+13. Women of childbearing potential.
+14. Other clinically significant abnormality on physical, neurological, laboratory, vital signs or
+ECG examination (eg., atrial fibrillation) that could compromise the study or be
+detrimental to the subject.
+15. Weight greater than 120 kg (264 lbs).
+16. Excessive smoking defined as more than 20 cigarettes per day.
+17. History of alcohol or drug dependence or abuse as defined by DSM-IV criteria within the
+last 2 years.
+18. Severe liver or kidney disease verified by the PI review of ALT, AST and creatinine.
+19. Known coagulopathy, thrombosis, or low platelet count.
+20. Hemoglobin less than 11 g/dL.
+21. Known deficiency to IgA.
+22. Positive serology for Hepatitis B or C, or HIV.
+23. Concurrent treatment with cholinesterase inhibitors, memantine, Axona, or other
+prescription cognitive enhancing agents, or discontinuation of any of these agents within
+90 days prior to screening.
+24. Current use of nonprescription medication or cognitive enhancing agents within 30 days
+prior to screening including but not limited to herbal preparations, gingko biloba, and
+huperzine.
+25. Concurrent use of anticholinergic drugs including diphenhydramine.
+26. Current use of anticonvulsant drugs for seizures, antiparkinson drugs, anticoagulant
+medications (except the use of aspirin 325 mg/day or less, plavix, aggrenox, and
+persantine but not for stroke).
+<<<PAGE 10>>>
+Page 10
+27. Concurrent use of opioid pain relievers and related synthetic derivatives.
+28. Unless maintained on a stable dose regimen for at least 30 days prior to screening, any
+other medications with the potential to affect cognition/behavior (e.g. anti-depressant
+medication, sleep-aid medication)
+29. Treatment with immunosuppressive medications (eg., systemic corticosteroids) within the
+last 90 days (topical and nasal corticosteroids and inhaled corticosteroids for asthma are
+permitted) or chemotherapeutic agents for malignancy within the last 3 years.
+30. Use of experimental medications for AD or any other investigational medications or
+devices for treatment of indications other than AD within 60 days prior to screening or
+within 5 half-lives of use of such a medication prior to screening, whichever is longer.
+31. Prior treatment with IVIG or other experimental immunotherapeutic or vaccine for MCI or
+AD, or prior treatment with a biological product for the treatment of a-MCI or AD.
+32. Live viral vaccination within 1 month prior to screening, or until at least 3 months after
+receiving the last dose of study drug.
+33. Subjects who have donated blood (routine blood donation) in the 30 days prior to
+screening.
+34. Any known hypersensitivity to any of the excipients contained in the study drug
+formulation.
+35. Religious objection to the use of human products.
+<<<SECTION 5.0 SUBJECT RANDOMIZATION AND ENROLLMENT>>>
+5.0 SUBJECT RANDOMIZATION AND ENROLLMENT
+Prior to the start of enrollment, the following critical documents must be filed in the
+sponsor’s regulatory binder (trial master file):
+• Investigational new drug (IND) application approved by the FDA
+• Sutter Health Central Institutional Review Committee (SHCIRC) approval of
+the study protocol and the informed consent form (ICF)
+• Signed and dated study protocol
+• Completed Federal Drug Administration (FDA) Form 1572
+• Current curricula vitae and medical licenses (if applicable) of the Principal
+Investigator (PI) and all Sub-Investigators listed on the Form FDA 1572;
+• Name, address, and membership of the IRB, and/or written statement that IRB
+is properly constituted and operates according to Good Clinical Practices (GCP)
+• Investigator’s Brochure
+• Laboratory normal range and documentation of laboratory certification (or
+equivalent).
+<<<SECTION 5.1 Randomization>>>
+5.1 Randomization
+Once subjects have satisfied all subject selection criteria and signed an informed
+consent, they may be randomized. The randomization scheme will be developed by the
+research scientist. The research pharmacist will receive the randomization assignment from the
+research scientist. Subjects will be randomized (1:1) by the research pharmacist to receive
+<<<PAGE 11>>>
+Page 11
+either NewGam 10% 0.4 g/kg or 0.9% saline placebo once every 14 days for two months for a
+total of five infusions.
+<<<SECTION 5.2 Enrollment>>>
+5.2 Enrollment
+A subject is considered enrolled when they have been randomized and received any
+amount of study medication (i.e., IVIG or placebo) by infusion.
+<<<SECTION 6.0 STUDY DRUG AND TREATMENT>>>
+6.0 STUDY DRUG AND TREATMENT
+6.1 Description of study drug
+NewGam, the current working title for a new IVIG formulation, is a newly developed 10%
+human normal immunoglobulin solution ready for intravenous administration. Adverse Drug
+Reactions (ADRs) reported for NewGam are expected to be similar in type and intensity to
+those reported with other IVIG preparations.
+The NewGam manufacturing process achieves a significant viral reduction through a
+combination of two dedicated manufacturing process steps: solvent/detergent (S/D) treatment
+and nanofiltration (20 nm). Based on the combination of these two steps, NewGam complies
+with the latest international consensus on best practices for viral safety. The Source Q
+chromatography (ion-exchange chromatography) step in the NewGam process also contributes
+significantly to the viral safety of NewGam. The efficacy of the virus inactivation procedures has
+been extensively validated according to relevant international guidelines in place. Further
+information can be found in the current Investigator’s Brochure.
+<<<SECTION 6.2 Shipping, handling, and storage>>>
+6.2 Shipping, handling, and storage
+IVIG will be shipped directly to the pharmacy or investigational site, after all required
+regulatory and legal documents have been received by the Sponsor.
+Upon receipt of the study drug shipments, the unblinded pharmacist will verify the
+condition of the study drug and perform study drug accountability. Acknowledgement of receipt
+will be documented in the Pharmacy Binder. A temperature logger showing the transport
+temperature will be read out by the shipper and release the drug if the transport temperature is
+verified to be between +2°C to + 8°C (36°F to 46°F). If there was a deviation from this
+temperature range, an Octapharma Project Manager or Qualified Person must assess the
+temperature log and approve release.
+The study drug will be stored in a secure area with access restricted only to authorized
+personnel. NewGam may be stored for 15 months at +2°C to + 8°C (36°F to 46°F) from the date
+of manufacture.
+<<<SECTION 6.3 Special precautions for storage>>>
+6.3 Special precautions for storage
+• Do not freeze. Frozen product should not be used
+• Do not use after expiration date
+• Other than the unblinded pharmacist, all other site personnel are fully blinded and may
+not handle, store or dispense study drug
+<<<SECTION 6.4 Drug accountability>>>
+6.4 Drug accountability
+The investigator is responsible to ensure supervision of accurate monitoring of the
+receipt, storage and allocation of the study drug. Copies of all invoices of study drug shipments
+must be retained. Accurate study drug inventory, dispensing and accountability logs must be
+obtained and stored in the Pharmacy Binder.
+<<<PAGE 12>>>
+Page 12
+<<<SECTION 6.5 Blinding and unblinding>>>
+6.5 Blinding and unblinding
+The study coordinator, investigator, and infusion nurse will be blinded to whether the
+subject is receiving placebo or NewGam. The pharmacist will receive the assignment from the
+research scientist who will develop the randomization scheme. Both will know of the subject’s
+treatment assignment. While participating in the study, a subject’s treatment assignment should
+only be unblinded when knowledge of the treatment is essential for the further medical
+management of the subject. Unblinding for any other reason during the study will be considered a
+protocol violation.
+Subjects participating in the extension portion of the study may be unblinded upon study
+completion (Visit 15/month 60). Subjects declining participation in the extension portion of the
+study or subjects not completing the study will be unblinded upon request.
+<<<SECTION 6.6 Study drug dosage>>>
+6.6 Study drug dosage
+The dose level of IVIG at 0.4 g/kg or 0.9% saline placebo will be administered by IV
+infusion once every 14 days for two months. There is no provision for dose adjustments by the
+investigator under this protocol.
+<<<SECTION 6.7 Study drug preparation and infusion>>>
+6.7 Study drug preparation and infusion
+• The unblinded pharmacist will prepare the IVIG or placebo for each infusion.
+• The IVIG should be inspected visually for particulate matter and discoloration prior to
+administration, whenever solution and container permit. Do not use if turbid and/or
+discoloration is observed.
+• The IVIG must not be mixed with other medicinal products or administered
+simultaneously with other intravenous preparation in the same infusion set. Do not mix
+with IVIG products from other manufacturers.
+• Do not freeze. Solutions that have been frozen should not be used.
+• IVIG bottle is for single use only. NewGam contains no preservative. Any bottle that has
+been entered should be used promptly. Partially used bottles should be discarded.
+• Content of IVIG bottles may be pooled under aseptic conditions into sterile infusion bags
+and infused within 8 hours after pooling (within 72 hours if stored at 2-8°C [36-46°F]).
+• Do not use after expiration date.
+• IVIG should not be diluted.
+• IVIG must be allowed to warm to room or body temperature prior to infusion if stored at
+2-8°C (36-46°F).
+• 0.4 g/kg body weight of Newgam 10% or 0.9% saline placebo is transferred into an EVA
+infusion bag.
+• The infusion bag must be covered with a dark hood and dark infusion lines attached
+prior to infusion to maintain the study blind.
+<<<SECTION 6.8 Incompatibilities>>>
+6.8 Incompatibilities
+• NewGam must not be mixed with other medicinal products or administered
+simultaneously with other intravenous preparations in the same infusion set.
+<<<PAGE 13>>>
+Page 13
+<<<SECTION 6.9 Administration>>>
+6.9 Administration
+• IVIG should be inspected visually for particulate matter and discoloration prior to
+administration, whenever solution and container permit. Do not use if turbid and/or
+discoloration is observe
+• IVIG should be at room or body temperature during administration. Only administer
+intravenously.
+• Any bottle that has been opened should be used promptly. Partially used bottles should
+be discarded.
+• NewGam is not supplied with an infusion set. If an in-line filter is used the pore size
+should be 0.2 – 200 microns.
+• Do not use a needle of larger than 16 gauge to prevent the possibility of coring. Insert
+needle only once, within the stopper area delineated (by the raised ring for penetration).
+The stopper should be penetrated perpendicular to the plane of the stopper within the
+ring.
+<<<SECTION 6.10 Rate of administration>>>
+6.10 Rate of administration
+The initial infusion rate of IVIG (NewGam) or placebo will be 0.01 mL/kg/min (60
+mg/kg/hr) for the first 30 minutes; if tolerated, advanced to 0.02 mL/kg/min (120 mg/kg/hr) for
+the second 30 minutes; if tolerated, advanced to 0.03 mL/kg/min (180 mg/kg/hr) for the second
+30 minutes and, if tolerated, advanced to 0.04 mL/kg/min (240 mg/kg/hr) for the remaining time
+at the discretion of the treating Investigator.
+If adverse events (AEs) occur during infusion, the rate should be reduced to half the rate
+at which the event occurred, or the infusion interrupted until symptoms subside. The infusion
+may then be resumed at a rate tolerated by the patient.
+The batch number(s) and number of different vial sizes used will be recorded on the
+drug accountability form.
+<<<SECTION 6.11 Concomitant therapy>>>
+6.11 Concomitant therapy
+6.11.1 Prohibited
+During the course of the study, experimental medications for MCI or AD and all other
+experimental medications are prohibited. Subject must refrain from using any medication,
+vitamin, or herbal supplement considered to enhance cognition or indicated for a-MCI or AD
+unless approved by the investigator. Prohibited medications, vitamins and herbal supplement
+included but are not limited to cholinesterase inhibitors, memantine, Axona, ginko biloba, and
+huperzine.
+6.11.1 Permitted
+Concomitant medications will be assessed at all study visits. Concomitant medications
+are prescribed or over-the-counter medications and should be consistent with the
+inclusion/exclusion criteria. Concomitant medication appropriate to the subject’s condition may
+be prescribed during the course of the study with the exception of those listed above.
+Routine vaccinations (i.e., flu vaccination) with commercially available therapeutics are
+permitted but must not be given within four weeks before or after the administration of the study
+drug. No vaccination for a-MCI or AD is allowed during the course of the study.
+<<<PAGE 14>>>
+Page 14
+<<<SECTION 7.0 EVALUATIONS BY VISIT>>>
+7.0 EVALUATIONS BY VISIT
+The overall summary of study activities by visit is provided in Appendix C at the end of
+the document.
+Screening procedures at visit 1 will take place up to 28 days prior to Visit 2 (Day 1)
+dosing. Screening labs and assessments will be performed during the screening period. A brain
+MRI will be obtained as standard of care within 6 months prior to the screening period. The first
+dose of study drug is administered on Day 1. Visits 2 through 6 have a ±1 day window and
+occur every 14 days over two months. The investigator will determine if a subject is suitable to
+continue following the missed infusion. Visits 7 through 12 (Month 4 through Month 24) have a
+±7 day window.  Visits 13 through 15 (Month 36 through Month 60) have a ±14 day window).
+All study screening data from Visit 1 including laboratory results must be reviewed for
+study eligibility prior to receiving first dose of study drug. Visit 2 physical exams and neurological
+exams prior to infusion may occur within 72 hours prior to the first infusion. Prior to infusion, a
+review of concomitant medications and AEs takes place to ensure that no excluded medications
+have been added or medication discontinued or dose changed that were required to have been
+stable. If the subject continues to be eligible for enrollment, the subject will be randomized,
+infused with study medication and will remain in the infusion clinic for at least 4 hours following
+the start of the infusion for safety assessments on Visit 2 (Day 1).
+7.1 VISIT 1: Screening
+The following screening procedures will occur up to 28 days prior to Visit 2 (Day 1)
+infusion:
+• Obtain signed and dated SHCIRC approved written Informed Consent from the subject
+and collaborative informant prior to the initiation of any screening procedure
+• Assess Inclusion/Exclusion criteria
+• Obtain medical history
+• Record prior medications
+• Assess Petersen criteria for mild cognitive impairment
+• Determine Rosen Modified Hachinski Ischemic score
+• Record vital signs
+• Perform physical examination including height and weight
+• Perform neurological examination
+• Obtain standard 12-lead ECG
+• Obtain a brain MRI according to Appendix E for clinical assessment, ventricular volume,
+and review the scan for evidence of vasogenic edema, microhemorrhage, infarction or
+other clinically significant abnormality
+• Perform lumbar puncture to obtain CSF Aβ1-42/CSF P-Tau181P
+• Administer MMSE, ADAS-Cog, and CDR-SB
+• Obtain blood sample for ApoE genotyping, IgA deficiency, serum viscosity
+<<<PAGE 15>>>
+Page 15
+• Obtain blood sample for complete blood count (CBC) and comprehensive metabolic
+panel (chemistry panel). (Appendix D)
+• Obtain blood sample for thyroid stimulating hormone (TSH), vitamin-B12 and rapid
+plasma reagin laboratory tests
+• Obtain blood sample for HIV-I & II, HCV, HBV, B19, HAV
+• Obtain urine sample for routine urinalysis
+7.2 VISIT 2: Day 1 – First Infusion
+The investigator will confirm that subjects are still eligible by reviewing all screening
+data. Subjects who no longer meet criteria will not be eligible for enrollment in the study.
+7.2.1 Pre-dose:
+• Confirm that subjects continue to meet inclusion/exclusion criteria
+• Assess and record AEs
+• Record concomitant medications
+• Record vital signs
+• Perform physical and neurological examinations (may occur within 72 hours prior to first
+infusion)
+• Complete randomization
+• The unblinded pharmacist will prepare the study drug according to the preparation
+instructions in Section 5.7 and will deliver the study drug to the blinded infusion
+administration site.
+7.2.2 Study drug infusion:
+• Subjects will be given the option of prophylaxis oral acetaminophen, diphenhydramine,
+or both 15-30 minutes prior to infusion
+• Measure blood pressure, pulse rate, temperature and respiratory rate within 15 minutes
+prior to start of the infusion
+• Administer study drug to the subject by intravenous infusion
+7.2.3 Following initiation of infusion:
+• Measure blood pressure and pulse rate at 15, 30, 60 and every 30 minute mark for the
+duration of the infusion
+• Measure blood pressure, pulse rate, temperature and respiratory rate immediately post
+dose and prior to leaving the clinic
+• Assess infusion site post infusion
+• Assess and record AEs
+• Subjects will remain in the clinic for at least one hour following the completion of the
+infusion. The subjects may leave the clinic after the observation period if the subject is
+medically stable.
+<<<PAGE 16>>>
+Page 16
+7.3 VISIT 3 (Day 14 -Second Infusion) through VISIT 6 (Day 56 – Fifth Infusion)
+• Assess and record AEs
+• Record concomitant medications
+• Record vital signs
+• If there is any abnormality of vital signs or clinical concerns during infusion visit, the
+principle-investigator or sub-investigator will be paged in order to perform a clinical
+assessment.
+• The unblinded pharmacist will prepare the study drug according to the preparation
+instructions and will deliver the study drug to the blinded infusion administration
+7.3.1 Study drug infusion:
+• Subjects will be given the option of prophylaxis oral acetaminophen, diphenhydramine,
+or both 15-30 minutes prior to infusion
+• Measure blood pressure, pulse rate, temperature and respiratory rate within 15 minutes
+prior to start of the infusion
+• Administer study drug to the subject by intravenous infusion
+7.3.2 Following initiation of infusion:
+• Measure blood pressure and pulse rate at 15, 30, 60 and every 30 minute mark for the
+duration of the infusion
+• Measure blood pressure, pulse rate, temperature and respiratory rate immediately post
+infusion and prior to leaving the clinic
+• Assess infusion site post infusion
+• Assess and record AEs
+• Subjects will remain in the clinic for at least 15 minutes following the completion of the
+infusion. The subjects may leave the clinic after the observation period if the subject is
+medically stable.
+7.4 VISIT 7: Month 4 (±7 days)
+• Assess and record AEs
+• Record concomitant medications
+• Record vital signs
+• Perform physical and neurological examinations
+• Record vital signs
+• Assess and record AEs
+• Record concomitant medications
+• Obtain standard 12-lead ECG
+• Administer MMSE, ADAS-Cog, and CDR-SB
+• Obtain blood sample for routine hematology and chemistry laboratory tests
+• Obtain blood sample for HIV-I & II, HCV, HBV, B19, HAV
+<<<PAGE 17>>>
+Page 17
+7.5 VISIT 8: Month 8 (±7 days)
+• Assess and record AEs
+• Record concomitant medications
+• Record vital signs
+• Perform physical and neurological examinations
+• Administer MMSE, ADAS-Cog, and CDR-SB
+• Obtain blood sample for HIV-I & II, HCV, HBV, B19, HAV
+7.6 VISIT 9: Month 12 (±7 days) - 12 months after baseline
+• Assess and record AEs
+• Record concomitant medications
+• Record vital signs
+• Obtain a brain MRI according to Appendix E for clinical assessment, ventricular volume,
+and review the scan for evidence of vasogenic edema, microhemorrhage, infarction or
+other clinically significant abnormality
+• Perform physical and neurological examinations
+• Administer MMSE, ADAS-Cog, and CDR-SB
+• Obtain blood sample for routine hematology and chemistry laboratory tests
+7.7 VISIT 10: Month 16 (±7 days)
+• Assess and record AEs
+• Record concomitant medications
+• Record vital signs
+• Perform physical and neurological examinations
+• Administer MMSE, ADAS-Cog, and CDR-SB
+7.8 VISIT 11: Month 20 (±7 days)
+• Assess and record AEs
+• Record concomitant medications
+• Record vital signs
+• Perform physical and neurological examinations
+• Administer MMSE, ADAS-Cog, and CDR-SB
+7.9 VISIT 12: Month 24 (±7 days) - 24 months after baseline
+• Assess and record AEs
+• Record concomitant medications
+• Record vital signs
+• Perform physical and neurological examinations
+• Obtain standard 12-lead ECG
+• Obtain a brain MRI according to Appendix E for clinical assessment, ventricular volume,
+<<<PAGE 18>>>
+Page 18
+and review the scan for evidence of vasogenic edema, microhemorrhage, infarction or
+other clinically significant abnormality
+• Administer MMSE, ADAS-Cog, and CDR-SB
+• Obtain blood sample for routine hematology and chemistry laboratory tests
+7.10 VISIT 13: Month 36 (±14 days) – 36 months after baseline (extension visit)
+• Assess and record AEs
+• Record concomitant medications
+• Record vital signs
+• Perform physical and neurological examinations
+• Obtain a brain MRI according to Appendix E for clinical assessment, ventricular volume,
+and review the scan for evidence of vasogenic edema, microhemorrhage, infarction or
+other clinically significant abnormality
+• Administer MMSE, ADAS-Cog, and CDR-SB
+7.11 VISIT 14: Month 48 (±14 days) – 48 months after baseline (extension visit)
+• Assess and record AEs
+• Record concomitant medications
+• Record vital signs
+• Perform physical and neurological examinations
+• Obtain a brain MRI according to Appendix E for clinical assessment, ventricular volume,
+and review the scan for evidence of vasogenic edema, microhemorrhage, infarction or
+other clinically significant abnormality
+• Administer MMSE, ADAS-Cog, and CDR-SB
+7.12 VISIT 15: Month 60 (±14 days) – 60 months after baseline (extension visit)
+• Assess and record AEs
+• Record concomitant medications
+• Record vital signs
+• Perform physical and neurological examinations
+• Obtain a brain MRI according to Appendix E for clinical assessment, ventricular volume,
+and review the scan for evidence of vasogenic edema, microhemorrhage, infarction or
+other clinically significant abnormality
+• Administer MMSE, ADAS-Cog, and CDR-SB
+<<<SECTION 7.13 Early termination from the study>>>
+7.13 Early termination from the study
+Every attempt should be made to follow each subject through the final visit 12, and
+subsequently visit 15 of the extension study. In the event of early withdrawal from the subject for
+any reason, an Early Termination Visit should be completed for criteria of withdrawal. If the
+subject withdraws due to an AE, every attempt should be made to follow the subject until the AE
+resolves or until the investigator deems that the AE is stable or determined the AE to be chronic.
+All SAEs will continue to be followed until the end of the study (Visit 12, 15, or ET visit) or until
+the SAE has resolved or the investigator deems the event to be stable or chronic.
+<<<PAGE 19>>>
+Page 19
+<<<SECTION 8.0 CONVERSION TO ALZHEIMER DISEASE>>>
+8.0 CONVERSION TO ALZHEIMER DISEASE
+Patients who convert to AD will have the choice of remaining in the study on a modified
+follow-up visit schedule, or may withdraw from the study.  Depending on when the conversion
+occurs, the subjects will be asked to complete the following:
+• Complete all Visit 7 study activities described above
+• Complete only the following for Visit 8:
+1. HIV-I & II, HCV, HBV, B19, HAV
+<<<SECTION 2. Adverse events and Concomitant Meds>>>
+2. Adverse events and Concomitant Meds
+• Complete all Visit 9 study activities described above
+• Subjects will not attend Visit 10 and Visit 11
+• Complete all Visit 12 study activities
+• Complete all Visit 13, 14, and 15 study activities (optional)
+Patients who convert to Alzheimer Disease will be followed for safety reasons, to
+determine rate of conversion between groups, and to track any continued changes in ventricular
+volume between the 0.4 g/kg NewGam or 0.9% saline solution (placebo) groups.
+<<<SECTION 9.0 WITHDRAWAL AND REPLACEMENT OF SUBJECTS>>>
+9.0 WITHDRAWAL AND REPLACEMENT OF SUBJECTS
+9.1 Criteria for subject withdrawal
+In accordance with the Declaration of Helsinki and other applicable regulations, a subject
+has the right to withdraw from the study at any time and for any reason. If a subject requests or
+decides to withdraw, every attempt will be made to complete an early termination visit.
+The investigator has the right to withdraw subjects from the study if a subject:
+• Is in significant violation of the protocol
+• Experiences an intolerable AE or SAE
+• Is non-compliant
+• Withdrawal of consent
+• Lost to follow up
+• Death
+<<<SECTION 9.2 Replacement of subjects>>>
+9.2 Replacement of subjects
+Subjects screened but not randomized will be replaced. Subjects withdrawn after
+receiving the third infusion will not be replaced but will be followed if they provide consent.
+<<<SECTION 10.0 ADVERSE EVENTS>>>
+10.0 ADVERSE EVENTS
+10.1 Adverse event definition
+An AE is any untoward event that occurs any time after randomization to the double
+blind treatment until the end of study (visit 12, visit 15, or ET visit). The event need not have a
+causal relationship with the study drug or treatment. Adverse events include, but are not limited
+to clinically significant changes in clinical status, physical or neurological examinations, ECG,
+abnormal laboratory findings, exacerbations of underlying disease, and drug interactions,
+<<<PAGE 20>>>
+Page 20
+dependency, misuse and abuse. All AEs must be documented on the Adverse Event page of
+the CRF and in the subject’s medical notes. Each AE is evaluated for duration, severity,
+seriousness, relatedness to study drug, and action taken. The investigator may be asked to
+provide follow-up information.
+<<<SECTION 10.2 Serious adverse event (SAE) definition>>>
+10.2 Serious adverse event (SAE) definition
+A serious adverse event is one that at any dose (including overdose):
+• Results in death
+• Is life-threatening1
+• Requires inpatient hospitalization or prolongation of existing hospitalization
+• Results in persistent or significant disability or incapacity2
+• Is a congenital anomaly/birth defect
+• Is a medically important condition:
+Suspected transmission of an infectious agent,
+Thromboembolic events,
+Cerebral hemorrhage resulting in clinical disability, or
+Other reactions that should be reported in an expedited manner although they
+did not immediately result in one of the above seriousness criteria
+10.3 Other relevant drug safety information:
+Any safety information relating to
+• Pregnancies/breastfeeding,
+• Drug abuse (persistent, sporadic or intentional excessive use of a medicinal product
+inconsistent with the SPC or acceptable medical practice),
+• Overdose (treatment exceeding the medically recommended dose),
+• Medication errors (prescribing or dispensing error),
+• Interactions with other medicinal products or devices
+• Associated with NewGam 10%, even if no adverse drug reaction occurred.
+1“Life-threatening” means that the subject was at immediate risk of death at the time of the serious adverse event; it does
+not refer to a serious adverse event that hypothetically might have caused death if it were more severe.
+2“Persistent or significant disability or incapacity” means that there is a substantial disruption of a person’s ability to carry
+out normal life functions.
+<<<PAGE 21>>>
+Page 21
+<<<SECTION 10.4 Adverse events severity>>>
+10.4 Adverse events severity
+Severity of AEs will be assessed using the National Cancer Institute (NCI) Common
+Terminology Criteria for Adverse Events (CTCAE) Version 3.0 for toxicity and adverse event
+reporting. A copy of the CTCAE Version 3.0 can be downloaded from the CTEP homepage
+(http://ctep.info.nih.gov). AEs not corresponding to the CTCAE term will be assessed
+according to their impact on the subject’s ability to perform daily activities as follows:
+• Mild (grade 1) – the AE does not interfere in a significant manner with the
+subject’s normal functioning level. It may be an annoyance.
+• Moderate (grade 2) – the AE produces some impairment of functioning, but is
+not hazardous to health. It is uncomfortable or an embarrassment.
+• Severe (grade 3) – the AE produces significant impairment of functioning or
+incapacitation and is a definite hazard to the subject’s health.
+• Life Threatening (grade 4) – Life threatening or disabling.
+• Fatal (grade 5) Causes death of the participant.
+The investigator must appraise all abnormal laboratory results for their clinical
+significance. If any abnormal laboratory result is considered clinically significant, the investigator
+must provide details about the action taken with respect to the test drug and about the patient’s
+outcome.
+<<<SECTION 10.5 Adverse event reporting>>>
+10.5 Adverse event reporting
+All AEs, whether observed by the investigator or reported by the patient, must be
+recorded, with details about the duration and intensity of each episode, the action taken with
+respect to the test drug, and the patient’s outcome. The investigator must evaluate each
+adverse experience for its relationship to the test drug and for its seriousness. The initial report
+must be as complete as possible, including details of the current illness and (serious) adverse
+event, and an assessment of the causal relationship between the event and the investigational
+product(s). Information not available at the time of the initial report (e.g., an end date for the
+adverse event or laboratory values received after the report) must be documented on a follow-
+up form. A final report to document resolution of the adverse event is required.
+<<<SECTION 10.6 Investigator reporting to the FDA>>>
+10.6 Investigator reporting to the FDA
+Adverse drug reactions that are serious, unlisted/unexpected, and at least possibly
+associated to the drug, and that have not previously been reported in the Investigators
+brochure, or reference safety information document should be reported promptly to the FDA in
+writing by each investigator/physician engaged in clinical research. A clear description of the
+suspected reaction should be provided along with an assessment as to whether the event is
+drug or disease related.
+The investigator/physician shall notify the FDA by telephone or by fax of any unexpected
+fatal or life threatening experience associated with the use of the drug as soon as possible, but
+no later than 7 calendar days after the sponsors initial receipt of the information. Each phone
+call or fax shall be transmitted to the FDA new drug review division in the Center for Drug
+Evaluation and Research or the product review division in the Center for Biologics Evaluation
+and Research that has responsibility for review of the IND if applicable.
+10.7 Reporting of adverse drug reactions and other safety information to study
+supporter
+All suspected AEs and other safety information associated with the administration of
+NewGam have to be reported to:
+<<<PAGE 22>>>
+Page 22
+Central Drug Safety Unit:
+Email: cdsu@octapharma.com
+Fax: +43-1-61032-9949
+Serious adverse drug reactions have to be reported immediately by fax or email (within
+24 hrs). Non-serious adverse drug reactions and other safety information should be reported to
+Octapharma, if possible, upon recognition but no later than 10 days.
+<<<SECTION 10.8 Report of adverse events to the institutional review board>>>
+10.8 Report of adverse events to the institutional review board
+The principal investigator is required to notify the Sutter Health Institutional Review
+Committee (SHCIRC) of a serious adverse event according to institutional policy.
+10.9 Reporting of adverse drug reactions and other safety information to study
+sponsor
+Octapharma shall notify the Investigator via an IND Safety Report of the following
+information:
+• Any AE associated with the use of study drug in any studies involving Newgam 10% that
+is both serious and unexpected.
+• Any finding from tests in laboratory animals that suggests a significant risk for human
+subjects including reports of mutagenicity, teratogenicity, or carcinogenicity.
+<<<SECTION 10.10 Adverse event updates>>>
+10.10 Adverse event updates
+The investigator must keep copies of all AE information, including correspondence with
+Octapharma and the SHCIRC, on file.
+The investigator shall notify the SHCIRC promptly of any new serious and unexpected
+AE(s) or significant risks to subjects.
+<<<SECTION 11.0 IND ANNUAL REPORTS>>>
+11.0 IND ANNUAL REPORTS
+The conduct of the study will comply with all FDA safety reporting requirements.
+<<<SECTION 11.1 IND annual reports>>>
+11.1 IND annual reports
+If the FDA has granted an IND number, it is a requirement of 21 CFR 312.33, that an
+annual report is provided to the FDA within 60-days of the IND anniversary date. 21 CRF 312.33
+provides the data elements that are to be submitted in the report. The Annual Report should be
+filed in the study's Regulatory Binder, and a copy provided to Octapharma as a supporter of this
+study as follows:
+Octapharma Pharmazeutika Produktionsges.m.b.H
+attn: Dr. Barbara Rangetiner (Head Int. Drug Regulatory affairs)
+Oberlaaer Strasse 235
+A-1100 Vienna, Austria
+All AE reports must include the patient number, age, sex, weight, severity of reaction
+(mild, moderate, severe), relationship to study drug (probably related, unknown relationship,
+definitely not related), date and time of administration of test medications and all concomitant
+medications, and medical treatment provided. The investigator is responsible for evaluating all
+adverse events to determine whether criteria for “serious” and as defined above are present.
+<<<PAGE 23>>>
+Page 23
+2.0 12.0 RESPONSE CRITERIA
+The MMSE, CDR-SB, and ADAS-cog are scheduled to occur at 4, 8, 12, 16, 20, 24, 36,
+48, and 60 months after Visit 1.
+3.0 13.0 PROTOCOL DEVIATIONS
+When an emergency occurs that requires a deviation from the protocol for a subject, a
+deviation will be made only for that subject. A decision will be made as soon as possible to
+determine whether or not the subject (for whom the deviation from protocol was effected) is to
+continue in the study. The subject’s medical records will completely describe the deviation from
+the protocol and state the reasons for such deviation. In addition, the Investigator will notify the
+SHCIRC in writing of such deviation from protocol.
+Non-emergency minor deviations from the protocol will be permitted with approval of the
+principal investigator.
+<<<SECTION 14.0 DATA RECORDING, RETENTION, AND MONITORING>>>
+14.0 DATA RECORDING, RETENTION, AND MONITORING
+14.1 Data entry and maintenance
+Investigator responsibilities are set out in the ICH guideline for Good Clinical Practice
+(GCP) and in the US Code of Federal Regulations.
+Study personnel will construct case report forms (CRFs), record all study data onto the
+CRFs and enter the data into a 21 CFR Part 11 compliant database.
+<<<SECTION 14.2 Study records retention>>>
+14.2 Study records retention
+The investigator must ensure that the records and documents pertaining to the conduct
+of the study and the distribution of the study drug, that is copies of CRFs and source documents
+(original documents, data, and records [e.g., hospital records; clinical and office charts;
+laboratory notes; memoranda; subject’s diaries or evaluation checklists; SAE reports, pharmacy
+dispensing records; recorded data from automated instruments; copies or transcriptions certified
+after verification as being accurate copies; microfiches; photographic negatives, microfilm, or
+magnetic media; x-rays; subject files; and records kept at the pharmacy, at the laboratories, and
+at medico-technical departments involved in the clinical study; documents regarding subject
+treatment and study drug accountability; original signed informed consents, etc.]) be retained by
+the investigator for as long as needed to comply with national and international regulations
+(generally 2 years after discontinuing clinical development or after the last marketing approval).
+The investigator agrees to adhere to the document/records retention procedures by signing the
+protocol.
+<<<SECTION 14.3 Data monitoring committee>>>
+14.3 Data monitoring committee
+The Data Monitoring Committee (DMC) will be composed of independent reviewers who
+will meet to review the efficacy and safety data and determine a risk/benefit analysis in this
+subject population. The purpose of the DMC is to advise on serious safety considerations, lack
+of efficacy, and any other considerations within the charge to the Committee. The DMC may
+request additional meetings or safety reports as deemed necessary upon discussion with the
+investigator or Octapharma and its representatives. The DMC may stop the study following
+review of results from the interim analysis.
+<<<PAGE 24>>>
+Page 24
+<<<SECTION 15.0 STATISTICAL ANALYSIS>>>
+15.0 STATISTICAL ANALYSIS
+<<<SECTION 15.1 Primary endpoint>>>
+15.1 Primary endpoint
+The aim of the primary efficacy analysis is to demonstrate an advantage for subjects
+treated with IVIG over subjects treated with placebo at the end of the study as measured by
+change in ventricular volume. The primary efficacy analyses will be performed on the intent-to-
+treat (ITT) population. The ITT population is defined as all subjects who were randomized,
+received three or more infusions, and had a brain MRI at baseline and at 24 months.
+Annualized percent change in total ventricular volume (APCV) is the primary biomarker
+of interest. Brain MRI will be obtained at baseline, 12 months, 24 months, 36 months, 48
+months, and 60 months. Differences between the IVIG and placebo group at month 12, 24, 36,
+48, and 60 will be analyzed using a 2 x 2 analysis of variance. Participants will also be classified
+as early MCI (EMCI) if baseline CDR-SB is less than 1.5, and late MCI (LMCI) if CDR-SB is
+greater than or equal to 1.5.
+Treatment (IVIG, placebo), MCI status (EMCI, LMCI), and the treatment X MCI status
+interaction will be included in the model. If the interaction is statistically significant (p< 0.05),
+MCI status will be stratified and differences in APCV between the groups compared within each
+stratum.
+<<<SECTION 15.2 Secondary Endpoints>>>
+15.2 Secondary Endpoints
+15.2.1 Conversion to AD
+Conversion to AD is measured by NINCDS-ADRDA and NIA [14] criteria for diagnosis of
+Alzheimer Disease and Clinical Dementia Rating (CDR) (Appendix A).
+Kaplan-Meier survival curves will be estimated and will plot the proportion of treatment
+and control subjects who remain without a diagnosis of AD at month 24, 36, 48, and 60. The
+log-rank test will be used to determine whether the survival curves are different for the two
+groups of subjects. Cox proportional hazards will be used to assess the incidence of AD in
+treatment versus control subjects adjusting for age and sex.
+15.2.2 Cognitive change
+The CDR-SB, MMSE, and ADAS-cog are administered at baseline and at months 4, 8,
+12, 16, 20, 24, 36, 48, and 60.  Separate linear mixed-effects modeling will be used to compare
+differences in the scores on each these tests using all available observations. Treatment
+(IVIG/placebo), MCI status (early, late), and treatment X MCI status will be fixed factors and the
+respective baseline score will be included as the continuous covariate. For statistically
+significant (p< 0.05), interactions, MCI status will be stratified and the analyses will be
+conducted for each stratum.
+Data will be analyzed to assess safety after 25 subjects complete three months of follow-
+up. Safety will be evaluated though documentation of adverse events. Appropriate safety data
+summaries will be provided to the DSMC after each interim analysis.
+15.2.3 CSF Aβ1-42/CSF P-Tau181P Alzheimer signature
+Annualized percent change in ventricular volume between the IVIG and placebo group at
+month 12, 24, 36, 48, and 60 will be also analyzed specifically in subjects with positive CSF
+Aβ1-42/CSF P Tau181P Alzheimer signature.
+<<<PAGE 25>>>
+Page 25
+<<<SECTION 16.0    SAMPLE SIZE AND POWER FOR PRIMARY ENDPOINT>>>
+16.0    SAMPLE SIZE AND POWER FOR PRIMARY ENDPOINT
+Twenty-five subjects will be randomized to placebo and 25 subjects will be randomized
+to the group receiving IVIG. Twenty-five subjects in each group provides 82% power to detect a
+120 unit difference in mean ventricular volume between the groups at month 26. This calculation
+is based on a two-sided test with alpha set at 0.05.
+<<<SECTION 17.0    IMPLICATIONS AND DIRECTION FOR FUTURE STUDIES>>>
+17.0    IMPLICATIONS AND DIRECTION FOR FUTURE STUDIES
+This study is designed to assess the efficacy of the smallest reasonable dose of IVIG
+that could prevent ventricular atrophy in patients with a-MCI. Subjects will receive IVIG 0.4g/kg
+every 2 weeks as the half-life of IVIG antibodies has been reported as 9.3 days [8]; furthermore
+Relkin [8] found the dosing schedule of 0.4/kg every 2 weeks to be most effective in reducing
+brain atrophy. [9] We decided to study the smallest reasonable course of IVIG which would be 5
+total treatments as a 2g/kg total treatment dose is standard dose used for other indications of
+IVIG (including neurological disorders). IVIG has not been investigated in a-MCI and we
+hypothesis that patients with early Alzheimer’s pathology may require smaller doses of IVIG.
+Furthermore if effective, this short course would both reduce the risk of IVIG treatment adverse
+events and reduce cost of treatment. Both of the former would increase accessibility of this
+treatment to patients with a-MCI. At the end of the two years we plan to perform an add-on
+study with participating subjects to include an additional three years of follow-up (five years
+total).
+If the results of this exploratory study are found at the end of two years to show a trend
+towards positive efficacy with this treatment strategy, the current study may be expanded to
+include more subjects with dose-ranging investigations or the results used to design a large,
+multi-arm randomized trial.
+<<<SECTION 18.0 ETHICAL AND LEGAL ISSUES>>>
+18.0 ETHICAL AND LEGAL ISSUES
+The study will be submitted to the SHCIRC. A data safety monitoring committee will be
+convened to provide oversight of subjects’ safety before commencement of the study.
+<<<SECTION 18.1 Institutional review board approval>>>
+18.1 Institutional review board approval
+The protocol for this study has been designed in accordance with the general ethical
+principles outlined in the Declaration of Helsinki. The review of this protocol by the SHCIRC and
+the performance of all aspects of the study, including the methods used for obtaining informed
+consent, must also be in accordance with principles enunciated in the declaration, as well as
+ICH Guidelines, Title 21 of the Code of Federal Regulations (CFR), Part 50 Protection of Human
+Subjects and Part 56 Institutional Review Boards.
+The investigator will be responsible for preparing documents for submission to the
+SHCIRC and obtaining written approval for this study. The approval will be obtained prior to the
+initiation of the study.
+The approval for both the protocol and informed consent must specify the date of
+approval, protocol number and version, or amendment number.
+Any amendments to the protocol after receipt of SHCIRC approval must be submitted by
+the Investigator to the SHCIRC for approval. The Investigator is also responsible for notifying
+the SHCIRC of any serious deviations from the protocol, or anything else that may involve
+added risk to subjects.
+<<<PAGE 26>>>
+Page 26
+Any advertisements used to recruit subjects for the study must be reviewed and
+approved by the SHCIRC prior to use.
+<<<SECTION 18.2 Informed consent>>>
+18.2 Informed consent
+The investigator must obtain informed consent of a subject or his/her designee prior to
+any study related procedures as per GCPs as set forth in the CFR and ICH guidelines.
+Documentation that informed consent occurred prior to the subject’s entry into the study
+and the informed consent process should be recorded in the subject’s source documents. The
+original consent form signed and dated by the subject and by the person consenting the subject
+prior to the subject’s entry into the study, must be maintained in the investigator’s study files.
+<<<SECTION 18.3 Subject confidentiality>>>
+18.3 Subject confidentiality
+Octapharma affirms the subject’s right to protection against invasion of privacy. In
+compliance with United States federal regulations, Octapharma requires the investigator to
+permit Octapharma representatives and, when necessary, representatives of the FDA or other
+regulatory authorities to review and/or copy any medical records relevant to the study in
+accordance with local laws.
+Should direct access to medical records require a waiver or authorization separate from
+the subject’s statement of informed consent, it is the responsibility of the Investigator to obtain
+such permission in writing from the appropriate individual.
+<<<SECTION 18.4 Protocol amendments>>>
+18.4 Protocol amendments
+Any amendment to this protocol must be agreed to by the principal investigator and
+reviewed by Octapharma. Amendments should only be submitted to the SHCIRC after
+consideration of Octapharma review. Written verification of SHCIRC approval will be obtained
+before any amendment is implemented.
+<<<SECTION 18.5 Premature discontinuation of study>>>
+18.5 Premature discontinuation of study
+The responsible local clinical investigator and Octapharma have the right to discontinue
+this study at any time for reasonable medical or administrative reasons. Possible reasons for
+termination of the study could be but are not limited to:
+• Unsatisfactory enrollment with respect to quantity or quality.
+• Inaccurate or incomplete data collection.
+• Falsification of records.
+• Failure to adhere to the study protocol.
+• Statistical analysis demonstrates overwhelming efficacy of treatment.
+Any possible premature discontinuation would be documented adequately with reasons
+being stated, and information would have to be issued according to local requirements (e.g.,
+SHCIRC/EC, regulatory authorities, etc.).
+<<<PAGE 27>>>
+Page 27
+<<<SECTION 19.0 REFERENCES>>>
+19.0 REFERENCES
+1. Schenk D, Barbour R, Dunn W, Gordon G, Grajeda H, Guido T, et al. Immunization with
+amyloid-beta attenuates Alzheimer-disease-like pathology in the PDAPP mouse. Nature 1999
+Jul 8;400:173-7.
+2. Gilman S, Koller M, Black RS, Jenkins L, Griffith SG, Fox NC, et al. Clinical effects of
+Abeta immunization (AN1792) in patients with AD in an interrupted trial. Neurology 2005 May
+10;64:1553-62.
+3. Nicoll JA, Barton E, Boche D, Neal JW, Ferrer I, Thompson P, et al. Abeta species
+removal after abeta42 immunization. J Neuropathol Exp Neurol 2006 Nov;65:1040-8.
+4. Orgogozo JM, Gilman S, Dartigues JF, Laurent B, Puel M, Kirby LC, et al. Subacute
+meningoencephalitis in a subset of patients with AD after Abeta42 immunization. Neurology
+2003 Jul 8;61:46-54.
+5. Dodel R, Hampel H, Depboylu C, Lin S, Gao F, Schock S, et al. Human antibodies
+against amyloid beta peptide: a potential treatment for Alzheimer's disease. Ann Neurol 2002
+Aug;52:253-6.
+6. Istrin G, Bosis E, Solomon B. Intravenous immunoglobulin enhances the clearance of
+fibrillar amyloid-beta peptide. J Neurosci Res 2006 Aug 1;84:434-43.
+7. Dodel RC, Du Y, Depboylu C, Hampel H, Frolich L, Haag A, et al. Intravenous
+immunoglobulins containing antibodies against beta-amyloid for the treatment of Alzheimer's
+disease. J Neurol Neurosurg Psychiatry 2004 Oct;75:1472-4.
+8. Relkin NR, Szabo P, Adamiak B, Burgut T, Monthe C, Lent RW, et al. 18-Month study of
+intravenous immunoglobulin for treatment of mild Alzheimer disease. Neurobiol Aging 2008 Feb
+20.
+9. Relkin NR. Intravenous Immunoglobulin Treatment Decreases Rates of Ventricular
+Enlargement and Cognitive Decline in Alzheimer’s Disease. Abstract Number P03.294.
+American Academy of Neurology; 2010 April 14; Toronto; 2010.
+10. Fillit H, Hess G, Hill J, Bonnet P, Toso C. IV immunoglobulin is associated with a
+reduced risk of Alzheimer disease and related disorders. Neurology 2009 Jul 21;73:180-5.
+11. Petersen RC, Stevens JC, Ganguli M, Tangalos EG, Cummings JL, DeKosky ST.
+Practice parameter: early detection of dementia: mild cognitive impairment (an evidence-based
+review). Report of the Quality Standards Subcommittee of the American Academy of Neurology.
+Neurology 2001 May 8;56:1133-42.
+12. Ravaglia G, Forti P, Maioli F, Martelli M, Servadei L, Brunetti N, et al. Conversion of mild
+cognitive impairment to dementia: predictive role of mild cognitive impairment subtypes and
+vascular risk factors. Dement Geriatr Cogn Disord 2006;21:51-8.
+13. Vemuri P, Wiste HJ, Weigand SD, Shaw LM, Trojanowski JQ, Weiner MW, et al. MRI
+and CSF biomarkers in normal, MCI, and AD subjects: predicting future clinical change.
+Neurology 2009 Jul 28;73:294-301.
+14. McKhann GM, Knopman DS, Chertkow H, Hyman BT, Jack CR, Jr., Kawas CH, et al.
+The diagnosis of dementia due to Alzheimer's disease: Recommendations from the National
+<<<PAGE 28>>>
+Page 28
+Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's
+disease. Alzheimers Dement 2011 May;7:263-9.
+15. Albert MS, Dekosky ST, Dickson D, Dubois B, Feldman HH, Fox NC, et al. The
+diagnosis of mild cognitive impairment due to Alzheimer's disease: Recommendations from the
+National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for
+Alzheimer's disease. Alzheimers Dement 2011 May;7:270-9.
+16. McKhann G, Drachman D, Folstein M, Katzman R, Price D, Stadlan EM. Clinical
+diagnosis of Alzheimer's disease: report of the NINCDS-ADRDA Work Group under the
+auspices of Department of Health and Human Services Task Force on Alzheimer's Disease.
+Neurology 1984 Jul;34:939-44.
+17. Petersen RC. Mild cognitive impairment as a diagnostic entity. J Intern Med 2004
+Sep;256:183-94.
+<<<PAGE 29>>>
+Page 29
+20.0 APPENDIX A.
+20.1 NINCDS-ADRDA criteria for diagnosis Alzheimer Disease [16]
+• Dementia established by clinical examination and documented by the Mini-Mental State
+Test, Blessed Dementia Scale or some similar examination, and confirmed by
+neuropsychological tests
+• Deficits in two or more areas of cognition
+• Progressive worsening of memory and other cognitive functions
+• No disturbance of consciousness
+• Onset between ages 40 and 90, most often after age 65
+• Absence of systemic disorders or other brain diseases that in and of themselves could
+account for the progressive deficits in memory and cognition
+20.1.1 The diagnosis of probable Alzheimer disease is supported by:
+• Progressive deterioration of specific cognitive skills such as language (aphasia), motor
+skills (apraxia), and perception (agnosia)
+• Impaired activities of daily living and altered patterns of behavior
+• Family history of similar disorders, particularly if confirmed neuropathologically
+• Laboratory results of:
+1. Normal lumbar puncture as evaluated by standard techniques
+2. Normal pattern or nonspecific changes in EEG, such as increased slow-wave
+activity
+3. Evidence of cerebral atrophy on CT with progression documented by serial
+Observation
+20.1.2 Other clinical features consistent with the diagnosis of probable Alzheimer
+disease, after exclusion of causes of dementia other than Alzheimer disease:
+• Plateaus in the progression of the illness
+• Associated symptoms of depression, insomnia, incontinence, delusions, illusions,
+hallucinations; catastrophic verbal, emotional, or physical outbursts, sexual disorders,
+and weight loss
+• Other neurologic abnormalities in some patients, especially with more advanced disease
+and including motor signs such as increased muscle tone, myoclonus, or gait disorder
+• Seizures in advanced disease
+• CT normal for age
+20.1.3 Features that make the diagnosis of probable Alzheimer disease
+uncertain or unlikely include:
+• Sudden, apoplectic onset
+<<<PAGE 30>>>
+Page 30
+• Focal neurologic findings such as hemiparesis, sensory loss, visual field deficits, and
+incoordination early in the course of the illness
+• Seizures or gait disturbances at the onset or very early in the course of the illness
+20.1.4 5. Criteria for diagnosis of definite Alzheimer disease are:
+• The clinical criteria for probable Alzheimer disease and, in addition, histopathological
+evidence obtained from a biopsy or autopsy.
+<<<SECTION 21.0 APPENDIX B>>>
+21.0 APPENDIX B
+21.1 Criteria for amnestic mild cognitive impairment [17]
+• Memory complaint usually corroborated by an informant
+• Objective memory impairment for age
+• Essentially preserved general cognitive function
+• Largely intact functional activities
+• Not demented
+<<<PAGE 31>>>
+Page 34
+Version: 5/20/2014
+<<<SECTION 22.0 APPENDIX C>>>
+22.0 APPENDIX C
+22.1 Schedule of study activities
+Study Visit 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Study Time Point Day -28
+To Day -1
+D1 D14 D28 D42 D56 M4 M8 M12 M16 M20 M24
+/ET6
+M36 M48 M60
+/ET7
+Visit Type (Visit Window) Screening Infusion Visits (±1 day) Follow-up (±7 days) Follow-up (±14 days)
+CLINICAL
+Informed consent X
+Inclusion/Exclusion X X
+Medical  Hx/Prior/Baseline
+Medications
+X
+a-MCI Petersen/NIA
+criteria review
+X
+Modified Hachinski
+Ischemia Scale
+X
+ApoE4 genotyping1 X
+Vital Signs XXXXXXXXXXXXXXX
+Physical Exam X X2     X X X X X X X X X
+Neurological Exam X X2     X X X X X X X X X
+ECG X      X     X
+Brain MRI X        X   X X X X
+CSF-amyloid protein 1-42
+tau 181P biomarker
+mixture (Optional)
+X
+Mini Mental State Exam
+(MMSE)
+X      XXXXXXXXX
+CDR-SB, ADAS-cog X      X X X X X X X X X
+HIV-I & II, HCV, HBV,
+B193, HAV3
+X      X X
+IGA deficiency X
+Serum viscosity X
+CBC, Chemistry Panel
+(Appendix B)
+X      X  X   X
+TSH, Vit-B12, RPR 4 X
+Urinalysis 5 X
+Adverse events &
+Concomitant Meds
+XXXXXXXXXXXXXX
+<<<PAGE 32>>>
+Page 35
+Version: 5/20/2014
+Study Visit 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Study Time Point Day -28
+To Day -1
+D1 D14 D28 D42 D56 M4 M8 M12 M16 M20 M24/
+ET6
+M36 M48 M60
+/ET7
+Visit Type (Visit
+Window)
+Screening Infusion Visits (±1 day) Follow-up (±7 days) Follow-up (±14 days)
+THERAPY
+Randomization  X
+Infusion of IVIG or
+placebo
+XXXXX
+Assess infusion site  X X X X X
+1 Previous ApoE4 testing will be accepted 4 RPR required if not done in the last 12 months prior to screening  2 Exams may occur within 72 prior to infusion 5 Urine culture may be performed if indicated
+3 Performed at 4 and 8 months only if subject is negative at
+baseline
+6 Early Termination visit for subjects in the two study (Section 7.13)
+7 Early Termination visit for subjects in the three year extension study
+(Section 7.13)
+<<<PAGE 33>>>
+Page 36
+Version: 5/20/2014
+23.0 APPENDIX D.
+23.1 Clinical laboratory tests
+Comprehensive
+Metabolic Panel
+Complete Blood Count with
+differential
+Urinalysis
+Sodium WBC Urine microscopy
+Potassium RBC Culture if indicated
+Chloride Hemoglobin
+CO2 Hematocrit
+Glucose MCV
+BUN MCH
+Creatinine RDW
+Calcium Platelet Count
+Total Protein Neutrophil %
+Albumin Lymphocytes %
+Total Bilirubin Monocyte %
+Alkaline Phosphatase Eosinophil %
+AST Basophil %
+ALT Neutrophil Count
+Lymphocyte Count
+Monocyte Count
+Eosinophil Count
+Basophil Count
+<<<PAGE 34>>>
+Page 37
+Version: 5/20/2014
+24.0 APPENDIX E. BRAIN MRI IMAGING INSTRUCTIONS
+Equipment: Siemens 3.0 Tesla Verio
+Software B17
+Hardware TIM system
+Coil: Matrix Head coil
+Installed Install 2010
+Next scheduled software upgrade; B17 5/2010
+Neuro Imaging Protocol of the Brain: Head Matrix Coil
+Sequence 1: 3 plane localizer-2D GRE
+Sequence 2: Sagittal 3D MPRAGE
+Sequence 3: Sagittal T1 Flair
+Sequence 4: Axial T2
+Sequence 5: Axial GRE
+Sequence 6: Axial FLAIR
+Sequence 7: Axial DWI
+Sequence 8: Axial T1
+Sequence 9: Coronal T2 3.0 mm
+<<<PAGE 35>>>
+Page 38
+Version: 5/20/2014
+25.0 AMENDMENT 1: FEBRUARY, 2011
+25.1 AMENDMENT 1: INTRODUCTION
+The mains reason for protocol amendment 1 are to revise exclusion criteria 23, Appendix E
+Brain MRI Instructions and administrative changes.
+25.2 AMENDMENT 1: SUMMARY OF CHANGES
+Section 4.2 Exclusion Criteria – Exclusion 23
+Changed from:
+23.  Concurrent or prior treatment with cholinesterase inhibitors and/or memantine, or Axona for
+cognitive enhancement. Exceptions (e.g. brief exposure to one of these medications) may be
+authorized if agreed upon by PI and sub-I)
+Changed to:
+23.  Concurrent treatment with cholinesterase inhibitors, memantine, Axona, or other
+prescription cognitive enhancing agents, or discontinuation of any of these agents within 90
+days prior to screening.
+Rationale: Exclusion 23 was originally included because it may clinicians have proposed
+cholinesterase inhibitors and memantine may improve cognitive function in patients with MCI.
+We did not want this to confound the results of the study. A study published in the Archives of
+Neurology in January, 2011 found that cholinesterase inhibitors or memantine were not
+associated with clinical improvement and may alternatively be associated with a decline in
+patients with MCI. This information, coupled with the fact the so many practitioners have started
+patients with MCI on these medications which makes recruitment of medication-naive patients
+difficult, led us to amend this exclusion. Therefore, we are allowing enrollment of patients
+previously exposed to cholinesterase inhibitors and memantine after a 90 day wash-out.
+Section 7.2.2 Study Drug Infusion and Section 7.3.1 Study Drug Infusion
+Updated language in bold: Subjects will be given the option of prophylaxis oral acetaminophen,
+diphenhydramine, or both 15-30 minutes prior to infusion
+Rationale: Standard of care is give prophylaxis medications 30 minutes prior to start of infusion.
+Section 7.3.3 One hour following final infusion at Visit 6
+Section was completely removed since visits 3 through 6 require the subject to stay at clinic for
+15 minutes post infusion.
+<<<PAGE 36>>>
+Page 39
+Version: 5/20/2014
+Appendix E.  Brain MRI imaging instructions
+Changed from:
+Equipment: Siemens 1.5 Tesla Avanto
+Software B15
+Hardware TIM system
+Coil: Matrix Head coil
+Installed Install 2006
+Next scheduled software upgrade; B17 5/2010
+Neuro Imaging Protocol of the Brain: Head Matrix Coil
+Sequence 1: 3 plane localizer-2D GRE
+Sequence 2: Sagittal 2D SE
+Sequence 3: Sagittal 3D MPRAGE T1
+Sequence 4: Axial 2D TSE
+Sequence 5: Axial Flair TIR
+Sequence 6: Axial T2* 2D GRE
+Sequence 7: Axial DWI 2D EPI
+Sequence 8: Coronal T2 Flair
+Changed to:
+Equipment: Siemens 3.0 Tesla Verio
+Software B17
+Hardware TIM system
+Coil: Matrix Head coil
+Installed Install 2010
+Next scheduled software upgrade; B17 5/2010
+Neuro Imaging Protocol of the Brain: Head Matrix Coil
+Sequence 1: 3 plane localizer-2D GRE
+Sequence 2: Sagittal 3D MPRAGE
+Sequence 3: Sagittal T1 Flair
+Sequence 4: Axial T2
+Sequence 5: Axial GRE
+Sequence 6: Axial FLAIR
+Sequence 7: Axial DWI
+Sequence 8: Axial T1
+Sequence 9: Coronal T2 3.0 mm
+<<<PAGE 37>>>
+Page 40
+Version: 5/20/2014
+Rationale: Updated information for the MRI equipment.
+<<<PAGE 38>>>
+Page 41
+Version: 5/20/2014
+26.0 AMENDMENT 2: MARCH 2011
+26.1 AMENDMENT 2: INTRODUCTION
+The main reason for amendment 2 was to include clarity on how conversion from a-MCI to AD is
+measured.
+26.2 AMENDMENT 2: SUMMARY OF CHANGES
+Section 23.1 Secondary endpoints
+Added language in bold: Conversion from a-MCI to AD as measured by NINCDS-ADRDA
+criteria for diagnosis of Alzheimer Disease and Clinical Dementia Rating (CDR).
+Rationale: added language for clarity on conversion measures from a-MCI to AD.
+Section 14.2.1 Conversion to AD
+Added language: Conversion to AD is measured by NINCDS-ADRDA criteria for diagnosis of
+Alzheimer Disease and Clinical Dementia Rating (CDR) (Appendix A).
+Rationale: added language for clarity on conversion measures from a-MCI to AD.
+27.0 AMENDMENT 3: JUNE 2011
+27.1 AMENDMENT 3: INTRODUCTION
+Amendment 3 is the result of two publications in May, 2011 from the National Institute on Aging
+that further defined the guidelines for diagnosing pre-dementia and conversion to AD.
+27.2 AMENDMENT 3: SUMMARY OF CHANGES
+Underlined words have been added to the following sections.
+2.3 Secondary endpoints:
+Conversion from a-MCI to AD as measured by NINCDS-ADRDA, National Institute on
+Aging (NIA) criteria [14] for diagnosis of Alzheimer Disease, and Clinical Dementia Rating
+(CDR)
+<<<SECTION 4.1 Inclusion criteria>>>
+4.1 Inclusion criteria
+3. Diagnosis of Mild Cognitive Impairment, Amnestic type (single or multi domain) according
+to Petersen criteria (Appendix B), NIA diagnostic guidelines, [15] and supported by a CDR
+score of 0.5.
+<<<PAGE 39>>>
+Page 42
+Version: 5/20/2014
+14.2.1 Conversion to AD
+Conversion to AD is measured by NINCDS-ADRDA and NIA [14] criteria for diagnosis of
+Alzheimer Disease and Clinical Dementia Rating (CDR) (Appendix A).
+21.1 Schedule of study activities
+a-MCI Petersen/NIA criteria review
+28.0 AMENDMENT 4: DEC 2011
+28.1 AMENDMENT 4: INTRODUCTION
+Amendment 4 includes the addition of measurement of ventricular volume at 12 months to the
+secondary endpoint. Section 8.0 was included to address modifications to study activities for
+patients who convert to Alzheimer Disease.
+28.2 AMENDMENT 4: SUMMARY OF CHANGES
+2.3 Secondary endpoints:
+Added language in bold: Change in ventricular volume as measured by MRI at baseline, 12
+months, and 24 months following infusion of either 0.4 g/kg NewGam or 0.9% saline solution
+(placebo) every 14 days x 5 in patients with positive CSF Aβ1-42/CSF P-Tau181P Alzheimer
+signature
+Rationale: The ventricular volume changes at 12 months will be reviewed.
+<<<SECTION 8.0 Conversion to Alzheimer Disease>>>
+8.0 Conversion to Alzheimer Disease
+This section was added to outline the study procedures for subjects who convert to AD
+and remain in the follow-up portion of the study.
+Rationale: Section was added to address change in condition.
+29.0 AMENDMENT 5: SUMMARY OF CHANGES
+29.1 AMENDMENT 5:  Introduction
+The only change in this amendment consists of the extension of study follow-up from 24 months
+to 60 months in 12 months intervals (i.e. 24 month, 36 month, 48 month, and 60 month).
+29.2 AMENDMENT 5:  Rationale
+The purpose of study follow-up extension is to evaluate possible efficacy over a longer duration.
+<<<PAGE 40>>>
+Page 43
+Version: 5/20/2014
+Section Original Revised
+2.0 Study Objectives 2.1 Primary Objective: Added:
+Section Original Revised
+and Endpoints This randomized double-blinded
+study will evaluate the efficacy of
+intravenous immunoglobulin
+(NewGam 10%) in patients with
+a-MCI over 24 months after the
+first infusion.
+2.2 Secondary Objective:
+Additionally, this randomized
+double-blinded study will evaluate
+the efficacy of intravenous
+immunoglobulin (NewGam 10%)
+in patients with a-MCI over 36
+months, 48 months, and 60
+months after the first infusion.
+<<<SECTION 2.3 Primary Endpoint Change in ventricular volumetric>>>
+2.3 Primary Endpoint Change in ventricular volumetric
+as measured by MRI at baseline
+and 24 months following the first
+infusion of either 0.4 g/kg
+NewGam or 0.9% saline solution
+(placebo) every 14 days x 5.
+Change in ventricular volumetric
+as measured by MRI at baseline,
+24 months, 36 months, 48
+months, and 60 months following
+the first infusion of either 0.4 g/kg
+NewGam or 0.9% saline solution
+(placebo) every 14 days x 5.
+<<<SECTION 2.4 Secondary>>>
+2.4 Secondary
+Endpoint
+Change in ventricular volume as
+measured by MRI at baseline, 12
+months, and 24 months following
+infusion of either 0.4 g/kg
+NewGam or 0.9% saline solution
+(placebo) every 14 days x 5 in
+patients with positive CSF Aβ1-
+42/CSF P-Tau181P Alzheimer
+signature
+Change in cognitive
+performance between baseline
+and 4, 8, 12, 16, 20, and 24
+months after the first infusion as
+measured by:
+Change in ventricular volume as
+measured by MRI at baseline, 12
+months, 24 months, 36 months,
+48 months, and 60 months
+following infusion of either 0.4
+g/kg NewGam or 0.9% saline
+solution (placebo) every 14 days x
+5 in patients with positive CSF
+Aβ1-42/CSF P-Tau181P Alzheimer
+signature
+Change in cognitive
+performance between baseline
+and 4, 8, 12, 16, 20, 24, 36, 48,
+and 60 months after the first
+infusion as measured by:
+<<<PAGE 41>>>
+Page 44
+Version: 5/20/2014
+<<<SECTION 3.3 Estimated study>>>
+3.3 Estimated study
+duration
+The duration of each study
+subject is approximately 24
+months, including one screening
+visit over a period of
+approximately 28 days, 5 days of
+infusions over a 2-month period of
+time, and follow-up visits at 4, 8,
+12, 16, 20, and 24 months after
+the first infusion.
+The duration of each study
+subject is approximately 24
+months, including one screening
+visit over a period of
+approximately 28 days, 5 days of
+infusions over a 2-month period of
+time, and follow-up visits at 4, 8,
+12, 16, 20, and 24 months after
+the first infusion. Subjects will be
+given the option of continuing
+study follow-up to include 36
+month, 48 month, and 60 month
+visits.
+<<<PAGE 42>>>
+Page 45
+Version: 5/20/2014
+Section Original Revised
+<<<SECTION 7.0 Evaluations by>>>
+7.0 Evaluations by
+Visit
+Visits 7 through 12 (Month 4
+through Month 24) have a ±7 day
+window.
+Study completed at Visit 12,
+Month 24
+Added:  Visits 13 through 15
+(Month 36 through Month 60)
+have a ±14 day window).
+Added:
+• Section 7.10, Visit 13,
+Month 36
+• Section 7.11, Visit 14,
+Month 48
+• Section 7.12, Visit 15,
+Month 60
+<<<SECTION 8.0 Conversion to>>>
+8.0 Conversion to
+Alzheimer Disease
+Depending on when the
+conversion occurs, the subjects
+will be asked to complete the
+following:
+• Complete all Visit 7 study
+activities described above
+• Complete only the
+following for Visit 8:
+3. HIV-I & II, HCV,
+HBV, B19, HAV
+<<<SECTION 4. Adverse events>>>
+4. Adverse events
+and Concomitant
+Meds
+• Complete all Visit 9 study
+activities described above
+• Subjects will not attend
+Visit 10 and Visit 11
+Complete all Visit 12 study
+activities
+Added:  Complete all Visit 13, 14,
+and 15 study activities (optional)
+12.0 Response
+Criteria
+The MMSE, CDR-SB, and
+ADAS-cog are scheduled to occur
+at 4, 8, 12, 16, 20, and 24 months
+after Visit 1.
+The MMSE, CDR-SB, and ADAS-
+cog are scheduled to occur at 4,
+8, 12, 16, 20, 24, 36, 48, and 60
+months after Visit 1.
+<<<SECTION 15.1 Primary Endpoint Total ventricular volume is the>>>
+15.1 Primary Endpoint Total ventricular volume is the
+primary biomarker of interest.
+Brain MRI will be obtained at
+baseline and 24 months.
+Differences between the IVIG and
+placebo group at month 24 will be
+analyzed using analysis of
+covariance (ANCOVA). The
+Total ventricular volume is the
+primary biomarker of interest.
+Brain MRI will be obtained at
+baseline, 24 months, 36 months,
+48 months, and 60 months.
+Differences between the IVIG and
+placebo group at month 24, 36,
+48, and 60 will be analyzed using
+<<<PAGE 43>>>
+Page 46
+Version: 5/20/2014
+Section Original Revised
+model will include treatment as a
+factor with two levels (IVIG,
+placebo) and baseline ventricular
+volume as the covariate.
+analysis of covariance
+(ANCOVA). The model will
+include treatment as a factor with
+two levels (IVIG, placebo) and
+baseline ventricular volume as the
+covariate.
+<<<SECTION 15.2 Secondary>>>
+15.2 Secondary
+endpoints
+Kaplan-Meier survival curves will
+be estimated and will plot the
+proportion of treatment and
+control patients who remain
+without a diagnosis of AD at
+month 24.
+The CDR-SB, MMSE, and ADAS-
+cog are administered at baseline
+and at months 4, 8, 12, 16, 20,
+and 24.
+Kaplan-Meier survival curves will
+be estimated and will plot the
+proportion of treatment and
+control patients who remain
+without a diagnosis of AD at
+month 24, 36, 48, and 60.
+The CDR-SB, MMSE, and ADAS-
+cog are administered at baseline
+and at months 4, 8, 12, 16, 20,
+24, 36, 48, and 60.
+22.1 Schedule of study
+activities
+Describes Visits 1 through 12 Describes Visits 1 through 15 as
+stated above.
+30.0 AMENDMENT 6: SUMMARY OF CHANGES
+30.1 Introduction:
+Amendment 6 consists of changes in the measurement of the primary endpoint and
+statistical analysis plan in sections 15.1 and 15.2
+30.2 Rationale:
+Since the study was designed and initiated, research from the Alzheimer’s Disease
+Neuroimaging Initiative (ADNI) and others have utilized a sub-classification of early MCI (EMCI)
+and late MCI (LMCI) to improve the understanding of effects of interventions which may be
+unique to particular early stages in the progression of AD. Based on those studies, and using
+the cognitive data available in this study, participants were classified as EMCI if baseline CDR-
+SB was less than or equal to 1.5 and LMCI if CDR-SB was greater than 1.5.
+This amendment includes the change of primary endpoint from ventricular volume to
+annualized percent change in ventricular volume. The amendment also reflects the change in
+the statistical analysis to include early and late MCI as study factors for all endpoints.
+31.0 AMENDMENT 7: SUMMARY OF CHANGES
+31.1 Introduction:
+Amendment 7 consists of administrative changes to the table of contents and sections 15.1 and  15.2.
+<<<PAGE 44>>>
+Page 47
+Version: 5/20/2014
+<<<PAGE 45>>>
+Page 48
+Version: 5/20/2014
+31.2 Rationale:
+To correct errors and add missing CSF secondary endpoint.
+32.0 AMENDMENT 8: SUMMARY OF CHANGES
+32.1 Introduction:
+In section 15.2 we stated “Participants will also be classified as early MCI (EMCI) if baseline CDR-
+SB is less than 1.5, and late MCI (LMCI) if CDR-SB is greater than 1.5.” This doesn't say what
+happens if a patient falls at 1.5. Amendment 8 revises to state LMCI as 1.5 or greater.
+32.2 Rationale:
+The 1.5 cut-off more accurately depicts the early and late MCI status in that there are no
+conversions at year 1, and only 1 conversion at year 2 in the early MCI status.
+33.0 AMENDMENT 9: SUMMARY OF CHANGES
+33.1 Change:
+The protocol is amended to include unblinding subjects who want to know if they received IVIG or
+placebo. Subjects participating in the extension portion of the study may be unblinded upon study
+completion. Subjects who declined participation in the extension portion of the study or who did not
+complete the study will be unblinded upon request.
+The Principal Investigator will inform subjects of their group assignment at their last study visit, and
+will not have access to individual subject data following study completion.
+This unblinding protocol was approved by the DSMC on 6/3/16. No changes were made to the
+unblinding protocol during study participation.
+33.2 Rationale:
+There are current and future studies for MCI and AD that exclude subjects who have had prior
+immunotherapy. If subjects remain blinded, placebo arm subjects will not have a chance to
+participate in these trials.
+<<<PAGE 46>>>
+Page 49
+Version: 5/20/2014

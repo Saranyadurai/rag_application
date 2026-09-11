@@ -1,0 +1,948 @@
+<<<PAGE 1>>>
+IMAGING TAU IN ALZHEIMER’S DISEASE AND NORMAL
+AGING
+Regulatory Sponsor: William Charles Kreisl, MD
+Taub Institute
+622 W. 168th St, PH 19, New York, NY 10032
+212-305-9194
+Funding Sponsor: Taub Institute
+622 W. 168th St, PH 19, New York, NY 10032
+212-305-9194
+Study Product: 18F-THK-5351
+AAAQ7868 Protocol Number:
+Date: May 11, 2016
+Amended: December , 2016
+Administrative Change:
+ClinicalTrials.gov ID: NCT02884492
+<<<PAGE 2>>>
+Page ii
+Table of Contents
+STUDY SUMMARY ................................................................................................................................................... 1
+1 INTRODUCTION .............................................................................................................................................. 4
+1.1 BACKGROUND .................................................................................................................................................. 4
+1.2 INVESTIGATIONAL AGENT................................................................................................................................ 5
+1.3 PRECLINICAL DATA ......................................................................................................................................... 5
+1.4 CLINICAL DATA TO DATE ................................................................................................................................ 7
+1.5 DOSE RATIONALE AND RISK/BENEFITS ............................................................................................................ 7
+2 STUDY OBJECTIVES ...................................................................................................................................... 8
+3 STUDY DESIGN ................................................................................................................................................ 8
+3.1 GENERAL DESIGN ............................................................................................................................................ 8
+3.2 PRIMARY STUDY ENDPOINTS ......................................................................................................................... 10
+3.3 SECONDARY STUDY ENDPOINTS .................................................................................................................... 10
+3.4 PRIMARY SAFETY ENDPOINTS ........................................................................................................................ 10
+4 SUBJECT SELECTION AND WITHDRAWAL.......................................................................................... 10
+4.1 INCLUSION CRITERIA ..................................................................................................................................... 10
+4.2 EXCLUSION CRITERIA .................................................................................................................................... 10
+4.3 SUBJECT RECRUITMENT AND SCREENING ...................................................................................................... 11
+4.4 EARLY WITHDRAWAL OF SUBJECTS ............................................................................................................... 12
+4.4.1 When and How to Withdraw Subjects .................................................................................................. 12
+4.4.2 Data Collection and Follow-up for Withdrawn Subjects ..................................................................... 12
+5 STUDY DRUG ................................................................................................................................................. 12
+5.1 DESCRIPTION ................................................................................................................................................. 12
+5.2 TREATMENT REGIMEN ................................................................................................................................... 12
+5.3 METHOD FOR ASSIGNING SUBJECTS TO TREATMENT GROUPS ....................................................................... 12
+5.4 PREPARATION AND ADMINISTRATION OF STUDY DRUG ................................................................................. 12
+5.5 SUBJECT COMPLIANCE MONITORING ............................................................................................................. 13
+5.6 PRIOR AND CONCOMITANT THERAPY ............................................................................................................ 13
+5.7 PACKAGING.................................................................................................................................................... 13
+5.8 BLINDING OF STUDY DRUG ............................................................................................................................ 13
+5.9 RECEIVING, STORAGE, DISPENSING AND RETURN .......................................................................................... 13
+5.9.1 Receipt of Drug Supplies ..................................................................................................................... 13
+5.9.2 Storage ................................................................................................................................................. 13
+5.9.3 Dispensing of Study Drug .................................................................................................................... 13
+5.9.4 Return or Destruction of Study Drug ................................................................................................... 13
+6 STUDY PROCEDURES .................................................................................................................................. 13
+7 STATISTICAL PLAN ..................................................................................................................................... 15
+7.1 SAMPLE SIZE DETERMINATION ...................................................................................................................... 15
+7.2 STATISTICAL METHODS ................................................................................................................................. 16
+7.3 SUBJECT POPULATION(S) FOR ANALYSIS ....................................................................................................... 16
+8 SAFETY AND ADVERSE EVENTS ............................................................................................................. 16
+8.1 DEFINITIONS .................................................................................................................................................. 16
+8.2 RECORDING OF ADVERSE EVENTS ................................................................................................................. 18
+8.3 REPORTING OF SERIOUS ADVERSE EVENTS.................................................................................................... 19
+8.3.1 IRB Notification by Investigator .......................................................................................................... 19
+8.3.2 FDA Notification by Investigator ......................................................................................................... 20
+8.4 UNBLINDING PROCEDURES ............................................................................................................................ 20
+8.5 STOPPING RULES ............................................................................................................................................ 20
+8.6 MEDICAL MONITORING.................................................................................................................................. 20
+<<<PAGE 3>>>
+Page iii
+9 DATA HANDLING AND RECORD KEEPING .......................................................................................... 20
+9.1 CONFIDENTIALITY .......................................................................................................................................... 20
+9.2 SOURCE DOCUMENTS ..................................................................................................................................... 21
+9.3 CASE REPORT FORMS..................................................................................................................................... 21
+10 STUDY MONITORING, AUDITING, AND INSPECTING ....................................................................... 21
+10.1 STUDY MONITORING PLAN ....................................................................................................................... 21
+11 ETHICAL CONSIDERATIONS .................................................................................................................... 21
+12 STUDY FINANCES ......................................................................................................................................... 21
+12.1 FUNDING SOURCE ..................................................................................................................................... 21
+12.2 CONFLICT OF INTEREST ............................................................................................................................. 22
+12.3 SUBJECT STIPENDS OR PAYMENTS ............................................................................................................ 22
+13 PUBLICATION PLAN .................................................................................................................................... 22
+14 REFERENCES ................................................................................................................................................. 22
+<<<PAGE 4>>>
+Page iv
+List of Abbreviations
+PET Positron emission tomography
+MRI Magnetic resonance imaging
+AD Alzheimer’s disease
+MCI Mild cognitive impairment
+AD Alzheimer’s disease
+SUVR Standardized uptake value ratio
+18F-THK-5351 ((S)-1-(fluoro-18F)-3-((2-(6-(methylamino)pyridin-3-yl)quinolin-6-
+yl)oxy)propan-2-ol).
+mCi millicurie
+MBq Megabecquerel
+µSv microSievert
+µGy microGray
+<<<PAGE 5>>>
+Clinical Research Protocol Template page 1
+Version 4
+Study Summary
+Title Imaging tau in Alzheimer’s disease and normal aging
+Short Title Imaging tau in Alzheimer’s disease and normal aging
+Protocol Number AAAQ7868
+Phase II
+Methodology
+This is a single center PET study.
+Screening will include history and physical examination, brain MRI,
+and neuropsychological examination. Subjects who meet criteria for
+Alzheimer’s disease (AD) or mild cognitive impairment (MCI), or who
+are cognitively normal will then have one brain PET scan with 18F-
+THK-5351. Vital signs will be checked prior to injection of 18F-THK-
+5351, then at the completion of the PET scan.
+Subjects will have the option of having a lumbar puncture to measure
+CSF concentrations of markers of inflammation and neurodegeneration.
+Study Duration 5 years
+Study Center(s) Taub Institute, CUMC
+Objectives The primary objective is to determine the relationship between tau,
+normal aging, and Alzheimer’s disease.
+Number of Subjects
+Up to 60 of these subjects will have 18F-THK-5351. PET. Subjects will
+be 50 years and older. Thirty subjects will have normal cognition and
+the other thirty will have cognitive impairment.
+<<<PAGE 6>>>
+Page 2
+Diagnosis and Main
+Inclusion Criteria
+Inclusion criteria:
+1. Age 50 and older
+2. Meet criteria for either a) amnestic mild cognitive impairment
+(single or mixed domain) or mild Alzheimer’s disease, or b)
+have no cognitive impairment, based on history, exam,
+neuropsychological testing, and consensus diagnosis. MCI and
+mild AD patients must have Clinical Dementia Rating scale
+score of 0.5 or 1. Unimpaired subjects must have Clinical
+Dementia Rating scale score of 0.
+3. Subjects unable to provide informed consent must have a
+surrogate decision maker
+4. Written and oral fluency in English or Spanish
+5. Able to participate in all scheduled evaluations and to complete
+all required tests and procedures.
+6. In the opinion of the investigator, the subject must be considered
+likely to comply with the study protocol and to have a high
+probability of completing the study.
+Exclusion criteria:
+1. Past or present history of certain brain disorders other than MCI
+or AD.
+2. Certain significant medical conditions, which make study
+procedures of the current study unsafe. Such serious medical
+conditions include uncontrolled epilepsy and multiple serious
+injuries.
+3. Contraindication to MRI scanning
+4. Conditions precluding entry into the scanners (e.g. morbid
+obesity, claustrophobia, etc.).
+5. History of kidney disease or presence of impaired kidney
+function based on laboratory tests at screening visit. Benign or
+resolved kidney conditions such as uncomplicated kidney stones
+or treated infection would be allowed if kidney function is
+normal at screening visit.
+6. History of liver disease or presence of impaired liver function
+based on laboratory tests at screening visit. Benign or resolved
+liver conditions such as uncomplicated cysts or resolved viral
+infections would be allowed if liver function is normal at
+screening visit.
+7. Participation in the last year in a clinical trial for a disease
+modifying drug for AD.
+8. Inability to have a catheter in subject’s vein for the injection of
+radioligand.
+9. Inability to have blood drawn from subject’s veins.
+Study Product, Dose,
+Route, Regimen
+18F-THK-5351, up to 5 mCi (185 MBq), IV, total of one injection.
+<<<PAGE 7>>>
+Page 3
+Duration of
+administration
+A single dose of radioligand will be injected over 1 minute for each PET
+scan.
+Reference therapy N/A
+Statistical
+Methodology
+Comparing PET imaging among groups
+The primary outcome measure will be regional standardized uptake
+value ratio (SUVR) values for 18F-THK-5351 using cerebellum as
+reference region. Multiple brain regions will be measured, with
+particular attention to medial temporal cortex structures such as
+hippocampus and entorhinal cortex. Analysis will be performed using a
+one-way ANOVA with cognitive status (AD vs. MCI vs. normal) as
+independent variable. Effect of age and education on 18F-THK-5351
+will be determined in post-hoc analysis.
+Sample size determination
+Results from a small published study showed greater 18F-THK-5351
+binding in hippocampus in AD patients (n = 3) than controls (n = 3),
+with effect size of 1.95. This would allow us to detect differences in 18F-
+THK-5351 between AD patients and controls in hippocampus with n =
+10 subjects per group. However, we don’t know the effect size when
+MCI patients are compared to AD patients and when MCI patients are
+compared to controls. We wish to scan up to 60 subjects total (30
+impaired and 30 unimpaired) to ensure power to see effect on 18F-THK-
+5351 binding between groups.
+We will also perform linear regression to look for correlations between
+change in 18F-THK-5351 binding and cognitive scores, CSF
+concentration of biomarkers of inflammation and neurodegeneration,
+and atrophy measured with MRI.
+<<<PAGE 8>>>
+Page 4
+<<<SECTION 1 Introduction>>>
+1 Introduction
+This document is a protocol for a human research study. This study is to be conducted ac cording
+to US and international standards of Good Clinical Practice (FDA Title 21 part 312 and
+International Conference on Harmonization guidelines), applicable government regulations and
+Institutional research policies and procedures.
+<<<SECTION 1.1 Background>>>
+1.1 Background
+1.1.1. Background on Alzheimer’s disease
+While amyloid plaques are a pathological hallmark of Alzheimer’s disease (AD), whether
+β-amyloid is the causal agent of neurodegeneration in AD remains unclear. Evidence supporting
+the hypothesis that amyloid is a primary contributor to AD pathogenesis (the amyloid-first
+hypothesis) include the finding that genetic mutations responsible for inherited forms of AD
+cause increased amyloid production. Studies using positron emission tomography (PET) to
+measure am
+yloid plaque burden in vivo have demonstrated amyloid positivity before obvious
+atrophy or cognitive decline in healthy older controls. While tau positive neurofibrillary tangles
+represent the second hallmark of AD, tau mutations are seen in patients with variants of
+frontotemporal dementia, not AD. The propagation of tau pathology is thought to follow
+amyloidosis, suggesting amyloid in some way induces tau mediated degeneration. However, the
+link between amyloid and tau not clear as there are spatial and temporal distinctions. For
+example, bulk of amyloid burden in medial parietal cortex and frontal cortex early on, while tau
+burden begins in medial temporal cortex.
+While β-amyloid has been shown to have direct neurotoxic effects in vitro, these effects
+are seen at concentrations of β-amyloid much higher than found in human brain[1].Therefore,
+amyloi
+d may not confer significant direct toxicity. In addition, autopsy findings of pre-tangle
+pathology occurring in midlife prior to amyloidosis[2] suggest that tauopathy may begin prior
+and independent to significant amyloid plaque deposition. Since amyloid burden correlates
+poorly with cognition[3], tau may be a more important mediator of neurodegeneration in AD.
+4.1.1. Background on tau pathology in neurodegenerative diseases.
+Deposition of hyperphosphorylated tau protein is observed in several neurodegenerative
+diseases including Alzheimer’s disease, progressive supranuclear palsy, corticobasal
+degene
+ration, chronic traumatic encephalopathy, and frontotemporal lobar degeneration [4]. Tau
+is a microtubular protein
+and its native function is to provide structural support to neurons.
+Paired helical filaments composed of dysfunctional tau protein are found in several
+neurodegenerative diseases. In Alzheimer’s disease, the clinical progression of dementia has
+been shown to correlate with the amount and topographical spread of tau throughout the brain.
+Therefore, detecting and quantifying tau agg regate load in brain would have diagnostic and
+prognostic potential in clinical management of several neurological diseases. As disease
+modifying drugs that target tau are being developed, there is a critical need for a reliable method
+of detec
+ting tau aggregates to confirm pathology in patients entering clinical trials.
+<<<SECTION 4.1.2. Background on PET imaging of tau>>>
+4.1.2. Background on PET imaging of tau
+Positron emission tomography (PET) imaging allows in vivo measurement of protein
+density after administration of radiolabeled ligands that bind to the target protein. 18F-FDDNP
+has demonstrated increased binding in patients with tauopathies such as Alzheimer’s disease [5-
+<<<PAGE 9>>>
+Page 5
+8] and progressive supranuclear palsy [9]. Reports using this radioligand found increased binding
+in former NFL play
+ers in medial temporal and brainstem structures known to be affected in
+chronic traumatic encephalopathy [10, 11]. However, FDDNP binds to both fibrillar amyloid and
+tau, so the PET signa
+l is nonselective and the greater density of amyloid plaque than tau-positive
+tangles is expected to confound measurement of tau in patients with co-pathology. The more
+recently developed radioligand 18F-T807 (now 18F-AV-1451) has been shown to have greater
+affinity for tau aggregates than amyloid plaques. While only a small number of studies using 18F-
+AV-1451 have been published to date [12, 13], several clinical trials are currently employing this
+radioligand.
+11C-PBB3 has high affinity and high selectivity for tau [14]. Human studies to date have
+included healthy controls, patients with Alzheimer’s disease, and one patient with corticobasal
+syndrome. However, 11C-P BB3 has limitations in that radiometabolites enter the brain [15] and
+the radioligand undergoes photo-isomerization in fluorescent light [16].
+Other alternative tau radioligands include 18F-THK-5117, which has greater binding in
+AD patients than controls in expected distribution of tangle pathology [17]. However, this
+compound has a relatively high amount of white matter binding that could confound accurate
+quantification of tau aggregation in vivo. Nevertheless, 18F-THK -5117 binding increases in
+patients with AD, but not healthy controls over time, and this increase correlates with worsening
+of clinical symptoms[18].
+18F-THK-5351 is a recently developed radioligand with lower nonspecific binding than
+18F-THK-5117. Ex vivo studies show that binding of 3H-THK-5351 colocalizes to tau
+immunostaining in AD brain tissue, with lower white matter binding than seen with the earlier
+tau radioligand THK-5117[19].  Therefore, this recently developed radioligand has promise for
+reliable quantification of tau pathology in Alzheimer’s disease and other tauopathies.
+<<<SECTION 1.2 Investigational Agent>>>
+1.2 Investigational Agent
+18F-THK-5351 is a PET radioligand that binds to paired helical filament tau aggregates.
+This radioligand has only been used for research purposes. 18F-THK-5351 will be administered
+in tracer doses (≤10 µg) at activity of up to 5 mCi (185 MBq) per injection.
+<<<PAGE 10>>>
+Page 8
+<<<SECTION 2 Study Objectives>>>
+2 Study Objectives
+2.1. The primary objective is to determine the extent and spatial distribution of tau at different
+stages along the cognitive spectrum of aging (cognitively normal older adults, adults with mild
+cognitive impairment, and adults with Alzheimer’s disease dementia).
+2.2. Secondary objectives are to determine how 18F-THK -5351 binding in brain relates to
+cognitive performance, amyloid binding, atrophy on MRI, and CSF concentrations of markers of
+inflammati
+on and neurodegeneration.
+<<<SECTION 3 Study Design>>>
+3 Study Design
+<<<SECTION 3.1 General Design>>>
+3.1 General Design
+<<<SECTION 3.1.1. Subject recruitment and screening procedures>>>
+3.1.1. Subject recruitment and screening procedures
+Men and women age 50 and older will be recruite d from the CUMC Washington
+Heights-Inwood Community Aging Project (known locally as WHICAP, R01 AG037212, PI
+Richard Mayeux), the CUMC Alzheimer's Disease Research Center (ADRC), and Dr. Davangere
+Devanand’s Questionable Dementia 2 (QD2) cohort, and CUMC clinics. Subjects may also be
+co-enrolled in Columbia University Medical Center protocols AAAO1151 (PI William Kreisl),
+AAAO
+9758 (PI Adam Brickman), AAAI2752 (PI Yaakov Stern), AAAQ8249 (PI Yaakov
+Stern), and AAAQ8096 (PI Yaakov Stern). R ecruitment may come from additional research
+cohorts, as this protocol will encourage data sharing to reduce the total number of subjects that
+require 18F-THK-5351 imaging for project completion. Only subjects from established research
+cohorts that previously consented to be contacted about future research studies will be
+approached about this study. Informed consent will be obtained prior to study enrollment.
+For subjects with cognitive impairment, prior to obtaining informed consent, a licensed physician
+who is not listed as personnel on this protocol will determine whether the subjects has capacity to
+provide their own consent. If the subject lacks consent, a legally authorized representative will be
+required to provide consent for the subject.
+Up to 60 subjects will undergo screening including history , physical examination, routine
+laboratory studies, neuropsychological testing, and brain MRI. Subjects will be identified as
+either c
+ognitively normal or cognitively impaired in consensus conference. Subjects must have
+C
+linical Dementia Rating scale score of 0.5 or 1 and meet clinical criteria for either amnestic
+MCI (single or multiple-domain)[20] or Alzheimer’s disease[21] to be included in the
+cognitively impaired category.
+Targ
+et sample size is 30 elders with impairment and 30 elders without impairment (60 subjects
+total).
+<<<PAGE 11>>>
+Page 9
+3.1.2 Neuropsychological data analysis
+Selected neuropsychological tests scores will be combined into four composite scores
+(memory, language, executive/speed, and visuospatial). Memory testing will include Selective
+Reminding Test and Benton Visual Retention Test (BVRT), Recognition Memory Multiple
+Choice version. Z
+-scores for each c ognitive measure will be calculated and averaged to create a
+compos
+ite z-score for each domain. These factor domain scores will be subsequently averaged to
+produce a composite cognitive z-score to indicate mean cognition. Higher z-score indicates
+better cognitive performance.
+3.1.3. Imaging procedu res
+One brain MRI will be performed on each subject using a 3 T Philips scanner. Sequences
+performed will include 3D T1 (MP RAGE, 180 slice 1 mm resolution, 256 x 256 voxel count) for
+volumetric analysis and clinical sequences to exclude subjects with significant intra cranial
+pathology unrelated to AD, such as malignant brain tumor of subdural hematoma. PET scans will
+take place on a Biograph mCT PET scanner (Siemens Healthcare) at the CUMC Kreitchman
+PET Center. Subjects will have one PET scan with 18F-THK-5351 (injected activity up to 5 mCi
+= 185 MBq). PET imaging will be performed without arterial sampling. V ital signs (blood
+pressure, heart rate, respiratory rate, and temperature) will be checked prior to injection of 18F-
+THK-5351, then at the completion of the PET scan. 18F-THK-5351 will be synthesized by the
+CUMC PET Department Radiochemistry Laboratory. Subjects will not be informed of 18F-THK-
+5351 PET scan results, as this scan is used only in research and have not yet been validated for
+clinical use. Subjects will be informed if a clinically important abnormality is detected on MRI
+or PET imaging (e.g., brain tumor).
+3.1.4 Image processing
+Fre
+eSurfer (http://surfer.nmr.mgh.harvard.edu/), the MRI software package comprising a
+suite of automated tools for segmentation, reconstruction, and derivation of regional volumes and
+surface-based rendering, will be used for derivation of regions-of-interest (ROIs). Eleven ROIs
+will be extracted from the structural T1 image: entorhinal cortex, hippocampus, inferior temporal
+cortex, combined superior and middle temporal cortex, superior parietal lobule, inferior parietal
+lobule, precuneus, occipital cortex, prefrontal cortex, striatum, and thalamus.
+18F-THK-5351 PET images will be analyzed as follows: Freesurfer based ROIs will be
+applie
+d to coregistered PET images. Correction for partial volume effects using a region-based
+voxel-wise method[22] will be applied. Regional time-activity curves using 40-60 min of scan
+data will be extracted from the PET scans, including cerebellum which will be used as a
+reference region. Standardized uptake value ratio (SUVR) values will be calculated by dividing
+SUV values for each target region by that of the cere bellum
+3.1.5. Cerebrospinal fluid sampling and ana lysis
+Subjects will have the option of having one lumbar puncture (LP) for CSF collection.
+Subjects may refuse the LP and still participate in the other study procedures. CSF analysis will
+be performed to determine CSF concentrations of total tau, phospho-tau, β-amyloid, and markers
+of inflammation such as IL-1β, TNF-α, glial fibrillary acidic protein, S100B, and YLK-40.
+3.1.6. Procedures performed in other protocols
+<<<PAGE 12>>>
+Page 10
+If any of the above procedures have been performed within one year of the 18F-THK-5351
+PET scan, then the procedures will not need to be repeated under this protocol. Rather the
+previously obtained results will be used.
+<<<SECTION 3.2 Primary Study Endpoints>>>
+3.2 Primary Study Endpoints
+Because the drugs used in this study are radioligands given at tracer doses, there are no clinical
+endpoints of the study.
+The primary outcome measures are:
+1. Amount of 18F-THK-5351 binding.
+Secondary outcome measures are:
+1. CSF concentration of inflammatory markers
+2. CSF concentration of β-amyloid , tau and phospho-tau
+<<<SECTION 3.3 Secondary Study Endpoints>>>
+3.3 Secondary Study Endpoints
+N/A
+<<<SECTION 3.4 Primary Safety Endpoints>>>
+3.4 Primary Safety Endpoints
+N/A
+<<<SECTION 4 Subject Selection and Withdrawal>>>
+4 Subject Selection and Withdrawal
+<<<SECTION 4.1 Inclusion Criteria>>>
+4.1 Inclusion Criteria
+1. Age 50 and older
+2. Meet criteria for either a) amnestic mild cognitive impairment (single or mixed domain)
+or mild Alzheimer’s disease, or b) have no cognitive impairment based on history, exam,
+neuropsychological testing, and consensus diagnosis. MCI and mild AD patients must
+have Clinical Dementia Rating scale score of 0.5 or 1. Unimpaired subjects must have
+Clinical Dementia Rating scale score of 0.
+3. Subjects unable to provide informed consent must have a surrogate decision maker
+4. Written and oral fluency in English or Spanish
+5. Able to participate in all scheduled evaluations and to complete all required tests and
+procedures.
+6. In the opinion of the investigator, the subject must be considered likely to comply with
+the study protocol and to have a high probability of completing the study.
+<<<SECTION 4.2 Exclusion Criteria>>>
+4.2 Exclusion Criteria
+1. Past or present history of certain brain disorders other than MCI or AD.
+<<<PAGE 13>>>
+Page 11
+2. Certain significant medical conditions, which make study procedures of the current study
+unsafe. Such serious medical conditions include uncontrolled epilepsy and multiple
+serious injuries.
+3. Contraindication to MRI scanning
+4. Conditions precluding entry into the scanners (e.g. morbid obesity, claustrophobia, etc.).
+5. History of kidney disease or presence of impaired kidney function based on laboratory
+tests at screening visit. Benign or resolved kidney conditions such as uncomplicated
+kidney stones or treated infection would be allowed if kidney function is normal at
+screening visit.
+6. History of liver disease or presence of impaired liver function based on laboratory tests at
+screening visit. Benign or resolved liver conditions such as uncomplicated cysts or
+resolved viral infections would be allowed if liver function is normal at screening visit.
+7. Participation in the last year in a clinical trial for a disease modifying drug for AD.
+8. Inability to have a catheter in subject’s vein for the injection of radioligand.
+9. Inability to have blood drawn from subject’s veins.
+Impaired kidney function is defined here as estimated glomerular filtration rate < 60
+mL/min/1.73m2 at screening. Impaired liver function is defined here as aspa rtate
+aminotransferase, alanine aminotransferase, or alkaline phosphatase > 2 times upper limit of
+normal at screening visit.
+<<<SECTION 4.3 Subject Recruitment and Screening>>>
+4.3 Subject Recruitment and Screening
+Up to 60 elderly men and women will be recruited from CUMC Washington Heights-
+Inwood Community Aging Project (known locally as WHICAP, R01 AG037212, PI Richard
+Mayeux), the CUMC Alzheimer's Disease Research Center (ADRC), and Dr. Davangere
+Devana
+nd’s Questionable Dementia 2 (QD2) cohort, and CUMC clinics. Recruitment may come
+from additional research cohorts, as this protocol will encourage data sharing to reduce the total
+number of subjects that require 18F-THK-5351 imaging for project completion. Only subjects
+from established research cohorts that previously consented to be contacted about future research
+studies will be approached about this study. Informed consent will be obtained by a qualified
+investig
+ator prior to study enrollment. Subjects will undergo screening including history,
+physical examination, routine laboratory studies, neuropsychological testing, and b rain MRI to
+identify cohorts who a
+re either cognitively impairment, meeting criteria for MCI or AD, (target n
+= 30), or cognitively normal (n = 30). Subjects co-enrolled from other protocols may have any of
+the above screening procedures done through the earlier study, as long as screening laboratories,
+MRI, and neuropsychological testing are done within 12 months of 18F-THK-5351 imaging.
+During screening, participants will be administered a neuropsychological test battery and
+a medical interview. Individuals with significant cognitive or functional impairment are referred
+for evaluation by a board-certified physician. All participants’ data will be reviewed in a
+consensus conference where a working diagnosis is established. The diagnostic criteria for
+dementia will be based on DSM-IV criteria. The diagnosis of MCI or AD will be based on
+updated criteria[20, 21]. The neuropsychological test battery will include the foll owing tests: the
+Mini-Mental State Examination, Selective Reminding Test, Benton Visual Retention Test
+(BVRT), Recognition Memory Multiple Choice version, Rosen Drawing Test, 5 selected items,
+<<<PAGE 14>>>
+Page 12
+BVRT Matching, multiple-choice version, Boston Naming Test, 15 selected items, The
+Controlled Word Association Test and Category naming:  Animals, Food and Clothing, Complex
+Ide
+ational Material Subtest of the Boston Diagnostic Aphasia Evaluation (BDAE): first 6 items,
+The Color Trails Test part 1, WAIS-R Similarities, and Color Trails part 2. At minimum,
+subjects will receive testing in Selective Reminding Test, Trail Making Test, and Verbal Fluency
+(CFL, and Animals). Raw scores and demographically corrected T-scores (age, years of
+educa
+tion, sex, and ethnicity) will be determined. Subjects will also undergo University of
+Pennsylvania Smell Identification Test (UPSIT), a non-invasive test that measures odor
+identification abilities.
+<<<SECTION 4.4 Early Withdrawal of Subjects>>>
+4.4 Early Withdrawal of Subjects
+<<<SECTION 4.4.1 When and How to Withdraw Subjects>>>
+4.4.1 When and How to Withdraw Subjects
+Subjects will be withdrawn if they develop serious medical illness during the study, defined as a n
+event determined to be grade 3 or higher, i.e., severe or life-threatening. The exception is a single
+event of syncope if felt by the PI to be vasovagal in etiology and related to catheter placement or
+venipuncture. Vasovagal syncope in response to blood drawing and IV placement is common
+a
+nd does not warrant study withdrawal if the subject’s loss of consciousness is brief (i.e., less
+than 5 minutes) and does not require further medical attention.
+<<<SECTION 4.4.2 Data Collection and Follow-up for Withdrawn Subjects>>>
+4.4.2 Data Collection and Follow-up for Withdrawn Subjects
+Data collected prior to withdrawal will be analyzed if possible. No data collection will take place
+after withdrawal in subjects who drop out of the study.
+<<<SECTION 5 Study Drug>>>
+5 Study Drug
+<<<SECTION 5.1 Description>>>
+5.1 Description
+18F-THK -5351 is a PET radioligand that binds to tau aggregates. 18F-THK-5351 will be
+administered at tracer doses and is not expected to have a pharmacological effect.
+<<<SECTION 5.2 Treatment Regimen>>>
+5.2 Treatment Regimen
+N/A
+<<<SECTION 5.3 Method for Assigning Subjects to Treatment Groups>>>
+5.3 Method for Assigning Subjects to Treatment Groups
+N/A
+<<<SECTION 5.4 Preparation and Administration of Study Drug>>>
+5.4 Preparation and Administration of Study Drug
+18F-THK-5351 will be synthesized and administered by the CUMC PET Department. 18F-THK-
+5351 injection will be administered at a target imaging dose of up to 5 mCi (185 MBq).
+Calculation of activity to be injected will be performed by a qualified radiopharmacist in the
+CUMC PET department.
+<<<PAGE 15>>>
+Page 13
+<<<SECTION 5.5 Subject Compliance Monitoring>>>
+5.5 Subject Compliance Monitoring
+N/A
+<<<SECTION 5.6 Prior and Concomitant Therapy>>>
+5.6 Prior and Concomitant Therapy
+Subjects will not be included in the study if they have participated in the last year in a clinical
+trial for a disease modifying drug for AD.
+<<<SECTION 5.7 Packaging>>>
+5.7 Packaging
+N/A
+<<<SECTION 5.8 Blinding of Study Drug>>>
+5.8 Blinding of Study Drug
+N/A
+<<<SECTION 5.9 Receiving, Storage, Dispensing and Return>>>
+5.9 Receiving, Storage, Dispensing and Return
+<<<SECTION 5.9.1 Receipt of Drug Supplies>>>
+5.9.1 Receipt of Drug Supplies
+Upon receipt of the of the study treatment supplies, the CUMC PET Center staff will
+perform an inventory and a drug receipt log will be filled out and signed by the person
+accepting the shipment.  Any damaged or unusable study drug in a given shipment (active
+drug or comparator) will be documented in the study files.
+<<<SECTION 5.9.2 Storage>>>
+5.9.2 Storage
+N/A
+<<<SECTION 5.9.3 Dispensing of Study Drug>>>
+5.9.3 Dispensing of Study Drug
+18F-THK-5351 will be administered the same day of synthesis by the CUMC PET
+Department.
+<<<SECTION 5.9.4 Return or Destruction of Study Drug>>>
+5.9.4 Return or Destruction of Study Drug
+Any unused radiopharmaceutical will be on site and documented in the study files.
+<<<SECTION 6 Study Procedures>>>
+6 Study Procedures
+This study will involve up to 5 outpatient visits. See schedule below.
+At the first screening visit, subjects will sign informed consent, undergo history and physical and
+neurologi
+cal examination, neuropsychological testing, and have blood drawn routine safety
+laboratories. Additional screening visits may be required to complete all procedures. Additional
+visits will be required for brain MRI. Flexibility is allowed in s creening procedures such that
+procedures may be performed in any order and may be performed on the same day if schedule
+allows for subject convenience. Subjects who already had screening procedures performed under
+a previous research protocol do not need to have them repeated unless performed more than 12
+<<<PAGE 16>>>
+Page 14
+months prior to the 18F-THK-5351 PET scan. A total of 3 screening visits are anticipated.
+However, additional visits may be necessary if certain tests must be scheduled on different days
+due to scheduling.
+Up to two study visits will be required. One visit will be for the 18F-THK-5351 PET scan and the
+second for the optional lumbar puncture. Subjects may decline the lumbar puncture and still
+participate in other parts of the study. If schedule allows, the 18F-THK-5351 PET and LP could
+be performed on the same day.
+18F-THK-5351 PET scans and LP must be completed within 12 months of the brain MRI.
+<<<PAGE 17>>>
+Page 15
+Study Schedule
+Study Procedures
+Screen a Study b
+≤12
+months
+Visit
+<<<SECTION 1 Visit 2>>>
+1 Visit 2
+Informed consent X
+Medical/psychiatric history X
+Inclusion/exclusion criteria XXX
+Neuropsychological testing X
+MRI X
+18F-THK-5351 PET c X
+Lumbar puncture c, d X
+Laboratory determinations eXX
+Neurological examination X
+Vital signs X
+Height and weight X X
+Adverse events fXXX
+a. Screening procedures may be performed in any order and may be performed on the same day
+if schedule allows for subject convenience. Subjects who already had screening procedures
+performed under a different protocol do not need to have them repeated unless performed more
+than 12 months prior to inclusion in this study. Up to 3 screening visits are anticipated. However,
+additional visits may be necessary if certain tests must be scheduled on different days due to
+scheduling.
+b. Study procedures must be completed within 12 months of MRI.
+c. 18F-THK-5351 PET and LP may be performed on same day.
+d. Lumbar puncture is optional.
+e. Laboratory determinations here include complete blood count, basic metabolic panel, liver
+functions tests, thyroid stimulating hormone, and urinalysis.
+f. Adverse event reporting to be performed at Visit 1 after the PET scan is completed. Subject
+will be called by telephone 24 hours after the PET scan for follow up adverse event reporting.
+<<<SECTION 7 Statistical Plan>>>
+7 Statistical Plan
+<<<SECTION 7.1 Sample Size Determination>>>
+7.1 Sample Size Determination
+Because 18F-THK-5351 is a recently developed radioligand, we do not have adequa te
+preliminary data for a formal power calculation. However, results from a small published study
+showed greater 18F-THK-5351 binding in hippocampus in AD patients (n = 3) than controls (n =
+3), wit
+h effect size of 1.95[19]. This would allow us to detect differences in 18F-THK-5351
+between AD patients and controls in hippocampus with n = 10 subjects per group. However, we
+don’t know the effect size when MCI patients are compared to AD patients and when MCI
+<<<PAGE 18>>>
+Page 16
+patients are compared to controls. We wish to scan up to 60 subjects total (30 impaired and 30
+unimpaired) to ensure power to see effect on 18F-THK-5351 binding between groups.
+<<<SECTION 7.2 Statistical Methods>>>
+7.2 Statistical Methods
+The primary outcome measure will be regional standardized uptake value ratio (SUVR)
+values for 18F-THK-5351 using cerebellum as reference region. Multiple brain regions will be
+measured, with particular attention to medial temporal cortex structures such as hippocampus
+and entorhinal cortex. Analysis will be performed using a one-way ANOVA with cognitive
+status (AD vs. MCI vs. normal) as independent variable. Effect of age and education will be
+determined in post-hoc analysis.
+Regression models will be fit for 18F-THK-5351 binding as dependent variable and
+cognitive scores, voxel count on MRI, and CSF concentrations of markers of inflammation and
+neurodegeneration as independent variables.
+<<<SECTION 7.3 Subject Population(s) for Analysis>>>
+7.3 Subject Population(s) for Analysis
+Subjects will be elders age 50 and older with normal cognition, mild cognitive impairment, or
+mild AD.
+<<<SECTION 8 Safety and Adverse Events>>>
+8 Safety and Adverse Events
+<<<SECTION 8.1 Definitions>>>
+8.1 Definitions
+Adverse Event
+An adverse event  (AE) is any symptom, sign, illness or experience that develops or
+worsens in severity during the course of the study.  Intercurrent illnesses or injuries should
+be regarded as adverse events.  Abnormal results of diagnostic procedures are considered to
+be adverse events if the abnormality:
+ results in study withdrawal
+ is associated with a serious adverse event
+ is associated with clinical signs or symptoms
+ leads to additional treatment or to further diagnostic tests
+ is considered by the investigator to be of clinical significance
+Serious Adverse Event
+Adverse events are classified as serious or non -serious.  A serious adverse event is any AE
+that is:
+ fatal
+ life-threatening
+ requires or prolongs hospital stay
+ results in persistent or significant disability or incapacity
+ a congenital anomaly or birth defect
+ an important medical event
+<<<PAGE 19>>>
+Page 17
+Important medical events are those that may not be immediately life threatening, but are
+clearly of major clinical sig nificance.   They may jeopardize the subject, and may require
+intervention to prevent one of the other serious outcomes noted above.  For example, drug
+overdose or abuse, a seizure that did not result in in -patient hospitalization, or intensive
+treatment o f bronchospasm in an emergency department would typically be considered
+serious.
+All adverse events that do not meet any of the criteria for serious should be regarded as
+non-serious adverse events.
+Adverse Event Reporting Period
+The study period during which adverse events must be reported is normally defined as the
+period from the initiation of any study procedures to the end of the study treatment follow-
+up.  For this study, the study drug follow-up is defined as 24 hours following
+administration of study drug. Subjects will receive a telephone call 24 hours after the PET
+scan for adverse event reporting.
+Preexisting Condition
+A preexisting condition is one that is present at the start of the study.  A preexisting
+condition will be recorded as an adverse event if the frequency, intensity, or the character
+of the condition worsens during the study period.
+General Physical Examination Findings
+At screening, any clinically significant abnormality will be recorded as a preexisting
+condition.  At the end of the study, any new clinically significant findings/abnormalities
+that meet the definition of an adverse event will also be recorded and documented as an
+adverse event.
+Post-study Adverse Event
+All unresolved adverse events will be followed by the investigator until the events are
+resolved, the subject is lost to follow-up, or the adverse event is otherwise explained.  At
+the last scheduled visit, the investigator will instruct each subject to report any subsequent
+event(s) that the subject, or the subject’s personal physician, believes might reasonably be
+related to participation in this study.  The investigator will notify IRB and FDA of any
+death or adverse event occurring at any time after a subject has discontinued or terminated
+study participation that may reasonably be related to this study.
+Abnormal Laboratory Values
+A clinical laboratory abnormality will be documented as an adverse event if any one of the
+following conditions is met:
+ The laboratory abnormality is not otherwise refuted by a repeat test to confirm the
+abnormality
+ The abnormality suggests a disease and/or organ toxicity
+ The abnormality is of a degree that requires active management; e.g. change of
+dose, discontinuation of the drug, more frequent follow-up assessments, further
+diagnostic investigation, etc.
+Hospitalization, Prolonged Hospitalization or Surgery
+<<<PAGE 20>>>
+Page 18
+Any adverse event that results in hospitalization or prolonged hospitalization will be
+documented and reported as a serious adverse event unless specifically instructed otherwise
+in this protocol.  Any condition responsible for surgery should be documented as an
+adverse event if the condition meets the criteria for and adverse event.
+Neither the condition, hospitalization, prolonged hospitalization, nor surgery are reported
+as an adverse event in the following circumstances:
+ Hospitalization or prolonged hospitalization for diagnostic or elective surgical
+procedures for a preexisting condition.  Surgery should not be reported as an
+outcome of an adverse event if the purpose of the surgery was elective or diagnostic
+and the outcome was uneventful.
+ Hospitalization or prolonged hospitalization required to allow efficacy
+measurement for the study.
+ Hospitalization or prolonged hospitalization for therapy of the target disease of the
+study, unless it is a worsening or increase in frequency of hospital admissions as
+judged by the clinical investigator.
+<<<SECTION 8.2 Recording of Adverse Events>>>
+8.2 Recording of Adverse Events
+At each contact with the subject, the investigator will seek information on adverse events (AEs)
+by specific questioning and, as appropriate, by examination.  Information on all adverse events
+will be recorded immediately in the source document.  All clearly related signs, symptoms, and
+abnormal diagnostic procedures results will be recorded in the source document.
+All adverse events occurring during the study period will be recorded.  The clinical course of
+each event will be followed until resolution, stabilization, or until it has been determined that the
+study treatment or participation is not the cause.  Serious adverse events that are still ongoing at
+the end of the study period will be followed up to determine the final outcome.  Any serious
+adverse event that occurs after the study period and is considered to be possibly related to the
+study treatment or study participation will be recorded and reported immediately.
+As per CUMC IRB’s Policy, Unanticipated Problems will be defined as follows:
+Unanticipated Problem (UP) is any incident, experience or outcome involving risk to subjects or
+others in any human subjects research that meets all of the following criteria:
+• Unexpected (in terms of nature, severity or frequency) given (a) the research procedures that
+are described in the IRB-approval protocol and informed consent document and (b) the
+characteristics of the subject population being studied;
+• Related or possibly related to participation in such research (i.e., there is a reasonable
+possibility that the incident, experience or outcome may have been caused by the procedures
+involved in such research); and
+• Suggests that the research places subjects or others at a greater risk of harm (including physical,
+psychological, economic or social harm) than was previously known or recognized (HHS IRB
+Guidance, Section I).
+<<<PAGE 21>>>
+Page 19
+The following AEs will be considered Unexpected Problems:
+• A single occurrence of a serious, unexpected event that is uncommon and strongly associated
+with drug exposure
+• A single occurrence, or a small number of occurrences, of a serious, unexpected event that is
+not commonly associated with drug exposure
+• Multiple occurrences of an AE that, based on an aggregate analysis, are determined not to be
+isolated occurrences and involve risk to human subjects
+• An AE that is described or addressed in the investigator's brochure, protocol or informed
+consent documents (a Described AE), but occurs at a specificity or severity that is inconsistent
+with prior observations
+• A serious Described AE, but for which the rate of occurrence represents a clinically significant
+increase in the expected rate of occurrence
+• Any other AE or safety finding that would cause the sponsor to modify the investigator's
+brochure, study protocol or informed consent documents or would prompt other action by the
+IRB to ensure the protection of human subjects (2009 FDA Guidance, Section III (A)).
+<<<SECTION 8.3 Reporting of Serious Adverse Events>>>
+8.3 Reporting of Serious Adverse Events
+<<<SECTION 8.3.1 IRB Notification by Investigator>>>
+8.3.1 IRB Notification by Investigator
+At the time of the Occurrence of an Unanticipated Problem:
+Each UP will be reported to the IRB, whether or not (a) it is serious or non -serious or (b)
+it occurs at a site at which the PI is conducting the research.
+The UP will be reported promptly, but not later than one week following the occurrence
+of the UP or the PI's acquiring knowledge of the UP.
+The PI will make the determination as to whether an incident, experience or outcome
+constitutes a UP.
+Each Unanticipated Problem will be reported to the IRB using the Unanticipated Problem
+Report module in Rascal.
+The investigator must conclude in the Unanticipated Problem Report whether the
+protocol and/or consent form(s) should be modified as the result  of the UP.  If the
+protocol and/or consent document(s) requires a revision, a modification must be
+submitted in Rascal.
+At the Time of Continuing Review of a Protocol:
+At the time of continuing review of a protocol, the PI will submit a summary of all U Ps
+that occurred during the review period and since the beginning of the study.  The
+summary for each UP should include:
+• The number of subjects who experienced the UP;
+<<<PAGE 22>>>
+Page 20
+• The investigator's determination as to whether or not the UP was serious;
+• The investigator's determination as to the UP's relationship to the study procedures (e.g.,
+definitely related, probably related or possibly related).
+<<<SECTION 8.3.2 FDA Notification by Investigator>>>
+8.3.2 FDA Notification by Investigator
+The principal investigator shall notify the FDA by telephone or by facsimile tr ansmission
+of any unexpected fatal or life -threatening experience associated with the use of the drug
+as soon as possible but no later than 7 calendar days from the investigator’s original
+receipt of the information.
+If a previous adverse event that was n ot initially deemed reportable is later found to fit
+the criteria for reporting, the principal investigator  will submit the adverse event in a
+written report to the FDA as soon as possible, but no later than 15 calendar days from the
+time the determination is made.
+<<<SECTION 8.4 Unblinding Procedures>>>
+8.4 Unblinding Procedures
+N/A
+<<<SECTION 8.5 Stopping Rules>>>
+8.5 Stopping Rules
+N/A
+<<<SECTION 8.6 Medical Monitoring>>>
+8.6 Medical Monitoring
+We will not have a specific Data and Safety Monitoring Board. Adverse events will be
+documented in the patient’s chart. Notification of UPs to the IRB and SUSARs to the FDA will
+take place as described in Section 8.3.
+<<<SECTION 9 Data Handling and Record Keeping>>>
+9 Data Handling and Record Keeping
+<<<SECTION 9.1 Confidentiality>>>
+9.1 Confidentiality
+Information about study subjects will be kept confidential and managed according to the
+requirements of the Health Insurance Portability and Accountability Act (HIPAA).  Those
+regulations require a signed subject authorization informing the subject of the following:
+ What protected health information (PHI) will be collected from subjects in this study
+ Who will have access to that information and why
+ Who will use or disclose that information
+ The rights of a research subject to revoke their authorization for use of their PHI.
+In the event that a subject revokes authorization to collect or use PHI, the investigator, by
+regulation, retains the ability to use all information collected prior to the revocation of subject
+authorization.  For subjects that have revoked authorization to collect or use PHI, attempts
+should be made to obtain per
+mission to collect at least vital status (i.e. that the subject is alive) at
+the end of their scheduled study period.
+<<<PAGE 23>>>
+Page 21
+<<<SECTION 9.2 Source Documents>>>
+9.2 Source Documents
+Source documents will be use d  to record  data fo r this study. Source documents will be ke pt  in
+secure loca
+tion. For  the  P ET  visit,  a checklist will  be  used to ensure  all  study procedures are
+completed.
+<<<SECTION 9.3 Case Report Forms>>>
+9.3 Case Report Forms
+Case report forms (CRFs) will be use d as the primary researc h data collecting tool . C RFs may
+also be sour
+ce documents in some instances. CRFs will be kept in a secure location.
+<<<SECTION 10 Study Monitoring, Auditing, and Inspecting>>>
+10 Study Monitoring, Auditing, and Inspecting
+<<<SECTION 10.1 Study Monitoring Plan>>>
+10.1 Study Monitoring Plan
+This study will be monitored by the Principal Investigator. Dr. Kreisl will submit annual progress
+reports to the FDA within 60 days of the anniversary of the date that the IND became active (the
+date clinical studies were permitted to begin) in accordance with 21 CFR 312.33.
+<<<SECTION 11 Ethical Considerations>>>
+11 Ethical Considerations
+This study is to be conducted according to US and international standards of Good Clinical
+Practice (FDA Title 21 part 312 and International Confe rence on Harmonization guidelines),
+applicable government regulations and Institutional research policies and procedures.
+This protocol and any amendments will be submitted to a properly constituted independent
+Institutional Review Board (IRB), in agreement with local legal prescriptions, for formal
+approval of the study conduct.  The decision of the IRB concerning the conduct of the study will
+be made in writing to the investigator and a copy of this decision will be provided to the sponsor
+before commencement of this study.  The investigator should provide a list of EC/IRB members
+and their affiliate to the sponsor.
+All subjects for this study will be provided a consent form describing this study and providing
+sufficient information for subjects to make an informed decision about their participation in this
+study.  See attached copy of the Subject Informed Consent Form.  This consent form will be
+submitted w
+ith the protocol for review and approval by the IR B for the study.  The formal
+consent of a subject, using the IRB-approved consent form, must be obtained before that subject
+is submitt
+ed to any study procedure.  This consent form must be signed by the subject or legally
+acceptable surrogate, and the investigator-designated research professional obtaining the consent.
+<<<SECTION 12 Study Finances>>>
+12 Study Finances
+<<<SECTION 12.1 Funding Source>>>
+12.1 Funding Source
+This study is funded by a Rose and Boris Katz Assistant Professorship endowed to Dr. Kreisl.
+Additional funding is being sought through an NIA K23 (PI = Dr. Kreisl).
+<<<PAGE 24>>>
+Page 22
+<<<SECTION 12.2 Conflict of Interest>>>
+12.2 Conflict of Interest
+Any investigator who has a conflict of interest with this study (patent ownership, royalties, or
+financial gain greater than the minimum allowable by their institution, etc.) must have the
+conflict reviewed by a properly constituted Conflict of Interest Committee with a Committee-
+sanctioned conflict management plan that has been reviewed and approved by the study sponsor
+prior to participation in this study.  All Columbia University Medical Center investigators will
+follow the University conflict of interest policy.
+<<<SECTION 12.3 Subject Stipends or Payments>>>
+12.3 Subject Stipends or Payments
+Subjects will be compensated commensurate to similar studies at CUMC. We wish to reduce the
+burden of travel and inconvenience of study procedures on patients and caregivers. Subjects will
+be given $100 for the screening visit, $100 for the MRI, $100 for the PET scan, and $150 for the
+lumbar puncture.
+<<<SECTION 13 Publication Plan>>>
+13 Publication Plan
+Neither the complete nor any part of the results of the study carried out under this protocol, nor
+any of the information provided by the sponsor for the purposes of performing the study, will be
+published or passed on to any third party without the consent of the study sponsor.  Any
+investigator involved with this study is obligated to provide the sponsor with complete test
+results and all data derived from the study.
+<<<SECTION 14 References>>>
+14 References
+1. McGeer, P.L. and E.G. McGeer, The amyloid cascade-inflammatory hypothesis of
+Alzheimer disease: implications for therapy. Acta Neuropathol, 2013. 126(4): p. 479-97.
+2. Braak, H., et al., Stages of the pathologic process in Alzheimer disease: age categories
+from 1 to 100 years. J Neuropathol Exp Neurol, 2011. 70(11): p. 960-9.
+3. Ossenkoppele, R., et al., Long-term effects of amyloid, hypometabolism, and atrophy on
+neuropsychological functions. Neurology, 2014. 82(20): p. 1768-75.
+4. Hernandez, F. and J. Avila, Tauopathies. Cell Mol Life Sci, 2007. 64(17): p. 2219-33.
+5. Braskie, M.N., et al., Plaque and tangle imaging and cognition in normal aging and
+Alzheimer's disease. Neurobiol Aging, 2010. 31(10): p. 1669-78.
+6. Ossenkoppele, R., et al., Longitudinal imaging of Alzheimer pathology using [11C]PIB,
+[18F]FDDNP and [18F]FDG PET. Eur J Nucl Med Mol Imaging, 2012. 39(6): p. 990-
+1000.
+7. Shoghi-Jadid, K., et al., Localization of neurofibrillary tangles and beta-amyloid plaques
+in the brains of living patients with Alzheimer disease. Am J Geriatr Psychiatry, 2002.
+10(1): p. 24-35.
+8. Tolboom, N., et al., Detection of Alzheimer pathology in vivo using both 11C-PIB and
+18F-FDDNP PET. J Nucl Med, 2009. 50(2): p. 191-7.
+9. Kepe, V., et al., PET imaging of neuropathology in tauopathies: progressive
+supranuclear palsy. J Alzheimers Dis, 2013. 36(1): p. 145-53.
+10. Small, G.W., et al., PET scanning of brain tau in retired national football league players:
+preliminary findings. Am J Geriatr Psychiatry, 2013. 21(2): p. 138-44.
+<<<PAGE 25>>>
+Page 23
+11. Barrio, J.R., et al., In vivo characterization of chronic traumatic encephalopathy using
+[F-18]FDDNP PET brain imaging. Proc Natl Acad Sci U S A, 2015. 112(16): p. E2039-
+47.
+12. Chien, D.T., et al., Early clinical PET imaging results with the novel PHF-tau
+radioligand [F-18]-T807. J Alzheimers Dis, 2013. 34(2): p. 457-68.
+13. Ossenkoppele, R., et al., Tau, amyloid, and hypometabolism in a patient with posterior
+cortical atrophy. Ann Neurol, 2015. 77(2): p. 338-42.
+14. Maruyama, M., et al., Imaging of tau pathology in a tauopathy mouse model and in
+Alzheimer patients compared to normal controls. Neuron, 2013. 79(6): p. 1094-108.
+15. Kimura, Y., et al., PET Quantification of Tau Pathology in Human Brain with 11C-
+PBB3. J Nucl Med, 2015.
+16. Hashimoto, H., et al., Radiosynthesis, photoisomerization, biodistribution, and metabolite
+analysis of 11C-PBB3 as a clinically useful PET probe for imaging of tau pathology. J
+Nucl Med, 2014. 55(9): p. 1532-8.
+17. Harada, R., et al., Comparison of the binding characteristics of [18F]THK-523 and other
+amyloid imaging tracers to Alzheimer's disease pathology. Eur J Nucl Med Mol Imaging,
+2013. 40(1): p. 125-32.
+18. Ishiki, A., et al., Longitudinal Assessment of Tau Pathology in Patients with Alzheimer's
+Disease Using [18F]THK-5117 Positron Emission Tomography. PLoS One, 2015.
+10(10): p. e0140311.
+19. Harada, R., et al., 18F-THK5351: A Novel PET Radiotracer for Imaging Neurofibrillary
+Pathology in Alzheimer's Disease. J Nucl Med, 2015.
+20. Albert, M.S., et al., The diagnosis of mild cognitive impairment due to Alzheimer's
+disease: recommendations from the National Institute on Aging-Alzheimer's Association
+workgroups on diagnostic guidelines for Alzheimer's disease. Alzheimers Dement, 2011.
+7(3): p. 270-9.
+21. McKhann, G.M., et al., The diagnosis of dementia due to Alzheimer's disease:
+recommendations from the National Institute on Aging-Alzheimer's Association
+workgroups on diagnostic guidelines for Alzheimer's disease. Alzheimers Dement, 2011.
+7(3): p. 263-9.
+22. Thomas, B.A., et al., The importance of appropriate partial volume correction for PET
+quantification in Alzheimer's disease. Eur J Nucl Med Mol Imaging, 2011. 38(6): p.
+1104-19.

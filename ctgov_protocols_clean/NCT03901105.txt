@@ -1,0 +1,349 @@
+<<<PAGE 1>>>
+18F-AV-1451-PX01 Protocol v1.0
+Evaluation of the relationship between baseline flortaucipir PET signal and cognitive change in
+subjects with early Alzheimer's disease participating in the I8D-MC-AZES Protocol Addendum
+D5010C00009 (2.1) (Tau Imaging)
+NCT03901105
+Approval date: 12 Mar 2019
+<<<PAGE 2>>>
+<<<PAGE 3>>>
+Page 2 of 12
+TABLE OF CONTENTS
+1. RATIONALE/INTRODUCTION................................................................................................... 4
+2. STUDY OBJECTIVES................................................................................................................... 5
+2.1. Primary Objectives.................................................................................................................... 5
+2.2. Secondary Objectives ................................................................................................................ 5
+2.3. Exploratory Objectives.............................................................................................................. 5
+3. STUDY DESIGN ........................................................................................................................... 6
+4. PROCEDURES AND METHODS ................................................................................................ . 7
+4.1. Selection and Number of Investigators (Readers)....................................................................... 7
+4.2. Selection/number of Images: ..................................................................................................... 7
+4.3. Blinded Read Method:............................................................................................................... 7
+4.4. Data Collection ......................................................................................................................... 8
+4.5. Good Clinical Practice and Monitoring...................................................................................... 8
+5. STATISTICAL METHODS ........................................................................................................... 8
+5.1. General Statistical Considerations.............................................................................................. 8
+5.2. Population for Analysis ............................................................................................................. 8
+5.3. Power Analysis ......................................................................................................................... 8
+5.4. Efficacy Analysis ...................................................................................................................... 9
+5.4.1. Primary Objective Analysis .............................................................................................. 9
+5.4.2. Secondary Objective Analysis........................................................................................... 9
+5.4.2.1. Clinically Meaningful Deterioration at 18 Months by Tau
+Status ......................................................................................................................... 9
+<<<SECTION 5.4.2.2. Mean Change of Cognitive/Functional Assessments at 18>>>
+5.4.2.2. Mean Change of Cognitive/Functional Assessments at 18
+Months by flortaucipir PET visual interpretation (τAD++ vs.
+non-τAD++) ............................................................................................................... 9
+5.4.2.3. Inter-reader Reliability.............................................................................................. 10
+5.4.3. Exploratory Analysis ...................................................................................................... 10
+5.4.3.1. Cognitive/Functional Assessments Deterioration at 24 months,
+by Tau Status............................................................................................................ 10
+5.4.3.2 Clinically Meaningful Deterioration by τAD vs τAD- tau
+status ........................................................................................................................ 10
+5.4.3.3 Diagnostic Performance of Flortaucipir Scan in Predicting
+Clinical Deterioration ............................................................................................... 10
+6. Study Documentation ................................................................................................................... 11
+6.1. Investigators (Readers)............................................................................................................ 11
+<<<PAGE 4>>>
+Page 3 of 12
+6.2. Use of Study Scan Data for Research Purposes........................................................................ 11
+7. REFERENCES............................................................................................................................. 12
+<<<PAGE 5>>>
+Page 4 of 12
+<<<SECTION 1. RATIONALE/INTRODUCTION>>>
+1. RATIONALE/INTRODUCTION
+Study PX01 is designed to further evaluate the relationship between flortaucipir uptake as
+measured by Positron emission tomography (PET) at baseline and the subsequent rate of
+cognitive decline due to Alzheimer’s disease (AD) observed over an 18-month longitudinal
+follow up by utilizing a therapeutic trial cohort that had flortaucipir PET scans and up to 2 years
+of cognitive follow-up. The subjects whose scans will be read in study PX01 were recruited to a
+PET substudy of the I8D-MC-
+AZES (AZES) therapeutic clinical trial evaluating the BACE
+(Beta-site amyloid precursor protein-cleaving enzyme 1) inhibitor AZD3293 (LY3314814), also
+known as lanabecestat, for the treatment of patients with early AD.  The AZES study was
+terminated early after an independent assessment concluded that the trial was not likely to meet
+the primary endpoint upon completion and therefore, the trial was stopped for futility.
+The subjects enrolled in the PET substudy of AZES had flortaucipir PET scans at baseline and at
+multiple follow-up timepoints.  At the time the study was terminated/completed, 205 subjects
+with a baseline flortaucipir PET scan had completed 18 month cognitive follow-up evaluations.
+These subjects will be used as the primary efficacy population for study PX01. Although a subset
+of these subjects (approximately 90 subjects) completed the 24 month follow-up visit, the 24
+month change from baseline data were reserved for exploratory analyses, with 18 months
+primary endpoints used for direct comparison to the A05 Confirmatory Cohort (A05C) Phase 3
+study results.
+In the present study, readers will visually interpret each baseline flortaucipir PET scan to identify
+patterns of tracer uptake that predict risk of clinically meaningful deterioration as determined by
+Clinical Dementia Rating Scale Sum of Box (CDR-SB) value change (1 point or more increase)
+within 18 months. The approach used is similar to study A05C, which was a confirmatory study
+for longitudinal progression in subjects with cognitive impairment who had Mild Cognitive
+Impairment (MCI) or dementia with a suspected neurodegenerative cause and a Mini Mental
+State Examination (MMSE) score of 20-27 inclusive.
+<<<PAGE 6>>>
+Page 5 of 12
+<<<SECTION 2. STUDY OBJECTIVES>>>
+2. STUDY OBJECTIVES
+<<<SECTION 2.1. Primary Objectives>>>
+2.1. Primary Objectives
+ To assess whether a visual interpretation (τAD++ vs. non τAD++ pattern) of the
+baseline flortaucipir PET scan can predict the risk of subjects’ clinically
+meaningful cognitive and functional deterioration within 18 months of scan, as
+measured by the Clinical Dementia Rating Scale Sum of Box (CDR-SB) change
+from baseline.
+<<<SECTION 2.2. Secondary Objectives>>>
+2.2. Secondary Objectives
+ To assess whether a visual interpretation (τAD++ vs. non τAD++ pattern) of the
+baseline flortaucipir PET scan can predict the risk of subjects’ clinically
+meaningful cognitive and functional deterioration within 18 months of scan, as
+measured by Mini-Mental State Examination (MMSE), Alzheimer’s Disease
+Assessment Scale–Cognitive subscale (ADAS-Cog11), Pfeffer Functional
+Activities Questionnaire (FAQ), and CDR Global change from baseline.
+ To assess the relationship between visual interpretation (
+τAD++ vs. non τAD++
+pattern)  of the baseline flortaucipir PET scan and magnitude of cognitive and
+functional deterioration within 18 months of scan, as measured by the mean
+change from baseline of CDR-SB, MMSE, ADAS-Cog11, and FAQ.
+ To assess inter-reader reliability of the flortaucipir F 18 PET scan visual
+interpretation by 5 independent, blinded readers.
+<<<SECTION 2.3. Exploratory Objectives>>>
+2.3. Exploratory Objectives
+ To assess whether a visual interpretation (τAD++ vs. non τAD++ pattern) of the
+baseline flortaucipir PET scan can predict the risk of subjects’ clinically
+meaningful cognitive and functional deterioration within 24 months of scan, as
+measured by the Clinical Dementia Rating Scale (CDR), MMSE, ADAS-Cog11
+and FAQ change from baseline.
+ To assess the diagnostic performance of baseline flortaucipir F 18 PET scan in
+predicting clinically meaningful deterioration at 18 months
+<<<PAGE 7>>>
+Page 6 of 12
+<<<SECTION 3. STUDY DESIGN>>>
+3. STUDY DESIGN
+All training and reads will be conducted in accordance with the image review charter (IRC). Five
+imaging physicians will be trained in-person on the flortaucipir F 18 PET scan read methodology
+using the previously established visual read method (identical to that used for the 18F-AV-1451-
+A05C Study)
+.
+The training will consist of teaching the readers the steps of interpretation, followed by a practice
+session using a set of demonstration and practice cases. After the training phase is complete,
+each reader will independently read 205 flortaucipir F18 PET baseline scans from the Study
+I8D-MC-AZES “A 24-Month, Multicenter, Randomized, Double-Blind, Placebo-Controlled,
+Parallel-Group, Efficacy, Safety, Tolerability, Biomarker, and Pharmacokinetic Study of
+AZD3293 in Early Alzheimer’s Disease (the AMARANTH study)” in a random sequence. For
+the flortaucipir PET imaging, a 30 minute  PET acquisition was conducted approximately 75 min
+following an i.v. administration of approximately 240 MBq flortaucipir F 18 which is
+comparable to a 20 minute acquisition conducted approximately 80 minutes following an i.v.
+administration of approximately 370 MBq flortaucipir F 18 as obtained in studies A16 and
+A05C.
+The study population for study AZES consisted of subjects aged 55 to 85 years with MCI due to
+AD or probable AD by NIA-Alzheimer’s Association criteria (Albert 2011), with MMSE of 20
+to 30 inclusive, a CDR global score of 0.5 (MCI), or 0.5 or 1 (AD) with a memory box score ≥
+0.5, and a score of ≤85 on the Delayed Memory Index of the Repeatable Battery for the
+Assessment of Neuropsychological Status.  All subjects were amyloid positive by florbetapir
+PET or lumbar puncture. Qualified subjects were randomized to receive either 0 (placebo), 20, or
+50 mg lanabecestat daily for a planned duration of 2 years.  The primary objective of the study
+was to evaluate the efficacy of AZD3293 on cognitive and functional outcomes in patients with
+early AD as measured by the CDR-SB. Subjects returned for periodic follow-up visits up to 24
+months post baseline, where change from baseline performance was assessed on cognitive and
+functional scales including the core scales used in other flortaucipir studies (CDR, MMSE, FAQ
+and ADAS).  The study also included a longitudinal sub-study of flortaucipir F 18 PET. Patients
+who underwent florbetapir F 18 PET scanning at screening in the main AZES study to document
+the presence of amyloid for the study inclusion and participated in the amyloid PET sub-study
+were planned to also have a flortaucipir F 18 PET scan performed at baseline, Week 52, and
+Week 104 at participating sites. 205 subjects completed baseline flortaucipir F 18 PET scans and
+completed CDR-SB at 18 months, while approximately 90 subjects completed CDR-SB at 24
+months. Only the baseline flortaucipir F 18 PET scan is being read in the present study.
+<<<PAGE 8>>>
+Page 7 of 12
+4. PROCEDURES AND METHODS
+<<<SECTION 4.1. Selection and Number of Investigators (Readers)>>>
+4.1. Selection and Number of Investigators (Readers)
+Five qualified physicians will be used to perform the blinded reads. Readers will be selected
+using the following criteria:
+ Board Certified in Radiology or Nuclear Medicine
+ Experience interpreting PET scans
+4.2. Selection/number of Images:
+A total of 205 unique scans will be read for this study in a random sequence.  Scans are from a
+subset of AZES patients who received a baseline flortaucipir F 18 PET scan in a substudy and
+completed the 18 month AZES CDR assessment.
+4.3. Blinded Read Method:
+Readers will be blinded to all demographic and clinical data.
+All readers will be trained in-person on the steps of image interpretation, using a set of demonstration and
+practice cases, prior to starting their independent reads.  A copy of the training materials will be provided
+to each reader for reference. The read methodology is briefly outlined below:
+After scaling images to the cerebellar reference region and selecting an appropriate color scale, regions of
+the neocortex (the posterolateral temporal (PLT), occipital, parietal and frontal regions) are evaluated for
+increased tracer uptake, and scans are interpreted as either not consistent (τAD-), consistent with an AD
+pattern (τAD+), or consistent with an AD pattern and likely to progress (τAD++) using the criteria shown
+in Table 1.
+Table 1 Clinical Read Method Criteria
+Read Outcome Objective Image Features
+Not consistent with AD pattern (τAD-)
+No increased neocortical activity, or increased neocortical activity
+isolated to the mesial temporal, anterolateral temporal, and/or frontal
+regions.
+AD pattern (τAD)
+τAD+ In either hemisphere, increased neocortical activity in the
+posterolateral temporal (PLT) or occipital region(s).
+τAD++
+In either hemisphere, increased neocortical activity in the
+parietal/precuneus region(s), or frontal region(s) with increased
+uptake in the PLT, parietal, or occipital region(s).
+<<<PAGE 9>>>
+Page 8 of 12
+<<<SECTION 4.4. Data Collection>>>
+4.4. Data Collection
+Flortaucipir scan read data will be collected using electronic case report forms (eCRFs) designed
+for this study. All other data including the demographic/baseline characteristics and all
+cognitive/functional assessments, for subjects included in Study PX01, will be from the locked
+database of Study AZES.  The locked AZES database was accessed by permission of the study
+sponsor, Eli Lilly and Company.
+<<<SECTION 4.5. Good Clinical Practice and Monitoring>>>
+4.5. Good Clinical Practice and Monitoring
+All clinical studies performed under the direction of Avid/CRO will be conducted in accordance
+with applicable regulatory requirements and International Conference on Harmonization (ICH),
+Good Clinical Practice (GCP) and Avid/CRO Standard Operating Procedures.
+Monitoring of study data will be performed by the Imaging CRO and be performed in
+accordance with their SOPs.
+5. S TATISTICAL METHODS
+<<<SECTION 5.1. General Statistical Considerations>>>
+5.1. General Statistical Considerations
+All statistical analyses will be performed using SAS® version 9.0 or higher. The specific
+analyses to address the objectives will be described in the Statistical Analysis Plan (SAP).
+<<<SECTION 5.2. Population for Analysis>>>
+5.2. Population for Analysis
+Five readers will independently interpret the flortaucipir F 18 PET scans collected from the
+AZES PET substudy. No new subjects will be enrolled for purposes of this study.
+Valid images will be considered unevaluable in the present study only if 3 out of 5 independent
+readers declare the image unevaluable for the same reason. Subjects with invalid or unevaluable
+PET data will be excluded from analyses. Criteria for declaring an image invalid or not evaluable
+will be specified in advance in the Image Review Charter. The majority reads on each
+flortaucipir F 18 scan (baseline) from these 5 readers will be used to determine the tau status of
+the corresponding study subject.
+The AZES study was terminated early for futility, therefore not all subjects had the opportunity
+to complete the full term follow up. To avoid bias, it was decided to include only the subjects
+that had 1) a valid baseline flortaucipir scan (no later than 91 days post randomization,
+considering that the flortaucipir scans were added to this study after the initiation of AZES); and
+2) a CDR assessment at 18 months visit. 205 subjects met these criteria, and approximately 90 of
+these subjects completed a CDR assessment at the 24 month visit.
+<<<SECTION 5.3. Power Analysis>>>
+5.3. Power Analysis
+This study will include up to 205 subjects who have a valid baseline flortaucipir scan, and a
+change from baseline value of CDR-SB at 18 months. In Study TZAX, which had a similar
+design and entry criteria, approximately 75% of subjects were rated as τAD++ and 25% were
+<<<PAGE 10>>>
+Page 9 of 12
+rated as non-τAD++. Among non- τAD++ subjects (reference group), approximately 40% had an
+increase of 1 point or more on CDR-SB at 18 months follow up visit. Assuming a distribution of
+visual reads and CDR-SB change in this study is similar to that for TZAX, a sample of 205
+subjects will provide  90% power to detect a risk ratio of 1.65 or larger, under a two-sided type I
+error rate of 5%.
+<<<SECTION 5.4. Efficacy Analysis>>>
+5.4. Efficacy Analysis
+<<<SECTION 5.4.1. Primary Objective Analysis>>>
+5.4.1. Primary Objective Analysis
+The primary analysis for this study will evaluate whether or not the baseline tau status as
+determined by flortaucipir F 18 scans will predict the risk of subjects’ clinically meaningful
+cognitive and functional deterioration within 18 months of scan. The clinically meaningful
+deterioration (CMD) for the primary objective analysis is defined as Clinical Dementia Rating
+Scale Sum of Box (CDR-SB) change from baseline with an increase of 1 point or more.
+A Poisson regression model will be used to calculate the ratio of risk for τAD++ subjects over
+non-τAD++ (τAD+/ τAD-) subjects. The risk ratio, along with a 95% confidence interval and the
+associated p-value will be provided.  CMD as defined in the section above will be used as the
+dependent variable, and the model will be adjusted for baseline age, CDR-SB score, and
+therapeutic treatment assignment from AZES study.
+<<<SECTION 5.4.2. Secondary Objective Analysis>>>
+5.4.2. Secondary Objective Analysis
+5.4.2.1. Clinically Meaningful Deterioration at 18 Months by Tau Status
+To fully assess the prognostic value of tau scan, these CMDs will be assessed for the secondary
+objective analysis:
+1) MMSE decreased by 3 points or more;
+2) ADAS Cog-11 increased by 4 points or more;
+3) FAQ increased by 3 points or more;
+4) CDR global with any increase.
+The analyses will be identical to what is described in section 5.4.1, with dependent variables 1-4
+for CMDs as described above, and the adjustment of corresponding baseline scores.
+<<<SECTION 5.4.2.2. Mean Change of Cognitive/Functional Assessments at 18 Months by>>>
+5.4.2.2. Mean Change of Cognitive/Functional Assessments at 18 Months by
+flortaucipir PET visual interpretation (τAD++ vs. non-τAD++)
+To assess the mean change of CDR-SB, MMSE, ADAS, and FAQ at 18 month by tau status, a
+mixed model with repeated measures (MMRM) will be used. For each analysis, the change from
+baseline value from relative measurement will be the dependent variable, and the model will
+include the fixed effects of tau status (τAD++ or non-
+τAD++), visit (categorical covariate), tau
+status-by-visit interaction, and therapeutic treatment assignment from AZES study, as well as
+corresponding baseline measurement score, and baseline age as continuous covariates. The null
+hypothesis is that the least squared mean contrast between τAD++ and non-τAD++ groups at
+month 18 visit equals zero. An unstructured covariance matrix will be used to model the within-
+<<<PAGE 11>>>
+Page 10 of 12
+subject variance-covariance. If the unstructured covariance structure matrix results in a lack of
+convergence, the following tests will be used in sequence: heterogeneous Toeplitz covariance
+structure, heterogeneous autoregressive covariance structure, and compound symmetry
+covariance structure. The Kenward-Roger approximation will be used to estimate the
+denominator degrees of freedom.
+<<<SECTION 5.4.2.3. Inter-reader Reliability>>>
+5.4.2.3. Inter-reader Reliability
+The inter-reader reliability of flortaucipir scan interpretation (τAD++ vs. non-τAD++) across the
+5 independent readers will be assessed using a Fleiss’ Kappa statistics. The overall percent of
+agreement, Fleiss’ Kappa, and 95% CI around Kappa value will be provided.
+<<<SECTION 5.4.3. Exploratory Analysis>>>
+5.4.3. Exploratory Analysis
+5.4.3.1. Cognitive/Functional Assessments Deterioration at 24 months, by
+Tau Status
+To further evaluate the prognostic value of a flortaucipir scan, analyses described from 5.4.1 –
+5.4.2 (except 5.4.2.3) will be repeated using subjects who completed both baseline and 24 month
+clinical assessments.
+5.4.3.2 Clinically Meaningful Deterioration by τAD vs τAD- tau status
+In addition, exploratory analyses will be planned to contrast scan visual interpretations of τAD
+(τAD+/ τAD ++) vs. τAD- , repeating analyses as described from 5.4.1-5.4.2 using both 18
+months and 24 months follow-up data. Details will be described in the SAP.
+5.4.3.3 Diagnostic Performance of Flortaucipir Scan in Predicting Clinical
+Deterioration
+The diagnostic performance (sensitivity/specificity) will be assessed by using CMD as truth
+standard (TS) as defined in section 5.4.1 and 5.4.2.1. The 95% CI around the
+sensitivity/specificity will be calculated using Wilson Score method.
+<<<PAGE 12>>>
+Page 11 of 12
+<<<SECTION 6. STUDY DOCUMENTATION>>>
+6. STUDY DOCUMENTATION
+Avid will be responsible for the submission of the protocol to the Institutional Review
+Board/Independent Ethics Committee for regulatory approval prior to start of the study.
+All data required by the protocol will be recorded in the eCRF.  Completed eCRFs may need to
+be made available for an audit by the United States Food and Drug Administration or other
+international regulatory authorities at any time.   CRFs and all other records will be filed in
+accordance with applicable laws and regulations.
+<<<SECTION 6.1. Investigators (Readers)>>>
+6.1. Investigators (Readers)
+Readers must supply Avid with the following documentation prior to performing any tasks
+associated with this protocol:
+ Signed and dated 1572
+ Curriculum vitae
+ Medical license
+ Financial disclosure form
+In order to ensure blinding, readers will not be provided a copy of the protocol for review;
+therefore, a Protocol Signature Page will not be collected as part of the trial master file (TMF).
+<<<SECTION 6.2. Use of Study Scan Data for Research Purposes>>>
+6.2. Use of Study Scan Data for Research Purposes
+Patients who participated in the AZES study consented to the use of their data (including scans)
+for future research purposes.  All data (scans) will be anonymized and confidential for the
+purposes of this study. Additional details around the process for anonymizing scans can be found
+in the IRC.
+<<<PAGE 13>>>
+Page 12 of 12
+<<<SECTION 7. REFERENCES>>>
+7. REFERENCES
+Albert MS, DeKosky ST, Dickson D, Dubois B, Feldman HH, Fox NC, et al. The diagnosis of
+mild cognitive impairment due to Alzheimer’s disease: recommendations from the National
+Institute on Aging-Alzheimer’s Association workgroups on diagnostic guidelines for
+Alzheimer’s disease. Alzheimer’s Dement. 2011;7:270-279.
+TZAX (Tau Imaging in H8A-MC-LZAX):  A post-hoc evaluation of the relationship between
+flortaucipir PET signal and cognitive change in subjects with mild Alzheimer’s disease
+participating in the solanezumab Expedition 3 clinical trial tau imaging addendum (Protocol
+Addendum H8A-MC-LZAX (6.2) (Tau Imaging) Effect of Passive Immunization on the
+Progression of Mild Alzheimer’s disease:  Solanezumab (LY2062430) Versus Placebo
+Protocol 18F
+-AV-1451-A05: An open label, multicenter study, evaluating the safety and imaging
+characteristics of 18F
+-AV-1451 in cognitively healthy volunteers, subjects with Mild Cognitive
+Impairment, and subjects with Alzheimer’s disease
+Protocol 18F-AV-1451-A16: A Clinico-Pathological Study of the Correspondence Between 18F -
+AV-1451 PET Imaging and Post-Mortem Assessment of Tau Pathology

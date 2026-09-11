@@ -1,0 +1,2001 @@
+<<<PAGE 1>>>
+Online Insomnia Intervention to Reduce Alcohol Use
+NCT05630118
+05/07/2026
+<<<PAGE 2>>>
+PROTOCOL TYPE  (VERSION 5) 1 unresolved
+comment(s)
+IMPORTANT NOTE:
+If you accidentally select the wrong IRB type or “Protocol Process Type” while your Initial Review (IR) application is in draft
+form (unsubmitted), you may change your selections. Please contact the Office of Research Integrity (ORI) at 859-257-9428,
+IRBsubmission@uky.edu, or request a consult  to resolve any questions regarding your selections prior  to submitting your
+Initial Review application.
+If your submitted IR application has been returned to you for requested revisions or additional information,  to streamline the
+review process do not make changes  to your selections here unless instructed to do so by the ORI/IRB.
+Changes to this section cannot be made after initial approval has been issued (the option is not available for MR or CR).
+For guidance, see:
+Which IRB should review my research?
+Which Protocol Process Type?
+"Getting Started"
+Which IRB
+Medical NonMedical
+Protocol Process Type
+Exemption
+Expedited
+Full
+(Must be risk level 1)
+The revised Common Rule expanded exemption certification category 4 for certain secondary research with
+identifiable information or biospecimens. The regulations no longer require the information or biospecimens to be
+existing.  For more information see the Exemption Categories Tool .
+Section 1 Page 1 of 1
+IRB Approval
+7/16/2025
+IRB # 60446
+NMED
+<<<PAGE 3>>>
+EXPEDITED CERTIFICATION 0 unresolved
+comment(s)
+To Be Completed Only If Protocol is to Receive Expedited Review
+Applicability
+A. Research activities that (1) present no more than *minimal risk to human subjects, and (2) involve only procedures listed in one or
+more of the following categories, may be reviewed by the IRB through the expedited review procedure authorized by 45 CFR
+46.110 and 21 CFR 56.110. The activities listed should not be deemed to be of minimal risk simply because they are included on
+this list. Inclusion on this list merely means that the activity is eligible for review through the expedited review procedure when the
+specific circumstances of the proposed research involve no more than minimal risk to human subjects.
+B. The categories in this list apply regardless of the age of subjects, except as noted.
+C. The expedited review procedure may not be used where identification of the subjects and/or their responses would reasonably
+place them at risk of criminal or civil liability or be damaging to the subjects’ financial standing, employability, insurability, reputation,
+or be stigmatizing, unless reasonable and appropriate protections will be implemented so that risks related to invasion of privacy and
+breach of confidentiality are no greater than minimal.
+D. The expedited review procedure may not be used for classified research involving human subjects.
+E. IRBs are reminded that the standard requirements for informed consent (or its waiver, alteration, or exception) apply regardless of
+the type of review—expedited or convened—utilized by the IRB.
+*“Minimal risk” means that the probability and magnitude of harm or discomfort anticipated in the research are not greater in
+and of themselves from those ordinarily encountered in daily life or during the performance of routine physical or psychological
+examination or tests. 45 CFR 46.102(i)
+Check the appropriate categories that apply to your research project:
+Study was originally approved by the full IRB at a convened meeting.
+1) Clinical studies of drugs and medical devices only when condition (a) or (b) is met.
+A. Research on drugs for which an investigational new drug application is not required. (Note: Research on marketed drugs
+that significantly increases the risks or decreases the acceptability of the risks associated with the use of the product is
+not eligible for expedited review.)
+B. Research on medical devices for which (i) an investigational device exemption application is not required*; or (ii) the
+medical device is cleared/approved for marketing and the medical device is being used in accordance with its
+cleared/approved labeling.**
+* Study must meet one of the IDE Exempt categories listed on the Device Form Attachment.
+** An approved Device used in research according to its approved labeling is considered Exempt from IDE requirements.
+NOTE: Select Category 1 for compassionate use medical device applications or individual patient expanded access
+investigational drug applications for which FDA has waived the requirement for full review.
+2) Collection of blood samples by finger stick, heel stick, ear stick, or venipuncture as follows:
+A. From healthy, nonpregnant adults who weigh at least 110 pounds. For these subjects, the amounts drawn may not
+exceed 550 ml in an 8 week period and collection may not occur more frequently than 2 times per week; or
+B. From other adults and children* considering the age, weight, and health of the subjects, the collection procedure, the
+amount of blood to be collected, and the frequency with which it will be collected. For these subjects, the amount drawn
+may not exceed the lesser of 50 ml or 3 ml per kg in an 8 week period and collection may not occur more frequently than
+2 times per week.
+NOTE: Intravenous (IV), Port, Central, or any other lines are NOT eligible under this category even if the research involves
+“minimal risk”.
+*In Kentucky, “child/children” refers to all individuals less than 18 years of age unless the individual(s) is/are legally
+emancipated. (See Informed Consent SOP  for discussion of “Emancipated Individuals” under Kentucky state law.)
+Individuals less than 18 years of age who are not emancipated meet the federal definition for “child” (e.g., DHHS, FDA, and
+U.S. Department of Education). Children are defined in the HHS regulations as “persons who have not attained the legal age
+for consent to treatments or procedures involved in the research, under the applicable law of the jurisdiction in which the
+research will be conducted.” If conducting research outside the state of Kentucky, you are responsible for complying with
+applicable state law.
+3) Prospective collection of biological specimens for research purposes by noninvasive means. Examples:
+Section 2 Page 1 of 2
+<<<PAGE 4>>>
+A. Hair and nail clippings in a nondisfiguring manner;
+B. Deciduous teeth at time of exfoliation or if routine patient care indicates a need for extraction;
+C. Permanent teeth if routine patient care indicates a need for extraction;
+D. Excreta and external secretions (including sweat);
+E. Uncannulated saliva collected either in an unstimulated fashion or stimulated by chewing gumbase or wax or by applying
+a dilute citric solution to the tongue;
+F. placenta removed at delivery;
+G. Amniotic fluid obtained at the time of rupture of the membrane prior to or during labor;
+H. Supra- and subgingival dental plaque and calculus, provided the collection procedure is not more invasive than routine
+prophylactic scaling of the teeth and the process is accomplished in accordance with accepted prophylactic techniques;
+I. Mucosal and skin cells collected by buccal scraping or swab, skin swab, or mouth washings;
+J. Sputum collected after saline mist nebulization.
+4) Collection of data through noninvasive procedures (not involving general anesthesia or sedation) routinely employed in
+clinical practice, excluding procedures involving x-rays or microwaves. Where medical devices are employed, they must be
+cleared/approved for marketing. (Studies intended to evaluate the safety and effectiveness of the medical device are not
+generally eligible for expedited review, including studies of cleared medical devices for new indications.) Examples:
+A. Physical sensors that are applied either to the surface of the body or at a distance and do not involve input of significant
+amounts of energy into the subject or an invasion of the subject’s privacy;
+B. Weighing or testing sensory acuity;
+C. Magnetic resonance imaging;
+D. electrocardiography, electroencephalography, thermography, detection of naturally occurring radioactivity,
+electroretinography, ultrasound, diagnostic infrared imaging, doppler blood flow, and echocardiography;
+E. moderate exercise, muscular strength testing, body composition assessment, and flexibility testing where appropriate
+given the age, weight, and health of the individual.
+5) Research involving materials (data, documents, records, or specimens) that have been or will be collected solely for non-
+research purposes (such as medical treatment or diagnosis) as well as research involving existing information or specimens that
+were previously collected for research purposes, provided they were not collected for the currently proposed research. (Note:
+Some research in this category may qualify for Exempt review. This listing refers only to research that is not exempt.)
+(Note: If submission includes materials previously collected for either non-research or research purposes in a protocol for which
+IRB approval expired, you may check Category 5. However, a separate category must also be selected for prospective collection
+of data/specimens obtained solely for research purposes)
+6) Collection of data from voice, video, digital, or image recordings made for research purposes.
+7) Research on individual or group characteristics or behavior (including, but not limited to, research on perception, cognition,
+motivation, identity, language, communication, cultural beliefs or practices, and social behavior) or research employing survey,
+interview, oral history, focus group, program evaluation, human factors evaluation, or quality assurance methodologies. (Note:
+Some research in this category may be exempt from the HHS regulations for the protection of human subjects. This listing refers
+only to research that is not exempt.)
+Section 2 Page 2 of 2
+<<<PAGE 5>>>
+CONTINUATION REVIEW/FINAL REVIEW 1 unresolved
+comment(s)
+Based on your responses to the Continuation Review/Final Review questions, to be in accord with federal policy a final
+review report must be submitted to properly CLOSE OUT your protocol.
+IF YOU WISH TO EXTEND YOUR IRB APPROVAL PERIOD, update your 'Anticipated Ending Date of Research Project' under
+the Project Information section and include any other supportive documentation for continuation of your study [NOTE: If
+you wish for your IRB approval to continue, but you do not request an extension and complete and submit your materials
+in a timely manner, IRB approval will expire at the end of the current approval period.].
+To initiate your continuation review (CR)/annual administrative review (AAR), or properly close your study, complete this
+section and update/correct all other sections of your IRB application as applicable.
+***IMPORTANT*** Before leaving this page to update other sections of your application, be sure to SAVE this section first.
+If you have any questions, please contact the Office of Research Integrity at 859-257-9428 or email
+IRBsubmission@uky.edu
+<<<SECTION 1. Status of the Research>>>
+1. Status of the Research
+Check the statement(s) that best describe(s) the current status of your research:
+No subjects have enrolled to date.
+Recruitment and/or enrollment of new subjects or review of records/specimens continue.
+Study is closed to enrollment, but subjects still receive research-related interventions (e.g., treatment, blood draws).
+Study enrollment is permanently closed; subjects have completed all research-related interventions; and the study remains active
+only for long-term follow-up of subjects (see Tool Tip above for info on long-term follow-up of subjects).*
+Research has progressed to the point that it involves 1) Data analysis, including analysis of identifiable private information or
+identifiable biospecimens; and/or 2) Accessing follow-up clinical data from procedures that subjects would undergo as part of clinical
+care.*
+The remaining research activities are limited only to data analysis. There is access to records or specimens either directly or
+through codes or links to the data.*
+The remaining research activities are limited only to data analysis. There is no subject/record/specimen identifying codes or links to
+the data; the researcher or research team cannot readily ascertain the subject's identity.*
+All study activities are complete. IRB approval can be inactivated.
+*Possibility that review will move from Full to Expedited.
+2. If subjects have been enrolled within the last year, and the IRB approved a consent/assent form for your study:
+Please attach a complete, signed copy for the last two subjects enrolled with each consent/assent form/HIPAA form since the last
+annual review.
+(Example: If 3 different approved consent forms were used since the last annual review, please provide the two most recent signed
+copies of each version for a total of six.)
+Attachments
+<<<SECTION 3. Informed Consent>>>
+3. Informed Consent
+If the study is open to subject enrollment, please go to the Informed Consent section of the E-IRB Application and verify
+attachment(s) include:
+One clean copy in PDF (without the IRB Approval stamp) of the currently approved consent/assent document(s), or,
+If requesting changes to the consent/assent document(s), submit one copy with the changes highlighted (and designate Document
+Type as "Highlighted"), and one clean copy in PDF (without the changes highlighted).
+If the study is open to subject enrollment and the IRB has waived the requirement to document informed consent, please go
+to the Informed Consent section of the E-IRB Application and verify attachment(s) include:
+One clean copy in PDF of the currently approved document used for the informed consent process (e.g., cover letter, phone
+Section 3 Page 1 of 2
+<<<PAGE 6>>>
+script), or,
+If requesting changes to the consent/assent document(s), submit one copy with the changes highlighted (and designate Document
+Type as "Highlighted"), and one clean copy in PDF (without the changes highlighted).
+If the study is closed to subject enrollment, please go to the Informed Consent section of the E-IRB Application and remove
+Informed Consent Documents designated to get an IRB approval stamp to avoid having them appear valid for enrollment.
+4. Unanticipated Problems Involving Risk to Subjects or Others/Adverse Events Summary & Assessment
+Did any problems/adverse events occur during the last 12 months?
+Yes No
+In the space below, provide a written summary of both unanticipated problems* and available information regarding adverse events
+since the last review (e.g., initial review or annual/continuing review). The amount of detail provided in such a summary will vary
+depending on the type of research being conducted; in many cases, such a summary could be a brief statement that there have been
+no unanticipated problems and that adverse events have occurred at the expected frequency and level of severity as documented in the
+research protocol, the informed consent document, and investigator’s brochure (if applicable). The summary must include the PI’s
+assessment whether the problems/adverse events warrant changes to the protocol, consent process, or risk/benefit ratio.
+Note: It is the IRB's expectation that all unanticipated problems involving risk to subjects or others or related deaths requiring prompt
+reporting are submitted in the appropriate time frame (See Policy [PDF]). Your response to this Annual/Continuing Review is
+considered assurance that all prompt reportable problems/adverse events have been submitted for IRB review.
+*For multisite studies, the written summary should describe external events determined to be unanticipated problems involving risk to
+subjects or others.
+Section 3 Page 2 of 2
+<<<PAGE 7>>>
+PROJECT INFORMATION 0 unresolved
+comment(s)
+Title of Project: (Use the exact title listed in the grant/contract application, if applicable).
+If your research investigates any aspect of COVID-19, please include "COVID19" at the beginning of your Project Title and Short Title
+Testing an Online Insomnia Intervention
+Short Title Description
+Please use a few key words to easily identify your study - this text will be displayed in the Dashboard listing for your study.
+Insomnia Intervention
+Anticipated Ending Date of Research Project:
+Maximum number of human subjects (or records/specimens to be reviewed)
+150
+After approval, will the study be open to enrollment of new subjects or new data/specimen collection?
+Yes No
+Are you requesting that the UK IRB serve as the lead IRB for a multi-site study, OR that the UK IRB defer review to another IRB? [Click
+here for "IRB Reliance" help]
+Yes No
+If "Yes," before completing your IRB application, fill out the Reliance Request Form  and submit it to irbreliance@uky.edu.
+7/31/2025
+Section 4 Page 1 of 1
+<<<PAGE 8>>>
+PI CONTACT INFORMATION 0 unresolved
+comment(s)
+Principal Investigator (PI) role for E-IRB access
+The PI is the individual holding primary responsibility on the research project with the following permissions on the E-IRB application:
+1. Read;
+2. write/edit;
+3. receive communications; and
+4. submit to the IRB (IR, CR, MR, Other Review*).
+If research is being submitted to or supported by an extramural funding agency such as NIH, a private foundation or a
+pharmaceutical/manufacturing company, the PI listed on the grant application or the drug protocol must be listed as PI here.
+Please fill in any blank fields with the appropriate contact information (gray shaded fields are not editable). Required fields left blank will
+be highlighted in pink after you click "Save".
+To change home and work addresses, go to myUK and update using the Employee Self Service (ESS) portal. If name has changed,
+the individual with the name change will need to submit a 'Name Change Form' to the Human Resources Benefits Office for entering
+into SAP. The new name will need to be associated with the individual's Link Blue ID in SAP before the change is reflected in E-IRB.
+Contact the HR Benefits Office  for additional information.
+The Principal Investigator's (PI) contact information is filled in automatically based on who logged in to create the application.
+If you are not the Principal Investigator, do NOT add yourself as study personnel.
+To change the PI contact information on an application in Researcher edit status:
+click "Change Principal Investigator";
+search for the PI's name using the search feature;
+click "Select" by the name of the Principal Investigator, then "Save Contact Information".
+You will automatically be added as study personnel with editing permissions to continue editing the application.
+Change Principal Investigator:
+First Name: Justin Room# &
+Bldg: Kastle Hall 2070
+Last Name: Verlinden Speed
+Sort#:
+0044
+Middle Name James
+Department: Dept Code: 8E120
+PI’s
+Employee/Student
+ID#:
+12121317
+Rank:
+PI's Telephone #: 3099484850 Degree: MS
+PI's e-mail
+address: justinverlinden@uky.edu PI's FAX
+Number:
+PI is R.N.
+Yes No HSP Trained: Yes
+HSP Trained
+Date: 2/27/2023
+RCR Trained: Yes
+Do you, the PI/researcher, have a significant financial interest related to your responsibilities at the University of Kentucky (that
+requires disclosure per the UK administrative regulation 7:2)?
+Yes No
+Psychology - 8E120
+
+Section 5 Page 1 of 2
+<<<PAGE 9>>>
+Section 5 Page 2 of 2
+<<<PAGE 10>>>
+RISK LEVEL 0 unresolved
+comment(s)
+Indicate which of the categories listed below accurately describes this protocol
+(Risk Level 1) Not greater than minimal risk
+(Risk Level 2) Greater than minimal risk, but presenting the prospect of direct benefit to individual subjects
+(Risk Level 3) Greater than minimal risk, no prospect of direct benefit to individual subjects, but likely to yield generalizable
+knowledge about the subject's disorder or condition.
+(Risk Level 4) Research not otherwise approvable which presents an opportunity to understand, prevent, or alleviate a serious
+problem affecting the health or welfare of subjects.
+*“Minimal risk” means that the probability and magnitude of harm or discomfort anticipated in the research are not greater in and of
+themselves from those ordinarily encountered in daily life or during the performance of routine physical or psychological
+examination or tests.
+***For Expedited and Exempt Applications, the research activities must be Risk Level 1 (no more than minimal risk to
+human subjects).***
+Refer to UK's guidance document on assessing the research risk for additional information.
+Section 6 Page 1 of 1
+<<<PAGE 11>>>
+SUBJECT DEMOGRAPHICS 0 unresolved comment(s)
+Age level of human subjects: (i.e., 6 mths.; 2yrs., etc..) 18 to 50
+Study Population:
+Describe the characteristics of the subject population, including age range, gender, ethnic background and health status. Identify the criteria for inclusion and
+exclusion.
+Provide the following information:
+A description of the subject selection criteria and rationale for selection in terms of the scientific objectives and proposed study design;
+A compelling rationale for proposed exclusion of any sex/gender or racial/ethnic group;
+Justification for the inclusion of vulnerable groups such as children, prisoners, adults with impaired consent capacity, or others who may be vulnerable to
+coercion or undue influence.
+Please consider this FDA Guidance on Enrollment of Participants from Underrepresented Populations in Clinical Studies
+Male (n=75) and female (n=75) heavy drinking adults with insomnia, ages 18-50 will be recruited by posters in local health clinics and the greater Lexington
+community, web and social media advertisements, and word-of-mouth referrals, without regard to race or ethnicity. All participants will be from the Lexington,
+Louisville, or Cincinnati metropolitan areas. The minimum age of 18 was selected to exclude minors from participation in the study and the maximum age of 50
+was chosen to avoid the high rates of sleep disorders in post-menopausal women. Participants will be eligible to participate if they report at least weekly binge
+episodes (4/5+ drinks for women/men) and moderate to severe insomnia as indicated by ISI scores greater than 14. Exclusion criteria are any self-reported
+history of alcohol (severe) or other substance use disorder, obstructive sleep apnea, schizophrenia, bi-polar disorder, or other psychotic spectrum disorder, no
+Internet access, night shift work, lack of fluency in English, pregnancy, and nursing. Eligible participants will first be stratified by sex, and then randomized using
+a random number generator available via the internet (http://www.randomizer.org/).
+Attachments
+Indicate the targeted/planned enrollment of the following members of minority groups and their subpopulations. Possible demographic
+sources: Kentucky State Census, Kentucky Race/Ethnic Table, Kentucky Population Data.
+(Please note: The IRB will expect this information to be reported at Continuation Review time for Pre-2019 FDA-regulated
+Expedited review and Full review applications):
+Participant Demographics
+Cisgender Man
+Cisgender Woman
+TGNB/TGE
+Unknown/Not Reported
+American
+Indian/Alaskan
+Native:
+Asian:
+Black/African
+American:
+Latinx:
+Native
+Hawaiian/Pacific
+Islander:
+White:
+American
+Arab/Middle
+Eastern/North
+African:
+Indigenous
+People Around
+the World:
+More than One
+Race:
+Unknown or Not
+Reported:
+If unknown, please explain why:
+Participant declined to report
+Indicate the categories of subjects and controls to be included in the study. You may be required to complete additional forms depending on
+the subject categories which apply to your research. If the study does not involve direct intervention or direct interaction with subjects, (e.g.,
+record-review research, outcomes registries), do not check populations which the research does not specifically target. For example: a large
+record review of a diverse population may incidentally include a prisoner or an international citizen, but you should not check those categories
+if the focus of the study has nothing to do with that status.
+1000
+0 0
+6400
+3600
+0000
+26 63 0 0
+0000
+0000
+4700
+1000
+Section 7 Page 1 of 3
+<<<PAGE 12>>>
+Check All That Apply (at least one item must be selected)
+Children (individuals under age
+18)
+Wards of the State (Children)
+Emancipated Minors
+Students
+College of Medicine Students
+UK Medical Center Residents or
+House Officers
+Impaired Consent Capacity
+Adults
+Pregnant Women/Neonates/Fetal
+Material
+Prisoners
+Non-English Speaking (translated
+long or short form)
+International Citizens
+Normal Volunteers
+Military Personnel and/or DoD
+Civilian Employees
+Patients
+Appalachian Population
+ADDITIONAL INFORMATION:
+Please visit the IRB Survival Handbook for
+more information on:
+Children/Emancipated Minors
+Students as Subjects
+Prisoners
+Impaired Consent Capacity Adults
+Economically or Educationally
+Disadvantaged Persons
+Other Resources:
+UKMC Residents or House Officers
+[see requirement of GME]
+Non-English Speaking [see also the
+E-IRB Research Description section
+on this same topic]
+International Citizens [DoD SOP may
+apply]
+Military Personnel and/or DoD Civilian
+Employees
+Section 7 Page 2 of 3
+<<<PAGE 13>>>
+Traumatic brain injury or acquired brain
+injury
+Severe depressive disorders or Bipolar
+disorders
+Schizophrenia or other mental disorders
+that
+involve serious cognitive disturbances
+Stroke
+Developmental disabilities
+Degenerative dementias
+CNS cancers and other cancers with
+possible CNS involvement
+Late stage Parkinson’s Disease
+Late stage persistent substance
+dependence
+Ischemic heart disease
+HIV/AIDS
+COPD
+Renal insufficiency
+Diabetes
+Autoimmune or inflammatory disorders
+Chronic non-malignant pain disorders
+Drug effects
+Other acute medical crises
+Assessment of the potential recruitment of subjects with impaired consent capacity (or likelihood):
+Check this box if your study does NOT involve direct intervention or direct interaction with subjects (e.g., record-review research, secondary
+data analysis). If there is no direct intervention/interaction you will not need to answer the impaired consent capacity questions.
+Does this study focus on adult subjects with any conditions that present a high likelihood  of impaired consent capacity or fluctuations  in
+consent capacity? (see examples below)
+Yes No
+If Yes and you are not filing for exemption certification, go to "Form T", complete the form, and attach it using the button below.
+Examples of such conditions include:
+Attachments
+Section 7 Page 3 of 3
+<<<PAGE 14>>>
+INFORMED CONSENT/ASSENT PROCESS/WAIVER 0 unresolved
+comment(s)
+For creating your informed consent attachment(s), please download the most up-to-date version listed in "All Templates" under the
+APPLICATION LINKS menu on the left, and edit to match your research project.
+Additional Resources:
+Informed Consent/Assent Website
+Waiver of Consent vs. Waiver of Signatures
+Sample Repository/Registry/Bank Consent Template
+Consent/Assent Tips:
+If you have multiple consent documents, be sure to upload each individually (not all in a combined file).
+If another site is serving as the IRB for the project, attach the form as a “Reliance Consent Form” so the document will not receive
+a UK IRB approval stamp; the reviewing IRB will need to stamp the consent forms.
+Changes to consent documents (e.g., informed consent form, assent form, cover letter, etc...) should be reflected in a 'tracked
+changes' version and uploaded separately with the Document Type "Highlighted Changes".
+It is very important that only the documents you wish to have approved by the IRB are attached; DELETE OUTDATED FILES --
+previously approved  versions will still be available in Protocol History.
+Attachments that are assigned a Document Type to which an IRB approval stamp applies will be considered the version(s) to be
+used for enrolling subjects once IRB approval has been issued.
+Document Types that do NOT get an IRB approval stamp are:
+"Highlighted Changes",
+"Phone Script", and
+"Reliance Consent Form",
+"Sponsor's Sample Consent Form".
+How to Get the Section Check Mark
+1. You must:
+a) provide a response in the text box below describing how investigators will obtain consent/assent, and
+b) check the box for at least one of the consent items and/or check mark one of the waivers
+2. If applicable attach each corresponding document(s) as a read-only PDF .
+3. If you no longer need a consent document approved (e.g., closed to enrollment), or, the consent document submitted does not
+need a stamp for enrolling subjects (e.g., umbrella study, or sub-study), only select "Stamped Consent Doc(s) Not Needed".
+4. After making your selection(s) be sure to scroll to the bottom of this section and SAVE your work!
+Check All That Apply
+Informed Consent Form (and/or Parental Permission Form and/or translated short form)
+Assent Form
+Cover Letter (for survey/questionnaire research)
+Phone Script
+Informed Consent/HIPAA Combined Form
+Debriefing and/or Permission to Use Data Form
+Reliance Consent Form
+Sponsor's sample consent form for Dept. of Health and Human Services (DHHS)-approved protocol
+Stamped Consent Doc(s) Not Needed
+Attachments
+Informed Consent Process:
+Using active voice, in the text box below, describe how investigators will obtain consent/assent. Include:
+the circumstances under which consent will be sought and obtained
+the timing of the consent process (including any waiting period between providing information and obtaining consent)
+Section 8 Page 1 of 5
+<<<PAGE 15>>>
+who will seek consent
+how you will minimize the possibility of coercion or undue influence
+the method used for documenting consent
+if applicable, who is authorized to provide permission or consent on behalf of the subject
+if applicable, specific instruments or techniques to assess and confirm potential subjects’ understanding of the information
+Will electronic consent form/process be utilized on-site or remotely for this study?
+Yes No
+If yes, in addition to addressing the above bullet points, describe the e-consent method and platform, including any hyperlinks, videos,
+or enhancements used to convey information, if applicable. Attach a representation of the e-consent with signature fields. For
+guidance, see the ORI E-Consent web page.
+Note: all individuals authorized to obtain informed consent should be designated as such in the E-IRB "Study Personnel" section of
+this application.
+Special considerations may include:
+Obtaining consent/assent for special populations such as children, prisoners, or people with impaired decisional capacity
+Research Involving Emancipated Individuals
+If you plan to enroll some or all prospective subjects as emancipated, consult with UK legal counsel prior to submitting this
+application to the IRB. Include research legal counsel’s recommendations in the "Additional Information" section as a separate
+document.
+Research Involving Non-English Speaking Subjects
+For information on inclusion of non-English speaking subjects, or subjects from a foreign culture, see IRB Application Instructions
+for Recruiting Non-English Speaking Participants or Participants from a Foreign Culture.
+Research Repositories
+If the purpose of this submission is to establish a research repository describe the informed consent process. For guidance
+regarding consent issues, process approaches, and sample language see the Sample Repository/Registry/Bank Consent
+Template.
+Individuals interested in participating will be directed to complete the confidential web screening questionnaire. Participants will
+indicate consent for the web screener by checking a box. Only participants indicating consent will continue on to the screening survey
+itself. Qualifying participants will provide consent at two points in the study. First, they will be emailed a link to the online REDCap
+survey, which contains a cover letter consent form detailing risks and benefits. Participants must indicate their consent in order to
+participate in the study. They also have the option to opt-out. Participants will be emailed a digital copy of the consent form following
+completion of the REDCap survey. Additionally, participants will be read a second consent form (included in the phone interview
+script) at the beginning of the 6-month follow-up phone interview. They will be reminded of their rights as research participants and
+potential risks. Participants must offer verbal consent prior to the interview taking place. The protocol, including consent forms, will be
+approved by the IRB. Subjects are informed that they do not have to participate if any procedure causes them discomfort.
+Participants will have the email and phone contact information of the research assistant, the UK Office of Research Integrity, and PI
+Moloney in the event that they wish to make confidential complaints or request information about the study.
+Request for Waiver of Informed Consent Process
+If you are requesting IRB approval to waive the requirement for the informed consent process, or to alter some or all of the
+elements of informed consent, complete, Section 1 and Section 2 below.
+Note: The IRB does not approve waiver or alteration of the consent process for greater than minimal risk research, except
+for planned emergency/acute care research as provided under FDA regulations. Contact ORI for regulations that apply to
+single emergency use waiver or acute care research waiver (859-257-9428).
+SECTION 1.
+Check the appropriate item:
+I am requesting a waiver of the requirement for the informed consent process.
+I am requesting an alteration of the informed consent process.
+If you checked the box for this item, describe which elements of consent will be altered and/or omitted, and justify the
+alteration.
+SECTION 2.
+Explain how each condition applies to your research.
+a) The research involves no more than minimal risk to the subject.
+b) The rights and welfare of subjects will not be adversely affected.
+c) The research could not practicably be carried out without the requested waiver or alteration.
+Section 8 Page 2 of 5
+<<<PAGE 16>>>
+d) Whenever possible, the subjects or legally authorized representatives will be provided with additional pertinent information
+after they have participated in the study.
+e) If the research involves using or accessing identifiable private information or identifiable biospecimens, the research could
+not practicably be carried out without using such information or biospecimens in an identifiable format.
+Private information/specimens are “identifiable” if the investigator may ascertain the identity of the subject or if identifiers
+are associated with the information (e.g., medical records). This could be any of the 18 HIPAA identifiers including dates
+of service.
+If not using identifiable private information or identifiable biospecimens, insert N/A below.
+Section 8 Page 3 of 5
+<<<PAGE 17>>>
+Request for Waiver of Signatures
+If you are requesting IRB approval to waive the requirement for signatures on informed consent forms, your research
+activities must fit into one of three regulatory options :
+1. The only record linking the participant and the research would be the consent document, and the principal risk would be
+potential harm resulting from a breach of confidentiality (e.g., a study that involves participants who use illegal drugs).
+2. The research presents no more than minimal risk to the participant and involves no procedures for which written consent
+is normally required outside of the research context (e.g., a cover letter on a survey, or a phone script).
+3. The participant (or legally authorized representative) is a member of a distinct cultural group or community in which
+signing forms is not the norm, the research presents no more than minimal risk to the subject, and there is an appropriate
+alternative mechanism for documenting that informed consent was obtained.
+Select the option below that best fits your study.
+If the IRB approves a waiver of signatures, participants must still be provided oral or written information about the study.
+To ensure you include required elements in your consent document, use the Cover Letter Template  as a guide. There is
+an English  and a Spanish  version.
+Option 1
+Describe how your study meets these criteria:
+a) The only record linking the participant and the research would be the consent document:
+b) The principal risk would be potential harm resulting from a breach of confidentiality (i.e., a study that involves subjects
+who use illegal drugs).
+Under this option, each participant (or legally authorized representative) must be asked whether (s)he wants to sign a
+consent document; if the participant agrees to sign a consent document, only an IRB approved version should be
+used.
+Option 2
+Describe how your study meets these criteria:
+a) The research presents no more than minimal risk to the participant:
+Our research presents no more than minimal risk to participants because the probability and magnitude of discomfort
+from this research is not greater than what is ordinarily encountered in daily life, or that which might be encountered
+during routine psychological tests.
+b) Involves no procedures for which written consent is normally required outside of the research context (i.e. a cover
+letter on a survey, or a phone script):
+Our research involves an online survey, and a telephone interview, procedures for which obtaining written consent is
+not normally required outside of research and we have created a pre-screening cover letter, a survey cover letter, a
+telephone interview cover letter, and phone script in accordance with UK IRB guidelines.
+Option 3
+Describe how your study meets these criteria:
+a) The subject (or legally authorized representative) is a member of a distinct cultural group or community in which
+signing forms is not the norm.
+b) The research presents no more than minimal risk to the subject.
+c) There is an appropriate alternative mechanism for documenting that informed consent was obtained.
+Section 8 Page 4 of 5
+<<<PAGE 18>>>
+Section 8 Page 5 of 5
+<<<PAGE 19>>>
+STUDY PERSONNEL 0 unresolved comment(s)
+Do you have study personnel who will be assisting with the research?
+After selecting 'Yes' or 'No' you must click the 'Save Study Personnel Information' button.
+Yes No
+Manage Study Personnel
+Identify other study personnel assisting in research project:
+The individual listed as PI in the 'PI Contact Information' section should NOT be added to this section.
+If the research is required for a University of Kentucky academic program, the faculty advisor is also considered study personnel and should be listed below. ***Residents and
+students who are PI’s are encouraged to designate the faculty advisor or at least one other individual as a contact with an editor role (DP).***
+Role: DP = Editor (individual can view, navigate, and edit the application for any review phase (IR, CR/FR, MR) or 'Other Review", and submit Other Reviews on behalf of the PI.)
+Role: SP = Reader (individual can view and navigate through the currently approved application only.)
+To add an individual via the below feature:
+Search for personnel;
+Click "select" by the listing for the person you want to add;
+For each person, specify responsibility in the project, whether authorized to obtain informed consent, AND denote who should receive E-IRB notifications (contact status).
+NOTE: Study personnel must complete human subject protection (HSP) and Responsible Conduct of Research (RCR) training before implementing any research
+procedures. For information about training requirements for study personnel, visit UK’s HSP FAQ page, the RCR Home page, or contact ORI at 859-257-9428. If you
+have documentation of current HSP training other than that acquired through UK CITI, you may submit it to ORI ( HSPTrainingSupport@uky.edu ) for credit.
+Study personnel assisting in research project:
+Last Name First
+Name
+Responsibility In
+Project Role A
+C Contact Degree StatusFlag (HSP) (HSP)Date (RCR) Removed? Last
+Updated SFI Active
+Belka Thomas Project
+Assistance/Support SP NN  SY 02/15/2024 YN 10/16/2024 NY
+Moloney Mairead Co-Investigator DP Y Y PhD N Y 03/03/3000 N N 08/26/2024 N Y
+Padgett Kelsey Project
+Assistance/Support DP YN  PY 04/06/2023 YN 11/15/2023 NY
+Trentmann Virginia Project
+Assistance/Support SP NN  SY 02/15/2024 YN 10/16/2024 NY
+Vsevolozhskaya Olga Faculty Advisor DP N Y PhD P Y 10/23/2024 Y N 03/11/2024 N Y
+Weafer Jessica Co-Investigator SP Y Y PhD N Y 03/03/3000  N 08/15/2024 N Y
+Bansal Pevitr Project
+Assistance/Support SP Y N M.A. S N 04/02/2022  Y 07/14/2022 N N
+Barthel Avrie Data Collection SP N N  S Y 10/03/2022  Y 08/15/2024 N N
+Brooks Alyssa Co-Investigator DP Y N  N Y 03/03/3000  Y 07/22/2020 N Y
+Brown Jaime Study Coordinator DP Y Y B.A. P Y 11/09/2023 Y Y 04/24/2023 N Y
+Burand Calisse Project
+Assistance/Support DP Y Y  P Y 09/03/2023  Y 09/28/2022 N N
+Count Cassidy Project
+Assistance/Support SP NN  PY 08/10/2023 YY 03/11/2024 NY
+Elkins Anjeli Project
+Assistance/Support SP Y N M.A. P Y 08/13/2023  Y 03/10/2022 N Y
+Eng Ashley Project
+Assistance/Support SP YN M.A. PY 01/21/2023 NY 03/10/2022 NY
+Goh Patrick Project
+Assistance/Support SP N N M.A. P N 03/07/2022  Y 03/11/2024 N N
+Gurney Elise Project
+Assistance/Support DP N N  P Y 03/30/2023  Y 05/14/2024 N N
+Martel Michelle Project
+Assistance/Support SP YN Ph.D. PY 02/28/2023 YY 03/11/2024 NY
+Moloney Mairead Co-Investigator SP Y Y PhD N Y 03/03/3000  Y 08/26/2024 N Y
+Naylor Kelsey Project
+Assistance/Support SP Y N  S N 08/25/2020  Y 09/28/2022 N N
+Robinson Layne Project
+Assistance/Support SP YN  SY 08/02/2024 YY 09/28/2022 NY
+Smith Caitlyn Project
+Assistance/Support SP N N  N Y 03/03/3000  Y 09/28/2022 N Y
+Smith Caitlyn Project
+Assistance/Support SP Y N  P N 08/04/2021  Y 09/28/2022 N Y
+Smoot Holly Project
+Assistance/Support SP Y N  P N 08/17/2021  Y 09/03/2021 N N
+Strzelecki Ashley Project
+Assistance/Support SP Y N  P Y 05/31/2023  Y 03/11/2024 N N
+Section 9 Page 1 of 2
+<<<PAGE 20>>>
+Last Name First
+Name
+Responsibility In
+Project Role A
+C Contact Degree StatusFlag (HSP) (HSP)Date (RCR) Removed? Last
+Updated SFI Active
+Thaxton Melina Project
+Assistance/Support SP Y N B.A. P N 02/26/2020  Y 03/10/2022 N N
+Weafer Jessica Co-Investigator DP N Y PhD P N 06/04/2021  Y 08/25/2023 N N
+West Kathleen Project
+Assistance/Support DP YN  PN 07/06/2022 YY 11/15/2023 NY
+Winkel Fiona Project
+Assistance/Support SP Y N  S N 08/26/2020  Y 09/28/2022 N N
+Section 9 Page 2 of 2
+<<<PAGE 21>>>
+RESEARCH DESCRIPTION 0 unresolved
+comment(s)
+You may attach a sponsor’s protocol pages in the “Additional Information” section and refer to them where necessary in
+the Research Description. However, each prompt that applies to your study should contain at least a summary paragraph.
+Pro Tips:
+Save your work often to avoid losing data.
+Use one of the attachment buttons in this section or under the Additional Information section to include supplemental
+information with your application. During the document upload process, you will be able to provide a brief description
+of the attachment.
+Background
+Include a brief review of existing literature in the area of your research. You should identify gaps in knowledge that should be addressed
+and explain how your research will address those gaps or contribute to existing knowledge in this area. For interventional research,
+search PubMed and ClinicalTrials.gov for duplicative ongoing and completed trials with same condition and intervention(s).
+An estimated 15 million people in the United States have alcohol use disorder (AUD). Of those, at least 40% suffer from insomnia.
+AUD and insomnia have a bidirectional and feed-forward relationship, such that excessive alcohol consumption negatively impacts
+sleep, and disrupted sleep contributes substantially to alcohol-related problems. This association may be particularly pronounced in
+women, as women have a 40% higher insomnia risk than men, and incidence of AUD is increasing among women at alarming rates.
+Initial studies show that treating insomnia in individuals with AUD can effectively disrupt this cycle and reduce AUD symptomatology.
+Importantly, insomnia often precedes problematic drinking in both adolescents and adults, and thus may play a causal role in the onset
+of AUD. As such, it is possible that insomnia treatment in high-risk heavy drinkers could also serve to prevent the transition to AUD.
+However, the degree to which treating insomnia reduces alcohol use in heavy drinkers is not known.
+Cognitive behavioral therapy for insomnia (CBT-I) is the recommended first-line insomnia treatment. CBT-I trained practitioners,
+however, are rare and CBT-I typically requires 6-8 office visits which may not be covered by insurance. One solution to these
+obstacles is the implementation of efficacious, accessible electronic cognitive behavioral therapy for insomnia (e-CBT-I).
+Sleep Healthy Using the Internet (SHUTi) is a well-validated version of e-CBT-I comprised of 6 weekly educational modules and daily
+sleep diaries. SHUTi improves sleep in adults with insomnia, adults with asthma, cancer survivors, and Appalachian women. Moreover,
+our research team and others have shown that SHUTi has positive effects on sleep-associated health behaviors it does not directly
+target, including depression, which is highly comorbid with both insomnia and AUD, maladaptive coping, perceived stress, and sleep
+medication use. As such, SHUTi holds promise for reducing alcohol use and is currently being piloted among treatment-seeking adults
+diagnosed with AUD by our NIH-based project consultant (Brooks, 18-CC-0079, NCT03493958). The current study will be the first to
+test the degree to which SHUTi may also decrease alcohol use in heavy drinkers, and potentially prevent the transition from heavy
+drinking to AUD.
+Our long-term goal is to implement successful, technologically-facilitated, self-administered interventions to reduce alcohol
+consumption and improve sleep. The objective of this application is to determine the effectiveness of SHUTi in improving sleep and
+reducing alcohol use among heavy drinkers with insomnia. Our central hypothesis is that SHUTi will reduce alcohol use and improve
+sleep and mood in this population. The rationale for this mixed methods proposal is that effective, nonpharmacologic treatments are
+necessary to stem the highly comorbid public health problems of AUD and insomnia. If successful, SHUTi will represent a novel and
+easily accessible intervention for reducing alcohol intake among high-risk heavy drinkers.
+Objectives
+List your research objectives. Please include a summary of intended research objectives in the box below.
+Specific Aim 1: Determine the effectiveness of SHUTi to reduce alcohol consumption among heavy drinkers with insomnia. Based on
+evidence that insomnia treatment may reduce alcohol use in treatment-seeking individuals with AUD, we hypothesize that SHUTi will
+reduce alcohol use among heavy drinkers.
+Specific Aim 2: Determine the effectiveness of SHUTi to decrease insomnia severity and improve sleep and mood among heavy
+drinkers with insomnia. Based on data collected by our team and others we hypothesize that SHUTi will decrease insomnia severity
+and improve sleep quality and mood among heavy drinkers.
+Exploratory Aim: Explore sex differences in the effectiveness of SHUTi to reduce alcohol consumption and improve sleep and mood.
+This study is a collaboration between two Early Stage Investigators that combines MPI Dr. Weafer’s expertise in alcohol addiction and
+MPI Dr. Moloney’s expertise in insomnia and implementing the SHUTi intervention. Findings from the study will provide critical
+preliminary data showing whether SHUTi is effective at reducing alcohol consumption and improving sleep among heavy drinkers. This
+research is an important step towards implementing a wide-reaching, easily accessible, non-pharmacologic intervention with the
+potential to reduce alcohol use and improve sleep in heavy drinkers.
+Study Design
+Describe and explain the study design (e.g., observational, secondary analysis, single/double blind, parallel, crossover, deception, etc.).
+Clinical Research : Indicate whether subjects will be randomized and whether subjects will receive any placebo.
+Community-Based Participatory Research : If you are conducting community-based participatory research (CBPR), describe
+Section 10 Page 1 of 9
+<<<PAGE 22>>>
+strategies for involvement of community members in the design and implementation of the study, and dissemination of results from
+the study.
+Qualitative research : Indicate ranges where flexibility is needed, if a fixed interview transcript is not available, describe interview
+topics including the most sensitive potential questions.
+Research Repositories : If the purpose of this submission is to establish a Research Repository (bank, registry) and the material
+you plan to collect is already available from a commercial supplier, clinical lab, or established IRB approved research repository,
+provide scientific justification for establishing an additional repository collecting duplicate material. Describe the repository design
+and operating procedures. For relevant information to include, see the UK Research Biospecimen Bank Guidance or the UK
+Research Registry Guidance.
+Men (n=75) and women (n=75) aged 18-50 who report heavy drinking [at least weekly binge drinking (4/5+ drinks per episode for
+women/men) over the past 90 days] and insomnia will be recruited throughout Kentucky, Ohio, Indiana, and Florida. Half will be
+randomly assigned to receive the SHUTi intervention; the other half will receive access to a web-based insomnia education program.
+All participants will access the Internet via a personal computer, tablet, or Smartphone. All participants will complete a guided drinking
+calendar on zoom and an online survey comprised of validated sleep and alcohol use scales at baseline and three time points: T1 (at
+the end of the 9 week intervention period), T2 (3-months post-intervention), and T3 (6 months post-intervention). Participants will
+additionally complete daily online diaries of sleep and alcohol use at baseline, T1, and T3 and a semi-structured telephone interview at
+T3.
+Attachments
+Subject Recruitment Methods & Advertising
+Describe how the study team will identify and recruit subjects. Please consider the following items and provide additional information as
+needed so that the IRB can follow each step of the recruitment process.
+How will the study team identify potential participants?
+Who will first contact the potential subjects, and how?
+Will you use advertisements? If so, how will you distribute those?
+How and where will the research team meet with potential participants?
+If applicable, describe proposed outreach programs for recruiting women, minorities, or disparate populations.
+How you will minimize undue influence in recruitment?
+Attach copies of all recruiting and advertising materials (emails, verbal scripts, flyers, posts, messages, etc.).
+For additional information on recruiting and advertising:
+IRB Application Instructions - Advertisements
+PI Guide to Identification and Recruitment of Human Subjects for Research
+The study will recruit subjects through flyers, posters, Research Spotlights, and ads placed on campus and in the surrounding
+community and region. (Study Team will place/remove ads), including but not limited to the UK Medical Center, UK Clinics, Good
+Samaritan Hospital, Student Center, UHS, the 5 UK Center for Clinical and Translational Research wall mounts, Cardinal Hill, monitor
+screens, and area facilities and businesses. Recruitment ads will also appear on Craig’sList. We will also recruit subjects using social
+media, including Facebook and Instagram. Recruitment will also take place via ResearchMatch. We will adhere to UK's guidelines for
+recruitment using social media. Specifically, we will adhere to the online platform's terms of use and conditions; we will obtain IRB
+approval before advertising over social media; we will not post ads directly on individuals' pages; we will limit postings on craigslist to
+one category; and we will not interact with closed groups or online forums without first obtaining permission. The study will employ a
+pre-screening cover letter and eligibility survey to determine if a volunteer meets basic inclusion/exclusion criteria. We will administer
+the eligibility survey on UK’s REDCap which provides HIPAA compliant storage on UK servers and encrypted transmission of survey
+responses. The data collected from the prescreen survey will be used only to determine eligibility, and will not be analyzed or used for
+future research purposes. The link will be included in study information sent to ResearchMatch participants who have indicated interest
+in the study. Before redirecting the volunteer outside of ResearchMatch and to the REDCap survey, the volunteer is once again asked
+to confirm their interest in completing the pre-screening cover letter and survey. Prospective participants seeing a recruitment
+advertisement will contact the study initially by phone call, text message, or email, and will be referred to the RedCap link so they can
+complete a preliminary screening questionnaire. Dr. Weafer has extensive experience recruiting heavy drinking adults in and around
+Lexington and Dr. Moloney has successfully recruited adults with insomnia in rural Appalachian Kentucky.
+This study will be advertised on recruitment internet webpages in digital or video form (e.g., UKclinicalresearch.com,
+ResearchMatch.org, CenterWatch.com, CISCRP, UK, CCTS and may utilize Google Adwords). The study will be promoted via social
+media, including Facebook boost ads, UK_CCTS Facebook, UK_CCTS Twitter, UK_CCTS Instagram, UK and UKHC social media,
+and departmental/lab pages. If advertised on UKClinicalresearch.com, the online study flyer will include an option for interested
+individuals to enter and submit their contact information, they will be asked whether study team can contact them (Yes or No) via study-
+related text messages, and CCTS will also ask, ‘How did you learn about the study?'. Internet and social media recruitment will follow
+the terms of use for each site utilized. The study will also be promoted through UK HC monitor screens. Potential participants may be
+identified from registry databases, including but not limited to ResearchMatch.org, Wellness Health and You, Sanders Brown Center on
+Aging, Infectious Disease, Dentistry, and the Markey Cancer Center. The CCTS attends outreach activities to promote research
+participation in general (e.g., Roots & Heritage Festival, Latino Festival, Eastern Kentucky University, Transylvania Health fairs, etc.) and
+will bring all relevant study flyers that are enrolling participants. This study may also go out on email distribution, listservs, or e-
+newsletters, e.g., the CCTS list serv, Markey Cancer Affiliates list servs, ResearchMatch.org, Wednesday’s Word, Kentucky Office of
+Rural Health (KORH), Appalachian Translational Research Network (ATRN), etc. We may utilize physician referral letters to community
+physicians for patient recruitment; however, a modification request will be submitted to the IRB before this method of recruitment is
+implemented. Articles and interviews about the researchers and research study may be promoted via UKNow, Kentucky living, and
+Section 10 Page 2 of 9
+<<<PAGE 23>>>
+other media outlets. Research and study-related articles published on UKNow may contain standard language directing interested
+individuals on where to read more about research and current studies. UKPR, UK HealthCare marketing or the CCTS PRS may create
+videos to promote research, researchers and their studies to local, regional and national media venues and on internal hospital
+monitors. UK HealthCare may place study recruitment flyers on their internal and external racks (e.g., UK pharmacies, clinics, UK
+Libraries and Lexington Libraries) or on digital monitors. Participants may be recruited using newsletters, such as In the Loop, Health
+Matters, Making a difference, and external news letters. The study may also be advertised through UKPR and UKHC outreach
+activities. All of these sources will be used to recruit participants from the Lexington area and surrounding counties. Social media ads
+will target participants throughout Kentucky, Ohio, Indiana, and Florida. Advertisements will invite heavy drinkers (age 18 - 50) to
+participate in a study on insomnia and alcohol consumption. The investigators have extensive experience using this recruitment
+procedure in communities for alcohol and other drug studies. All advertisements will be approved by the UK Institutional Review Board
+(IRB) and the UK Office of Public Relations.
+In addition, we will utilize the services of a research subject recruitment firm called BuildClinical. BuildClinical is a technology company
+that enables academic researchers to engage the specific populations needed for their studies. They utilize machine-learning and data
+mining to identify specific patient groups and communities across platforms (e.g., social media, health websites, etc.) and they target
+advertising toward them. Advertisements link to a customized landing page that explains more about the study, and a pre-screen form
+that helps determine someone's eligibility. BuildClinical will then send us information on anyone who is deemed eligible based on the
+pre-screen.
+Attachments
+Attach Type File Name
+Advertising PODS flyer_v2_PR_approved.pdf
+Advertising PODS flyer QR code PR edit STAMPED.pdf
+Advertising PODS PSYCH-071 research match PR STAMPED irb 60446.pdf
+Advertising PSYCH-071a researchmatch-STAMPED.pdf
+Advertising PSYCH-071a social media-STAMPED.pdf
+Advertising PSYCH-071a_flyer-STAMPED.pdf
+Advertising PSYCH-071a_MON-STAMPED.pdf
+Advertising PSYCH-071b researchmatch-STAMPED.pdf
+Advertising PSYCH-071b social media-STAMPED.pdf
+Advertising PSYCH-071b_flyer-STAMPED.pdf
+Advertising PSYCH-071b_MON-STAMPED.pdf
+Advertising BCFS00690-UK-Moloney-AUD [Landing Page]-STAMPED.pdf
+Advertising BCFS00690-UK-Moloney-AUD Screening Form-STAMPED.pdf
+Advertising BCFS00690-UK-Moloney-AUD-Ad2-STAMPED.pdf
+Advertising BCFS00690-UK-Moloney-AUD-Feed-STAMPED.pdf
+Advertising Indiana-BCFS00690-UK-Moloney-AUD-AdCopy (1)-STAMPED.pdf
+Advertising Kentucky-BCFS00690-UK-Moloney-AUD-AdCopy (1)-STAMPED.pdf
+Advertising Ohio-BCFS00690-UK-Moloney-AUD-AdCopy (1)-STAMPED.pdf
+Section 10 Page 3 of 9
+<<<PAGE 24>>>
+Back to Top
+Research Procedures
+Describe how the research will be conducted.
+What experience will study participants have?
+What will study participants be expected to do?
+How long will the study last?
+Outline the schedule and timing of study procedures.
+Provide visit-by-visit listing of all procedures that will take place.
+Identify all procedures that will be carried out with each group of participants.
+Describe deception and debrief procedures if deception is involved.
+Screening: Participants will complete an online screening survey in REDCap. They are told at the beginning of this survey that they will
+be contacted by phone if they are eligible to participate in the study.
+Baseline Assessment: Participants will complete an online survey in REDCap containing validated measures of alcohol-related
+problems (AUDIT), alcohol valuation (APT) and sleep (ISI, Pittsburgh Sleep Quality Index). We will also collect data on common
+comorbidities including stress (Perceived Stress Scale) and depression (Center for Epidemiologic Studies Depression Scale).
+Moloney used these assessments in her previous SHUTi pilot. Additionally, we will gather information on Circadian rhythms (CMQ) and
+sleep medication use. Following completion of these surveys, participants will fill out a Timeline Follow-Back (TLFB), a drinking
+calendar which allows participants to report their drinking habits for each of the previous 30 days. This TLFB will be completed over
+zoom and guided by a member of the research team to ensure adequate detail and accuracy. Finally, participants will then complete an
+11-item daily sleep and alcohol use diary for ten days.
+SHUTi (Treatment): To offer scheduling flexibility, participants will have 9 weeks to complete 6 once-weekly educational “cores.” Cores
+consist of: insomnia overview, sleep restriction, stimulus control, cognitive restructuring, sleep hygiene, and relapse prevention, and
+last approximately 45 minutes each. Participants will receive weekly objectives, as well as review and feedback on the previous core’s
+assignments and sleep diary data, new material, assignments, and a summary. These features are supplemented with interactive
+features (i.e., personalized goal-setting, video vignettes). Participants receive daily emails prompting them to complete the 11-item
+sleep and alcohol use diary daily during the intervention.
+Web-based insomnia education (Control). The online education program has been used in previous SHUTi trials. Participants will be
+given access to a web-based program on sleep education to read at their own pace during the 9-week intervention period. The
+program content overlaps with SHUTi on the following topics: insomnia symptoms, impacts, and causes, basic sleep improvement
+strategies, and when to see a doctor. The information is akin to that found on WebMD or National Sleep Foundation website. Unlike the
+SHUTi program, the information is fixed, accessible immediately (no week-to-week information “unlocking”) and there are no
+customized bedtime or wake-time suggestions based on sleep diary data.
+Participants who are randomly assigned to the intervention condition will be granted access to the program free of charge for up to six
+months from the start of the study. Participants who are randomly assigned to the education-only condition will be given access to the
+full SHUTi program three months after completing the study upon request. Similarly, participants who are randomly assigned to the
+intervention condition will be granted access to the education materials provided to the education-only condition participants three
+months after completing the study upon request.
+Follow-up assessments: Participants will repeat the baseline REDCap survey containing alcohol use and sleep scales and the guided
+TLFB immediately following completion of the intervention and at 3-, and 6-month post intervention follow-ups. The post-intervention
+version of the REDCap surveys will additionally contain adherence, acceptability, and satisfaction scales. Participants will also
+complete an additional 10 days of daily sleep and alcohol use diaries at the post-intervention and 6-month follow-ups. At the 6-month
+follow-up, Moloney will lead a brief (30 min) qualitative, semi-structured interview over the telephone to reveal nuanced insights about
+participants’ individual experiences and the intersections of alcohol use and sleep. A second interviewer will also participate on
+interviews to aid in note-taking and reduce bias.
+Attachments
+Attach Type File Name
+ResearchProcedures Daily_diary_prompt.docx
+Data Collection & Research Materials
+In this section, please provide the following:
+Describe all sources or methods for obtaining research materials about or from living individuals (such as specimens, records,
+surveys, interviews, participant observation, etc.), and explain why this information is needed to conduct the study.
+For each source or method described, please list or attach all data to be collected (such as genetic information, interview scripts,
+survey tools, data collection forms for existing data, etc.).
+If you will conduct a record or chart review, list the beginning and end dates of the records you will view.
+Data to be collected will consist of demographics, alcohol use, sleep duration and quality, perceived stress, depressive symptoms,
+medication use, and general medical history. We will also collect data on perceived helpfulness, satisfaction, and acceptability of the
+Section 10 Page 4 of 9
+<<<PAGE 25>>>
+SHUTi and PE programs. All measures attached here will be completed by both the SHUTi and web-based education treatment
+groups. The initial participant screen questionnaire, AUDIT, and ISI will be completed at screening. The ISI, PSQI, AUDIT, TLFB, APT,
+PSS, CESD-10, and sleep med questionnaire will be completed at baseline, post-intervention, 3-month follow-up, and 6-month follow-
+up. The CMQ will only be completed at baseline as circadian preferences are known to be stagnant. The Treatment Satisfaction
+Scales will be completed post-intervention.
+Attachments
+Attach Type File Name
+DataCollection SIESTA Post-intervention Interview Protocol 3-11-23.docx
+DataCollection TLFB Zoom Instructions 2.16.23.docx
+DataCollection STOP-Bang.docx
+DataCollection 7.Treatment_Satisfaction.docx
+DataCollection 8.Composite Morningness Questionnaire.pdf
+DataCollection 9. APT-Trait V1 20 NOV 2019.docx
+DataCollection Sleep_Med_Questionnaire.pdf
+DataCollection Insomnia Severity Index -ISI.pdf
+DataCollection PSQI_sleep_questionnaire_1_pg.pdf
+DataCollection AUDIT.docx
+DataCollection TLFB.docx
+DataCollection PerceivedStressScale.pdf
+DataCollection CESD-10.pdf
+DataCollection SIESTA prescreen final.pdf
+Resources
+Describe the availability of the resources and adequacy of the facilities that you will use to perform the research. Such resources may
+include:
+Staffing and personnel, in terms of availability, number, expertise, and experience;
+Computer or other technological resources, mobile or otherwise, required or created during the conduct of the research;
+Psychological, social, or medical services, including equipment needed to protect subjects, medical monitoring, ancillary care, or
+counseling or social support services that may be required because of research participation;
+Resources for communication with subjects, such as language translation/interpretation services.
+Technological resources useful for this project include a laptop computer, statistical and qualitative analysis software (Stata 15,
+NVivo12), and REDCap (provided by UK CCTS). For telephone interviews, we will use Simple Recorder (an app that *is not cloud-
+connected*) to record interviews. As described elsewhere, participants will be informed of the recording procedures, risks, safety
+precautions taken, and will consent prior to any substantive questions being asked. General technological resources in the
+departments of Psychology and Sociology include private offices, office and laptop computers, printer/scanner, webcams, and
+telecommunications software (Zoom). We also plan to work closely with the UK CCTS. Their project navigation, recruitment, and
+REDCap services will be crucial to the success of our project.
+Potential Risks & Benefits
+Risks
+Describe any potential risks – including physical, psychological, social, legal, ability to re-identify subjects, or other risks. Assess
+the seriousness and likelihood of each risk.
+Which risks may affect a subject’s willingness to participate in the study?
+Qualitative research  - describe ethical issues that could arise while conducting research in the field and strategies you may use to
+handle those situations.
+Describe any steps to mitigate these risks.
+Benefits
+Describe potential direct benefits to study participants – including diagnostic or therapeutic, physical, psychological or emotional,
+learning benefits. This cannot include incentives or payments.
+State if there are no direct benefits.
+Describe potential benefits to society and/or general knowledge to be gained.
+Describe why potential benefits are reasonable in relation to potential risks. If applicable, justify why risks to vulnerable subjects are
+reasonable to potential benefits.
+The risks to subjects are minimal and involve risks of: 1) confidentiality and 2) psychological discomfort.
+1) Given the nature of online surveys, as with anything involving the Internet, we can never guarantee the confidentiality of the data
+while still en route to us. Participant data will be de-identified, stored on a secure server, and accessible only to IRB-approved study
+personnel.
+2) Participants may feel uncomfortable answering some questions about sleep and alcohol use. Participants will be told that they may
+Section 10 Page 5 of 9
+<<<PAGE 26>>>
+skip any question that makes them uncomfortable.
+The minimal risks to participants are justified by the knowledge to be gained regarding the potential for an Internet-based insomnia
+intervention to improve sleep and reduce alcohol use among heavy drinkers with insomnia. While there may be some benefits to study
+participants in terms of improved sleep and/or reduced alcohol use, establishing the feasibility, acceptability, and effectiveness of
+SHUTi to directly address these behaviors may be of great benefit to others by setting the groundwork for an accessible, behavioral
+intervention that improves multiple health behaviors in both the short and long term. Participants may benefit from the information
+obtained during the screening procedure, including an awareness of problematic behaviors in which they are engaging. Information
+about counseling/treatment options will be provided as needed.
+Available Alternative Opportunities/Treatments
+Describe alternative treatments or opportunities that might be available to those who choose not to participate in the study, and which
+offer the subject equal or greater advantages. If applicable, this should include a discussion of the current standard of care treatment(s).
+There are no alternative treatments.
+Back to Top
+Records, Privacy, and Confidentiality
+Specify where the data and/or specimens will be stored and how the researcher will ensure the privacy and confidentiality of both.
+Specify who will have access to the data/specimens and why they need access.
+Describe how data will be managed after the study is complete:
+If data/specimens will be maintained, specify whether identifiers will be removed from the maintained information/material.
+If identifiers will not be removed, provide justification for retaining them and describe how you will protect confidentiality.
+If the data/specimens will be destroyed, verify that this will not violate retention policies and will adhere to applicable facility
+requirements.
+If this study will use de-identified data from another source, describe what measures will be taken to ensure that subject identifiers are
+not given to the investigator.
+If applicable, describe procedures for sharing data/specimens with collaborators not affiliated with UK.
+For additional considerations:
+Return of Research Results or Incidental Research Findings
+HIPAA policies
+FERPA policies
+Procedures for Transfer agreements
+Information regarding multi-site studies
+NIH Genomic Data Sharing (GDS) Policy
+Digital Data
+Data will be collected exclusively through participant self-report via opt-in online, REDCap surveys and opt-in telephone interviews.
+Participant data will be de-identified, stored on a secure server, and accessible only to IRB-approved study personnel. Data will be
+kept in a password-protected file on the UK server and will be accessible only by project personnel. All information will be in the form
+of numerical data and used for research purposes only. Results will be reported only for groups, and no single individual will be
+identified. All research materials obtained from participants will be collected directly from them at the time of screening and
+participation. Personal identifiers, such as names, will be removed from subjects’ data records. All data will be stored in coded files
+and locked in the laboratory area.
+All research study personnel will have up-to-date CITI training. To maintain confidentiality: (1) each email address and telephone
+number will be copied into a new spreadsheet with no participant data, where we will assign each address a unique numerical ID code;
+(2) email addresses and telephone numbers will then be completely deleted from the data file and replaced only with the ID code; (3)
+these new data files and the email spreadsheet will be stored separately on encrypted servers, so that if the servers are breeched,
+these files will not be linked. Emails and phone numbers will be retained for the duration of the study. Once the study is complete we
+will work with our UK Network administrator to assist us in securely deleting any personally identifying information. Research records,
+survey data, and transcripts will be stored on a password-protected, closed drive that only the research team has access to.
+Telephone interviews will be professionally transcribed by Rev.com, and transcribers will be instructed not to include participants’
+names, telephone numbers, or email addresses in the transcript. One of the investigators or the research assistant will ensure that
+each transcript is fully blinded before saving it onto our password protected drive. Audio recordings will be deleted once they have
+been transcribed. All IRB-related materials and records will be retained for a minimum of 6 years after the end of the IRB-approval
+period.
+To protect against, or minimize any possible risks, we will follow these procedures:
+1) Participants will be carefully screened to exclude those who are physically or psychiatrically at risk.
+2) Participant files containing confidential information will be maintained in a locked cabinet in the PI’s office. Only personnel directly
+connected with the study have access to this information, and these individuals are instructed in the importance and procedures for
+maintaining confidentiality.
+3) Data collected in the study are identified by subject codes only, and no data will be published in a form by which the subject can be
+identified.
+Section 10 Page 6 of 9
+<<<PAGE 27>>>
+UK IRB policies state that IRB-related research records must be retained for a minimum of 6 years after study closure.
+Check this item to confirm that you will retain all IRB-related records for a minimum of 6 years after study closure.
+Payment
+Describe the incentives (monetary or other) being offered to subjects for their participation. If monetary compensation is offered,
+indicate the amount and describe the terms and schedule of payment. Please review this guidance for more information on payments to
+subjects, including restrictions and expectations.
+Participants will be paid $200 over the course of the study. To maintain motivation, post-intervention payments will be higher than initial
+payments. Payment points and amounts are: P1 - After completing the intake REDCap Survey, TLFB drinking calendar, and 10-day
+diary ($20); P2 – After completing the post-intervention REDCap Survey, TLFB drinking calendar, and 10-day diary (at the end of the 9-
+week intervention) ($60); P3 – REDCap survey and TLFB drinking calendar at 3-months post-intervention ($30) and P4 - REDCap
+survey, TLFB drinking calendar, 10-day sleep diary, and semi-structured phone interview at 6-months post-intervention ($90). Payment
+will be in the form of electronic gift cards, which will be emailed to participants. Individual payments will not be prorated.
+Costs to Subjects
+Describe any research costs which participants may be responsible for if they participate in the study (e.g., urine, HIV test).
+There are no anticipated costs to subjects.
+Data and Safety Monitoring
+The IRB requires review and approval of data and safety monitoring plans for greater than minimal risk research or NIH-funded/FDA-
+regulated clinical investigations.
+If you are conducting greater than minimal risk research, or your clinical investigation is NIH-funded, describe your Data and Safety
+Monitoring Plan (DSMP). Click here for additional guidance on developing a Data and Safety Monitoring Plan.
+If this is a non-sponsored investigator-initiated protocol considered greater than minimal risk research, and if you are planning on
+using a Data and Safety Monitoring Board (DSMB) as part of your DSMP, click here for additional guidance for information to
+include with your IRB application.
+Although this study provides only minimal risk, the PI will oversee the entire research project in order to ensure that all research
+activities are conducted ethically, and that the data collected are valid. All electronic data will be stored on a secured computer and
+transferred through secure connections; all quantitative data (survey questions, measures) will be collected through the secure web
+application RedCap available through UK’s Center for Clinical and Translational Science. The PI's will engage in regular meetings with
+project staff—including Co-I’s and research assistants—to monitor project activities, maintain procedures, and uphold human subjects
+protections. Any serious adverse events will be reported to the UK IRB.
+Back to Top
+Future Use and Sharing of Material (e.g., Data/Specimens/Information)
+If the material collected for this study will be used by members of the research team or shared with other researchers for future studies,
+please address the following:
+list the biological specimens and/or information that will be kept
+briefly describe the types, categories and/or purposes of the future research
+describe any risks of the additional use
+describe privacy/confidentiality protections that will be put into place
+describe the period of time specimens/information may be used
+describe procedures for sharing specimens/information with secondary researchers
+describe the process for, and limitations to, withdrawal of specimens/data
+The following deidentified data collected from this study will be submitted to the National Institute of Alcohol Abuse and Alcoholism
+Database (NIAAADA) at the National Institutes of Health (NIH): ISI, PSQI, AUDIT, PSS, CESDR, APT, TLFB, Sleep Med
+Questionnaire, and CSM. When data are uploaded to NIAAADA, each participant will have to have an associated Global Unique ID, or
+GUID. This identifier is created using a free tool maintained by NIAAADA by inputting information from a participant’s birth certificate,
+specifically their name, birthdate, and city of birth.
+NIAAADA is a large database where deidentified study data from many NIAAA studies are stored and managed. Researchers from
+around the world can request access to data from this database and, after review from NIH experts, may be granted access to the
+deidentified data from this study. The study data provided to NIAAADA may help researchers around the world learn more about
+alcohol problems and how to help others who have problems with alcohol. NIAAA will also report to Congress and on its website about
+the different studies using NIAAADA data. Some risks may apply, such as access to the data from unauthorized personnel, although
+the NIH will make every attempt to prevent this from occurring.
+Participants must consent to have their data shared with NIAAADA and will not be penalized if they choose not to consent to have their
+Section 10 Page 7 of 9
+<<<PAGE 28>>>
+data to be shared, completing all other study materials as normal. Participants may choose to no longer have their data shared with
+NIAAADA at any point during the study. Participants data will not be uploaded to NIAAADA until they have fully completed the study.
+Are you recruiting or expect to enroll Non-English Speaking Subjects or Subjects from a Foreign Culture ? (does not include short
+form use for incidentally encountered non-English subjects)
+Yes No
+Non-English Speaking Subjects or Subjects from a Foreign Culture
+Recruitment and Consent:
+Describe how information about the study will be communicated to potential subjects appropriate for their culture, and if necessary,
+how new information about the research may be relayed to subjects during the study.
+When recruiting Non-English-speaking subjects, provide a consent document in the subject’s primary language. After saving this
+section, attach both the English and translated consent documents in the “Informed Consent" section.
+Cultural and Language Consultants:
+The PI is required to identify someone who is willing to serve as the cultural consultant to the IRB.
+This person should be familiar with the culture of the subject population and/or be able to verify that translated documents are
+the equivalent of the English version of documents submitted.
+The consultant should not be involved with the study or have any interest in its IRB approval.
+Please include the name, address, telephone number, and email of the person who agrees to be the cultural consultant for
+your study.
+ORI staff will facilitate the review process with your consultant. Please do not ask them to review your protocol separately.
+For more details, see the IRB Application Instructions on Research Involving Non-English Speaking Subjects or Subjects from a
+Foreign Culture.
+Local Requirements:
+If you will conduct research at an international location, identify and describe:
+relevant local regulations
+data privacy regulations
+applicable laws
+ethics review requirements for human subject protection
+Please provide links or sources where possible. If the project has been or will be reviewed by a local ethics review board, attach a
+copy in the “Additional Information/Materials” section. You may also consult the current edition of the International Compilation of
+Human Research Standards
+Section 10 Page 8 of 9
+<<<PAGE 29>>>
+Does your study involve HIV/AIDS research and/or screening for other reportable diseases (e.g., Hepatitis C, etc…) ?
+Yes No
+HIV/AIDS Research
+If you have questions about what constitutes a reportable disease and/or condition in the state of Kentucky, see ORI’s summary
+sheet: “Reporting Requirements for Diseases and Conditions in Kentucky" [PDF].
+HIV/AIDS Research: There are additional IRB requirements for designing and implementing the research and for obtaining
+informed consent. Describe additional safeguards to minimize risk to subjects in the space provided below.
+For additional information, visit the online IRB Survival Handbook to download a copy of the "Medical IRB's requirements for
+Protection of Human Subjects in Research Involving HIV Testing" [D65.0000] [PDF], and visit the Office for Human Research
+Protections web site for statements on AIDS research, or contact the Office of Research Integrity at 859-257-9428.
+PI-Sponsored FDA-Regulated Research
+Is this an investigator-initiated study that:
+1) involves testing a Nonsignificant Risk (NSR) Device, or
+2) is being conducted under an investigator-held Investigational New Drug (IND) or Investigational Device Exemption (IDE)?
+Yes No
+PI-Sponsored FDA-Regulated Research
+If the answer above is yes, then the investigator assumes the regulatory responsibilities of both the investigator and sponsor. The
+Office of Research Integrity provides a summary list of sponsor IND regulatory requirements for drug trials [PDF], IDE regulatory
+requirements for SR device trials [PDF], and abbreviated regulatory requirements for NSR device trials [PDF]. For detailed
+descriptions see FDA Responsibilities for Device Study Sponsors  or FDA Responsibilities for IND Drug Study Sponsor-
+Investigators.
+Describe the experience/knowledge/training (if any) of the investigator serving as a sponsor (e.g., previously held an
+IND/IDE); and
+Indicate if any sponsor obligations have been transferred to a commercial sponsor, contract research organization (CRO),
+contract monitor, or other entity (provide details or attach FDA 1571).
+IRB policy requires mandatory training for investigators who are also FDA-regulated sponsors (see Sponsor-Investigator FAQs).
+A sponsor-investigator must complete the applicable Office of Research Integrity web based training, (drug or device) before final
+IRB approval is granted.
+Has the sponsor-investigator completed the mandatory PI-sponsor training prior to this submission?
+Yes No
+If the sponsor-investigator has completed equivalent sponsor-investigator training, submit documentation of the content for the
+IRB’s consideration.
+Attachments
+Section 10 Page 9 of 9
+<<<PAGE 30>>>
+HIPAA 0 unresolved
+comment(s)
+Is HIPAA applicable? Yes No
+(Visit ORI's Health Insurance Portability and Accountability Act (HIPAA) web page to determine if your research falls under the HIPAA
+Privacy Regulation.)
+I have attached a HIPAA Waiver of Authorization. Yes No
+Attachments
+Section 11 Page 1 of 1
+<<<PAGE 31>>>
+STUDY DRUG INFORMATION 0 unresolved
+comment(s)
+Drugs are articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease and articles (other than food)
+intended to affect the structure or any function of the body of man or other animals.
+The term drug may include:
+FDA approved drugs,
+unapproved use of approved drugs,
+investigational drugs or biologics,
+other compounds or products intended to affect structure or function of the body, and/or
+complementary and alternative medicine products such as dietary supplements, substances generally recognized as safe (GRAS)
+when used to diagnose, cure mitigate, treat or prevent disease, or clinical studies of e-cigarettes examining a potential therapeutic
+purpose.
+Does this protocol involve a drug including an FDA approved drug; unapproved use of an FDA approved drug; and/or an
+investigational drug?
+Yes No
+If yes, complete the questions below. Additional study drug guidance.
+LIST EACH DRUG INVOLVED IN STUDY IN THE SPACE BELOW
+Drug Name:
+Note: Inpatient studies are required by Hospital Policy to utilize Investigational Drug Service (IDS) pharmacies (Oncology or
+Non-Oncology). Use of IDS is highly recommended, but optional for outpatient studies. Outpatient studies not using IDS
+services are subject to periodic inspection by the IDS for compliance with drug accountability good clinical practices.
+Indicate where study drug(s) will be housed and managed:
+Investigational Drug Service (IDS) UK Hospital
+Other Location:
+Is the study being conducted under a valid Investigational New Drug (IND) application?
+Yes No
+If Yes, list IND #(s) and complete the following:
+IND Submitted/Held by:
+Sponsor: Held By:
+Investigator: Held By:
+Other: Held By:
+Checkmark if the study is being conducted under FDA’s Expanded Access Program (e.g., Treatment IND)
+or if this is an Individual Patient Expanded Access IND (FDA Form 3926).
+FDA's Expanded Access Program Information for Individual Patient Expanded Access INDs , and attach the
+following:
+FDA Form 3926;
+FDA expanded access approval or correspondence;
+Confirmation of agreement from manufacturer or entity authorized to provide access to the product.
+For guidance and reporting requirements at the conclusion of treatment see the Expanded Access SOP .
+Section 12 Page 1 of 2
+<<<PAGE 32>>>
+Complete and attach the required Study Drug Form picking "Study Drug Form" for the document type. Any
+applicable drug documentation (e.g., Investigator Brochure; approved labeling; publication; FDA correspondence,
+etc.) should be attached using "Other Drug Documentation" for the document type.
+Attachments
+Section 12 Page 2 of 2
+<<<PAGE 33>>>
+STUDY DEVICE INFORMATION 0 unresolved
+comment(s)
+Medical devices are intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention
+of disease, in man or other animals, or intended to affect the structure or any function of the body of man or other animals.
+A DEVICE may be a:
+component, part, accessory;
+assay, reagent, or in-vitro diagnostic device;
+software, digital health, or mobile medical app;
+other instrument if intended to affect the structure or function of the body, diagnose, cure, mitigate, treat or prevent disease; or
+a homemade device developed by an investigator or other non-commercial entity and not approved for marketing by FDA.
+For additional information, helpful resources, and definitions, see ORI's Use of Any Device Being Tested in Research web page.
+Does this protocol involve testing (collecting safety or efficacy data) of a medical device including an FDA approved device,
+unapproved use of an approved device, humanitarian use device, and/or an investigational device?
+Yes No
+[Note: If a marketed device(s) is only being used to elicit or measure a physiologic response or clinical outcome, AND, NO data will
+be collected on or about the device itself, you may answer “no” above, save and exit this section, (Examples: a chemo drug study
+uses an MRI to measure tumor growth but does NOT assess how effective the MRI is at making the measurement; an exercise study
+uses a heart monitor to measure athletic performance but no safety or efficacy information will be collected about the device itself, nor
+will the data collected be used for comparative purposes against any other similar device).]
+If you answered yes above, please complete the following questions.
+LIST EACH DEVICE BEING TESTED IN STUDY IN THE SPACE BELOW
+Device Name:
+Is the study being conducted under a valid Investigational Device Exemption (IDE),
+Humanitarian Device Exemption (HDE) or Compassionate Use?
+Yes No
+If Yes, complete the following:
+IDE or HDE #(s)
+IDE/HDE Submitted/Held by:
+Sponsor: Held By:
+Investigator: Held By:
+Other: Held By:
+Check if this is a Treatment IDE or Compassionate Use under the Food and Drug Administration (FDA)
+Expanded Access program.
+For Individual or Small Group Expanded Access, see FDA's Early Expanded Access Program Information ,
+and attach the following:
+FDA expanded access approval or sponsor’s authorization;
+An independent assessment from an uninvolved physician, if available;
+Confirmation of agreement from manufacturer or entity authorized to provide access to the product.
+For guidance and reporting requirements at the conclusion of treatment see the Medical Device SOP.
+Section 13 Page 1 of 2
+<<<PAGE 34>>>
+Does the intended use of any research device being tested (not clinically observed) in this study meet the regulatory definition
+[FDA's PDF] of Significant Risk (SR) device?
+Yes. Device(s) being tested in this study presents a potential for serious risk to the health, safety, or welfare of a subject and
+(1) is intended as an implant; or (2) is used in supporting or sustaining human life; or (3) is of substantial importance in
+diagnosing, curing, mitigating or treating disease, or otherwise prevents impairment of human health; or (4) otherwise presents
+a potential for serious risk to the health, safety, or welfare of a subject.
+No. All devices being tested in this study do not present a potential for serious risk to the health, safety, or welfare of
+subjects/participants.
+Complete and attach the required Study Device Form , picking the "Study Device Form" for the document type. Any
+applicable device documentation (e.g., Manufacturer information; patient information packet; approved labeling; FDA
+correspondence, etc.) should be attached using "Other Device Documentation" for the document type.
+Attachments
+Section 13 Page 2 of 2
+<<<PAGE 35>>>
+RESEARCH SITES 0 unresolved
+comment(s)
+To complete this section, ensure the responses are accurate then click "SAVE".
+A) Check all the applicable sites listed below at which the research will be conducted. If none apply, you do not need to check any
+boxes.
+UK Sites
+UK Classroom(s)/Lab(s)
+UK Clinics in Lexington
+UK Clinics outside of Lexington
+UK Healthcare Good Samaritan Hospital
+UK Hospital
+Schools/Education Institutions
+Fayette Co. School Systems *
+Other State/Regional School Systems
+Institutions of Higher Education (other than UK)
+*Fayette Co. School systems, as well as other non-UK
+sites, have additional requirements that must be
+addressed. See ORI's IRB Application Instructions -
+Off-site Research web page for details.
+Other Medical Facilities
+Bluegrass Regional Mental Health Retardation Board
+Cardinal Hill Hospital
+Eastern State Hospital
+Norton Healthcare
+Nursing Homes
+Shriner’s Children’s Hospital
+Veterans Affairs Medical Center
+Other Hospitals and Med. Centers
+Correctional Facilities
+Home Health Agencies
+International Sites
+Research activities conducted at performance sites that are not owned or operated by the University of Kentucky (UK) or
+at sites that do not fall under the UK IRB’s authority, are subject to special procedures for coordination of research
+review. Additional information is required (see IRB Application Instructions - Off-Site Research web page), including:
+A letter of support and local context is required from non-UK sites. See Letters of Support and Local Context  on the
+IRB Application Instructions - Off-Site Research web page for more information.
+Supportive documentation, including letters of support, can be attached below. When attaching reliance documents,
+please ensure that you select the correct ‘Document Type’ from the drop-down menu. See below for the
+“Document Types ” in bold, followed by examples of reliance documents for each type:
+- Individual Investigator Agreement (IIA)
+A completed Individual Investigator Agreement
+Section 14 Page 1 of 3
+<<<PAGE 36>>>
+- IRB Approval (Non-UK)
+A Letter of Approval from a Non-UK IRB
+- IRB Authorization Agreement (IAA)
+A SMART IRB Agreement
+An OHRP Agreement
+A DoD Agreement
+An IREx Reliance Notification
+Any Reliance Agreement
+- Letter of Support & Local Context
+A Letter of Support from an organization at which some research activities are occurring
+Communications Plan
+Local Context Form
+Please reach out to IRBReliance@uky.edu if you have any questions or concerns.
+NOTE: If the non-UK sites or non-UK personnel are engaged in the research, there are additional federal and
+university requirements which need to be completed for their participation. For instance, the other site(s) may need
+to complete their own IRB review, or a cooperative review arrangement may need to be established with non-UK
+sites.
+Questions about the participation of non-UK sites/personnel should be discussed with the ORI staff at (859) 257-
+9428.
+List all other non-UK owned/operated locations where the research will be conducted:
+Describe the role of any non-UK site(s) or non-UK personnel who will be participating in your research.
+Please describe the plan for the management of reporting unanticipated problems, noncompliance, and submission of
+protocol modifications and interim results from the non-UK sites:
+The OSU site will be involved in data
+analysis, data interpretation, and manuscript
+writing. Data collection will be entirely online,
+and no participant interactions will occur at
+OSU. Results will be collected on REDCap,
+an online platform that can be accessed by
+researchers from both sites.
+The University of Miami site will conduct
+qualitative interviews with research subjects,
+analyze the resulting data, and assist with
+manuscript writing. Data collection will be
+completed over the phone.
+Researchers at the three sites will schedule
+regular check-in meetings in order to
+discuss unanticipated problems,
+noncompliance, and protocol modifications.
+Attachments
+B) If your research involves collaboration with any sites and/or personnel outside the University of Kentucky, then it is considered
+multisite research and IRB reliance issues will need to be addressed. This may include national multi-center trials as well local studies
+involving sites/personnel external to UK. If you would like to request that the University of Kentucky IRB (UK IRB) serve as the lead
+IRB for your study, or if you would like the UK IRB to defer review to another IRB, please contact the IRBReliance@uky.edu.
+Section 14 Page 2 of 3
+<<<PAGE 37>>>
+Section 14 Page 3 of 3
+<<<PAGE 38>>>
+RESEARCH ATTRIBUTES 0 unresolved
+comment(s)
+Instructions: For various reasons, it is necessary to determine whether your research activities meet the definition of clinical
+research and/or a clinical trial. Your responses to the next series of questions will make that determination. For more details on
+the definitions, go to ORI’s clinical research vs. clinical trial web page or visit NIH's decision tree for the NIH Clinical Trial
+definition.
+Contact the Clinical Research Support Office (CRSO) if your study provides clinical services (e.g., labs, biopsies, tissue
+samples, physical exams, PT, counseling) regardless of payer (grant, federal, UK, industry)), utilizes UKHC space, or meets the
+NIH definition of a clinical trial (thereby requiring registry with CT.gov) as your study will need to be entered in OnCore to ensure
+appropriate regulatory tracking and billing. Visit CRSO FAQs for more information; requests for CCTS/CRSO services can be
+submitted via their service request form. For other questions, you can contact the CRSO Director, Jessica Heskel, at
+jhesk2@uky.edu.
+My research activities include one or more of the following:
+Patient-oriented research regarding mechanisms of human disease, therapeutic interventions, clinical studies, or
+development of new technologies
+Yes No
+Material of human origin (such as tissues, specimens, and cognitive phenomena) for which an investigator (or colleague)
+directly interacts with human subjects
+Yes No
+Epidemiologic or Behavioral Studies
+Yes No
+Outcomes Research or Health Services Research
+Yes No
+Does your research study involve one or more human subjects prospectively assigned into one or more interventions
+(which may include placebo or other control) to evaluate the effects of those interventions on health-related biomedical or
+behavioral outcomes?
+Yes No
+Indicate the items below that apply to your research. Depending on the items applicable to your research, you may be required to
+complete additional forms or meet additional requirements. Contact the ORI (859-257-9428) if you have questions about additional
+requirements.
+Not applicable
+Check All That Apply
+Academic Degree/Required Research
+Alcohol/Drug/Substance Abuse Research
+Biological Specimen Bank Creation (for sharing)
+Cancer Research
+CCTS-Center for Clinical & Translational Science
+Certificate of Confidentiality
+Collection of Biological Specimens for banking and use
+Community-Based Participatory Research
+Deception
+Educational/Student Records (e.g., GPA, test scores)
+Emergency Use (Single Patient)
+Gene Transfer
+For additional requirements and information:
+Cancer Research (MCC PRMC)
+Certificate of Confidentiality (look up
+"Confidentiality/Privacy...")
+CCTS (Center for Clinical and Translational
+Science)
+Clinical Research (look up "What is the definition
+of....)
+Clinical Trial
+Collection of Biological Specimens for Banking
+(look up "Banks, Repositories, Registries...")
+Collection of Biological Specimens  (look up
+"Repositories, Registries, Specimen/Tissue
+Banks...")
+Community-Based Participatory Research (look
+up "Community-Engaged...")
+Data & Safety Monitoring Board (DSMB)
+*For Medical IRB: Service Request Form for
+CCTS DSMB
+Data & Safety Monitoring Plan
+Deception*
+Section 15 Page 1 of 2
+<<<PAGE 39>>>
+Genetic Research
+NIH Genomic Data Sharing (GDS) (databases such as GWAS,
+dbGaP, GenBank)
+Treatment with Human Cells, Tissues, and Cellular and Tissue
+Based Products
+Individual Expanded Access or Compassionate Use
+International Research
+Planned Emergency Research Involving Exception from
+Informed Consent
+Recombinant DNA
+Registry or data repository creation
+Stem Cell Research
+Suicide Ideation or Behavior Research
+Survey Research
+Transplants
+Use, storage and disposal of radioactive material and radiation
+producing devices
+Vaccine Trials
+*For deception research, also go to the E-IRB
+Application Informed Consent section,
+checkmark and complete "Request for Waiver
+of Informed Consent Process"
+Emergency Use (Single Patient) [attach
+Emergency Use Checklist] (PDF)
+Genetic Research (look up "Banks,
+Repositories, ...Genetic/Genomic Data Sharing...")
+Gene Transfer
+*For gene transfer research, also go to the E-
+IRB Application Other Review Committees
+section, and checkmark Institutional Biosafety
+Committee
+International Research (look up "International &
+Non-English Speaking")
+NIH Genomic Data Sharing (GDS) Policy (PDF)
+Planned Emergency Research Involving
+Exception to Informed Consent*
+*For Planned Emergency Research Involving
+Waiver of Informed Consent, also go to the E-
+IRB Application Informed Consent section,
+checkmark and complete "Request for Waiver
+of Informed Consent Process"
+Use, storage and disposal of radioactive material
+and radiation producing devices
+Section 15 Page 2 of 2
+<<<PAGE 40>>>
+FUNDING/SUPPORT 0 unresolved
+comment(s)
+If the research is being submitted to, supported by, or conducted in cooperation with an external or internal agency or funding program, indicate below
+all the categories that apply.
+Not applicable
+Check All That Apply
+Grant application pending
+(HHS) Dept. of Health & Human Services
+(NIH) National Institutes of Health
+(CDC) Centers for Disease Control & Prevention
+(HRSA) Health Resources and Services
+Administration
+(SAMHSA) Substance Abuse and Mental Health
+Services Administration
+(DoJ) Department of Justice or Bureau of Prisons
+(DoE) Department of Energy
+(EPA) Environmental Protection Agency
+Federal Agencies Other Than Those Listed Here
+Industry (Other than Pharmaceutical Companies)
+Internal Grant Program w/ proposal
+Internal Grant Program w/o proposal
+National Science Foundation
+Other Institutions of Higher Education
+Pharmaceutical Company
+Private Foundation/Association
+U.S. Department of Education
+State
+Click applicable listing(s) for additional requirements and information:
+(HHS) Dept. of Health & Human Services
+(NIH) National Institutes of Health
+(CDC) Centers for Disease Control & Prevention
+(HRSA) Health Resources & Services Administration
+(SAMHSA) Substance Abuse & Mental Health Services Administration
+Industry (Other than Pharmaceutical Companies) [IRB Fee Info -look up "Does the
+IRB Charge a Fee..."]
+National Science Foundation
+(DoEd) U.S. Department of Education
+(DoJ) Department of Justice or Bureau of Prisons
+(DoE) Department of Energy Summary and Department of Energy Identifiable
+Information Compliance Checklist
+(EPA) Environmental Protection Agency
+Other:
+Specify the funding source and/or cooperating organization(s) (e.g., National Cancer Institute, Ford Foundation, Eli Lilly & Company, South
+Western Oncology Group, Bureau of Prisons, etc.):
+National Institute on Alcohol Abuse and Alcoholism
+Add Related Grants
+If applicable, please search for and select the OSPA Account number or Electronic Internal Approval Form (eIAF) # (notif #)
+associated with this IRB application using the "Add Related Grants" button.
+If required by your funding agency, upload your grant using the "Grant/Contract Attachments" button.
+Add Related Grants
+Grant/Contract Attachments
+The research involves use of Department of Defense (DoD) funding, military personnel, DoD facilities, or other DoD resources. (See DoD SOP
+and DoD Summary for details)
+Yes No
+Using the “attachments” button (below), attach applicable materials addressing the specific processes described in the DoD SOP.
+DOD SOP Attachments
+Section 16 Page 1 of 2
+<<<PAGE 41>>>
+Additional Certification: (If your project is federally funded, your funding agency may request an Assurance/ Certification/Declaration of Exemption
+form.) Check the following if needed:
+Protection of Human Subjects Assurance/Certification/Declaration of Exemption (Formerly Optional Form – 310)
+Assurance/Certification Attachments
+Section 16 Page 2 of 2
+<<<PAGE 42>>>
+OTHER REVIEW COMMITTEES 0 unresolved
+comment(s)
+If you check any of the below committees, additional materials may be required with your application submission.
+Does your research fall under the purview of any of the other review committees listed below? [If yes, check all that apply and attach
+applicable materials using the attachment button at the bottom of your screen. ]
+Yes No
+Institutional Biosafety Committee
+Radiation Safety Committee
+Radioactive Drug Research Committee
+Markey Cancer Center (MCC) Protocol Review
+and Monitoring Committee (PRMC)
+Graduate Medical Education Committee (GME)
+Office of Medical Education (OME)
+Additional Information
+Institutional Biosafety Committee (IBC) - Attach required IBC
+materials
+Radiation Safety Committee (RSC) - For applicability, see
+instructions
+Radioactive Drug Research Committee (RDRC)
+Markey Cancer Center (MCC) Protocol Review and Monitoring
+Committee (PRMC)** - Attach MCC PRMC materials, if any, per
+instructions.
+Office of Medical Education (OME)
+Graduate Medical Education Committee (GME)
+Attachments
+** If your study involves cancer research, be sure to select "Cancer Research" in the "Research Attributes"
+section. ORI will send your research protocol to the Markey Cancer Center (MCC) Protocol Review and Monitoring
+Committee (PRMC). The MCC PRMC is responsible for determining whether the study meets the National Cancer Institute
+(NCI) definition of a clinical trial and for issuing documentation to you (the investigator) which confirms either that PRMC
+approval has been obtained or that PRMC review is not required. Your IRB application will be processed and reviewed
+independently from the PRMC review.
+Section 17 Page 1 of 1
+<<<PAGE 43>>>
+ADDITIONAL INFORMATION/MATERIALS 0 unresolved
+comment(s)
+Do you want specific information inserted into your approval letter? Yes No
+Approval Letter Details:
+If you wish to have specific language included in your approval letter (e.g., serial #, internal tracking identifier, etc…), type that
+language in the box below exactly as it should appear in the letter. The text you enter will automatically appear at the top of all
+approval letters, identical to how you typed it, until you update it. Don't include instructions or questions to ORI staff as those will
+appear in your approval letter. If these details need to be changed for any reason, you are responsible for updating the
+content of this field.
+Additional Materials:
+If you have other materials you would like to include for the IRB's consideration, check all that apply and attach the corresponding
+documents using the Attachments button below.
+Detailed protocol
+Dept. of Health & Human Services (DHHS) approved protocol (such as NIH sponsored Cooperative Group Clinical Trial)
+Other Documents
+Protocol/Other Attachments
+Attach Type File Name
+Other Local Context Form for OSU (UKY 60446).pdf
+Other SMART IRB LOA UKY 60446 (UK-OSU).pdf
+Other Updated Communications Plan UK-OSU (60446).pdf
+Other Communications Plan UK-UM (UKY 60446)-20240251 Insomnia Intervention.pdf
+Other Local Context Form for UM (UKY 60446)-20240251 Insomnia Intervention.pdf
+Other SMART IRB LOA UKY 60446 (UK-UM).pdf
+Other hrp-216_-_form_-_external_irb_reliance_application_insom interv-20240251.pdf
+Other DUA Email Confirmation.docx
+NOTE: Instructions for Dept. of Health & Human Services (DHHS)-approved protocol]
+If you have password protected documents, that feature should be disabled prior to uploading to ensure access for IRB review.
+To view the materials currently attached to your application, click “All Attachments” on the left menu bar.
+Section 18 Page 1 of 1
+<<<PAGE 44>>>
+SIGNATURES (ASSURANCES) 0 unresolved
+comment(s)
+Introduction
+All IRB applications require additional assurances by a Department Chairperson or equivalent (DA), and when applicable, a Faculty
+Advisor or equivalent (FA). This signifies the acceptance of certain responsibilities and that the science is meritorious and deserving of
+conduct in humans. The person assigned as DA should not  also be listed in the Study Personnel section, and the individual assigned
+as FA should  be listed in the Study Personnel section.
+For a list of responsibilities reflected by signing the Assurance Statement, refer to "What does the Department Chairperson’s
+Assurance Statement on the IRB application mean?"
+For a detailed illustration of how to complete this section, please review the short online video tutorial "Signatures
+(Assurance) Section - How to Complete."  Otherwise, follow the steps below.
+Required Signatures:
+Individuals chosen as signees may remove the application from their Inbox without signing the Assurance Statement by
+clicking "Return to PI" with a comment about why it is being returned (e.g., specific edits are deemed necessary).
+The PI, and personnel chosen as a contact, will receive an email notification that edits are needed, and can find the draft
+application in both the "Draft" folder and the "Signatures Status" folder located in the menu in the left margin of the default
+Inbox page. The researcher does not have a 'reply' option to the signee's comments and must make the requested edits
+directly in the application, or communicate outside the E-IRB system as to why not. Once the response is finalized, the
+researcher must re-visit the "Assurances Required" section to click the "Return to Signee" button for their re-
+consideration; the signee will receive an email notification at that time.
+Hover your mouse cursor here for additional instructions.
+First
+Name Last Name Role Department
+Signee
+Return
+Comment
+Date
+Signed
+Michelle Martel Department
+Authorization Psychology  03/11/2024
+02:15 PM View/Sign
+Justin Verlinden Principal
+Investigator Psychology  03/01/2024
+07:46 AM View/Sign
+Olga Vsevolozhskaya Faculty
+Advisor
+Dept Of
+Biostatistics  03/06/2024
+10:44 AM View/Sign
+Department Authorization
+This is to certify that I have reviewed this research protocol and that I attest to the scientific validity and importance of
+this study; to the qualifications of the investigator(s) to conduct the project and their time available for the project; that
+facilities, equipment, and personnel are adequate to conduct the research; and that continued guidance will be provided
+as appropriate. When the principal investigator assumes a sponsor function, the investigator has been notified of the
+additional regulatory requirements of the sponsor and by signing the principal investigator Assurance Statement, confirms
+he/she can comply with them.
+*If the Principal Investigator is also the Chairperson of the department, the Vice Chairperson or equivalent should complete
+the "Department Authorization".
+**IF APPLICABLE FOR RELIANCE: I attest that the principal investigator has been notified of the regulatory requirements of
+both the Reviewing and Relying IRBs, according to the information provided in the E-IRB application. The attached Reliance
+Assurance Statement, signed by the principal investigator, confirms that he/she can comply with both sets of IRB
+requirements.
+Section 19 Page 1 of 2
+<<<PAGE 45>>>
+Principal Investigator’s Assurance Statement
+I understand the University of Kentucky's policies concerning research involving human subjects and I agree:
+1. To comply with all IRB policies, decisions, conditions, and requirements;
+2. To accept responsibility for the scientific and ethical conduct of this research study;
+3. To obtain prior approval from the Institutional Review Board before amending or altering the research protocol or
+implementing changes in the approved consent/assent form;
+4. To report to the IRB in accord with IRB/IBC policy, any adverse event(s) and/or unanticipated problem(s) involving risks to
+subjects;
+5. To complete, on request by the IRB for Full and Expedited studies, the Continuation/Final Review Forms;
+6. To notify the Office of Sponsored Projects Administration (OSPA) and/or the IRB (when applicable) of the development of
+any financial interest not already disclosed;
+7. Each individual listed as study personnel in this application has received the mandatory human research protections
+education (e.g., CITI);
+8. Each individual listed as study personnel in this application possesses the necessary experience for conducting research
+activities in the role described for this research study.
+9. To recognize and accept additional regulatory responsibilities if serving as both a sponsor and investigator for FDA
+regulated research.
+Furthermore, by checking this box, I also attest that:
+I have appropriate facilities and resources for conducting the study;
+I am aware of and take full responsibility for the accuracy of all materials submitted to the IRB for review;
+If applying for an exemption, I also certify that the only involvement of human subjects in this research study will be in the
+categories specified in the Protocol Type: Exemption Categories section.
+If applying for an Abbreviated Application (AA) to rely on an external IRB, I understand that certain items above (1, 3, 4, 7-8)
+may not apply, or may be altered due to external institutional/IRB policies. I document my agreement with the Principal
+Investigator Reliance Assurance Statement by digitally signing this application.
+*You will be able to "sign" your assurance after you have sent your application for signatures (use Submission section). Once all
+Assurance Statement signatures have been acquired, return to this section to submit your application to ORI.
+Faculty Advisor’s Assurance Statement
+This is to certify that I have reviewed this research protocol and that I attest to the scientific merit of this study; to the
+qualifications of the investigator(s) to conduct the project; that facilities, equipment, and personnel are adequate to
+conduct the research; and that continued guidance will be provided as appropriate.
+**If the Principal Investigator is completing this project to meet the requirements of a University of Kentucky academic
+program, in addition to Department Authorization, the student's faculty advisor should sign the Assurance Statement. The
+student’s faculty advisor is accepting a supervisory role in guiding the student in conducting regulatory compliant research
+and therefore must be certified in human research protection training throughout the life of the protocol.
+Section 19 Page 2 of 2
+<<<PAGE 46>>>
+SUBMISSION INFORMATION 0 unresolved
+comment(s)
+*** If this Continuation Review entails a change in the scope of your activities to include COVID-19 related research, please
+insert “COVID19” at the start of your Project and Short Titles.***
+Each Section/Subsection in the menu on the left must have a checkmark beside it (except this Submission section) indicating the
+Section/Subsection has been completed. Otherwise your submission for IRB review and approval cannot be sent to the Office of
+Research Integrity/IRB.
+If applicable, remember to update the Approval Letter Details text box under the Additional Information section
+If your materials require review at a convened IRB meeting which you will be asked to attend, it will be scheduled on the next available
+agenda and you will receive a message to notify you of the date.
+If you are making a change to an attachment, you need to delete the attachment, upload a highlighted version that contains the changes
+(use Document Type of "Highlighted Changes"), and a version that contains the changes without any highlights (use the appropriate
+Document Type for the item(s)). Do not delete approved attachments that are still in use.
+Principal Investigator’s Assurance Statement
+I understand the University of Kentucky’s policies concerning research involving human subjects, and I attest to:
+1. Having reviewed all the investigational data from this study, including a compilation of all internal and external unanticipated
+problems.
+2. Having reviewed, if applicable, information from the sponsor including updated investigator brochures and data and safety
+monitoring board reports.
+I also attest that I have reviewed pertinent materials concerning the research and concluded:
+The human subject risk/benefit relationship is unaffected, mitigated, or eliminated by closure of the study and all pertinent
+materials for closure of the research are being submitted to the IRB for consideration.
+By checking this box, I am providing assurances for the applicable items listed above.
+Your protocol has been submitted.
+Section 20 Page 1 of 1
+<<<PAGE 47>>>
+Document Type File Loaded Document
+Description
+File
+Size
+Modified
+By Mod Date
+StudyClosure StudyClosure.pdf  0.079 mcgies2
+7/16/2025
+5:04:56
+PM
+AddInfoProduct DUA Email Confirmation.docx Screenshot of email
+confirmation of DUA 0.266 jjve226
+8/28/2024
+11:51:58
+AM
+AddInfoProduct
+hrp-216_-_form_-
+_external_irb_reliance_application_insom interv-
+20240251.pdf
+UM External Reliance
+Application 0.360 jjve226
+5/30/2024
+10:18:18
+AM
+AddInfoProduct SMART IRB LOA UKY 60446 (UK-UM).pdf SMART IRB LOA UK
+(UK-UM) 0.240 jjve226
+5/30/2024
+10:17:35
+AM
+AddInfoProduct Local Context Form for UM (UKY
+60446)-20240251 Insomnia Intervention.pdf
+Reliance Agreement -
+Local Context Form
+(UK-UM)
+0.281 jjve226
+5/30/2024
+10:16:59
+AM
+AddInfoProduct Communications Plan UK-UM (UKY
+60446)-20240251 Insomnia Intervention.pdf
+Communications Plan
+UK-UM 0.420 jjve226
+5/30/2024
+10:16:33
+AM
+AddInfoProduct Updated Communications Plan UK-OSU
+(60446).pdf
+Updated
+Communications Plan 0.306 ecgu227
+3/26/2024
+9:22:16
+AM
+DataCollection SIESTA Post-intervention Interview Protocol 3-11-
+23.docx
+Up-to-Date End of
+Study Phone Interview
+Protocol
+0.030 jjve226
+3/11/2024
+1:39:52
+PM
+Advertising Ohio-BCFS00690-UK-Moloney-AUD-AdCopy (1)-
+STAMPED.pdf
+Recruitment Language
+for OH 0.111 ecgu227
+11/13/2023
+12:04:05
+PM
+Advertising Kentucky-BCFS00690-UK-Moloney-AUD-AdCopy
+(1)-STAMPED.pdf
+Recruitment Language
+for KY 0.111 ecgu227
+11/13/2023
+12:03:54
+PM
+Advertising Indiana-BCFS00690-UK-Moloney-AUD-AdCopy
+(1)-STAMPED.pdf
+Recruitment Language
+for IN 0.111 ecgu227
+11/13/2023
+12:03:44
+PM
+Advertising BCFS00690-UK-Moloney-AUD-Feed-
+STAMPED.pdf Feed 10.463 ecgu227
+11/13/2023
+12:03:26
+PM
+Advertising BCFS00690-UK-Moloney-AUD-Ad2-
+STAMPED.pdf Ads 0.102 ecgu227
+11/13/2023
+12:03:18
+PM
+Advertising BCFS00690-UK-Moloney-AUD Screening Form-
+STAMPED.pdf Screening Form 0.176 ecgu227
+11/13/2023
+12:03:07
+PM
+Advertising BCFS00690-UK-Moloney-AUD [Landing Page]-
+STAMPED.pdf Landing Page 0.674 ecgu227
+11/13/2023
+12:02:58
+PM
+AddInfoProduct SMART IRB LOA UKY 60446 (UK-OSU).pdf Reliance Agreement -
+SMART IRB LOA 0.189 ecgu227
+9/7/2023
+10:22:10
+AM
+AddInfoProduct Local Context Form for OSU (UKY 60446).pdf Reliance Agreement -
+Local Context Form 0.235 ecgu227
+9/7/2023
+10:21:29
+AM
+DataCollection SIESTA prescreen final.pdf  0.043 kcwe225
+6/1/2023
+10:20:56
+AM
+Advertising PSYCH-071b_MON-STAMPED.pdf  0.164 kcwe225
+3/28/2023
+11:11:55
+AM
+Advertising PSYCH-071b_flyer-STAMPED.pdf  0.414 kcwe225
+3/28/2023
+11:11:46
+AM
+3/28/2023
+Download all
+Section 21 Page 1 of 3
+<<<PAGE 48>>>
+Advertising PSYCH-071b social media-STAMPED.pdf  0.156 kcwe225 11:11:38
+AM
+Advertising PSYCH-071b researchmatch-STAMPED.pdf  0.095 kcwe225
+3/28/2023
+11:11:31
+AM
+DataCollection STOP-Bang.docx
+STOP-Bang & GUID
+Info (Collected during
+TLFB)
+0.014 jjve226
+2/16/2023
+2:40:04
+PM
+DataCollection TLFB Zoom Instructions 2.16.23.docx Instructional Sheet for
+TLFB 0.028 jjve226
+2/16/2023
+2:39:29
+PM
+Advertising PSYCH-071a_MON-STAMPED.pdf  0.092 kcwe225
+1/6/2023
+12:31:12
+PM
+Advertising PSYCH-071a_flyer-STAMPED.pdf  0.399 kcwe225
+1/6/2023
+12:31:04
+PM
+Advertising PSYCH-071a social media-STAMPED.pdf  0.155 kcwe225
+1/6/2023
+12:30:49
+PM
+Advertising PSYCH-071a researchmatch-STAMPED.pdf  0.093 kcwe225
+1/6/2023
+12:30:42
+PM
+DataCollection Sleep_Med_Questionnaire.pdf  0.017 jjve226
+10/11/2022
+10:36:13
+AM
+DataCollection 9. APT-Trait V1 20 NOV 2019.docx  0.016 jjve226
+10/11/2022
+10:30:28
+AM
+DataCollection 8.Composite Morningness Questionnaire.pdf  0.309 jjve226
+10/11/2022
+10:30:10
+AM
+DataCollection 7.Treatment_Satisfaction.docx  0.018 jjve226
+10/11/2022
+10:29:53
+AM
+AdditionInfoConsiderations Layne Robinson Citi Certificate sept 2021.pdf citi completion report
+for Layne 0.401 jblac2
+9/8/2021
+3:48:25
+PM
+AdditionInfoConsiderations Caitlyn completed University of Kentucky
+Assumption of Risk and Waiver of Liability.pdf
+assumption of risk for
+caitlyn 0.238 jblac2
+9/3/2021
+12:18:33
+PM
+AdditionInfoConsiderations Caitlyn completed Emergency contact form.pdf emergency contact for
+Caitlyn 0.045 jblac2
+9/3/2021
+12:18:18
+PM
+AdditionInfoConsiderations
+Caitlyn completed Informed Consent Voluntary
+Waiver Release of Liability and Assumption of Risk
+Form_0.pdf
+informed consent for
+Caitlyn 0.468 jblac2
+9/3/2021
+12:18:02
+PM
+AdditionInfoConsiderations citiCompletionReport10315630 (3).pdf citi completion report
+for Caitlyn 0.400 jblac2
+9/3/2021
+12:17:44
+PM
+AdditionInfoConsiderations IIA for Caitlyn Smith 60446.pdf IIA for Caitlyn Smith 0.170 jblac2
+9/3/2021
+12:17:03
+PM
+AdditionInfoConsiderations UKCampWaiver-localr (1) for minors.pdf  0.371 rcvaug2
+8/10/2021
+11:57:15
+AM
+AdditionInfoConsiderations what-constitutes-study-personnel-protocol-
+involving-human-subjects-pdf.pdf  0.019 rcvaug2
+8/10/2021
+11:57:05
+AM
+Advertising PODS PSYCH-071 research match PR STAMPED
+irb 60446.pdf
+research match
+advertisement 0.048 jblac2
+7/22/2021
+11:54:31
+AM
+Advertising PODS flyer QR code PR edit STAMPED.pdf updated stamped flyer 0.347 jblac2
+2/8/2021
+10:34:10
+AM
+Section 21 Page 2 of 3
+<<<PAGE 49>>>
+ResearchProcedures Daily_diary_prompt.docx  0.014 jweaf2
+7/21/2020
+10:52:41
+AM
+Advertising PODS flyer_v2_PR_approved.pdf  0.393 jweaf2
+7/21/2020
+10:33:23
+AM
+DataCollection CESD-10.pdf  0.248 jweaf2
+6/25/2020
+7:50:39
+PM
+DataCollection PerceivedStressScale.pdf  0.234 jweaf2
+6/25/2020
+7:50:30
+PM
+DataCollection TLFB.docx  0.045 jweaf2
+6/25/2020
+7:50:13
+PM
+DataCollection AUDIT.docx  0.071 jweaf2
+6/25/2020
+7:50:05
+PM
+DataCollection PSQI_sleep_questionnaire_1_pg.pdf  0.110 jweaf2
+6/25/2020
+7:49:48
+PM
+DataCollection Insomnia Severity Index -ISI.pdf  0.030 jweaf2
+6/25/2020
+7:49:36
+PM
+Section 21 Page 3 of 3
+<<<PAGE 50>>>
+Protocol Changes Protocol Number: 60446
+Click link to sort Changed Date
+Study Personnel Changes:
+Status PPIdentity ProtocolID PersonID RoleInProtocol IsContact LastName FirstName Email DeptCode RoomBuilding SpeedSort PhoneNum DeptDesc AuthorizedConsent ResponsibilityInProject Degree Rank StatusFlag IsRemoved ModBy ModDate SFI IsPIRN MiddleName
+Updated 1066884 106178 12121317 PI Y Verlinden Justin justinverlinden@uky.edu 8E120 Kastle Hall
+2070 0044 3099484850 Psychology  Principal Investigator MS   N jjve226
+7/7/2025
+1:28:59
+PM
+N N James
+HIPAA HIPAADeIdentificationCertForm changed by jjve226 on 7/7/2025 1:29:50 PM
+N
+Informed Consent ElectronicConsent  changed by jjve226 on 7/7/2025 1:29:31 PM
+Y
+Research Attributes EpidemiologicBehavioralStudies  changed by jjve226 on 7/7/2025 1:31:01 PM
+Y
+Research Attributes MaterialOfHumanOrigin  changed by jjve226 on 7/7/2025 1:31:01 PM
+N
+Research Attributes OutcomesHealthServicesResearch  changed by jjve226 on 7/7/2025 1:31:01 PM
+Y
+Research Attributes PatientOrientedResearch  changed by jjve226 on 7/7/2025 1:31:01 PM
+Y
+Research Sites MultisiteLeadInvestigator  changed by jjve226 on 7/7/2025 1:30:00 PM
+Y
+Section 22 Page 1 of 1
+<<<PAGE 51>>>
+Protocol Type Comment by Mary Gieske - ORI to PI on 7/8/2025 4:39:23 PM
+Select "All Comments" from the left-hand sidebar to see all the pre-review screening comments from ORI staff.
+Please be aware that the IRB has not yet seen your application. This is an initial screening to ensure your application is ready for IRB
+review. After you review the screening requests and your application appears to be ready, it will be forwarded to the IRB for review. The IRB
+may request additional information or clarifications after their review.
+If you have any questions regarding these comments, please contact me by email or phone (katie.gieske@uky.edu, 859-257-3138).
+Continuation/Final Review  Comment by Justin Verlinden - PI to PI on 7/9/2025 1:00:22 PM
+To clarify, all data used for analysis does not have identifiable information contained. However, we still have access to encrypted identifiers (it is
+just separate from the actual data). With this in mind, did I choose the correct button or should I choose the button below, "There is no
+subject/record/specimen identifying codes or links to the data". Either way, I can confirm that all identifiable information is encrypted.
+Continuation/Final Review  Comment by Mary Gieske - ORI to PI on 7/8/2025 4:37:26 PM
+The PI has selected the remaining activities are limited only to data analysis and there IS access to records either directly or through codes or
+links to the data. Is your data (with identifiers) encrypted (i.e., converted into a code to prevent unauthorized access)?
+The study may be closed if the data with identifiers, is encrypted.
+Section 23 Page 1 of 1

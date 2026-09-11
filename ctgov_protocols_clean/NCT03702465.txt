@@ -1,0 +1,1658 @@
+<<<PAGE 1>>>
+ASPIRE-DNA
+Assessment of the Impact of a Personalised Nutrition
+Intervention in Impaired Glucose Regulation
+V1.4 16th March 2020
+MAIN SPONSOR: Imperial College London
+FUNDERS: Clinical Trial Agreement between DnaNudge Ltd. and Dept. of Medicine,
+Imperial College London.
+STUDY COORDINATION CENTRE: Centre for Bio -Inspired Technology, Imperial
+College London
+REC reference: 18/NS/0093
+Protocol authorised by:
+Name & Role  Date  Signature
+Prof. Nick Oliver   16th July 2018
+(Chief Investigator)
+Prof. Christofer Toumazou   16th July 2018
+(Co-Investigator)
+Dr. Maria Karvela   16th July 2018
+(Co-Investigator)
+Dr. Caroline Golden   16th July 2018
+(Study Manager)
+<<<PAGE 2>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  2
+Summary of Changes:
+Version
+Number
+Date Summary of Revisions Made:
+V0.19 27/02/2019 Section 4.4
+- Substantial amendment
+submitted to include three other
+recruitment pathways.
+V1.0 18/03/2019 Section 4.4
+- Substantial amendment
+submitted to include the addition
+of Patient Identification Centres
+(PICs)
+Also, overall formatting was adjusted to
+make the document more readable (no
+information was changed)
+V1.1 28/05/2019 Section 4.1:
+- Addition of measuring the finger
+prick blood sample via a lab
+analyser as a screening method
+for HbA1c
+Section 6.1.1:
+- HbA1c added to hematology
+procedure
+Section 6.2.1
+- Addition of measuring the finger
+prick blood sample via a lab
+analyser as a screening method
+for HbA1c
+- Time between Screening and
+Baseline Clinical Visit was 2
+weeks, it is now 3 weeks.
+- Time between Baseline Clinical
+Visit and Initial Dietary
+Consultation was 2 weeks, it is
+now 3 weeks.
+- Visit Windows changed as
+follows:
+o Visits 2, 3: Window
+changed from +/-3 to +-
+10 working days
+<<<PAGE 3>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  3
+o Visits 4 - 11 : Window
+changed from +/-3 to +- 6
+working days
+Schematic of Study Design changed to
+reflect the change of a 3 week interval
+(old interval: 2 weeks) between
+screening and the baseline clinical visit,
+and a change of a 3 week interval (old
+interval 2 weeks) between the baseline
+clinical visit and the initial dietary
+consultation
+V1.2 08/08/19
+Section 4.4
+- Substantial amendment
+submitted to include two other
+recruitment pathways.
+- Community centres added to
+recruitment pathway (5)
+The addition of section 6.2.5 Participant
+Testimonials.
+V1.3 13/09/19 Section 6.2.5
+- Added more detail on the
+types of publication that
+participant testimonials can
+be used for and the
+anonymity of testimonials.
+V1.4 16/03/20 The section 12. 2 Trial
+Suspension was added.
+<<<PAGE 4>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  4
+Study Management Group
+Chief Investigator:   Prof. Nicholas Oliver
+Co-investigators:         Prof. Christofer Toumazou
+Dr. Maria Karvela
+Statistician:     Dr. Pierre De Beaudrap
+Study Management:   Dr. Caroline Golden
+Study Coordination Centre
+For general queries, supply of study documentation, and collection of data,
+please contact:
+Study Coordinator:  Dr. Caroline Golden
+Address:     Centre for Bio-Inspired Technology
+Bessemer Building
+Imperial College London
+SW7 2AZ
+Registration: TBC
+Tel: +44 7568791304           E-mail: cg811@ic.ac.uk
+Web address: http://www.imperial.ac.uk/bio-inspiredtechnology/nudgeomics/aspire-
+dna/
+Clinical Queries
+Clinical queries should be directed to Prof. Nick Oliver who will direct the
+query to the appropriate person.
+Sponsor
+Imperial College London is the main research Sponsor for this study. For
+further information regarding the sponsorship conditions, please contact the
+Head of Regulatory Compliance at:
+Joint Research Compliance Office
+Imperial College London
+Room 221,
+Medical School Building
+St Marys Campus
+Norfolk Place
+London
+W2 1PG
+Tel: 0207 594 9459
+<<<PAGE 5>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  5
+<<<PAGE 6>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  6
+Funder
+Clinical Trial Agreement between DnaNudge Ltd. and Dept. of Medicine, Imperial
+College London.
+This protocol describes the ASPIRE-DNA study and provides information about
+procedures for entering participants.  Every care was taken in its drafting, but
+corrections or amendments may be necessary. These will be circulated to
+investigators in the study.  Problems relating to this study should be referred, in the
+first instance, to the Study Manager.
+This study will adhere to the principles outlined in the UK Policy Framework for Health
+and Social Care Research. It will be conducted in compliance with the protocol, the
+Data Protection Act and other regulatory requirements as appropriate.
+<<<PAGE 7>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  7
+Table of Contents
+<<<SECTION 1  INTRODUCTION 14>>>
+1  INTRODUCTION 14
+<<<SECTION 1.1  BACKGROUND 14>>>
+1.1  BACKGROUND 14
+<<<SECTION 1.2  RATIONALE 15>>>
+1.2  RATIONALE 15
+<<<SECTION 2  OBJECTIVES 17>>>
+2  OBJECTIVES 17
+<<<SECTION 2.1  PRIMARY OBJECTIVE 17>>>
+2.1  PRIMARY OBJECTIVE 17
+<<<SECTION 2.2  SECONDARY OBJECTIVES 17>>>
+2.2  SECONDARY OBJECTIVES 17
+<<<SECTION 2.3  EXPLORATORY OBJECTIVES 17>>>
+2.3  EXPLORATORY OBJECTIVES 17
+<<<SECTION 3  STUDY DESIGN 18>>>
+3  STUDY DESIGN 18
+<<<SECTION 3.1  TYPE OF STUDY 18>>>
+3.1  TYPE OF STUDY 18
+<<<SECTION 3.2  DURATION 18>>>
+3.2  DURATION 18
+<<<SECTION 3.3  STUDY POPULATION 18>>>
+3.3  STUDY POPULATION 18
+<<<SECTION 3.4  DESCRIPTION OF STUDY DESIGN 18>>>
+3.4  DESCRIPTION OF STUDY DESIGN 18
+<<<SECTION 3.5  STUDY OUTCOME MEASURES 19>>>
+3.5  STUDY OUTCOME MEASURES 19
+<<<SECTION 4  PARTICIPANT ENTRY 21>>>
+4  PARTICIPANT ENTRY 21
+<<<SECTION 4.1  PRE-REGISTRATION EVALUATIONS 21>>>
+4.1  PRE-REGISTRATION EVALUATIONS 21
+<<<SECTION 4.2  INCLUSION CRITERIA 21>>>
+4.2  INCLUSION CRITERIA 21
+<<<SECTION 4.3  EXCLUSION CRITERIA 21>>>
+4.3  EXCLUSION CRITERIA 21
+<<<SECTION 4.4  STRATEGIES FOR RECRUITMENT AND RETENTION 22>>>
+4.4  STRATEGIES FOR RECRUITMENT AND RETENTION 22
+<<<SECTION 4.5  WITHDRAWAL CRITERIA 23>>>
+4.5  WITHDRAWAL CRITERIA 23
+<<<SECTION 4.6  PREMATURE TERMINATION OR SUSPENSION OF STUDY 23>>>
+4.6  PREMATURE TERMINATION OR SUSPENSION OF STUDY 23
+<<<SECTION 5  STUDY AGENT(S) AND CONTROL DESCRIPTION 25>>>
+5  STUDY AGENT(S) AND CONTROL DESCRIPTION 25
+<<<SECTION 6   STUDY PROCEDURES AND SCHEDULE 27>>>
+6   STUDY PROCEDURES AND SCHEDULE 27
+<<<SECTION 6.1  STUDY PROCEDURES/EVALUATIONS 27>>>
+6.1  STUDY PROCEDURES/EVALUATIONS 27
+<<<SECTION 6.1.1  STUDY SPECIFIC PROCEDURES 27>>>
+6.1.1  STUDY SPECIFIC PROCEDURES 27
+<<<SECTION 6.1.2  SPECIMEN PREPARATION, HANDLING AND STORAGE 27>>>
+6.1.2  SPECIMEN PREPARATION, HANDLING AND STORAGE 27
+<<<SECTION 6.2 STUDY SCHEDULE 27>>>
+6.2 STUDY SCHEDULE 27
+<<<SECTION 6.2.1 SCREENING 27>>>
+6.2.1 SCREENING 27
+<<<SECTION 6.2.2  FOLLOW-UP 28>>>
+6.2.2  FOLLOW-UP 28
+<<<SECTION 6.2.3  FINAL STUDY VISIT 30>>>
+6.2.3  FINAL STUDY VISIT 30
+<<<SECTION 6.2.4  EARLY TERMINATION VISIT 30>>>
+6.2.4  EARLY TERMINATION VISIT 30
+<<<SECTION 6.2.5 Participant Testimonials 31>>>
+6.2.5 Participant Testimonials 31
+<<<SECTION 6.2.6  SCHEDULE OF EVENTS TABLE 32>>>
+6.2.6  SCHEDULE OF EVENTS TABLE 32
+<<<SECTION 7  ADVERSE EVENTS 33>>>
+7  ADVERSE EVENTS 33
+<<<SECTION 7.1  DEFINITIONS 33>>>
+7.1  DEFINITIONS 33
+<<<SECTION 7.2  REPORTING PROCEDURES 33>>>
+7.2  REPORTING PROCEDURES 33
+<<<SECTION 7.2.1  NON SERIOUS AES 33>>>
+7.2.1  NON SERIOUS AES 33
+<<<SECTION 7.2.2  SERIOUS AES 33>>>
+7.2.2  SERIOUS AES 33
+<<<SECTION 7.3  EXPECTEDNESS 34>>>
+7.3  EXPECTEDNESS 34
+<<<SECTION 8  ASSESSMENT AND FOLLOW-UP 35>>>
+8  ASSESSMENT AND FOLLOW-UP 35
+<<<SECTION 9  STATISTICS AND DATA ANALYSIS 36>>>
+9  STATISTICS AND DATA ANALYSIS 36
+<<<SECTION 9.1  ANALYSIS DATASETS 36>>>
+9.1  ANALYSIS DATASETS 36
+<<<SECTION 9.2  THE NUMBER OF PARTICIPANTS 36>>>
+9.2  THE NUMBER OF PARTICIPANTS 36
+<<<SECTION 9.3  POWER CALCULATION 36>>>
+9.3  POWER CALCULATION 36
+<<<SECTION 9.4  ANALYSIS OF PRIMARY AND SECONDARY OUTCOME MEASURES 37>>>
+9.4  ANALYSIS OF PRIMARY AND SECONDARY OUTCOME MEASURES 37
+<<<SECTION 9.5  EXPLORATORY ANALYSIS 38>>>
+9.5  EXPLORATORY ANALYSIS 38
+<<<SECTION 10 REGULATORY ISSUES 39>>>
+10 REGULATORY ISSUES 39
+<<<SECTION 10.1  ETHICS APPROVAL 39>>>
+10.1  ETHICS APPROVAL 39
+<<<SECTION 10.2  CONSENT 39>>>
+10.2  CONSENT 39
+<<<PAGE 8>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  8
+<<<SECTION 10.3  CONFIDENTIALITY 39>>>
+10.3  CONFIDENTIALITY 39
+<<<SECTION 10.4  INDEMNITY 40>>>
+10.4  INDEMNITY 40
+<<<SECTION 10.5  SPONSOR 41>>>
+10.5  SPONSOR 41
+<<<SECTION 10.6  FUNDING 41>>>
+10.6  FUNDING 41
+<<<SECTION 10.7  AUDITS 41>>>
+10.7  AUDITS 41
+<<<SECTION 11 DATA HANDLING AND RECORD KEEPING 42>>>
+11 DATA HANDLING AND RECORD KEEPING 42
+<<<SECTION 11.1  DATA COLLECTION AND MANAGEMENT RESPONSIBILITIES 42>>>
+11.1  DATA COLLECTION AND MANAGEMENT RESPONSIBILITIES 42
+<<<SECTION 11.2  STUDY RECORDS RETENTION 42>>>
+11.2  STUDY RECORDS RETENTION 42
+<<<SECTION 11.3  PROTOCOL DEVIATIONS 43>>>
+11.3  PROTOCOL DEVIATIONS 43
+<<<SECTION 12 STUDY MANAGEMENT 44>>>
+12 STUDY MANAGEMENT 44
+<<<SECTION 13 PUBLICATION POLICY 45>>>
+13 PUBLICATION POLICY 45
+REFERENCES 46
+<<<PAGE 9>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  9
+GLOSSARY OF ABBREVIATIONS
+RCT  Randomised Control Trial
+OGTT  Oral Glucose Tolerance Test
+ICMJE  International Committee of Medical Journal Editors
+FDA  Federal Drug Administration
+CI  Chief Investigator
+CRF  Case Report Form
+EMEA  European Medicines Agency
+HOMA  Homeostasis model assessment
+DNA  Deoxyribonucleic acid
+ICL  Imperial College London
+JRCO   Joint Research Compliance Office
+SNP  Single Nucleotide Polymorphism
+HDL  High-Density Lipoprotein
+LDL  Low-Density Lipoprotein
+GCP  Good Clinical Practice
+IRB  Investigational Review Board
+OR  Odds Ratio
+PR   Public Relations
+POCT   Point-Of-Care Testing
+IFG  Impaired Fasting Glucose
+IGT  Impaired Glucose Tolerance
+FFQ  Food Frequency Questionnaire
+PIC Patient Identification Centre
+KEYWORDS
+Pre-diabetic, non-diabetic hyperglycemia, genetics, app -based dietary
+intervention.
+<<<PAGE 10>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  10
+STUDY SUMMARY
+TITLE Assessment of the Impact of a Personalised Nutrition Intervention
+in Impaired Glucose Regulation
+DESIGN Pilot Study;
+Allocation: RCT
+Intervention model: Parallel assignment with an active control
+Masking: None
+Primary purpose: Prevention
+AIMS • To compare the impact of a DNA-based diet on glucose regulation
+in prediabetic individuals with that of standard care.
+OUTCOME MEASURES Primary outcome (measured at 6 weeks):
+• Difference in 0 minutes glucose on 75g or al glucose
+tolerance test between the control arm and the
+intervention arm.
+Secondary outcomes:
+• Cross-arm and within arm differences (compared to 0
+week measurements) between the control arm,
+intervention arm, and the exploratory arm, in respect of:
+o 120 minutes glucose on 75g oral glucose tolerance
+test
+o 0 minutes glucose on 75g oral glucose tolerance test
+o HbA1c
+o Weight
+o BMI
+o Lean mass
+o Fat mass
+o Waist circumference
+o Total cholesterol
+o Fasting Triglycerides
+o LDL cholesterol
+o HDL cholesterol
+o HOMA Insulin sensitivity and secretion
+measurement
+o 120 minute c-peptide following 75g oral glucose
+tolerance test
+o Systolic blood pressure
+o Diastolic blood pressure
+o Food frequency (by food frequency
+questionnaire (FFQ) and 24hour recall)
+o Energy intake
+o Carbohydrate intake
+<<<PAGE 11>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  11
+o Fat intake
+o Saturated fat intake
+o Salt intake
+o Vitamin D
+o Vitamin B6
+o Vitamin B12
+All of the above secondary outcomes will be measured at 6 and
+12 weeks, and a follow-up at 26 weeks (with the exception of
+HbA1c which will only be measured at 12 and 26 weeks).
+• The number of participant withdrawals during the trial.
+POPULATION Adults with impaired glucose regulation defined by impaired fasting
+glucose (IFG) or impaired glucose tolerance (IGT) in line with
+WHO criteria (N = 180).
+ELIGIBILITY Inclusion criteria:
+• Adults over 18 years of age
+• Impaired glucose regulation including IFG and IGT by
+fasting glucose, OGTT or HbA1c criteria
+• Access to smartphone with an operating system of iOS
+8.0 or above, or Android 4.0 or above.
+Exclusion criteria:
+• Diabetes
+• Pregnant or planning pregnancy
+• Breastfeeding
+• Enrolled in other clinical trials
+• Have active malignancy or under investigation for
+malignancy
+• Severe visual impairment
+• Reduced manual dexterity
+• Use of psychiatric, anti -diabetic, and/or weight loss
+medication, and/or oral steroids
+• Bariatric surgery
+• History of illnesses that could interfere with the
+interpretation of the study results (e.g. HIV, Cushing
+syndrome, chronic kidney disease, chronic liver disease,
+hyperthyroidism, hereditary fructose intolerance, alcohol
+or substance abuse)
+• Unable to participate due to other factors, as assessed by
+the Chief Investigator
+<<<PAGE 12>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  12
+STUDY DURATION 1 year 11 months
+PARTICIPANT DURATION  6 months
+NUMBER OF SITES 1
+<<<PAGE 13>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  13
+SCHEMATIC OF STUDY DESIGN
+Figure 1: Study design. The asterisk indicates the start of the intervention period.
+Screening
+Randomisation
+Control Arm Intervention Arm Exploratory Arm
+(Download DnaNudge App)
+Baseline glucose regulation, anthropometric measurements &
+saliva sample for DNA-based dietary guidelines
+Initial consultation with dietitian``
+Glucose regulation & anthropometric measurements
+Follow-up glucose regulation & anthropometric measurements
+Download genetic information to the
+DnaNudge App
+Follow-up phone-call with dietitian
+Follow-up phone-call with dietitian
+Glucose regulation & anthropometric measurements
+Weeks
+0
+6*
+8
+12
+14
+18
+32
+3
+Follow-up phone-call with dietitian
+Follow-up phone-call with dietitian
+```````NudgeBoxExperience
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation
+Study Flowchart v0.4 19.03.19
+<<<PAGE 14>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  14
+<<<SECTION 1 INTRODUCTION>>>
+1 INTRODUCTION
+<<<SECTION 1.1  BACKGROUND>>>
+1.1  BACKGROUND
+Diabetes is amongst the most common long term conditions, with the number
+of people affected worldwide quadrupling from 108 million in 1980 to 422
+million in 2014 (Mathers & Loncar 2006). Its prevalence in people over 18
+years of age has risen from 4.7% in 1980 to a staggering 8.5% in 2014
+(Mathers & Loncar 2006). In 2012, there were 1.5 million deaths as a direct
+result of diabetes, making it the 8th leading cause of death amongst both
+sexes, and the 5th leading cause of death amongst women. There were a
+further 2.2 million deaths as a result of complications due to higher-than-
+optimal glucose levels (WHO 2016). In 2013, 6% of the UK adult population
+(2.7 million people) were diabetic (Gatineau et al. 2014), 90% of whom had
+type 2 diabetes (UK 2014). A further 5 million people were estimated to be at
+high risk of developing type 2 diabetes (NHS n.d.). This has led to a cost of
+£8 billion per year to the NHS, 80% of which is due to diabetes -related
+complications such as cardiovascular disease, amputations, renal failure and
+sight loss (Hex et al. 2012).
+The potential for lifestyle interventions to reduce the progression to type 2
+diabetes from high risk states has been demonstrated in a number of
+randomised control trials (RCTs) in different countries, with a meta-analysis
+of RCTs suggesting that lifestyle intervention in high risk subjects can halve
+the incidence of diabetes (Neil Thomas et al. 2010). The lifestyle modification
+RCTs that show reduced progression to diabetes in high risk subjects have
+given impressive results (Diabetes Prevention Program Research Group
+2002; Pan et al. 1997; Kosaka et al. 2005; Tuomilehto et al. 2001;
+Ramachandran et al. 2006). However, they have been expensive and labour
+intensive, with multiple personal contacts (including in some instances home
+visits) for those in the trial who were deemed to be failing to achieve their
+goals (Diabetes Prevention Program Research Group 2002). Such intensive
+input is not practical on a large scale. Alternative methods to induce
+behavioural change, including contact via mobile phones or home computer,
+have been employed with success in other clinical situations (Ramachandran
+et al. 2013) .
+Furthermore, the use of dietary interventions to adjust postprandial glucose
+levels have indicated the potential benefits of an individualised app roach.
+Traditional approaches of predicting postprandial glucose level such as
+carbohydrate intake or glycemic index (American Diabetes Association 2015;
+Bao et al. 2011),  have shown mixed results. Carbohydrate intake has been
+shown to be a poor predictor  of postprandial glucose levels (Conn &
+Newburgh 1936; Zeevi et al. 2015). In fact, individual responses to
+carbohydrate intake were sufficiently disparate to distinguish two groups of
+carbohydrate-sensitive and carbohydrate -insensitive individuals,
+emphasising the need for an individualised intervention (Zeevi et al. 2015).
+Using the glycemic index of food succumbs to the caveats of examining only
+a single macronutrient profile, and neglecting the wide range of food
+combinations at a given meal, and the proximity of the next/previous meal
+<<<PAGE 15>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  15
+and/or physical exercise (Dodd et al. 2011). The importance of an
+individualised approach is most clearly illustrated by the discrepancy in
+postprandial glucose readings between people who consume identical meals
+(Vrolix & Mensink 2010; Vega-López et al. 2007; Zeevi et al. 2015),
+highlighting the need for a personalised treatment plan.
+Personalised nutrition enables health interventions by optimising multiple
+dietary components simultaneously and enhancing motivation to adhere to
+dietary advice. An innovative approach to personalised nutrition has emerged
+in the form of DNA-based dietary advice. This intervention provides people
+with dietary advice that has been tailored to information based on their DNA.
+In a study in which a DNA-based diet was used to treat obesity, the DNA-
+based diet had a dramatic effect on the fasting blood glucose levels of
+participants (Arkadianos et al. 2007). 57% of the intervention group (n = 30,
+receiving DNA-based recommendations), achieved fasting blood glucose
+values <5.6mmol/L (100mg/dL), compared to 25% of the control group (n =
+16), 90 days following treatment (OR = 1.98).  Notably, the DNA-based
+nutritional advice was not tailored to be a weight loss program, or indeed to
+improve prediabetic biomarkers. It was targeted to optimise the nutrient
+profile of a given individual. Another point of interest was the longevity of the
+effect. The greatest difference between the intervention and control group
+was found >300 days post treatment; the con trol cohort showed a slight
+increase in BMI, compared to the decrease found in the intervention group.
+This may indicate that there is a greater probability of long-term adherence to
+nutritional guidelines when tailored, actionable DNA -based advice is
+provided. A prospective study examined the potential for DNA-based advice
+to enhance adherence to nutrition protocols (Nielsen & El-Sohemy 2012).
+Participants received general dietary advice, versus the same advice
+supplemented with information based on their DNA (n = 149). Those in the
+intervention group reported a greater understanding of the dietary advice
+(93% versus 78%), they were more likely view the advice as useful (88%
+versus 72%), and they were more interested in receiving further
+recommendations (95% versus 76%).
+<<<SECTION 1.2  RATIONALE>>>
+1.2  RATIONALE
+The standard treatment protocol for pre-diabetic individuals in the UK is a brief
+consultation with their clinician highlighting the dangers of an increased risk
+of diabetes, and some general information regarding healthy eating and the
+benefits of regular physical activity. The individual will subsequently be
+contacted every 3 years to assess the state of their glucose regulation (NICE
+2012). Despite the implementation of this system, incidence rates of diabetes
+have continued to rise over the years. From 1994-2011, the number of women
+diagnosed with diabetes has risen from 1.9 – 4.9%, and 2.9 – 7.0% for men
+(England 2016). In response to this, the NHS launched the NHS Diabetes
+Prevention Program (DPP) in 2016. The aforementioned studies and the
+predictions of the DPP are in agreement that an intensive lifestyle intervention
+can radically reduce inci dence rates of diabetes. However, these
+interventions are costly, labour-intensive and require the health system to
+<<<PAGE 16>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  16
+pre-identify prediabetic patients. The last point is one of the greatest
+challenges to any diabetes prevention program, as many at-risk individuals
+will not self-assess to pre-empt a glucose regulation test (Christensen et al.
+2004). Our solution aims to assess the improvement in glucose regulation by
+following a DNA-based diet in comparison with the standard protocol.
+Furthermore, our intervention will assess whether a positive change can be
+implemented by using an app to aid in grocery shopping for a DNA-based
+diet. If effective, this solution could provide a costeffective, widely-distributed,
+easily scalable prevention tool for improving glucose regulation in high risk
+individuals. Moreover, the non-invasive nature of the intervention, paired with
+the autonomy that it provides the individual in choosing their food choices,
+enables it to be a lowrisk intervention. Furthermore, as a DNA-based diet is
+relevant for the general public, it has the potential to perform the preventative
+measures on individuals who do not self-identify as pre-diabetic.
+In this pilot study, we propose to use genetic data to guide personalised
+nutrition in people with impaired glucose tolerance to demonstrate the impact
+of personalised nutrition on glucose metabolism, anthropometry, non-glucose
+metabolism and quality of life.
+<<<PAGE 17>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  17
+<<<SECTION 2  OBJECTIVES>>>
+2  OBJECTIVES
+<<<SECTION 2.1  PRIMARY OBJECTIVE>>>
+2.1  PRIMARY OBJECTIVE
+• To compare differences in the impact of a DNA-based diet and standard
+care in improving glucose regulation in pre-diabetic individuals
+<<<SECTION 2.2  SECONDARY OBJECTIVES>>>
+2.2  SECONDARY OBJECTIVES
+• To assess the ability of a DNA-based diet to improve the macro- and
+micro-nutrient profile of pre-diabetic participants.
+• To assess the impact of a DNA-based diet on clinical markers including
+cholesterol, body composition and blood pressure, as they rela te to
+diabetes risk.
+• Where applicable, to assess changes in anthropometric measurements
+as a result of following a DNA-based diet, where they relate to diabetic
+risk reduction.
+<<<SECTION 2.3  EXPLORATORY OBJECTIVES>>>
+2.3  EXPLORATORY OBJECTIVES
+• To assess the impact of providing DNA-based dietary guidelines via the
+DnaNudge App, on improving glucose regulation in pre -diabetic
+individuals
+• To assess the impact of providing DNA-based dietary guidelines via the
+DnaNudge App, on the secondary outcomes outlined in section 2.2.
+• To explore the utility of an app as a delivery mechanism for DNA-based
+dietary advice.
+• To examine the changes in leptin measurements via saliva samples
+during the study.
+<<<PAGE 18>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  18
+<<<SECTION 3 STUDY DESIGN>>>
+3 STUDY DESIGN
+<<<SECTION 3.1  TYPE OF STUDY>>>
+3.1  TYPE OF STUDY
+Physiological; pilot study; RCT, parallel design with an active control.
+<<<SECTION 3.2  DURATION>>>
+3.2  DURATION
+23 months.
+<<<SECTION 3.3  STUDY POPULATION>>>
+3.3  STUDY POPULATION
+Adults with impaired glucose regulation defined by HbA1c, impaired fasting
+glucose (IFG) or impaired glucose tolerance (IGT) in line with WHO criteria
+(N = 180):
+HbA1c:
+• < 42 mmol/mol (6.0%): Non-diabetic
+• 42 < 47 mmol/mol (6.0–6.4%): IGT – Pre-diabetic
+• ³ 48 mmol/mol (6.5%): Type 2 diabetic
+IFG (World Health Organization 2006):
+• Fasting plasma glucose:  6.1mmol/L (110mg/dL)   IFG
+6.9mmol/L (125mg/dL)
+• 2 hr plasma glucose:      < 7.8 mmol/L (140mg/dL)
+IGT (World Health Organization 2006):
+• Fasting plasma glucose:   < 7mmol/L (126mg/dL)
+• 2 hour plasma glucose:  7.8mmol/L (140mg/dL)   IGT < 11mmol/L
+(200mg/dL)
+<<<SECTION 3.4  DESCRIPTION OF STUDY DESIGN>>>
+3.4  DESCRIPTION OF STUDY DESIGN
+Following informed consent, study participants will undergo baseline
+assessment including assessment of anthropometry, glucose tolerance,
+metabolism and diet. A trial commencement questionnaire (see Appendix 2)
+will be completed by each participant upon entry into the trial, and a trial
+completion questionnaire (see Appendix 4) will be given after 12 weeks of the
+intervention and after the 26 -week follow-up measurement. The
+questionnaires will address lifestyle factors that may impact the outcomes of
+the study, and data regarding DnaNudge App utility. DNA will be sampled
+from saliva from all participants. Two saliva samples will be taken at the
+baseline assessment (Visit 3 – see Table 1). One sample will be used to
+create the DNA-based dietary recommendations and the second sample will
+be used to assess the leptin levels of the participants. Leptin will be measured
+from saliva samples taken at the 6-, 12-, and 26-week clinical visits to assess
+the changes in the hunger hormone during the study. Participants will be
+<<<PAGE 19>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  19
+assigned to one of three cohorts using stratified blocked randomisation by
+age and gender (block size = 15):
+1. Control arm (n = 60):
+• Participants will receive general health guidelines according to
+the NICE guidelines, as per standard care.
+• Active control
+2. Intervention arm (n = 60):
+• Participants will receive DNA-based health guidelines via a
+genetic report (see Appendix 13).
+3. Exploratory arm (n = 60):
+• Participants will receive DNA-based health guidelines via the
+DnaNudge App.
+The DNA for all arms of the study will be analysed for pre-determined single
+nucleotide polymorphisms (SNPs) relevant to metabolism. Participants in the
+intervention arm, will be provided with a hard-copy of a genetic report (for an
+example report see Appendix 13), which will explain how their SNPs influence
+their dietary habits. Participants in the exploratory arm, will be given
+personalised DNA-based dietary advice via the DnaNudge App. Participants
+in the control arm will be provided with a summary of NICE guidance via a
+dietitian, as per standard care.
+Participants will then be reviewed after 6 and 12 weeks with repeat baseline
+measures. Participants in the control arm will be offered a personalised
+nutrition plan on completion of the study. Participants will be asked to
+complete a food frequency questionnaire (see Appendix 12) before their initial
+consultation with the dietitian (Visit 4 – see Table 1), and at the 6-, 12- and
+26-week follow up clinical visits. Participants will also be asked to perform a
+24-hour recall at each follow-up phone call with a dietitian (Visits 5, 7, 9 & 11
+– see Table 1). A summary of the activities for each participant is given in
+Table 1. Data from the App will also be used in exploratory analysis to
+examine usage patterns and decision making as a result of the DNA-based
+dietary recommendations.
+See Figure 1 for a diagram of the study design and estimated timeframe.
+<<<SECTION 3.5  STUDY OUTCOME MEASURES>>>
+3.5  STUDY OUTCOME MEASURES
+Primary outcome:
+Difference in 0 minutes glucose on 75g oral glucose tolerance
+test between the control arm and intervention arm at 6 weeks
+<<<PAGE 20>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  20
+Secondary outcomes:   120 minutes glucose on 75g oral glucose tolerance test
+0 minutes glucose on 75g oral glucose tolerance test
+HbA1c
+Weight
+BMI
+Lean mass
+Fat mass
+Waist circumference
+Total cholesterol
+Fasting Triglycerides
+LDL cholesterol
+HDL cholesterol
+HOMA Insulin sensitivity and secretion measurement
+120 minute c-peptide following 75g oral glucose tolerance test
+Systolic blood pressure
+Diastolic blood pressure
+Food frequency (by food frequency questionnaire and
+interviews) Energy intake
+Carbohydrate intake
+Fat intake
+Saturated fat intake
+Salt intake
+Vitamin D
+Vitamin B6
+Vitamin B12
+All secondary outcomes will be measured at 6, 12 and 26 weeks (with the
+exception of HbA1c which will only be measured at 12 and 26 weeks).
+<<<PAGE 21>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  21
+<<<SECTION 4 PARTICIPANT ENTRY>>>
+4 PARTICIPANT ENTRY
+<<<SECTION 4.1  PRE-REGISTRATION EVALUATIONS>>>
+4.1  PRE-REGISTRATION EVALUATIONS
+Potential participants will undergo a screening process prior to entry into the
+study. Potential participants will be invited to the clinical research facility
+where they will be talked through the consent procedure and allowed to ask
+any questions they may have. Following consent and verification that they are
+eligible via the inclusion and exclusion criteria, they will undergo a glucose
+regulation test via finger prick blood sample that will be analysed either via a
+point of care (POC) HbA1c test, or a lab analyser, to measure HbA1c. The
+lab analyser (TOSOH G8 analyser) will be used to assess HbA1c on a
+capillary sample if the Siemens DCA Vantage Analyser POC device is
+unavailable or returns values that are out of the acceptable range for
+accuracy. Both devices will be used in line with manufacturer instructions. If
+a participant is found to be type 2 diabetic they will be referred to their GP for
+further care.
+The HbA1c test results will be interpreted according to WHO criteria:
+• HbA1c below 42 mmol/mol (6.0%): Non-diabetic
+• HbA1c between 42 and 47 mmol/mol (6.0–6.4%): IGT – Pre-diabetic
+• HbA1c of 48 mmol/mol (6.5%) or over: Type 2 diabetic
+<<<SECTION 4.2  INCLUSION CRITERIA>>>
+4.2  INCLUSION CRITERIA
+In order to be eligible to participate in this study, an individual must meet all
+of the following criteria:
+• Provision of signed and dated informed consent form
+• Adults over 18 years of age
+• Impaired glucose regulation including IFG and IGT by fasting glucose,
+OGTT or HbA1c criteria
+• Access to smartphone with an operating system of iOS 8.0 or above,
+or Android 4.0 or above.
+<<<SECTION 4.3  EXCLUSION CRITERIA>>>
+4.3  EXCLUSION CRITERIA
+An individual who meets any of the following criteria will be excluded from
+participation in this study:
+• Diabetic
+• Pregnant or planning pregnancy
+• Breastfeeding
+• Enrolled in other clinical trials
+• Have active malignancy or under investigation for malignancy
+• Severe visual impairment
+• Reduced manual dexterity
+<<<PAGE 22>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  22
+• Use of psychiatric, anti-diabetic, and/or weight loss medication, and/or
+oral steroids
+• Bariatric surgery
+• History of illnesses that could interfere with the interpretation of the
+study results (e.g. HIV, Cushing syndrome, chronic kidney disease,
+chronic liver disease, hyperthyroidism, hereditary fructose
+intolerance, alcohol or substance abuse)
+• Unable to participate due to other factors, as assessed by the Chief
+Investigator
+<<<SECTION 4.4  STRATEGIES FOR RECRUITMENT AND RETENTION>>>
+4.4  STRATEGIES FOR RECRUITMENT AND RETENTION
+Participants will be recruited through some/all of the following approaches:
+1. Communication with Waitrose customers and their partners through
+Waitrose customer/partner communication platforms
+2. Imperial College Healthcare Trust Diabetes Clinics
+3. Healthy volunteer database in the Imperial Clinical Research Facility
+4. NIHR CRN distribution of text messages to individuals chosen by the
+NIHR CRN based on study inclusion/exclusion criteria in London
+Clinical Commissioning Groups (CCGs).
+5. Flyers for display in hospitals/Imperial Clinical Research Facility
+(ICRF), Imperial College London/Community Centre noticeboards.
+6. Advertisement in local London newspapers with same information as
+flyer.
+7. The use of Patient Identification Centres (PICs) to identify and contact
+potential participants through one of the aforementioned approved
+methods e.g. text messages
+8. Advertisement of the study via Diabetes UK through for example, their
+website, social media.
+9. Opportunistic recruitment via either GP staff, Clinic staff, or Trial Team
+staff providing patients with study information before/during/after their
+consultation.
+If identified through method (1), (3), (5) and (6), the initial information that will
+be communicated will direct the potential participants to self-assess if they
+may be pre-diabetic by completing the Leicester Risk Score Assessment
+(Gray et al. 2010), available on the Diabetes UK website
+(https://riskscore.diabetes.org.uk/start). Participants will be offered the
+opportunity to contact the clinical trial team if they would like to partake in the
+trial. The clinical trial team will then invi te the potential participant to the
+Clinical Research Facility for a screening appointment. If identified through
+method (2), (5), (7) and (9), the participants will be identified from the current
+registry of prediabetic individuals who were identified through standard care.
+They will be provided with contact details for the study should they wish to
+participate. If identified through method (8), participants will be directed to the
+clinical trial website and/or the Trial Team contact email address and phone
+number if they would like to find out more information about the trial. Of note,
+patients can only be approached by members of the Trial Team if they have
+<<<PAGE 23>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  23
+given permission via their direct care team. If the potential participant is
+considered eligible by any of the above methods, they will be contacted via
+email or telephone by the clinical trial team to ask them if they would like to
+undergo a screening test at the clinical research facility to assess their
+suitability for the trial.
+Given the high rate of diagnosis of diabetes and pre-diabetic individuals by
+the North-West London GP network in 2016, we anticipate the accrual rate
+for N = 180 pre-diabetic individuals to fulfil our planned recruitment schedule
+of N = 60 participants every 3 months.
+<<<SECTION 4.5  WITHDRAWAL CRITERIA>>>
+4.5  WITHDRAWAL CRITERIA
+Each participant has the right to withdraw from the study at any time. In
+addition, the Investigator may discontinue the participation of a participant
+from the study at any time, if the Investigator considers it necessary for any
+reason including:
+• Pregnancy
+• Ineligibility
+• Significant protocol deviation
+• Significant non-compliance with treatment regimen or study
+requirements
+• Withdrawal of consent
+• Loss to follow-up
+Following participant withdrawal, no further clinical tests will be performed,
+and no further information will be obtained from the participant’s DnaNudge
+App for the purposes of the trial. All data recorded prior to withdrawal may be
+analysed in the context of determining reasons for withdrawal. Participants
+will have the option of participating in a follow-up interview to ensure patient
+well-being and to provide reasons for withdrawal if they wish. The reason for
+withdrawal will be recorded in the CRF. Participants will not be required to
+provide reasons for withdrawing from the study. Participant withdrawal will
+result in exclusion from the study if the length of time prior to withdrawal is
+not sufficient to provide useful data for the study.
+<<<SECTION 4.6  PREMATURE TERMINATION OR SUSPENSION OF STUDY>>>
+4.6  PREMATURE TERMINATION OR SUSPENSION OF STUDY
+This study may be temporarily suspended or prematurely terminated if there
+is a sufficiently reasonable cause. Written notification, documenting the
+reason for study suspension or termination, will be provided by the
+suspending or terminating party to the principal investigators, the JRCO, ICL
+and DnaNudge Ltd. If the study is prematurely terminated or suspended, the
+Trial Manager will promptly inform the JRCO and will provide reason(s) for
+termination or suspension.
+Circumstances that may warrant termination or suspension include, but are
+not limited to:
+<<<PAGE 24>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  24
+• Demonstration of efficacy that would warrant stopping
+• Insufficient compliance to protocol requirements
+• Data that are not sufficiently complete and/or evaluable
+The study may resume once concerns about protocol compliance and data
+quality are addressed and satisfy the clinical trial team, and ICL.
+<<<PAGE 25>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  25
+<<<SECTION 5 STUDY AGENT(S) AND CONTROL DESCRIPTION>>>
+5 STUDY AGENT(S) AND CONTROL DESCRIPTION
+The control arm will receive NICE guidelines for prediabetic individuals via a
+consultation with a dietitian. The will also receive 2 follow up phone calls from
+the dietitian during the intervention period, and 2 further follow up phone calls;
+one to accompany the 12-week clinical measurement, and one to accompany
+the 26-week final follow up clinical measurement. A further description of the
+relevant timings of each of the above is given in section 6.2.
+The intervention and exploratory arms will receive DNA -based dietary
+recommendations via consultation with the dietitian. The DNA-based dietary
+recommendations are determined via the integration of DNA information,
+scientific nutrigenomic data, and national dietary guidelines. The intervention
+arm will also have follow-up phone calls with the dietitian as per the control
+arm, however the exploratory will only receive the app, and no follow -up
+phone calls.
+The DNA of an individual is assessed to determine their genotype for a pre-
+defined set of SNPs that relate to their metabolism. Their genotype for each
+SNP is subsequently mapped to the nutrigenetic dietary recommendations in
+the established database of DnaNudge Ltd., that has intensively reviewed
+scientific literature to determine the nutrigenomic correlates of each SNP.
+Furthermore, many of the nutrigenomic links do not act in isolation. Therefore,
+algorithms have been developed to combine all of the genomic data from the
+pre-defined set of SNPs to give the optimal, personalised dietary guidelines
+to each individual.
+The genetic analysis will be performed in both the lab in the Centre for Bio-
+Inspired Technology at Imperial College London, and in a lab-on-chip device
+called the NudgeBox. The NudgeBox is technology developed by DnaNudge,
+to miniaturise and improve the speed of genetic analysis techniques such that
+they can be performed in the NudgeBox, in front of the user, in approximately
+15 minutes. It will require the participant to take a buccal cheek swab and
+insert it into the DNA cartridge provided. The cartridge will contain the primers
+necessary to analyse metabolism-based SNPs in the saliva sample. The
+cartridge will then be inserted into the NudgeBox, where the genetic analysis
+will be performed. This technology will be demonstrated to each participant
+during their initial consultation with the dietitian.
+The exploratory arm will also receive the DnaNudge App to help them with
+their grocery shopping and food choices. The aforementioned nutrigenetic
+information for each individual will be supplied in an easy to use electronic
+format to provide recommendations on demand e.g. via the DnaNudge App
+or other visual indicator. A summary of the equipment being used is provided
+in Appendix 3. The user will scan the barcode of a product using the App,
+which will provide immediate feedback as to whether the food product is good
+for their health, or is incompatible with one or more of their genetic traits.
+Furthermore, the App will then link this data to an internal database of food
+products and produce recommendations of food products that will be very
+<<<PAGE 26>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  26
+similar to the first product but more amenable to their genetic traits. Moreover,
+the App will contain all of the DNA-based dietary recommendations that will
+have been determined via their DNA in a genetic report. It will also contain
+educational information on action steps that they can take to improve their
+health, and how each of their DNA-based guidelines relate to the national
+dietary guidelines.
+<<<PAGE 27>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  27
+<<<SECTION 6  STUDY PROCEDURES AND SCHEDULE>>>
+6  STUDY PROCEDURES AND SCHEDULE
+<<<SECTION 6.1  STUDY PROCEDURES/EVALUATIONS>>>
+6.1  STUDY PROCEDURES/EVALUATIONS
+<<<SECTION 6.1.1  STUDY SPECIFIC PROCEDURES>>>
+6.1.1  STUDY SPECIFIC PROCEDURES
+The following list of procedures will be performed on all participants:
+• Medical history - Participants will be asked a series of questions by
+the research nurse to ensure that they do not meet any of the
+exclusion criteria of the study.
+• Genetic testing – saliva samples will be provided.
+• Physical examination – Assessment of weight, height, waist
+circumference, blood pressure, lean mass, fat mass.
+• Hematology – blood test to examine total cholesterol, HDL
+cholesterol, LDL cholesterol, fasting triglycerides, HbA1c
+• Biological specimen collection – saliva samples will be obtained via
+the collection of 2ml of spit per sample. Another saliva sample will be
+provided by means of a buccal cheek swab, to be used in conjunction
+with the NudgeBox.
+• Insulin sensitivity – 0 minutes on 75g glucose OGTT, 120 minutes on
+75g glucose OGTT, 120 minutes c-peptide following 75g glucose
+OGTT, HOMA insulin sensitivity and secretion measurement
+• Pregnancy test
+• Food frequency questionnaire
+• Trial commencement and completion questionnaires
+<<<SECTION 6.1.2  SPECIMEN PREPARATION, HANDLING AND STORAGE>>>
+6.1.2  SPECIMEN PREPARATION, HANDLING AND STORAGE
+In line with the Human Tissue Act 2004 and the Imperial College London
+Retention Schedule, the saliva sample will be anonymised, and stored for up
+to 5 years after study completion. After this time the sample will be destroyed
+and the data will be kept for up to 10 years after study completion. Blood
+samples will be stored for 1 year after study completion, upon which time they
+will be destroyed and the data will be stored for 10 years after study
+completion.
+<<<SECTION 6.2 STUDY SCHEDULE>>>
+6.2 STUDY SCHEDULE
+<<<SECTION 6.2.1 SCREENING>>>
+6.2.1 SCREENING
+Visit 1: Study preparation
+• Send participants a Participant Invitation Letter (Appendix 8), and PIS
+(Appendix 6).
+• Schedule a screening visit for potential participants.
+Visit 2: Screening (Day -42 to -0 +/-10 working days)
+• Discuss the consent procedure (Appendix 5) and any questions that
+a potential participant may have regarding the trial.
+<<<PAGE 28>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  28
+• If the potential participant would like to participate in the trial, they will
+be provided with an opportunity to sign the consent form and the PIS.
+A copy of the consent form will be provided to the participant and a
+copy will be retained by the clinical trial team.
+• Review medical history to determine eligibility based on
+inclusion/exclusion criteria.
+• Perform medical examinations needed to determine eligibility based
+on inclusion/exclusion criteria. This will include a finger prick blood
+sample that will be analysed either using a point-of-care HbA1c test
+using a Siemens DCA Vantage POCT device, or a lab analyser, to
+measure HbA1c levels.
+• Send the GP letter (A ppendix 7) to the GP of each confirmed
+participant in the trial who has consented to informing their GP of their
+participation in the trial.
+• Provide participants with access to online and/or hard -copy food
+frequency questionnaire that they will need to complete for 1 week of
+food intake prior to their first clinical appointment in the trial (Visit 3).
+Following confirmed enrolment in Visit 2, participants will undergo assignment
+to one of the three arms of the study.
+Visit 3: Baseline clinical measurements (Day -21 +/- 10 working days)
+• Verify inclusion/exclusion criteria and consent.
+• Perform clinical assessment of glucose regulation and anthropometric
+measurements.
+• Obtain urine pregnancy test (if applicable).
+• Collect blood sample (15mL).
+• Assess blood pressure, weight, height, wais t circumference, lean
+body mass, and fat body mass.
+• Perform 0 minutes on 75g glucose OGTT, 120 minutes on 75g
+glucose OGTT, 120 minutes c-peptide following 75g glucose OGTT,
+HOMA insulin sensitivity and secretion measurement.
+• Provide two saliva samples (2mL each) via spit.
+• Complete trial commencement questionnaire.
+<<<SECTION 6.2.2  FOLLOW-UP>>>
+6.2.2  FOLLOW-UP
+For sample scripts for all interactions with the dietitian for each arm of the
+study, see Appendices 9 (control arm), 10 (intervention arm), and 11
+(exploratory arm).
+Visit 4: Initial consultation with a dietitian (Day 0 +/- 6 working days)
+• Perform 30-60 minute consultation with the dietitian
+• Perform 24-hour recall of food intake for each participant.
+• Intervention and exploratory arms: Provide NudgeBox experience
+whereby the participant will provide a buccal cheek swab to perform on-
+site rapid genotyping. This will provide the participant with a visualisation
+of how some of their genetic information is analysed
+<<<PAGE 29>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  29
+• Control arm: Provide NICE guidance by verbal and written
+communication as per standard care.
+• Intervention arm: Provide DNA-based dietary information in verbal and
+written form to participants.
+• Exploratory arm:  Provide DNA-based dietary information via the
+DnaNudge App.
+Visit 5: Follow-up phone-call with the dietitian (Day 14 +/- 6 working days) (Control
+and intervention arms only)
+• Contact participants for a brief phone-call with the dietitian to address any
+dietary questions/problems.
+• Perform 24-hour recall of food intake for each participant.
+Visit 6: Glucose regulation review (Day 42 +/- 6 working days)
+• Perform clinical assessment of glucose regulation and anthropometric
+measurements.
+o Obtain urine pregnancy test (if applicable).
+o Collect blood sample (15mL).
+o Assess blood pressure, weight, height, waist circumference,
+lean body mass, and fat body mass.
+o Perform 0 minutes on 75g glucose OGTT, 120 minutes on 75g
+glucose OGTT, 120 minutes c-peptide following 75g glucose
+OGTT, HOMA insulin sensitivity and secretion measurement.
+o Provide saliva sample (2mL) via spit.
+• Complete FFQ
+Visit 7: Follow-up phone-call with the dietitian (Day 56 +/- 6 working days) (Control
+and intervention arms only)
+• Contact participants for a brief phone-call with the dietitian to address any
+dietary questions/problems.
+• Perform 24-hour recall of food intake for each participant.
+Visit 8: Glucose regulation review (Day 84 +/- 6 working days)
+• Perform clinical assessment of glucose regulation and anthropometric
+measurements.
+o Obtain urine pregnancy test (if applicable).
+o Collect blood sample (15mL).
+o Assess blood pressure, weight, height, waist circumference,
+lean body mass, and fat body mass.
+o Perform 0 minutes on 75g glucose OGTT, 120 minutes on 75g
+glucose OGTT, 120 minutes c-peptide following 75g glucose
+OGTT, HOMA insulin sensitivity and secretion measurement.
+o Provide saliva sample (2mL) via spit.
+• Complete FFQ.
+• Complete trial completion questionnaire.
+<<<PAGE 30>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  30
+Visit 9: Follow-up phone-call with the dietitian (Day 84 +/- 6 working days) (Control
+and intervention arms only)
+• Contact participants for a brief phone-call with the dietitian to address any
+dietary questions/problems.
+• Perform 24-hour recall of food intake for each participant.
+<<<SECTION 6.2.3  FINAL STUDY VISIT>>>
+6.2.3  FINAL STUDY VISIT
+Visit 10: Glucose regulation review (follow-up) (Day 182 +/- 6 working days)
+• Perform clinical assessment of glucose regulation and anthropometric
+measurements.
+o Obtain urine pregnancy test (if applicable).
+o Collect blood sample (15mL).
+o Assess blood pressure, weight, height, waist circumference,
+lean body mass, and fat body mass.
+o Complete a food frequency questionnaire.
+o Perform 0 minutes on 75g glucose OGTT, 120 minutes on 75g
+glucose OGTT, 120 minutes c-peptide following 75g glucose
+OGTT, HOMA insulin sensitivity and secretion measurement.
+o Provide saliva sample (2mL) via spit.
+• Complete FFQ
+• Complete trial completion questionnaire.
+Visit 11: Follow-up phone-call with the dietitian (Day 182 +/- 6 working days)
+(Control and intervention arms only)
+• Contact participants for a brief phone-call with the dietitian to address any
+dietary questions/problems.
+• Perform 24-hour recall of food intake for each participant.
+<<<SECTION 6.2.4  EARLY TERMINATION VISIT>>>
+6.2.4  EARLY TERMINATION VISIT
+In the case of early termination, an interview will be conducted with the
+participant to determine reasons for termination if appropriate, and/or to
+determine if the data collected thus far may be useful.
+<<<PAGE 31>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  31
+<<<SECTION 6.2.5 Participant Testimonials>>>
+6.2.5 Participant Testimonials
+Once participants have completed their participation in the trial, they may be
+contacted by the Trial Team to see if they would like to provide a testimonial about
+their experience on the clinical trial. This may cover aspects including their
+experience using DnaNudge technology, aspects that they may have found useful,
+what is their opinion on DNA-based dietary guidelines, amongst others. Participants
+will consent to being contacted to see if they would like to provide a testimonial in
+the Informed Consent Form. Par ticipant testimonials will allow for potential
+publication/media release either following the written consent of the participant. This
+may be in journals, newspapers, radio, interviews, TV, social media, websites,
+newsletters, marketing in print and online . When being asked to provide a
+testimonial, participants will be provided with a list of the above media types so that
+they can provide specific permission for which types of publication can be used. The
+testimonials will be published anonymously or with the participant’s name, provided
+the participant has provided permission to do so.
+<<<PAGE 32>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  32
+<<<SECTION 6.2.6 SCHEDULE OF EVENTS TABLE>>>
+6.2.6 SCHEDULE OF EVENTS TABLE
+Table 1: Schedule of events table for a trial participant.
+Schedule of events table
+Activity
+Trial Visit Additional information
+123456789 10 11
+Send information
+documents to potential
+participants
+x
+All participants
+Consent  x
+Screening visit to assess
+glucose regulation  x
+Randomisation   x
+Fill in food frequency
+questionnaire  x    x  x  x
+Trial commencement
+questionnaire   x
+Perform baseline
+measurements   x
+Take saliva sample for
+genetic testing (PCR)    x
+Initial consultation with
+dietitian    x
+Perform NudgeBox
+genetic test     x
+Provided with the
+DnaNudge App    x        Exploratory arm only
+Follow-up phone-call
+with dietitian     x  x  x  x Control and intervention
+arms
+Perform 24-hour food
+recall    x x  x  x  x Control and intervention
+arms
+6-week glucose regulation
+review      x
+All participants
+Take saliva sample for
+leptin testing   x   x  x  x
+12-week glucose
+regulation review        x
+Trial completion
+questionnaire        x  x
+26-week glucose
+regulation review          x
+Weight measurement   x   x  x  x
+Height measurement   x   x  x  x
+Body composition   x   x  x  x
+Waist measurement   x   x  x  x
+Blood pressure   x   x  x  x
+Saliva sample (s)   x   x  x  x
+Venous blood test   x   x  x  x
+OGTT   x   x  x  x
+Pregnancy test (if
+applicable)   x   x  x  x
+Follow-up clinical visits      x  x  x
+<<<PAGE 33>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  33
+<<<SECTION 7 ADVERSE EVENTS>>>
+7 ADVERSE EVENTS
+<<<SECTION 7.1  DEFINITIONS>>>
+7.1  DEFINITIONS
+Adverse Event (AE): any untoward medical occurrence in a patient or clinical
+study subject.
+Serious Adverse Event (SAE): any untoward and unexpected medical
+occurrence or effect that:
+• Results in death
+• Is life-threatening – refers to an event in which the subject was at risk of
+death at the time of the event; it does not refer to an event which
+hypothetically might have caused death if it were more severe
+• Requires hospitalisation, or prolongation of existing inpatients’
+hospitalisation
+• Results in persistent or significant disability or incapacity
+• Is a congenital anomaly or birth defect
+Medical judgement should be exercised in deciding whether an AE is serious.
+Important AEs that are not immediately life-threatening or do not result in
+death or hospitalisation but may jeopardise the subject, or may require
+intervention to prevent one of the other outcomes listed in the definition
+above, should also be considered serious.
+<<<SECTION 7.2  REPORTING PROCEDURES>>>
+7.2  REPORTING PROCEDURES
+All adverse events should be reported. Depending on the nature of the event
+the reporting procedures below should be followed. Any questions concerning
+adverse event reporting should be directed to the Chief Investigator in the first
+instance.
+<<<SECTION 7.2.1  NON SERIOUS AES>>>
+7.2.1  NON SERIOUS AES
+All such events, whether expected or not, should be recorded.
+<<<SECTION 7.2.2  SERIOUS AES>>>
+7.2.2  SERIOUS AES
+An SAE form should be completed and sent to the Chief Investigator within
+24 hours.  However, relapse and death, and hospitalisations for elective
+treatment of a pre-existing condition do not need reporting as SAEs.
+All SAEs should be reported to the North of Scotland REC 1 where in the
+opinion of the Chief Investigator, the event was:
+• ‘related’, i.e. resulted from the administration of any of the
+research procedures; and
+• ‘unexpected’, i.e. an event that is not listed in the protocol as an
+expected occurrence
+<<<PAGE 34>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  34
+Reports of related and unexpected SAEs should be submitted within 15 days
+of the Chief Investigator becoming aware of the event, using the NRES SAE
+form for non-IMP studies.  The Chief Investigator must also notify the Sponsor
+of all SAEs.
+Local investigators should report any SAEs as required by their Local
+Research Ethics Committee, Sponsor and/or Research & Development
+Office.
+Contact details for reporting SAEs
+Please send SAE forms to: Prof. Nick Oliver
+Tel: +44 (0)20 3313 1593  (Mon to Fri 09.00 – 17.00)
+<<<SECTION 7.3  EXPECTEDNESS>>>
+7.3  EXPECTEDNESS
+The probability of adverse events is expected to be low given the single -
+centre nature of the study with a small cohort. The randomisation and diet
+allocation algorithms have been rigorously tested for misallocation.
+<<<PAGE 35>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  35
+<<<SECTION 8 ASSESSMENT AND FOLLOW-UP>>>
+8 ASSESSMENT AND FOLLOW-UP
+For each participant, follow-up measurements will be taken at 26 weeks. This
+will include all of the secondary outcomes outlined above. Participants will
+then complete a questionnaire (see Appendix 4) at the conclusion of the study
+to collect information regarding their experience of the intervention.
+The study will be complete when the 26 week follow-up measurements are
+taken for the final participant in the trial.
+<<<PAGE 36>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  36
+<<<SECTION 9 STATISTICS AND DATA ANALYSIS>>>
+9 STATISTICS AND DATA ANALYSIS
+<<<SECTION 9.1  ANALYSIS DATASETS>>>
+9.1  ANALYSIS DATASETS
+Primary analyses will be conducted following the intention to treat (ITT)
+principle. All participants who are randomised into the study will be included
+in the ITT analysis. Such participants constitute the Full Analysis Set (FAS)
+for this study. In addition, the primary endpoint and the main secondary
+outcomes will also be analysed with the Per Protocol Analysis Set (PPS),
+which will consist of those subjects in the FAS who complete the study with
+no significant deviations from the planned protocol procedures.
+<<<SECTION 9.2  THE NUMBER OF PARTICIPANTS>>>
+9.2  THE NUMBER OF PARTICIPANTS
+The total number of participants recruited into the study will be 180. All arms
+of the trial with have 60 participants each.
+Participants will be recruited in cohorts of N = 60. Each member of a given
+cohort will be randomly allocated into one of the three arms of the study, as
+per the blocked randomisation method outlined below. The subdivision of the
+recruitment process into cohorts has been implemented in order to:
+1. Allow sufficient time to perform the genetic analysis to prepare the
+DNA-based diet for the participants allocated to the intervention and
+the exploratory arms.
+2. Ensure that the data collected is of sufficient quality. If data in the first
+cohort of 60 participants is not deemed to be of sufficient quality,
+appropriate changes will be made to ensure that useful data is
+obtained from subsequent trial participants.
+3. To prevent delayed commencement of the study due to recruitment
+capacity.
+Upon enrolment into the trial, each participant will be assigned to a study arm
+based on stratified, blocked randomisation. A block size of 15 will be
+employed, using the stratifications and allocation size according to age and
+gender shown in Table 2.
+Control arm   Intervention arm  Exploratory arm
+Women (age =< 40)  5  5  5
+Women (age > 40)  5  5  5
+Men (age =< 40)  5  5  5
+Men (age > 40)  5  5  5
+Table 2: Allocation categories and size for the stratified blocked randomisation of participants.
+<<<SECTION 9.3  POWER CALCULATION>>>
+9.3  POWER CALCULATION
+Using baseline from the peer-reviewed study that examined the effect of a
+DNA-based diet on obese individuals (Arkadianos et al. 2007), at 90% power
+with an alpha of 0.05, 50 participants are required in each group to
+<<<PAGE 37>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  37
+demonstrate a between-group difference in effect size of -0.5 mmol/L as the
+primary outcome. This assumes a SD of the baseline to endpoint difference
+of 0.6 mmol/L. The sample size will be increased by 20% to 60 participants
+per arm of the study in order to compensate for participants lost to follow up
+(this includes the 10% risk that a given participant will have of becoming type
+2 diabetic within a 12 month period due to their prediabetic state, and a
+subsequent addition to account for those participants who may be lost to
+follow up for other reasons).
+<<<SECTION 9.4  ANALYSIS OF PRIMARY AND SECONDARY OUTCOME MEASURES>>>
+9.4  ANALYSIS OF PRIMARY AND SECONDARY OUTCOME MEASURES
+Data will be analysed after all primary and secondary outcomes have been
+recorded for the last participant. The primary analysis will be conducted under
+the ITT principle using modified analysis of covariance (ANCOVA) (Yang &
+Tsiatis 2001). Raw and adjusted mean differences in PFG at week 6 between
+the intervention and control arm will be presented with 95% confidence
+interval (95%CI). The adjusted mean difference will be estimated using a
+linear regression model of week 6 FPG to baseline PFG and treatment arm
+adjusted for age and sex. An interaction of baseline FPG with the indicator
+for treatment arm will be included. PFG will be log transformed and variables
+will be centred.
+The primary null hypothesis is no difference in W6 FPG between the
+intervention and the control arm. It will be rejected if the adjusted 95%CI of
+the mean difference does not include 0. The robustness of the results will be
+tested using PP analysis and two alternative models (repeated measure
+mixed model and non parametric model). Missing data will be imputed using
+the multiple imputation with chain equation (MICE) method if there is no
+evidence against the assumption of data missing at random.
+The secondary analysis will be conducted under the ITT principle. The
+ANCOVA will be used to compare mean difference in FPG, weight, BMI,
+mass, waist, fasting lipids and blood pressure at the different time points (W6,
+W12 and W26). In addition, mixed models will be used to compare the overall
+changes in these outcomes over the all follow up period. Adequacy of the
+models will be assessed through residual plots and Shapiro-Wilk tests for
+normality. Non-parametric methods may be used in case of severe departure
+from normality. In the addition, logistic regression model will be used to
+compare the proportion of participants with IGR between the two arms.
+Change in dietary habits will be analysed using polytomous regression.
+For each of the primary and secondary outcomes, formal statistical analysis
+will be based on appropriate linear models. From each linear model, an
+estimate of the magnitude of the treatment effect i.e. the difference in mean
+outcomes between the control arm and intervention arm, will be derived,
+together with adjusted (least squares) means, 95% confidence intervals, and
+associated p-values. Initial exploratory analyses of these models will include
+relevant baseline covariates, including baseline values of the endpoint, and
+<<<PAGE 38>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  38
+all covariates that are statistically significant will be retained in the model for
+the purposes of deriving the final treatment effect outcomes. Baseline values
+of the endpoint will be retained in each model regardless of statistical
+significance.
+All analyses will be conducted using two-sided tests and at a significance level
+of 5%.
+<<<SECTION 9.5  EXPLORATORY ANALYSIS>>>
+9.5  EXPLORATORY ANALYSIS
+Data collected from the exploratory arm will be used to examine exploratory
+hypotheses. In addition to the data collected from clinical measurements and
+questionnaires, this arm will also provide data via the App. The App will collect
+information regarding usage of features, food choice on the App, amongst
+other App utilisation parameters. This data will be used to explore:
+• the efficacy of implementing a DNA-based diet using an App to
+improve glucose regulation in pre-diabetic patients
+• the utility of the App to participants in both practical terms (e.g. saving
+time on food choices), and aspiration terms (encouragement to
+pursue a more healthy lifestyle).
+• the aspects of the App that were the most/least effective
+• how the App influences adherence levels of participants to a healthier
+lifestyle
+Additional exploratory analyses may be performed using this arm, if the data
+suggest other effects of interest.
+<<<PAGE 39>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  39
+<<<SECTION 10 REGULATORY ISSUES>>>
+10 REGULATORY ISSUES
+<<<SECTION 10.1  ETHICS APPROVAL>>>
+10.1  ETHICS APPROVAL
+The Chief Investigator has obtained approval from the North of Scotland REC
+1. The study must be submitted for HRA and  CCC approval at each
+participating NHS Trust.  The Chief Investigator will require a copy of the Trust
+R&D approval letter before accepting participants into the study. The study
+will be conducted in accordance with the recommendations for physicians
+involved in research on human subjects adopted by the 18th World Medical
+Assembly, Helsinki 1964 and later revisions.
+<<<SECTION 10.2  CONSENT>>>
+10.2  CONSENT
+Consent to enter the study must be sought from each participant only after a
+full explanation has been given, an information leaflet offered and time
+allowed for consideration. Signed participant consent should be obtained.
+The right of the participant to refuse to participate without giving reasons must
+be respected. After the participant has entered the study the clinician remains
+free to give alternative treatment to that specified in the protocol at any stage
+if he/she feels it is in the participant’s best interest, but the reasons for doing
+so should be recorded. In these cases the participants remain within the study
+for the purposes of follow-up and data analysis. All participants are free to
+withdraw at any time from the protocol treatment without giving reasons and
+without prejudicing further treatment.
+Please see Appendix 5 for an example consent form.
+<<<SECTION 10.3  CONFIDENTIALITY>>>
+10.3  CONFIDENTIALITY
+The Chief Investigator will preserve the confidentiality of participants taking
+part in the study. Following the consent of participants, a participant’s GP may
+be informed of significant findings from physical examination or laboratory
+tests.
+It will be necessary for DnaNudge Ltd to be transferred the following
+anonymised data:
+• Genetic results
+• Participant ID
+• Year of Birth
+• Ethnicity
+• Sex
+This is necessary in order for the algorithms of DnaNudge Ltd to compute the
+DNA-based dietary guidelines that will be provided to participants in the
+intervention and exploratory arms. For participants in the exploratory arm, it
+will also be required to provide participants with an App to provide the DNA-
+based dietary guidelines and to guide their grocery shopping choices. Of note,
+DnaNudge Ltd will not receive the names of participants, the only data that
+will be transferred will be anonymised.
+<<<PAGE 40>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  40
+The following is a statement from DnaNudge Ltd. regarding the security of the
+data which they will hold for the ASPIRE-DNA trial:
+“How personal information is protected? For the data
+governance approval Buccal mucosal cells samples from the inner
+side of the cheek and the oral cavity of the participant will be
+processed in a small genetic testing device (NudgeBox). The end-to-
+end processing of the sample includes inserting the swab sample into
+the disposable cartridge, placing the cartridge in the NudgeBox and
+extracting DNA from the swab sample (a process that can be
+controlled by the participant’s mobile device), amplifying DNA, and
+analysing genetic results. The sample-containing cartridge is single
+use only and is disposed upon completion of the test. An additional
+2ml saliva sample of the participant will be anonymised and
+processed with conventional DNA analysis methods (e.g. PCR, and
+RT-PCR analysis) at the Imperial College laboratory facilities. Both
+genetic analyses, carried out either by the NudgeBox or at the
+Imperial College laboratories, will not examine the whole genetic
+sequence of the participant, but will be focuses on isolated partial
+genetic information (i.e. single-nucleotide polymorphism SNPs) that
+will give us an insight in how a participant is metabolises food, how
+different nutrients affect his/her body, and what impact different
+ingredients have on the participant in the long term. To the best of our
+knowledge, the genetic results provided  by our test will not be
+informative enough to trace the personal details of an individual;
+furthermore, we will not perform any test to trace personal details. The
+genetic results, which are encrypted and protected by the password
+set by the participant, will be stored in the participant’s mobile device
+App. The genetic results are also anonymised, encrypted, and
+backed-up in a password-protected and secure cloud service (i.e.
+AWS) maintained by DnaNudge when the mobile device is connected
+to the internet. The genetic results are separated from other data in
+cloud storage and are secured by password-protected mechanism in
+which only the user can access his/her own results through the App
+using his/her log-in and participant ID.
+Data deletion
+If a participant would like to have all his/her data deleted, his/her
+account will be deleted in the cloud and he/she will not be able to
+access his/her App. All his/her data (such as genetic results and
+shopping records) and the back-up will be deleted in the cloud.”
+<<<SECTION 10.4  INDEMNITY>>>
+10.4  INDEMNITY
+Imperial College London holds negligent harm and non -negligent harm
+insurance policies which apply to this study. Imperial College Healthcare NHS
+<<<PAGE 41>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  41
+Trust holds standard NHS Hospital Indemnity and insurance cover with NHS
+Litigation Authority for NHS Trusts in England, which apply to this study.
+<<<SECTION 10.5  SPONSOR>>>
+10.5  SPONSOR
+Imperial College London will act as the Sponsor for this study.  Delegated
+responsibilities will be assigned to the NHS trusts taking part in this study.
+<<<SECTION 10.6  FUNDING>>>
+10.6  FUNDING
+This study will be funded via a clinical trial agreement between Imperial
+College London and DnaNudge Ltd. Participants will be reimbursed for any
+travel expenses incurred, or greater than normal grocery expenses during the
+course of the trial.
+<<<SECTION 10.7  AUDITS>>>
+10.7  AUDITS
+The study may be subject to inspection and audit by Imperial College London
+under their remit as sponsor and other regulatory bodies to ensure adherence
+to GCP and the UK Policy Framework for Health and Social Care Research.
+<<<PAGE 42>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  42
+<<<SECTION 11 DATA HANDLING AND RECORD KEEPING>>>
+11 DATA HANDLING AND RECORD KEEPING
+<<<SECTION 11.1  DATA COLLECTION AND MANAGEMENT RESPONSIBILITIES>>>
+11.1  DATA COLLECTION AND MANAGEMENT RESPONSIBILITIES
+Data collection is the responsibility of the clinical trial staff at the site under
+the supervision of the site PI. The Investigator is responsible for ensuring the
+accuracy, completeness, legibility, and timeliness of the data reported.
+All source documents should be completed in a neat, legible manner to
+ensure accurate interpretation of data. When making changes or corrections,
+cross out the original entry with a single line, and initial and date the change.
+Copies of the electronic CRF (eCRF) will be provided for use as source
+documents and maintained for recording data for each participant enrolled in
+the study. Data reported in the eCRF derived from source documents should
+be consistent with the source documents or the discrepancies should be
+explained and captured in a progress note and maintained in the participant’s
+official electronic study record.
+Clinical data (including AEs, concomitant medications, and expected adverse
+reactions data) and clinical laboratory data will be entered into password -
+protected hard-drives. The data system includes password protection and
+internal quality checks to identify data that appear inconsistent, incomplete,
+or inaccurate. Clinical data will be entered directly from the source
+documents. Data collected in the study will be stored in the Imperial Clinical
+Research Facility for the duration of the trial. A back up of the data will be
+transferred to the Centre for BioInspired Technology  at Imperial College
+London on a weekly basis during the trial via a password -protected hard-
+drive. The hard-drive will be transported by designated individuals using the
+Imperial Shuttle Bus. After trial completion, the remainder of the data will be
+transferred to the Centre for Bio-Inspired Technology at Imperial College
+London. This includes the Site Files and Participant Notes. Both during and
+after the trial, anonymised genetic information, sex, ethnicity and year of birth
+will be transferred to the DnaNudge cloud to compute the DNA-based dietary
+guidelines.
+Trial data, blood samples and saliva samples may be used in future research
+by research studies in Imperial College London and in other organisations.
+These organisations may be universities, NHS organisations or companies
+involved in health and care research in this country or abroad. The information
+will only be used by organisations and researchers to conduct research in
+accordance with the UK Policy Framework for Health and Social Care
+Research.
+<<<SECTION 11.2  STUDY RECORDS RETENTION>>>
+11.2  STUDY RECORDS RETENTION
+Study documents should be retained for a minimum of 10 years after the
+completion of the trial. These documents should be retained for a longer
+period, however, if required by local regulations.
+<<<PAGE 43>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  43
+<<<SECTION 11.3  PROTOCOL DEVIATIONS>>>
+11.3  PROTOCOL DEVIATIONS
+A protocol deviation is any noncompliance with the clinical trial protocol, or
+GCP requirements. The noncompliance may be either on the part of the
+participant, the Investigator, or the study site staff. As a result of deviations,
+corrective actions are to be developed by the site and implemented promptly.
+These practices are consistent with ICH E6:
+• 4.5 Compliance with Protocol, sections 4.5.1, 4.5.2, and 4.5.3
+• 5.1 Quality Assurance and Quality Control, section 5.1.1
+• 5.20 Noncompliance, sections 5.20.1, and 5.20.2.
+It is the responsibility of the site to use continuous vigilance to identify and
+report deviations within 7 working days of identification of the protocol
+deviation, or within 7 working days of the scheduled protocol-required activity.
+All deviations must be addressed in study source documents, reported to the
+Trial Manager and the study Sponsor. Protocol deviations must be sent to the
+local IRB as per their guidelines. The site study staff is responsible for
+knowing and adhering to their IRB requirements.
+<<<PAGE 44>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  44
+<<<SECTION 12 STUDY MANAGEMENT>>>
+12 STUDY MANAGEMENT
+The Steering Committee will govern the conduct of the study. The Steering
+Committee will be composed of the CI Prof. Nick Oliver, Co -Investigators
+Prof. Chris Toumazou and Dr. Maria Karvela, and Trial Manager, Dr. Caroline
+Golden. The Steering Committee will meet in person at least quarterly. The
+day-to-day management of the study will be co-ordinated by Dr. Caroline
+Golden.
+12.1  TRIAL MONITORING
+The monitoring plan has been devised and will be approved by the Sponsor
+before the trial begins.
+12. 2.       TRIAL Suspension
+In the event of the Imperial College Healthcare NHS Trust issuing a
+suspension of all non-essential clinical research activity, such as during the
+outbreak of COVID-19 in early 2020, all clinical visits to the ICRF will be
+suspended for the duration of the suspension. Phone-call visits will continue
+to be performed, as advised from the ICRF. For any participants for whom
+their clinical visits were to fall within the suspension period, their intervention
+period will be extended by the length of the suspension and their visits will re-
+commence once clinical research has resumed.
+<<<PAGE 45>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  45
+<<<SECTION 13 PUBLICATION POLICY>>>
+13 PUBLICATION POLICY
+The Investigators will be involved in reviewing drafts of the manuscripts,
+abstracts, press releases and any other publications arising from the study.
+Authors will acknowledge that the study was funded via a clinical trial
+agreement between Imperial College London and DnaNudge Ltd.  Authorship
+will be determined in accordance with the ICMJE guidelines and other
+contributors will be acknowledged.
+<<<PAGE 46>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  46
+REFERENCES
+American Diabetes Association, 2015. (4) Foundations of care: education,
+nutrition, physical activity, smoking cessation, psychosocial care, and
+immunization. Diabetes care, 38 Suppl(Supplement_1), pp.S20–30.
+Arkadianos, I. et al., 2007. Improved weight management using genetic
+information to personalize a calorie controlled diet. Nutrition Journal, 6(1),
+p.29.
+Bao, J. et al., 2011. Improving the estimation of mealtime insulin dose in
+adults with type 1 diabetes: the Normal Insulin Demand for Dose
+Adjustment (NIDDA) study. Diabetes care, 34(10), pp.2146–2151.
+Christensen, J.O. et al., 2004. Population-based stepwise screening for
+unrecognised Type 2 diabetes is ineffective in general practice despite
+reliable algorithms. Diabetologia, 47(9), pp.1566–1573.
+Conn, J.W. & Newburgh, L.H., 1936. THE GLYCEMIC RESPONS E TO
+ISOGLUCOGENIC
+QUANTITIES OF PROTEIN AND CARBOHYDRATE. The Journal of
+Clinical Investigation, 15(6), pp.665–671.
+Diabetes Prevention Program Research Group, 2002. Reduction in the
+Incidence of Type 2 Diabetes with Lifestyle Intervention or Metformin.
+The New England journal of medicine, 346(6), pp.393–403.
+Dodd, H. et al., 2011. Calculating meal glycemic index by using measured
+and published food values compared with directly measured meal
+glycemic index. The American Journal of Clinical Nutrition, 94(4),
+pp.992–996.
+England, N., 2016.  NHS England Impact Analysis of implementing NHS
+Diabetes
+Prevention Programme, 2016 to 2021,
+Gatineau, M. et al., 2014. Adult obesity and type 2 diabetes,
+Gray, L.J. et al., 2010. The Leicester Risk Assessment score for detecting
+undiagnosed Type 2 diabetes and impaired glucose regulation for use
+in a multiethnic UK setting. Diabetic Medicine, 27(8), pp.887–895.
+Hex, N. et al., 2012. Estimating the current and future costs of Type 1 and
+Type 2 diabetes in the UK, including direct health costs and indirect
+societal and productivity costs. Diabetic Medicine, 29(7), pp.855–862.
+Kosaka, K., Noda, M. & Kuzuya, T., 2005. Prevention of type 2 diabetes by
+lifestyle intervention: a Japanese trial in IGT males. Diabetes Research
+and Clinical Practice, 67(2), pp.152–162.
+Mathers, C.D. & Loncar, D., 2006. Projections of global mortality and burden
+of disease from 2002 to 2030. J. Samet, ed. PLoS medicine, 3(11),
+p.e442.
+<<<PAGE 47>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  47
+Neil Thomas, G. et al., 2010. A Systematic Review of Lifestyle Modification
+and Glucose Intolerance in the Prevention of Type 2 Diabetes. Current
+diabetes …, 6(6), pp.378–387.
+NHS, Quality and Outcomes Framework (QOF) for April 2013 - March 2014
+. content.digital.nhs.co.uk. Available at:
+http://content.digital.nhs.uk/catalogue/PUB15751 [Accessed September
+6, 2017].
+NICE, 2012. Type 2 diabetes: prevention in people at high risk,
+Nielsen, D.E. & El -Sohemy, A., 2012. A randomized trial of genetic
+information for personalized nutrition. Genes & nutrition, 7(4), pp.559–
+566.
+Pan, X.R. et al., 1997. Effects of diet and exercise in preventing NIDDM in
+people with impaired glucose tolerance. The Da Qing IGT and Diabetes
+Study. Diabetes care, 20(4), pp.537–544.
+Ramachandran, A. et al., 2013. Effectiveness of mobile phone messaging in
+prevention of type 2 diabetes by lifestyle modification in men in India: a
+prospective, parallel-group, randomised controlled trial. The Lancet
+Diabetes & …, 1(3), pp.191–198.
+Ramachandran, A. et al., 2006. The Indian Diabetes Prevention Programme
+shows that lifestyle modification and metformin prevent type 2 diabetes
+in Asian Indian subjects with impaired glucose tolerance (IDPP-1).
+Diabetologia, 49(2), pp.289–297.
+Tuomilehto, J. et al., 2001. Prevention of Type 2 Diabetes Mellitus by
+Changes in Lifestyle among Subjects with Impaired Glucose Tolerance.
+The New England journal of medicine, 344(18), pp.1343–1350.
+UK, D., 2014. Diabetes: Facts and Stats (v3),
+Vega-López, S. et al., 2007. Interindividual variability and intra-individual
+reproducibility of glycemic index values for commercial white bread.
+Diabetes care, 30(6), pp.1412–1417.
+Vrolix, R. & Mensink, R.P., 2010. Variability of the glycemic response to single
+food products in healthy subjects. Contemporary Clinical Trials, 31(1),
+pp.5–11.
+WHO, 2016. Global Report on Diabetes,
+World Health Organization, 2006. Definition and diagnosis of diabetes
+mellitus and intermediate hyperglycemia : rep ort of a WHO/IDF
+consultation. World Hearth Org.
+Yang, L. & Tsiatis, A.A., 2001. Efficiency Study of Estimators for a Treatment
+Effect in a Pretest–Posttest Trial. The American Statistician, 55(4),
+pp.314–321.
+<<<PAGE 48>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  48
+Zeevi, D. et al., 2015. Personalized Nutriti on by Prediction of Glycemic
+Responses. Cell, 163(5), pp.1079–1094.
+<<<PAGE 49>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  49
+Appendix 1
+ASPIRE-DNA Gantt Chart
+<<<PAGE 50>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  50
+Appendix 2
+Commencement questionnaire
+<<<PAGE 51>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  51
+Appendix 3
+Summary of equipment
+<<<PAGE 52>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  52
+Appendix 4
+Completion questionnaire
+<<<PAGE 53>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  53
+Appendix 5
+Consent form
+<<<PAGE 54>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  54
+Appendix 6
+Participant information sheet
+<<<PAGE 55>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  55
+Appendix 7
+GP letter
+<<<PAGE 56>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  56
+Appendix 8
+Participant invitation letter
+<<<PAGE 57>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  57
+Appendix 9
+Dietary Intervention Protocol CONTROL Arm
+<<<PAGE 58>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  58
+Appendix 10
+Dietary Intervention Protocol INTERVENTION
+Arm
+<<<PAGE 59>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  59
+Appendix 11
+Dietary Intervention Protocol EXPLORATORY
+Arm
+<<<PAGE 60>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  60
+Appendix 12
+Food Frequency Questionnaire
+<<<PAGE 61>>>
+Assessment of the Impact of a Personalised Nutrition Intervention in Impaired Glucose Regulation  61
+Appendix 13
+Sample Genetic Report

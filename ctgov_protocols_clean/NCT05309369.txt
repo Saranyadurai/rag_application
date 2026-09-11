@@ -1,0 +1,1180 @@
+<<<PAGE 1>>>
+Page 1 of 30
+Musical Engagement of brain LObes in Alzheimer’s
+Disease patients studY (MELODY)
+Protocol Number: Pro00115303
+National Clinical Trial (CT) Identified Number: To be obtained after IRB approval
+Principal Investigator (PI): Jacobo Mintzer, MD, MBA
+Sponsor: National Endowment for the Arts and AARP
+Funded by: National Endowment for the Arts and AARP
+Version Number: 001
+<<<SECTION 21 December 2021>>>
+21 December 2021
+<<<PAGE 2>>>
+Page 2 of 30
+TABLE OF CONTENTS
+Statement of Compliance ..................................................................................................................... Page 4
+Abbreviations…………………………………………………………………………………………………………………………..……. Page 5
+1 Protocol Summary ............................................................................................................................. Page 6
+1.1 Synopsis ...................................................................................................................................... Page 6
+1.2 Schedule of Activities (SoA) ........................................................................................................ Page 8
+2 Introduction ....................................................................................................................................... Page 9
+2.1 Study Rationale ........................................................................................................................... Page 9
+2.2 Background ................................................................................................................................. Page 9
+2.3 Risk/Benefit Assessment ........................................................................................................... Page 12
+2.3.1 Risks to Subjects ................................................................................................................. Page 12
+2.3.2 Potential Benefits ............................................................................................................... Page 13
+2.3.3 Assessment of Potential Risks and Benefits ....................................................................... Page 13
+3 Objectives and Endpoints ................................................................................................................ Page 14
+4 Study Design .................................................................................................................................... Page 15
+4.1 Overall Design ........................................................................................................................... Page 15
+4.2 Scientific Rationale for Study Design ........................................................................................ Page 15
+4.3 Justification for Treatment Intensity ........................................................................................ Page 16
+4.4 End of Study Definition ............................................................................................................. Page 16
+5 Study Population ............................................................................................................................. Page 17
+5.1 Inclusion Criteria ....................................................................................................................... Page 17
+5.2 Exclusion Criteria ...................................................................................................................... Page 17
+5.3 Screen Failures .......................................................................................................................... P age 17
+5.4 Strategies for Recruitment and Retention ................................................................................ Page 17
+6 Study Intervention ........................................................................................................................... Page 19
+6.1 Study Intervention(s) Administration ....................................................................................... Page 19
+6.1.1 Study Intervention Description .......................................................................................... Page 19
+6.1.2 Dosing and Administration ................................................................................................. Page 19
+6.2 Measures to Minimize Bias: Randomization and Blinding ....................................................... Page 19
+6.3 Study Intervention Compliance ................................................................................................ Page 19
+7 Study Intervention Discontinuation and Participant Discontinuation/Withdrawal ........................ Page 20
+7.1 Discontinuation of Study Intervention ..................................................................................... Page 20
+7.2 Participant Discontinuation/Withdrawal from the Study ......................................................... Page 20
+7.3 Lost to Follow-Up ...................................................................................................................... Page 20
+8 Study Assessments and Procedures ................................................................................................ Page 21
+8.
+1 Efficacy Assessments ................................................................................................................ Page 21
+8.2 Safety and Other Assessments ................................................................................................. Page 22
+8.3 Adverse Events and Serious Adverse Events ............................................................................ Page 22
+8.3.1 Definition of Adverse Events .............................................................................................. Page 22
+8.3.2 Definition of Serious Adverse Events ................................................................................. Page 23
+8.3.3 Classification of an Adverse Event ..................................................................................... Page 23
+8.3.4 Time Period and Frequency for Event Assessment and Follow-Up ................................... Page 23
+8.3.5 Adverse Event and Serious Adverse Event Reporting ........................................................ Page 24
+<<<PAGE 3>>>
+Page 3 of 30
+8.3.6 Reporting Events to Participants ........................................................................................ Page 24
+9 Statistical Considerations ................................................................................................................ Page 24
+10 Supporting Documentation and Operational Considerations ....................................................... Page 25
+10.1 Regulatory, Ethical, and Study Oversight Considerations ...................................................... Page 25
+10.1.1 Informed Consent Process ............................................................................................... Page 25
+10.1.2 Confidentiality and Privacy .............................................................................................. Page 25
+10.1.3 Key Roles .......................................................................................................................... Page 26
+10.1.4 Provisions to Monitor the Data to Ensure the Safety of the Subjects ............................. Page 26
+10.1.5 Quality Assurance and Quality Control ............................................................................ Page 26
+10.1.6 Data Handling and Record Keeping .................................................................................. Page 26
+10.1.7 Protocol Deviations .......................................................................................................... Page 27
+10.1.8 Publication and Data Sharing Policy ................................................................................. Page 28
+10.1.9 Sharing Results with Subjects……………………………………………….………………………………………Page 28
+11 References ..................................................................................................................................... Page 29
+<<<PAGE 4>>>
+Page 4 of 30
+STATEMENT OF COMPLIANCE
+The trial will be conducted in compliance with the protocol, applicable state, local, and federal regulatory agencies,
+the International Council on Harmonization Good Clinical Practice (ICH GCP), and the following:
+• United States (US) Code of Federal Regulations (CFR) applicable to clinical studies (45 CFR Part 46, 21 CFR
+Part 50, 21 CFR Part 56, 21 CFR Part 312, and/or 21 CFR Part 812).
+The investigators and clinical trial site staff who are responsible for the conduct, management, or oversight of the
+clinical trial have completed Human Subjects Protection and ICH GCP Training.
+<<<PAGE 5>>>
+Page 5 of 30
+ABBREVIATIONS
+AD Alzheimer’s Disease
+AE Adverse Event
+CFR Code of Federal Regulations
+CGIC Clinical Global Impression of Change
+CRF Case Report Form
+DRE Disease-Related Event
+DSM-V Diagnostic and Statistical Manual of Mental Disorders,
+Fifth Edition
+FDA Food and Drug Administration
+FDAAA Food and Drug Administration Amendments Act of 2007
+fMRI Functional Magnetic Resonance Imaging
+GCP Good Clinical Practice
+HIPAA Health Insurance Portability and Accountability Act
+ICH International Conference on Harmonization
+IRB Institutional Review Board
+MMSE  Mini Mental State Examination
+NCT National Clinical Trial
+NIH  National Institutes of Health
+NINCDS-ADRDA The National Institute of Neurological and Communicative
+Disorders and Stroke and the Alzheimer's Disease and
+Related Disorders Association
+OHRP Office for Human Research Protections
+PI Principal Investigator
+SAE Serious Adverse Event
+SIB-8 8-item Severe Impairment Battery (SIB-8)
+SOA Schedule of Activities
+SSS Stanford Sleepiness Scale
+US United States
+<<<PAGE 6>>>
+Page 6 of 30
+<<<SECTION 1 PROTOCOL SUMMARY>>>
+1 PROTOCOL SUMMARY
+<<<SECTION 1.1 SYNOPSIS>>>
+1.1 SYNOPSIS
+Title: Musical Engagement of brain LObes in Alzheimer’s Disease patients studY (MELODY)
+Study
+Description:
+This is a controlled, single-blind, cross-over study design with 10 subjects suffering from moderate
+to severe Alzheimer’s disease (AD) without neuropsychiatric symptoms of dementia designed to
+evaluate global clinical impact and  level of arousal (physiological state of being alert, awake,  and
+attentive) when subjects are exposed to emotionally impactful music compared to control
+intervention.
+Objectives: Primary Objective: To measure the global clinical impact of music i n subjects
+suffering from moderate to severe AD  as measured by the
+Clinical Global Impression of Change (CGIC).
+Secondary Objective: To measure the impact of music on the level of  arousal in
+subjects suffering from moderate to severe AD as evaluated
+by the Stanford Sleepiness Scale (SSS).
+Endpoints: Primary Endpoint a:
+Primary Endpoint b:
+Change in clinical outcomes as measured by the CGIC 2 hours
+and 10 minutes from the onset of the first exposure.
+To evaluate changes in the modulation of brain networks via
+exposure to music and their association with global clinical
+impact using functional magnetic resonance imaging (fMRI)
+in subjects suffering from moderate to severe AD.
+Secondary Endpoint a:
+Secondary Endpoint b:
+Change in level of arousal as evaluated by the SSS 2 hours
+and 10 minutes from the onset of the first exposure.
+To evaluate changes in the modulation of brain networks via
+exposure to music and their association with level of arousal
+using fMRI in subjects suffering from moderate to severe AD.
+Study
+Population:
+10 males or females from all ethnic backgrounds suffering from moderate to severe AD  aged 55-
+90.
+Phase: Pilot
+Description
+of Study
+Intervention:
+This is a randomized, cross -over study to measure global and clinical impact and  level of arousal
+in subjects suffering from moderate to severe AD when exposed to emotionally impactful music
+compared to control intervention. In partnership with the study partner (a person who spends 10
+hours or more a week with the subject  and can reliably report on the subject’s condition ), three
+tunes will be chosen for the purposes of the study . The tunes chosen will need to be related to a
+past meaningful, positive experience of the subject, as determined by the subject and the subject’s
+study partner. The pieces will be restricted in duration to between 1.5 and 2 minutes each. A piece
+will be chosen at random and will be saved  on a portable device , and subjects will be asked to
+listen to the melody using high quality (Bose), over -ear headphones. The total exposure time will
+be 10 minutes each hour over a three-hour period. The melody will be repeated as many times as
+<<<PAGE 7>>>
+Page 7 of 30
+necessary to complete the 10 -minute period.  The c ontrol intervention will involve listening to
+nature sounds at the same duration and administration scheme. fMRI will be used to identify how
+brain networks are modulated via exposure to this music and how they associate with the clinical
+findings.
+Study
+Duration:
+The total study duration will be approximately 6 months.
+Participant
+Duration:
+The duration for each participant will be 5 visits over approximately 5 weeks, with each visit
+scheduled one week apart and each visit lasting approximately 4 hours.
+<<<PAGE 8>>>
+Page 8 of 30
+<<<SECTION 1.2 SCHEDULE OF ACTIVITIES (SOA)>>>
+1.2 SCHEDULE OF ACTIVITIES (SOA)
+Visit: Screening Baseline Visit 1 Visit 2 Visit 3
+Day 1
+Day 7
++/- 3 days
+Day 14
++/- 3 days
+Day 21
++/- 3 days
+Day 28
++/- 3 days
+Activities:
+Informed Consent X
+NINCDS-ADRDA Alzheimer's Criteria for
+possible and probable AD X
+Diagnostic and Statistical Manual of
+Mental Disorders, Fifth Edition (DSM-V) X
+Mini Mental State Examination (MMSE) X
+Eligibility Criteria X
+Auditory Assessment X
+Demographics X
+Medical History X
+Vital Signs X
+Timed Up and Go (TUG) Test X
+MRI Metal Screening Questionnaire X
+Establishment of study music interview  X
+Randomization  X
+Auditory intervention (music or nature
+sounds)   X X
+Clinical Impression of Change (CGIC)  X X X
+Stanford Sleepiness Scale (SSS)  X X X
+Severe Impairment Battery, 8-item (SIB-8)  X X X
+Adverse Events (AEs)   X X X X
+Compliance Assessment   X X X
+fMRI     X
+<<<PAGE 9>>>
+Page 9 of 30
+<<<SECTION 2 INTRODUCTION>>>
+2 INTRODUCTION
+<<<SECTION 2.1 STUDY RATIONALE>>>
+2.1 STUDY RATIONALE
+Evidence suggests music is a powerful tool to stimulate brain activity1, but quantitative efficacy research of music
+as an intervention, especially in the treatment of degenerative brain disorders, is mixed at best. Further, more
+research is needed to understand the biological mechanism by which music stimulates brain function.
+This study will address both issues. First, by conducting a randomized, cross -over study to measure the global
+clinical impact and level of arousal in subjects suffering from moderate to severe AD when exposed to emotionally
+impactful music compared to control intervention. Second, by using fMRI, a brain mapping technique, to identify
+how brain networks are modulated via exposure to this music and how they associate with the clinical findings.
+<<<SECTION 2.2 BACKGROUND>>>
+2.2 BACKGROUND
+There are a n estimated 6.2 million Americans aged 65 and older living with Alzheimer's dementia today 2.
+Approximately one-third of these individuals fall into the moderate to severe range of the illness. Currently,
+physicians are unable to offer these patients any means to alleviate their symptoms other than the two classes of
+approved medications which pr ovide limited symptomatic relief  and a newly approved disease modifying
+treatment that, although approved, has yet to find its way into clinical practice. Recently, a number of reports
+show evidence that  music may provide an effective intervention for these individuals 3. However, most patients
+do not receive this treatment because there is not robust research to support music as an intervention. If music
+stimulation proves to be an effective biologically based intervention, we expect the scientific community and
+third-party payers to re-evaluate the role of music as a treatment for these patients.
+A number of important factors provide the scientific basis for this proposal.
+1. Several experiments using brain imaging techniques have shown that music is a strong stimulator of brain
+activity. The initial activation is in the areas of the brain that we know process music and sound and allow
+us to appropriately perceive sounds and tunes (auditory association area). Specifically, this takes place in
+the superior temporal gyrus of the temporal lobe. It is important to note that brain activation generated
+by music appears to be substantially stronger if the sounds are associated with previous emotional
+experiences. For example, the music that an individual heard at their wedding will generate stronger brain
+activity than a tune for which they have no emotional connection.
+2. Brain stimulation from music can also expand to other networks of the brain through the process of
+entrainment. Entrainment is a principle of physics that allows for synchronization of activity of entities in
+close proximity. This principle has recently been shown to also apply to biological entities such as the
+brain. fMRI is an ideal approach to understand synchron ization among functional brain networks. This
+approach can also be applied to studies that use continuous stimulation paradigms such as listeni ng to
+musical pieces. It is important to note that if effective, this process should generate brain activation in
+minutes rather than days or weeks.
+3. The areas of the brain that are initially activated by music do not seem to be affected by
+neurodegenerative disorders or are only affected in the late stages  of these disorders, including AD. This
+<<<PAGE 10>>>
+Page 10 of 30
+phenomenon offers a unique opportunity to use these "unaffected brain areas" as an initial point for brain
+activation.
+4. Further supporting the concept of expansion of music activation in the brain (perhaps through the process
+of entrainment) are preliminary studies supporting music as a strong stimulator of brain activity in
+cognitively impaired subjects . A number of anecdotal reports and uncontrolled trials have provided
+optimism for the use of music to stimulate brain activity in patients suffering from neurodegenerative
+disorders4.
+Based upon both literature review and experiential interventions with music and subjects with degenerative brain
+illness, this research team has identified the following hypotheses:
+Using a crossover design, stimulation with preferred music will lead to improvement in global clinical measures as
+assessed by CGIC and a higher level of arousal compared to stimulation with nature sounds in the same subjects.
+Stimulation with preferred music as opposed to nature sounds in the same subjects will demonstrate greater
+connectivity with brain networks associated with arousal as demonstrated by fMRI.
+Below we summarize the scientific background in more detail.
+1. Music is a strong stimulator of brain activity.
+Our understanding of music as a strong stimulator of brain activity emerges with the availability of neuroimaging
+techniques. The primary auditory cortex (transverse temporal gyri) lies in the superior temporal gyrus of the
+temporal lobe and extends into the lateral sulcus and surrounding temporal cortex5. Therefore, we expected this
+to be the main area stimulated by music. Interestingly, studies have shown that other large areas of the brain are
+also stimulated by music. Recent findings reveal that the amygdala (the center that regulates emotions), cingulate
+cortex (a major hub to integrate sensations), hypothalamus (area responsible for hormonal production),
+hippocampus (memory), insula (responsible for the physical manifestation of emotions like shaking when we are
+nervous), nucleus accumbens (related to sleep), and orbitofrontal cortex (center for integration of emotion and
+memory) are all potentially active when music is processed 6.This activation of nonauditory areas of the brain by
+music has positive consequences and can explain some of the commonly observed changes in behavior and
+emotion that music evokes. Specifically, positron emission tomography (PET), fMRI, and studies of brain lesions
+have shown that these areas of the brain stimulated by music are also responsible for core emotional and cognitive
+responses7,8,9. These types of responses can trigger endocrine or hormonal changes, and the release of the
+associated neurochemicals can also affect emotion and cognition 10. Therefore, we can hypothesiz e that music,
+while primarily affecting the auditory areas of the brain, has the ability to also affect other nonauditory areas,
+resulting in changes in emotion, cognition, and other physiological functions by same mechanism.
+2. Through the process of entrainment, the areas of the brain that are stimulated by music can spread the
+activation to other brain networks.
+Entrainment is defined by a temporal locking process in which one system's motion or signal frequency entrains
+(synchronizes with) the frequency of another system. This process is a universal phenomenon that can be
+observed in physical (e.g., pendulum cloc ks) and biological systems (e.g., fireflies). Resent research however has
+shown that the same principle applies to the brain, allowing sensory areas to stimulate other areas of the brain
+<<<PAGE 11>>>
+Page 11 of 30
+such as motor, emotional, and cognitive networks. It is therefore possible to conceive that stimulation of the
+auditory areas by music can reverberate through entrainment across different areas in a given brain network. In
+other words, the auditory cortex can serve as a conduit for engaging brain networks involved in arousal. For that
+to occur, the primary areas being stimulated by music need to be unaffected or relatively preserved by the
+neurodegeneration process observed in disorders like AD11.
+3. The key areas of the brain activated by music do not seem to be affected by neurodegenerative disorders
+or are only affected in their late stages.
+Dementia of AD is a disorder characterized by losses in cognitive function and emotional control resulting in the
+individual’s inability to function independently at his or her normal level 12. These symptoms are thought to be a
+reflection of the loss of neurons in brain areas responsible for multiple brain functions such as memory, executive
+function, visual spatial function, language, praxis (our ability to perform complex tasks), and others13. The level of
+lesions in specific brain areas have been strongly associated with changes in specific functions and disease
+severity14,15. A recent study by Akram Bakkour examined the potential difference in brain degeneration in older
+subjects with no Alzheimer 's lesions and those suffering from AD16. A study of 142 young controls, 87 older adults,
+28 subjects with AD, and 35 older adults with neuroimaging data indicating the absence of brain amyloid  (the
+lesion that characterizes AD) evaluated the areas of the brain that are especially impaired in aging, AD, or both.
+They found that the specific areas related to auditory perception, and therefore the initial areas where music is
+perceived, are relatively unaffected in subjects with AD.
+4. Further supporting the concept of expansion of music activation in the brain (perhaps through the process
+of entrainment) are preliminary studies supporting music as a strong stimulator of brain activity in
+cognitively impaired subjects.
+There are numerous anecdotal reports of individuals singing entire songs and performing on musical instruments,
+even when in late stages of AD. Current research sheds light on this fascinating and pervasive phenomenon of
+preserved musical memory, thanks to sophisticated 7 Tesla fMRI data17. Areas of the brain identified with memory
+for music include the caudal anterior cingulate cortex and ventral pre-supplementary motor area. Remarkably, as
+we discussed before, some of those areas are relatively spared fr om the degeneration common in AD, and show
+little disruption of glucose metabolism in PET scans17. However, brain network connectivity is often compromised
+in AD; therefore, it is important to find alternative routes for engaging  brain networks associated with arousal in
+AD.
+In a meta -analysis of the research on effects of music interventions on healthy older adults who show some
+cognitive dysfunction, 10 studies reported an aggregate mean improvement of 0.03 (Effect sizes, -0.18 to 0.24,
+showing decreases as well as increases) on tests of cognitive functioning, while also finding improvement in
+depression, anxiety, disruptive behavior, and quality of life. These results support the use of a variety of music
+interventions as a safe, non-invasive, and nonpharmacological approach18.
+Studies of the effects of music on the brain date back to the early 1990s with reports that college students
+improved their performance on standard tests when they listened to music for 10 minutes prior to the test. This
+effect was replicated multiple times. Further, studies have shown that the effects of music can be observed in the
+ascending arousal network , which includes clusters of voxels in the occipital and parietal lobe, including the
+amygdala. These networks appear to be closely associated with nor epinephrine neurotransmission. These
+observations led to publications by Chabris and Thompson who found that most studies attributing improvements
+<<<PAGE 12>>>
+Page 12 of 30
+in memory and other cognitive functions following a music intervention were only the result of an increase in
+arousal. Given this well-known effect of music on subjects’ level of arousal, we hypothesize that our experiments
+will show a clear and evident increase in level of arousal in subjects after the proposed musical intervention 19-21.
+For the purpose of this trial, arousal is defined as a physiological state of being alert, awake, attentive.
+The goal of the proposed study is to perform a pilot, single- blind, randomized, crossover, controlled clinical trial
+to evaluate the efficacy  of music stimulation on measures of global clinical improvement and increasing level of
+arousal. Furthermore, we expect to validate the clinical findings through the evaluation of changes in brain
+networks using the very same stimulation.
+<<<SECTION 2.3 RISK/BENEFIT ASSESSMENT>>>
+2.3 RISK/BENEFIT ASSESSMENT
+<<<SECTION 2.3.1 RISKS TO SUBJECTS>>>
+2.3.1 RISKS TO SUBJECTS
+PHYSICAL
+Risks associated with increased activity
+During the clinical stimulation of the brain using an emotionally impactful musical tune, increased level of arousal
+and increased desire to move due to music stimulation may result in an increase in a subject’s physical activity
+potentially causing injuries or falls if adequate supervision is not provided.
+Risks associated with auditory stimulation
+The auditory system may be affected if the experimental music intervention o r the control consisting of nature
+sounds is provided at excess volume.
+Risks associated with fMRIs
+fMRIs are made without using any ionizing radiation, so subjects are not exposed to the harmful effects of ionizing
+radiation. But while there are no known health hazards from temporary exposure to the fMR I environment, the
+fMRI environment involves a strong, static magnetic field, a magnetic field that changes with time (pulsed gradient
+field), and radiofrequency energy, each of which carry specific safety concerns:
+The strong, static magnetic field will attract magnetic objects (from small items such as keys and cell phones, to
+large, heavy items such as oxygen tanks and floor buffers) and may cause damage to the scanner or injury to the
+subjects or medical professionals if those objects become projectiles. Careful screening of people and objects
+entering the fMRI environment is critical to ensure nothing enters the magnet area that may become a projectile.
+The magnetic fields that change with time create loud knocking noises which may harm hearing if adequate ear
+protection is not used. They may also cause peripheral muscle or nerve stimulation that may feel like a twitching
+sensation. The radiofrequency energy used during the fMRI scan could lead to heating of the body.
+Some subjects find the inside of the fMRI scanner to be uncomfortably small and may experience claustrophobia22.
+PSYCHOLOGICAL
+Risks associated with assessments and questionnaires
+Memory and cognitive testing may cause some individuals to become upset, frustrated, or tired. All participants
+have the right to decline to answer any questions and may ask to stop testing at any time for any reason.
+PRIVACY
+Risks associated with loss of confidentiality
+<<<PAGE 13>>>
+Page 13 of 30
+In this study, a great deal of information about participant health status will be collected. Study staff at the clinic
+site will collect personal protected health information, which may include name, date of birth, address, phone
+number, and email addresses. The site will maintain the personal protected health information in a secure and
+locked location. All participants will be assigned a n individual Study ID and all data collected under this protocol
+will be associated with that Study ID. The data, associated with the Study ID, will be shared widely, but it will not
+be possible to identify an individual participant from the data. However, there is a very unlikely possibility of a
+security failure, in which case the protected health information will be no longer protected.
+<<<SECTION 2.3.2 POTENTIAL BENEFITS>>>
+2.3.2 POTENTIAL BENEFITS
+Immediate potential benefits
+The collection of information that, if relevant, will be shared with the subject’s primary care doctor could prove
+to be beneficial to the subject . Subjects may also find the experience of listening to music and/or nature sounds
+enjoyable.
+Long term benefits
+If the study proves to be beneficial, it may result in a new treatment tool to enhance clinical well-being and level
+of arousal in this population.
+<<<SECTION 2.3.3 ASSESSMENT OF POTENTIAL RISKS AND BENEFITS>>>
+2.3.3 ASSESSMENT OF POTENTIAL RISKS AND BENEFITS
+Although there is some risk associated with testing and administration of questionnaires, the benefits of enrolling
+in this study are far greater as t here are currently limited FDA-approved treatments to improve  level of arousal
+and other symptoms in AD.
+Evidence has shown that music may provide an effective intervention for individuals suffering AD. Due to the lack
+of robust research to support music as an intervention, the treatment is offered on a limited basis to these
+patients. However, if music stimulation proves to be an effective biologically based intervention, it will provide a
+new approach to treatment for the AD population, including the participants involved in the trial. The value of this
+innovative information outweighs the risks the subject would be exposed to. The PI and his staff will be attentive
+to subject risks, and to the potential emergence or presence of psychological issues in connection to a subject’s
+participation in the trial. Specifically,  the PI and his  staff may be required to do the following to minimize such
+risks and recognize possible issues:
+• At each study visit, inquire of subjects and family members as to whether any significant psychological
+concerns have arisen concerning the subject’s cognitive condition and progression in their disease (when
+applicable)
+• Encourage subjects and family members to call study staff if significant psychological issues should arise
+in the future concerning the subject’s cognitive condition and progression in their disease.
+Should study staff determine that a subject has experienced significant psychological issues in relation to  their
+cognitive condition or progression, the  PI and hi s staff will treat this as an AE and ensure that the subject is
+adequately protected.
+<<<PAGE 14>>>
+Page 14 of 30
+<<<SECTION 3 OBJECTIVES AND ENDPOINTS>>>
+3 OBJECTIVES AND ENDPOINTS
+OBJECTIVES ENDPOINTS JUSTIFICATION FOR
+ENDPOINTS
+Primary
+To measure the global clinical
+impact of music on patients
+suffering from moderate to severe
+AD.
+Change in clinical outcomes as
+measured by the Clinical Global
+Impression of Change (CGIC) at
+the end of the auditory
+intervention.
+The CGIC is a clinical outcome
+measure with proven validity and
+reliability and has been used in
+other studies to evaluate
+symptoms in AD. This instrument
+provides a systematic method for
+assessing clinically significant
+change in the setting of a clinical
+trial as viewed by an independent,
+skilled, and experienced clinician.
+It has been used as a measure of
+clinical meaningfulness.
+Evaluating the endpoints
+described at Baseline, Visit 1, and
+Visit 2 will allow for determination
+of treatment effects.
+To evaluate changes in the
+modulation of brain networks via
+exposure to music and their
+association with global clinical
+impact using functional magnetic
+resonance imaging (fMRI) in
+subjects suffering from moderate
+to severe AD.
+Secondary
+To measure the impact of music on
+the level of arousal (specifically
+alertness) in patients suffering
+from moderate to severe AD.
+Change in level of arousal as
+evaluated by the Stanford
+Sleepiness Scale (SSS) at the end
+of the auditory intervention.
+The SSS is an instrument to assess
+the level of arousal by recording
+degree of current sleepiness.
+Evaluating the endpoints
+described at Baseline, Visit 1, and
+Visit 2 will allow for determination
+of treatment effects.
+To evaluate changes in the
+modulation of brain networks via
+exposure to music and their
+association with level of arousal
+using fMRI in subjects suffering
+from moderate to severe AD.
+Tertiary/Exploratory
+To measure the impact of music on
+cognitive function in patients
+suffering from moderate to severe
+AD.
+Change in cognitive functioning
+as evaluated by the 8-item
+Severe Impairment Battery
+(SIB-8) in subjects suffering from
+moderate to severe AD.
+The SIB-8 evaluates cognitive
+function in patients suffering from
+moderate to severe AD and
+includes subscales reflecting
+aspects of cognition that are
+sensitive to change over time.
+Evaluating the endpoints
+described at Baseline, Visit 1, and
+Visit 2 will allow for determination
+of treatment effects.
+<<<PAGE 15>>>
+Page 15 of 30
+<<<SECTION 4 STUDY DESIGN>>>
+4 STUDY DESIGN
+<<<SECTION 4.1 OVERALL DESIGN>>>
+4.1 OVERALL DESIGN
+This is a controlled, single -blind, cross-over study design that will enroll 10 subjects suffering from moderate to
+severe AD with a n MMSE of 5 -20 and no  neuropsychiatric symptoms of dementia . The study is designed to
+compare the effects of musical intervention consisting of an emotionally impactful tune unique to the subject
+versus a control intervention consisting of nature sounds.
+The study will involve five visits one week apart from each other . The first visit will be a Screening V isit in which
+informed consent will be obtained, eligibility will be evaluated, an auditory assessment will be administered, and
+demographics and medical history will be recorded . If eligibility is confirmed, the subject will progress to the
+Baseline Visit. At the B aseline Visit, the CGIC, SSS, and SIB-8 will be administered, and an interview will be
+conducted. During the interview, three musical tunes that have a positive meaning to the subject will be identified.
+After the Baseline Visit and before Visit 1, o ne tune will be randomly selected out of the three to be used as the
+experimental intervention.
+A randomization program will be used to deliver either the selected musical tune or nature sounds via over-ear
+headphones at Visit 1. Visit 2, which will occur a week later, will be identical to Visit 1, but the subjects that were
+originally exposed to music will hear nature sounds and vice versa. Over the course of a 3-hour session during Visit
+1 and Visit 2 , both interventions will be delivered as 10-minute segments at the top of each hour . After each
+musical intervention, the subjects will remain in the same research environment and will be free to interact with
+their caregivers and the staff until the next round of music is performed. The third and final interventional segment
+will be followed by the administration of the CGIC, SSS, and SIB-8 . Finally, at Visit 3, subjects will complete three
+consecutive 10-minute fMRI scans: resting state  (baseline measure), preferred music, and  nature sounds, to be
+administered in a randomized order.  The resting state fMRI will serve as the baseline reading. All measures will
+be done between 9am and 1pm.
+<<<SECTION 4.2 SCIENTIFIC RATIONALE FOR STUDY DESIGN>>>
+4.2 SCIENTIFIC RATIONALE FOR STUDY DESIGN
+Our target population for the study is subjects with moderate to severe AD due to  the high prevalence of the
+disease and the fact that this population was the focus of the preliminary reports cited previously 1,3,4. The
+diagnosis of AD will be established using the National Institute of Neurological and Communicative Disorders and
+Stroke and the Alzheimer's Disease and Related Disorders Association ( NINCDS-ADRDA) Alzheimer's Criteria for
+possible and probable AD23 and the Diagnostic and Statistical Manual of  Mental Disorders, Fifth Edition (DSM -V)
+per clinical assessment by the PI or another qualified investigator during the Screening Visit.
+All research examined clearly states that brain activation via music depends on the type of music that is chosen 1.
+This research established that the most effective type of music will be highly individual (AARP GCBH Meeting
+personal communication). The music to be selected will be different for each subject  and will have a special,
+emotional connection (positive) to the individual participating in the study . Therefore, during the Baseline Visit ,
+the patient’s caregiver, as well as the subject, will be interviewed to establish the subject’s three favorite tunes.
+One of the identified tunes will be randomly selected to use as the experimental intervention. Each 10 -minute
+musical exposure will be the same for the unique subject  on a given day as described above and the tune will be
+consistently administered to the subject both during the clinical stimulation and the fMRl scans.
+The CGIC will be the primary outcome measure, the SSS will be the key secondary outcome measure, and the SIB-
+8 will be an exploratory measure. We have chosen the CGIC in an attempt to evaluate the overall clinical impact
+of music. Secondly, we have chosen the SSS, which has been validated to evaluate  level of arousal in this
+population. Finally, we have chosen the SIB -8 to explore the potential cognitive effect in this population, since it
+is a validated scale developed specifically for patients in the mode rate to severe stages of the disease. The SSS
+and the SIB-8 have the ability to show changes in short periods of time.
+<<<PAGE 16>>>
+Page 16 of 30
+Auditory acuity will be evaluated to determine the intensity of the sound the subjects are exposed to. Specifically,
+the level of sound the subjects are exposed to will be calibrated  in relation to their hearing abilities in order to
+assure a similar level of music stimulation in all subjects. We will use a well-established hearing test, pure-tone
+audiometry, to perform this evaluation on the study population24.
+The goal of the fMRI scans is to determine whether the preferred music intervention enhances connectivity with
+brain networks associated with  arousal as compared to pure resting state and nature sounds. The primary
+outcome measure for connectivity will be a measure of entropy or spread of information from the auditory cortex
+to other parts of the brain.
+Our chosen MMSE score for the study is 5 -20 points. The MMSE is a test designed to evaluate basic cognitive
+functions and is often utilized to ga uge the level of impairment in patients with AD. The MMSE is scored is 0-30,
+with scores of 20 to 24 suggest ing mild dementia, scores of 13 to 20 suggest ing moderate dementia, and scores
+of less than 12 suggesting severe dementia.
+On average, the MMSE score of a person with AD declines about two to four points each year. As stated, a MMSE
+score of 20 usually reflects a patient in the moderate stages of the disease where brain degeneration starts to
+become more pronounced, but where we believe auditory areas remain almost intact. The lower score of 5
+reflects the severe stages of the disease where we believe even auditory areas of the brain engaged in music
+activation will start to be affected, thus scores below 5 will be excluded.
+<<<SECTION 4.3 JUSTIFICATION FOR TREAMENT INTENSITY>>>
+4.3 JUSTIFICATION FOR TREAMENT INTENSITY
+In our experience, a minimum of 10 minutes of music stimulation is required to generate an effect. We have
+observed in our clinical practice the effects of music stimulation in this population start to decline when music is
+ceased. The effects continue to decrease for approximately 3 hours, at which point we expect the effects will
+subside entirely. We therefore designed this study to provide music stimulation in 10 -minute increments spread
+across 3 hours to observe if the intermittent stimulation either ov erlaps (and creates a “ dose” increase) or
+prevents a decline in the effect.
+<<<SECTION 4.4 END OF STUDY DEFINITION>>>
+4.4 END OF STUDY DEFINITION
+A participant is considered to have completed the study if he or she has completed all visits of the study as outlined
+in the SoA, Section 1.3.
+The end of the study is defined as completion of the last visit in the SoA.
+<<<PAGE 17>>>
+Page 17 of 30
+<<<SECTION 5 STUDY POPULATION>>>
+5 STUDY POPULATION
+<<<SECTION 5.1 INCLUSION CRITERIA>>>
+5.1 INCLUSION CRITERIA
+In order to be eligible to participate in this study, an individual must meet all of the following criteria:
+<<<SECTION 1. Provision of signed and dated informed consent form>>>
+1. Provision of signed and dated informed consent form
+2. Person of any sex/gender aged between 55 and 90
+3. Stated willingness to comply with all study procedures and availability for the duration of the study
+4. In the opinion of the investigator, has an informant able and willing to provide accurate information
+about the participant (may be paid or unpaid caregiver)
+5. Suffer from moderate to severe AD as established by the study team using the NINCDS -ADRDA
+Alzheimer's Criteria for possible and probable AD
+6. Diagnosis of AD or other type of dementia as defined by the DSM-V
+<<<SECTION 7. MMSE score of 5-20>>>
+7. MMSE score of 5-20
+8. Subject is reported by the study partner to be able to listen to a minimum of 10 minutes of music and
+a sound in an uninterrupted manner.
+<<<SECTION 5.2 EXCLUSION CRITERIA>>>
+5.2 EXCLUSION CRITERIA
+An individual who meets any of the following criteria will be excluded from participation in this study:
+1. Suffer from severe hearing impairment as reported by the informant
+2. Lack of ability to tolerate the intervention or the participation in the fMRI portion of the study
+3. Presence of neuropsychiatric symptoms of dementia as determined by clinical observation by the PI,
+including history of agitation and/or combative behavior.
+4. Individuals who score ≥ 12 seconds on the TUG Test.
+<<<SECTION 5.3 SCREEN FAILURES>>>
+5.3 SCREEN FAILURES
+Screen failures are defined as participants who consent to participate in the clinical trial but are not subsequently
+randomly assigned to the study intervention or entered in the study
+Individuals who do not meet the criteria for participation in this trial (screen failure) because of transient issue(s)
+may be rescreened one additional time following resolution of these issue(s). Reconsent will be required prior to
+rescreen.
+<<<SECTION 5.4 STRATEGIES FOR RECRUITMENT AND RETENTION>>>
+5.4 STRATEGIES FOR RECRUITMENT AND RETENTION
+Recruitment
+The PI will contact physicians in the Charleston area to provide them with information about the study and request
+patient referrals of potential subjects . Once a referral has been made, the potential subject  will be contacted by
+<<<PAGE 18>>>
+Page 18 of 30
+the PI by telephone, the study will be described, and if the subject and study partner express interest in the study,
+the study coordinator scheduled for a screening visit.
+Retention
+Due to the short duration of the study, issues with retention are not anticipated.
+<<<PAGE 19>>>
+Page 19 of 30
+<<<SECTION 6 STUDY INTERVENTION>>>
+6 STUDY INTERVENTION
+<<<SECTION 6.1 STUDY INTERVENTION(S) ADMINISTRATION>>>
+6.1 STUDY INTERVENTION(S) ADMINISTRATION
+<<<SECTION 6.1.1 STUDY INTERVENTION DESCRIPTION>>>
+6.1.1 STUDY INTERVENTION DESCRIPTION
+This is a randomized, cross -over study to measure global and clinical impact and  level of  arousal in subjects
+suffering from moderate to severe AD when exposed to emotionally impactful music compared to control
+intervention. In partnership with the study partner (a person who spends 10 hours or more a week with the subject
+and can reliably report on the subject’s condition), three tunes will be chosen for the purposes of the study. The
+tunes chosen will need to be related to a past meaningful, positive experience of the subject, as determined by
+the subject and the subject’s study partner. The pieces will be restricted in duration to between 1.5 and 2 minutes
+each. A piece will be chosen at random and will be saved on a portable device, and subjects will be asked to listen
+to the melody using high quality (Bose), over -ear headphones. The total exposure time will be 10 minutes each
+hour over a three-hour period. The melody will be repeated as many times as necessary to complete the 10 -
+minute period. The control intervention will involve listening to nature sounds at the same duration and
+administration scheme. fMRI will be used to identify how brain networks are modulated via exposure to this music
+and how they associate with the clinical findings.
+<<<SECTION 6.1.2 DOSING AND ADMINISTRATION>>>
+6.1.2 DOSING AND ADMINISTRATION
+Over the course of 3-hour sessions at Visit 1 and Visit 2, either the musical intervention or the control intervention
+consisting of nature sounds will be delivered as 10-minute segments at the top of each hour.
+6.2 TO MINIMIZE BIAS: RANDOMIZATION AND BLINDING
+The researcher responsible for randomization will design, implement, and maintain randomization procedures. A
+software system will generate study assignment. When a treatment assignment is generated, a sound
+identification number will not be chosen in sequence from the treatment file but rather from the next sequential
+assignment in the master randomization scheme. Thus, treatment assignment is unpredictable to clinical center
+staff.
+This is a single-blind, randomized, cross-over study with raters being blinded to the specific intervention (music or
+nature sounds) that the subjects receive. The study team will be instructed on the importance of maintaining the
+blind and special measures will be put in place to avoid inadvertent unblinding. R aters will be unaware if the
+subjects receive either music or nature sounds. Music will be provided through over-ear headphones to prevent
+the raters from hearing the intervention being administered  and the evaluation will be performed after the
+intervention is complete.
+<<<SECTION 6.3 STUDY INTERVENTION COMPLIANCE>>>
+6.3 STUDY INTERVENTION COMPLIANCE
+A compliance assessment will be recorded at Visit 1, Visit 2, and Visit 3. The study staff will ensure that the subject
+has the headphones appropriately placed on the ears for 10 minutes continuously while the sound is being played
+and will record this compliance at the end of each session in the Case Report Form (CRF). In the event that the
+subject is unable to complete the 10 -minute period, the staff will remove the headphones, provide the subject
+with a 30-minute break, then reattempt the 10-minute auditory intervention. If not successful, the subject will be
+removed from the study and an additional subject will be added.
+<<<PAGE 20>>>
+Page 20 of 30
+<<<SECTION 7 STUDY INTERVENTION DISCONTINUATION AND PARTICIPANT>>>
+7 STUDY INTERVENTION DISCONTINUATION AND PARTICIPANT
+DISCONTINUATION/WITHDRAWAL
+<<<SECTION 7.1 DISCONTINUATION OF STUDY INTERVENTION>>>
+7.1 DISCONTINUATION OF STUDY INTERVENTION
+Discontinuation from the study intervention does not mean discontinuation from the study, and remaining study
+procedures should be completed as indicated by the study protocol.  If a clinically significant finding is identified
+(including, but not limited to changes from baseline) after enrollment, the investigator or qualified designee will
+determine if any change in participant management is needed. Any new clinically relevant finding will be reported
+as an AE.
+The data to be collected at the time of study intervention discontinuation will include the administration of all end
+of study outcome measures, if possible.
+<<<SECTION 7.2 PARTICIPANT DISCONTINUATION/WITHDRAWAL FROM THE STUDY>>>
+7.2 PARTICIPANT DISCONTINUATION/WITHDRAWAL FROM THE STUDY
+Participants are free to withdraw from participation in the study at any time upon request.
+An investigator may discontinue or withdraw a participant from the study for the following reasons:
+• Significant study intervention non-compliance
+• If any clinical AE  or other medical condition or situation occurs such that continued participation in the
+study would not be in the best interest of the participant
+• Disease progression which requires discontinuation of the study intervention (development of
+neuropsychiatric symptoms of dementia)
+• If the participant meets an exclusion criterion (either newly developed or not previously recognized) that
+precludes further study participation
+The reason for participant discontinuation or withdrawal from the study will be recorded on CRF s. Subjects who
+sign the informed consent form and are randomized but do not receive the study intervention may be replaced.
+Subjects who sign the informed consent form, and are randomized and receive the study intervention, and
+subsequently withdraw, or are withdrawn or discontinued from the study, will not be replaced.
+<<<SECTION 7.3 LOST TO FOLLOW-UP>>>
+7.3 LOST TO FOLLOW-UP
+A participant will be considered lost to follow -up if he or she fails to return for any of the scheduled visits and is
+unable to be contacted by the study site staff.
+The following actions must be taken if a participant fails to return to the clinic for a required study visit:
+• The site will attempt to contact the participant and the study partner to reschedule the missed visit and
+counsel the participant and the study partner on the importance of maintaining the assigned visit schedule
+and ascertain if the participant wishes to and/or should continue in the study.
+• Before a participant is deemed lost to follow -up, the investigator or designee will make every effort to
+regain contact with the participant and the study partner (where possible, 3 telephone calls and, if
+necessary, a certified letter to the participant’s last known mailing address or local equivalent methods).
+These contact attempts will be documented in the participant’s study file.
+• Should the participant and the study partner continue to be unreachable, the participant  will be
+considered to have withdrawn from the study with a primary reason of lost to follow-up.
+<<<PAGE 21>>>
+Page 21 of 30
+<<<SECTION 8 STUDY ASSESSMENTS AND PROCEDURES>>>
+8 STUDY ASSESSMENTS AND PROCEDURES
+<<<SECTION 8.1 EFFICACY ASSESSMENTS>>>
+8.1 EFFICACY ASSESSMENTS
+Eligibility Criteria
+Eligibility Criteria will be established by the PI using a clinical interview with the subject and informant to establish
+the NINCDS-ADRDA Alzheimer's Criteria for possible and probable AD  and the DSM-V Diagnosis of AD  or other
+type of dementia, the review of medical records, and cognitive assessment using the MMSE.
+Clinical Global Impression of Change
+CGIC scales have been used extensively as primary outcomes in phase 2 and 3 clinical trials for AD, mild cognitive
+impairment, and for cognitive enhancers. A CGIC score is intended to be used as a measure of clinically meaningful
+change, as distinct from an instrument's ability to assess any change. The ADCS -CGIC, the Alzheimer's Disease
+Cooperative Study - Clinical Global Impression of Change is the most commonly used process for obtaining an
+assessment of clinically meaningful change in clinical trials. T he ADCS-CGIC is a systematic method for assessing
+clinically significant change in a clinical trial as viewed by an independent skilled and experienced clinician. The
+ADCS-CGIC requires the assessor to consider a number of cognitive, functional, and behavi oral areas prior to
+providing an overall "global" assessment of clinical change. It was designed in response to an FDA request and on
+the basis of a survey of Alzheimer Disease Cooperative Study clinicians. It is performed by interviewing the patient
+to assess function and mental status and the informant, using a worksheet that comprehensively lists relevant
+symptoms potentially useful in judging clinically meaningful change, and allows for notes for future reference- it
+takes approximately 20 minutes per interview.
+The Stanford Sleepiness Scale
+The SSS was developed by Dement and colleagues in 1972 and is a one-item self-report questionnaire measuring
+levels of sleepiness throughout the day. The scale, which can be administered in 1-2 minutes, is generally used to
+track level of arousal at each hour of the day. The scale has been validated for adult populations aged 18 and
+older. The SSS is used in both research and clinical settings to assess the level of intervention or effectiveness of
+a specific treatment in order to compare a client's progress.
+The Severe Impairment Battery (8-item)
+The SIB evaluates cognitive abilities at the lower end of the range. There are 40 items, and it takes approximately
+20 minutes to complete. It is composed of very simple one-step commands which are presented in conjunction
+with gestural cues. Example questions include:
+• 'What's your name?'
+• 'Please write your name here'
+• 'What do you call the thing you drink coffee from?'
+The SIB is divided into scorable subscales, each sampling within the range expected of the severely -impaired
+individual. The six major subscales are attention, orientation, language, memory, visuospatial ability and
+construction. There are also brief evaluations of praxis and the patient's ability to respond appropriately when
+his/her name is called (orienting to name). In addition, there is an assessment of social interaction skills.
+The range of possible scores is 0-100. There is no cut-off for normal as the test should only be used with patients
+known to be severely impaired. However, it is possible to grade the severity of impairment by rating those who
+score less than 63 on the SIB  (corresponding to less than 4 on the MMSE) as 'very severely impaired'. A recently
+derived 8-item version of the SIB — the SIB-8 — which takes about 3 minutes to administer, may represent a more
+convenient tool for use in clinical practice. Very good inte rnal consistency/agreement and strong correlations
+between the SIB and the more rapid and convenient SIB -8 indicate that the SIB -8 may be a useful and efficient
+clinical proxy for the full SIB in evaluating treatment response in patients with advanced AD.
+<<<PAGE 22>>>
+Page 22 of 30
+<<<SECTION 8.2 SAFETY AND OTHER ASSESSMENTS>>>
+8.2 SAFETY AND OTHER ASSESSMENTS
+NINCDS-ADRDA Alzheimer's Criteria for possible and probable AD research diagnosis
+• The PI or another qualified investigator will apply the NINCDS-ADRDA Alzheimer's criteria to make a
+research diagnosis of the subject’s AD status as possible or probable AD.
+Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-V) research diagnosis
+• The PI or another qualified investigator will apply the DSM-V criteria to make a research diagnosis of the
+subject’s AD status.
+Mini-Mental State Exam (MMSE)
+• The MMSE will be performed with the subject and assesses orientation, immediate and delayed recall,
+concentration, language, and construction skills on a 0-30 scale of correctness. An MMSE score between
+5-20 indicates subject eligibility.
+Auditory Assessment
+• An audiologist will perform pure-tone audiometry, where the subject will be instructed to raise their
+hand (or point to the appropriate ear) when they hear a tone.
+Vital signs
+• Vital signs (i.e. sitting pulse and sitting blood pressure) will be obtained by trained study personnel.
+Timed Up and Go (TUG) Test
+• The TUG Test measures the time (in seconds) taken for an individual to stand up from a standard armchair,
+walk 10 feet, turn, walk back to the chair, and sit down. It  is a commonly used scale for measuring
+functional mobility and risk of falls.
+MRI Metal Screening Questionnaire
+• The MRI Metal Screening Questionnaire will be performed to determine if the subject has any metal items
+in their body that may be harmful in the scanner or may interfere with the MRI examination.
+Recording of AEs and SAEs
+• See Section 8.4 for AE and SAE recording and classification.
+Assessment of intervention adherence
+• A compliance assessment will be recorded at Visit 1, Visit 2, and Visit 3. The duration of time that the
+subject adheres to the established procedures of the intervention will be logged during each visit on a
+CRF.
+Functional Network Analysis
+• MRI scanning includes collection of a high-resolution T1 -weighted MPRAGE (TR=2.3s, TE=2.23ms, flip
+angle=8°, 192 sagittal slices, FOV=256x256mm), followed by a 10-minute resting state fMRI scan and two
+10-minute stimulation scans (nature sounds/preferred music; acquisition parameters: 3 mm 3 voxels,
+TR=1.1s, TE=30 ms, flip angle=65°, 51 axial slices, matrix=64x64, 375 time points, acceleration factor =3).
+Gradient field maps will also be collected. More information about fMRI resources will be provided upon
+request.
+<<<SECTION 8.3 ADVERSE EVENTS AND SERIOUS ADVERSE EVENTS>>>
+8.3 ADVERSE EVENTS AND SERIOUS ADVERSE EVENTS
+<<<SECTION 8.3.1 DEFINITION OF ADVERSE EVENTS>>>
+8.3.1 DEFINITION OF ADVERSE EVENTS
+AEs are any untoward medical occurrences associated with the use of an intervention in humans, whether or not
+considered intervention-related (21 CFR 312.32 (a)).  AEs the PI deems related to study procedures, related to the
+<<<PAGE 23>>>
+Page 23 of 30
+study intervention, and/or medically important for an individual participant, regardless of causality, will be tracked
+during this study.
+<<<SECTION 8.3.2 DEFINITION OF SERIOUS ADVERSE EVENTS>>>
+8.3.2 DEFINITION OF SERIOUS ADVERSE EVENTS
+An AE or suspected adverse reaction is considered "serious" if, in the view of the PI, it results in any of the following
+outcomes: death, a life-threatening AE, inpatient hospitalization or prolongation of existing hospitalization, or a
+persistent or significant incapacity or substantial disruption of the ability to conduct normal life functions.
+Important medical events that may not result in death, be life- threatening, or require hospitalization may be
+considered serious when, based upon appropriate medical judgment, they may jeopardize the patient or subject
+and may require medical or surgical intervention.
+<<<SECTION 8.3.3 CLASSIFICATION OF AN ADVERSE EVENT>>>
+8.3.3 CLASSIFICATION OF AN ADVERSE EVENT
+SEVERITY OF EVENT
+For AEs not included in the protocol defined grading system, the following guidelines will be used to describe
+severity.
+• Mild – Events require minimal or no treatment and do not interfere with the participant’s daily activities.
+• Moderate – Events result in a low level of inconvenience or concern with the therapeutic measures  and
+cause some interference with daily activities.
+• Severe – Events incapacitate a participant in daily activities and may require systemic drug therapy or
+other treatment. Of note, the term “severe” does not necessarily equate to “serious”.
+RELATIONSHIP TO STUDY INTERVENTION
+All AEs must have their relationship to the study intervention assessed by the PI who examines and evaluates the
+participant based on temporal relationship and his/her clinical judgment. The degree of certainty about causality
+will be graded using the categories below. In a clinical trial, the study intervention must always be suspect.
+• Related – The AE is known to occur with the study intervention, there is a reasonable possibility that the
+study intervention caused the AE, or there is a temporal relationship between the study intervention and
+event. Reasonable possibility means that there is evidence to suggest a causal relationship between the
+study intervention and the AE.
+• Not Related – There is not a reasonable possibility that the administration of the study intervention
+caused the event, there is no temporal relationship between the study intervention and event onset, or
+an alternate etiology has been established.
+EXPECTEDNESS
+The PI will be responsible for determining whether an AE  is expected or unexpected.  An AE will be considered
+unexpected if the nature, severity, or frequency of the event is not consistent with the risk information previously
+described for the study intervention.
+8.3.4 TIME PERIOD AND FREQUENCY FOR EVENT ASSESSMENT AND FOLLOW-UP
+The occurrence of an AE or SAE may come to the attention of study personnel during study visits and interviews
+of a study participant.
+All AEs not meeting the criteria for SAEs will be captured on the appropriate CRF. Information to be collected
+includes event description, time of onset, PI’s assessment of severity, relationship to study intervention (assessed
+only by those with the training and authority to make a diagnosis), and time of resolution/stabilization of the
+<<<PAGE 24>>>
+Page 24 of 30
+event. All AEs occurring during the course of the study  must be documented appropriately regardless of
+relationship. All AEs will be followed to adequate resolution.
+Any medical condition that is present at the time that the participant is screened will be considered as baseline
+and not reported as an AE. However, if the study participant’s condition deteriorates at any time during the study,
+it will be recorded as an AE.
+Changes in the severity of an AE will be documented to allow an assessment of the duration of the event at each
+level of severity to be performed. AEs characterized as intermittent require documentation of onset and duration
+of each episode.
+The study coordinator will record all reportable events with start dates occurring any time after informed consent
+is obtained until 7 (for non -serious AEs) or 30 days (for SAEs) after the last day of study participation.  At each
+study visit, the investigator will inquire about the occurrence of AE/SAEs since the last visit.  Events will be followed
+for outcome information until resolution or stabilization.
+<<<SECTION 8.3.5 ADVERSE EVENT AND SERIOUS ADVERSE EVENT REPORTING>>>
+8.3.5 ADVERSE EVENT AND SERIOUS ADVERSE EVENT REPORTING
+The PI will monitor the study procedures for this trial for overall safety and scientific relevance on an ongoing
+basis. The PI will evaluate each AE and SAE for safety and causality. All AEs and SAEs will be recorded and reported
+to the IRB on a regular basis.
+<<<SECTION 8.3.6 REPORTING EVENTS TO PARTICIPANTS>>>
+8.3.6 REPORTING EVENTS TO PARTICIPANTS
+Subjects, their study partners, and, if so desired by the subject and their study partner, the subjects’ primary care
+physician will be informed of all AEs and SAEs as per GCP guidelines.
+<<<SECTION 9 STATISTICAL CONSIDERATIONS>>>
+9 STATISTICAL CONSIDERATIONS
+Initially, baseline variables and outcomes (Clinical Global Impression of Change, Stanford Sleepiness Scale) will be
+summarized using descriptive statistics for each intervention. For the primary comparison of outcomes between
+visits 1 and 2, general linear mixed models will be constructed.  GLMMs are an excellent means of accounting for
+clustering (correlation) of observations within subjects over time , which naturally occur as a part of crossover
+designs such as this. The models for CGIC, SSS and SIB-8 will include main effects for sequence (intervention order),
+period (a subject's first  or second trial), and intervention (music vs. nature sounds) , along with random subject
+effects. Since this is a pilot study of n=10, the focus will be on estimating group differences as opposed to formal
+hypothesis testing.  The estimates provided by the GLMMs will be vital for designing a future more definitive
+crossover trial.
+For fMRI analysis  based on data from Visit 3 , we will use analytic methods similar to those used in our prior
+publications of functional network connectivity 25-29 and similar to other studies 30. Briefly, following fMRI
+preprocessing and nuisance signal regression, residual time series from each of 294 brain regions (nodes) will be
+submitted to partial correlation to establish the connectivity between each pair of nodes in the network,
+controlling for connectivity of all other nodes. These pair -wise correlations then serve as edge weights in the
+calculation of graph-theory measures like diversity coefficient.
+The Brain Connectivity Toolbox (BCT) 31 will be used to calculate diversity coefficient after establishing the
+community structure in each participant using modularity and consensus functions. Modularity will be run 1000
+times for each subject, and the consensus community structure, as implemented in the BCT, will be determined.
+The diversity coefficient of the auditory cortex will be the primary measure of interest. The higher the diversity
+coefficient of the auditory cortex, the greater the spread of information to other networks in the brain [JL2] [a3].
+Visualization of the connectivity of the auditory cortex as measures by diversity coefficient is expected to reveal
+greater connectivity with frontal and fronto -parietal networks associated with  arousal in the preferred music
+condition compared to continuous resting state  or nature sound conditions. A separate GLMM will then be used
+to determine whether the diversity coefficient differs by intervention; this model will include main effects for
+<<<PAGE 25>>>
+Page 25 of 30
+sequence (intervention order) and intervention (because there is only one MRI session, period is not applicable) ,
+along with random subject effects.
+<<<SECTION 10 SUPPORTING DOCUMENTATION AND OPERATIONAL CONSIDERATIONS>>>
+10 SUPPORTING DOCUMENTATION AND OPERATIONAL CONSIDERATIONS
+<<<SECTION 10.1 REGULATORY, ETHICAL, AND STUDY OVERSIGHT CONSIDERATIONS>>>
+10.1 REGULATORY, ETHICAL, AND STUDY OVERSIGHT CONSIDERATIONS
+<<<SECTION 10.1.1 INFORMED CONSENT PROCESS>>>
+10.1.1 INFORMED CONSENT PROCESS
+If the subject meets these basic criteria, the PI will present an Informed Consent Form (ICF) to both the subject
+(and if applicable the subject’s legal authorized representative) and the caregiver/informant to participate in the
+study. After the Informed Consent is fully discussed, and all questions are answered, another designated
+investigator determines whether the subject has the capacity to provide their own informed consent. For those
+subjects with Decision Capacity, the subject will then sign their own ICF. For those subjects without Decision
+Capacity, the subject’s legal authorized representative by SC state law will be asked by the investigator obtaining
+consent to sign the ICF, with verbal assent from the subject.
+The PI will also present the HIPAA Authorization form, which will be fully discussed with the subject. All
+questions will be answered by the PI and the specifics of the Notice of Privacy Practices will be explained. The
+subject and the subject’s legal authorized representative (if applicable) will sign the HIPAA Authorization form
+thereafter. A copy of the signed ICF, the signed HIPAA Authorization form, and the Notice of Privacy Practices
+will be given to the subject.
+Decision Capacity
+Decision capacity is determined every time an informed consent is executed, regardless of subject’s clinical
+presentation. Subjects are evaluated by a clinician (MD or master level clinician) independent of the study team
+to determine if they have decision capacity. If the subject does not have decision capacity, a legally authorized
+representative (spouse, all next of kin, or individual with healthcare power of attorney) will be required to
+review and sign the Informed Consent.
+The decision capacity determination will be completed on a separate form which states the study subject's
+ability to make a decision regarding participation in the study and then dated and signed by the clinician who
+made the determination.
+Decision capacity process will be repeated for any new informed consents using the same procedures as above.
+Research subjects are free to withdraw informed consent at any time if they desire to do so. Appropriateness of
+a research subject’s involvement in a research study is evaluated on an ongoing basis by the PI.
+It should be noted that the ability to provide informed consent is based on decision capacity at the time of
+administration of the informed consent, not on the severity of the disease. If the subject has agreed to
+participate in the study and the study procedures, the subject will not need to be reassessed for decision
+capacity given the short duration of the study.
+<<<SECTION 10.1.2 CONFIDENTIALITY AND PRIVACY>>>
+10.1.2 CONFIDENTIALITY AND PRIVACY
+Participant confidentiality and privacy is strictly held in trust by the PI and  his staff and their interventions. The
+study protocol, documentation, data, and all other information generated will be held in strict confidence. No
+information concerning the study or the data will be released to any unauthorized third party without prior written
+approval of the subject.
+All research activities will be conducted in as private a setting as possible.
+Representatives of the IRB  or regulatory agencies may inspect all documents and records required to be
+maintained by the PI. The clinical study site will permit access to such records.
+<<<PAGE 26>>>
+Page 26 of 30
+The study participant’s contact information will be securely stored at the clinical site for internal use during the
+study. At the end of the study, all records will continue to be kept in a secure location for as long a period as
+dictated by the reviewing IRB or Institutional policies.
+Study participant research data, which is for purposes of statistical analysis and scientific reporting, will be
+transmitted to and stored at the Medical University of South Carolina. This will not include the participant’s
+contact or identifying information. Rather, individual participants and their research data will be identified by a
+unique study identification number. The study data entry and study management systems used by the clinical site
+and by the Medical University of South Carolina research staff will be secured and password protected. At the end
+of the study, all study databases will be de-identified and archived at the Medical University of South Carolina.
+<<<SECTION 10.1.3 KEY ROLES>>>
+10.1.3 KEY ROLES
+Principal Investigator Co-Investigator Safety Monitor Biostatistician
+Jacobo Mintzer, MD, MBA Jane Joseph, PhD Olga Brawman-Mintzer, MD Paul Nietert, PhD
+College of Health Professions
+Medical University of South
+Carolina
+151 Rutledge Ave A,
+Charleston, SC 29403
+Department of Neuroscience
+Medical University of South
+Carolina
+135 Cannon Street
+Charleston, SC  29425
+College of Health Professions
+Medical University of South
+Carolina
+151 Rutledge Ave A,
+Charleston, SC 29403
+Department of Public Health Sciences
+Medical University of South Carolina
+135 Cannon Street,
+Suite 303 MSC 835
+Charleston, SC 29425
+843-367-4260 843-792-7683 843-367-4270 843-876-1204
+mintzerj@musc.edu josep@musc.edu mintzero@musc.edu nieterpj@musc.edu
+10.1.4 PROVISIONS TO MONITOR THE DATA TO ENSURE THE SAFETY OF SUBJECTS
+Data safety and monitoring will be carried out to ensure and maintain the safety of our participants. Safety
+monitoring is the process during the study that involves the review of accumulated outcome data to determine if
+any of the procedures practiced should be altered or stopped. Due to scope and limited risk of the protocol as
+well as lack of significant risk of listening to music intervention, no Data Safety Monitoring Board is required.
+However, the study Safety Monitor will be responsible for monitoring the safety of the study and complying with
+the reporting requirements. Continuous, close monitoring of participant safety will include prompt reporting of
+safety data (i.e., adverse/serious adverse events) to the MUSC IRB. Serious adverse events will be reported to IRB
+within 48 hours of the time project staff become aware of the incident. Safety Monitor will review study data and
+procedures if early termination of the study, amendment to the protocol, or changes to the data collection plan
+are needed.  Should the protocol or data collection plans be amended as a result of data review, the IRB will be
+notified and the amendment approved prior to study amendment implementation. In addition, the participants
+will be notified of any significant new findings that develop during the course of research (e.g., other potential
+risks) that may affect their wish to continue participation in the study.
+<<<SECTION 10.1.5 QUALITY ASSURANCE AND QUALITY CONTROL>>>
+10.1.5 QUALITY ASSURANCE AND QUALITY CONTROL
+The data system will employ double data entry and range checks to reduce the occurrence of data entry errors.
+The Data Management Team will also develop and periodically run data quality query programs on all the
+accumulated data to check the logic and consistency of data between forms and provide additional means of
+detecting errors. Queries generated during this process will be sent to the clinical center where personnel will
+attempt to resolve the queries. Any changes to the data will be made on the CRFs  and in the data system. All
+changes made to the data system will be logged and information including data systems operator making the
+change, details of change, date, and time will be recorded.
+<<<SECTION 10.1.6 DATA HANDLING AND RECORD KEEPING>>>
+10.1.6 DATA HANDLING AND RECORD KEEPING
+DATA COLLECTION AND MANAGEMENT RESPONSIBILITIES
+Data Security and Protection
+<<<PAGE 27>>>
+Page 27 of 30
+Prior to completing any protocol procedures:
+1. The PI and the coordinator have  complete the Collaborative Institutional Training Initiative (CITI) course on
+protections of human subjects in research. The CITI was founded in March 2000 as collaboration between the
+University of Miami and the Fred Hutchinson Cancer Research Center to develop a web- based training program
+in human research subjects’ protections.
+2. The PI has successfully complete d training for administering the MMSE,  TUG, MRI Metal Screening
+Questionnaire, CGIC, SSS, and SIB-8.
+The PI is trained to perform vital signs.
+This is a single site study, and individual data will not be shared with any other research site. The data collected
+will not contain any identifiers. No identifying data is shared with any source outside the local research team
+without specific release of information from the subject.
+Data will be stored in a locked office within a locked suite only accessible to authorized personnel. The research
+data will be stored and managed in REDCap, a secure web-based database system designed for clinical research
+studies.
+Types of Raw Data
+Raw data will be results of CGIC, SSS and SIB-8, along with fMRI results. The study coordinator will develop and
+maintain common study documents including the protocol, manuals, template consent documents , and policy
+and procedures memoranda. These documents will ensure that study participants are enrolled, treated, and
+followed according to the same procedures. The study coordinator will also maintain an official study chronology
+of important events occurring during the trial, including protocol revisions and serve as the repository for study
+documents. The PI will monitor submission of the common study protocol to clinic IRB and compliance with study
+procedures. Study personnel will be trained and certified in study procedures for treatment and data collection
+before the study begins and training will be reinforced as indicated.
+Standards to be used for raw and meta-data format and content
+Prior to initiation of participant recruitment, the Data Management Team will develop detailed methods for data
+collection.  Data will be recorded on CRFs. The study coordinator and psychometrician  will have primary
+responsibility for developing, testing, and maintaining the CRFs in collaboration with the PI . Forms will be
+identified by a participant study ID number and an alpha code to prevent personal identifiers from being
+transmitted to the Data Management Team . Data will be entered into a data system a nd the Data Management
+Team will oversee data storage. Backup files of the database will be stored at regular intervals in a secure, off-site
+location, to permit regeneration of the database in the event that it is destroyed. CRFs will be available through
+the study website in real -time. A study investigator will maintain a clinical chart for each participant that will
+contain source documents including clinical information and progress notes.
+Plans for archiving the raw and meta-data, and for ensuring continuous access
+The research data will be stored and managed in REDCap, a secure web -based database system designed for
+clinical research studies.  The REDCap database will be developed by the study team, with oversight from the
+biostatistician (Dr. Paul Nietert).  REDCap will facilitate data archival, data analyses, and data sharing.
+STUDY RECORDS RETENTION
+Study documents should be retained for 25 years.
+<<<SECTION 10.1.7 PROTOCOL DEVIATIONS>>>
+10.1.7 PROTOCOL DEVIATIONS
+A protocol deviation is any noncompliance with the clinical trial protocol or the International Conference on
+Harmonization Good Clinical Practice (ICH GCP). The noncompliance may be either on the part of the participant,
+the investigator, or the study site staff. As a result of deviations, corrective actions are to be developed by the site
+and implemented promptly.
+<<<PAGE 28>>>
+Page 28 of 30
+These practices are consistent with ICH GCP:
+• 4.5 Compliance with Protocol, sections 4.5.1, 4.5.2, and 4.5.3
+• 5.1 Quality Assurance and Quality Control, section 5.1.1
+• 5.20 Noncompliance, sections 5.20.1, and 5.20.2.
+It is the responsibility of the site investigator to use continuous vigilance to identify and report deviations within
+7 days of identification of the protocol deviation, or within 21 days of the scheduled protocol -required activity.
+All deviations must be addressed in study source documents  and reported to the Data Management Team.
+Protocol deviations must be sent to the reviewing IRB per their policies. The PI is responsible for knowing and
+adhering to the reviewing IRB requirements.
+<<<SECTION 10.1.8 PUBLICATION AND DATA SHARING POLICY>>>
+10.1.8 PUBLICATION AND DATA SHARING POLICY
+Dissemination Plan
+This study will be part of the Alzheimer's Clinical Trials Consortium (ACTC). This trial is committed to the open and
+timely dissemination of research outcomes. The study abides by the principles for sharing of research data as
+described in the NIH Public Access Policy on data sharing. Data sharing is essential for further translation of
+research results into knowledge, products, and procedures to improve human health. The researchers endorse
+the sharing of final research data to serve these and other important scientific goals.
+Data Sharing
+T
+his project will facilitate sharing of software, archived study datasets (including images), assessment instruments,
+forms, and procedures through the web-based tools of the ACTC. The ACTC web portal will include clear access to
+inventories of resources and request procedures. All ACTC archival datasets will be included on the Global
+Alzheimer's Association Interactive Network (GAAIN); ACTC data can be accessed via the GAAIN platform; full or
+partial archived datasets can be shared via the dedicated ACTC Dataset- S
+haring Portal.
+<<<SECTION 10.1.9 SHARING OF RESULTS WITH SUBJECTS>>>
+10.1.9 SHARING OF RESULTS WITH SUBJECTS
+If the study staff learn anything about a subject from the study activities that could be important to their health
+or standard of care, the information will be provided to them. Otherwise, they will not receive their study results.
+Changes in their cognitive testing scores that warrant further evaluation will be discussed with them.
+<<<PAGE 29>>>
+Page 29 of 30
+<<<SECTION 11 REFERENCES>>>
+11 REFERENCES
+1. Global Council on Brain Health (2020). “Music on Our Minds: The Rich Potential of Music to Promote
+Brain Health and Mental Well-Being” Available at www.GlobalCouncilOnBrainHealth.org
+2. 2021 Alzheimer's disease facts and figures. (2021). Alzheimer's & dementia: the journal of the
+Alzheimer's Association, 17(3), 327–406.
+3. Raglio, A., Bellandi, D., Baiardi, P., Gianotti, M., Ubezio, M. C., Zanacchi, E., Granieri, E., Imbriani, M., &
+Stramba-Badiale, M. (2015). Effect of Active Music Therapy and Individualized Listening to Music on
+Dementia: A Multicenter Randomized Controlled Trial. Journal of the American Geriatrics Society, 63(8),
+1534–1539.
+4. Mittelman, M. S., & Papayannopoulou, P. M. (2018). The Unforgettables: a chorus for people with
+dementia with their family members and friends. International psychogeriatrics, 30(6), 779–789.
+5. Warrier, C., Wong, P., Penhune, V., Zatorre, R., Parrish, T., Abrams, D., & Kraus, N. (2009). Relating
+structure to function: Heschl's gyrus and acoustic processing. The Journal of neuroscience: the official
+journal of the Society for Neuroscience, 29(1), 61–69.
+6. Koelsch S. (2010). Towards a neural basis of music-evoked emotions. Trends in cognitive sciences, 14(3),
+131–137.
+7. Salzman, C. D., & Fusi, S. (2010). Emotion, cognition, and mental state representation in amygdala and
+prefrontal cortex. Annual review of neuroscience, 33, 173–202.
+8. Sidorova O. A. (1999). The physiological indices of emotional reactions in the clinical picture of local
+brain lesions. Zhurnal vysshei nervnoi deiatelnosti imeni I P Pavlova, 49(6), 951–961.
+9. Karnath, H. O., Sperber, C., & Rorden, C. (2018). Mapping human brain lesions and their functional
+consequences. NeuroImage, 165, 180–189.
+10. Chanda, M. L., & Levitin, D. J. (2013). The neurochemistry of music. Trends in cognitive sciences, 17(4),
+179–193.
+11. Thaut, M. H., McIntosh, G. C., & Hoemberg, V. (2015). Neurobiological foundations of neurologic music
+therapy: rhythmic entrainment and the motor system. Frontiers in psychology, 5, 1185.
+12. McKhann, G., Drachman, D., Folstein, M., Katzman, R., Price, D., & Stadlan, E. M. (1984). Clinical
+diagnosis of Alzheimer's disease: report of the NINCDS-ADRDA Work Group under the auspices of
+Department of Health and Human Services Task Force on Alzheimer's Disease. Neurology, 34(7), 939–
+944.
+13. Arnold, S. E., Hyman, B. T., Flory, J., Damasio, A. R., & Van Hoesen, G. W. (1991). The topographical and
+neuroanatomical distribution of neurofibrillary tangles and neuritic plaques in the cerebral cortex of
+patients with Alzheimer's disease. Cerebral cortex (New York, N.Y. : 1991), 1(1), 103–116.
+14. Dickerson, B. C., Stoub, T. R., Shah, R. C., Sperling, R. A., Killiany, R. J., Albert, M. S., Hyman, B. T., Blacker,
+D., & Detoledo-Morrell, L. (2011). Alzheimer-signature MRI biomarker predicts AD dementia in
+cognitively normal adults. Neurology, 76(16), 1395–1402.
+15. Dickerson, B. C., Wolk, D. A., & Alzheimer's Disease Neuroimaging Initiative (2012). MRI cortical
+thickness biomarker predicts AD-like CSF and cognitive decline in normal adults. Neurology, 78(2), 84–
+90.
+16. Bakkour, A., Morris, J. C., Wolk, D. A., & Dickerson, B. C. (2013). The effects of aging and Alzheimer's
+disease on cerebral cortical anatomy: specificity and differential relationships with cognition.
+NeuroImage, 76, 332–344.
+17. Jacobsen, J. H., Stelzer, J., Fritz, T. H., Chételat, G., La Joie, R., & Turner, R. (2015). Why musical memory
+can be preserved in advanced Alzheimer's disease. Brain: a journal of neurology, 138(Pt 8), 2438–2450.
+18. Xu, B., Sui, Y., Zhu, C., Yang, X., Zhou, J., Li, L., Ren, L., & Wang, X. (2017). Music intervention on cognitive
+dysfunction in healthy older adults: a systematic review and meta-analysis. Neurological sciences :
+official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology,
+38(6), 983–992.
+19. Leggieri, M., Thaut, M. H., Fornazzari, L., Schweizer, T. A., Barfett, J., Munoz, D. G., & Fischer, C. E.
+(2019). Music Intervention Approaches for Alzheimer's Disease: A Review of the Literature. Frontiers in
+neuroscience, 13, 132. https://doi.org/10.3389/fnins.2019.00132
+<<<PAGE 30>>>
+Page 30 of 30
+20. Chabris C. F. (1999). Prelude or requiem for the 'Mozart effect'?. Nature, 400(6747), 826–828.
+21. Thompson, W. F., Schellenberg, E. G., & Husain, G. (2001). Arousal, mood, and the Mozart effect.
+Psychological science, 12(3), 248–251.
+22. Center for Devices and Radiological Health. “MRI (Magnetic Resonance Imaging) Benefits and Risks.”
+U.S. Food and Drug Administration, FDA, 9 Dec. 2017, www.fda.gov/radiation-emitting-products/mri-
+magnetic-resonance-imaging/benefits-and-risks.
+23. Dubois, B., Feldman, H. H., Jacova, C., Dekosky, S. T., Barberger-Gateau, P., Cummings, J., Delacourte, A.,
+Galasko, D., Gauthier, S., Jicha, G., Meguro, K., O'brien, J., Pasquier, F., Robert, P., Rossor, M., Salloway,
+S., Stern, Y., Visser, P. J., & Scheltens, P. (2007). Research criteria for the diagnosis of Alzheimer's
+disease: revising the NINCDS-ADRDA criteria. The Lancet. Neurology, 6(8), 734–746.
+24. Lemke U. (2011). Hearing Impairment in Dementia - How to Reconcile Two Intertwined Challenges in
+Diagnostic Screening. Audiology research, 1(1), e15. https://doi.org/10.4081/audiores.2011.e15
+25. Joseph, J. E., Vaughan, B. K., Camp, C. C., Baker, N. L., Sherman, B. J., Moran-Santa Maria, M., McRae-
+Clark, A., & Brady, K. T. (2019a). Oxytocin-Induced Changes in Intrinsic Network Connectivity in Cocaine
+Use Disorder: Modulation by Gender, Childhood Trauma, and Years of Use. Frontiers in psychiatry, 10,
+502.
+26. Joseph, J. E., Swearingen, J. E., Clark, J. D., Benca, C. E., Collins, H. R., Corbly, C. R., Gathers, A. D., &
+Bhatt, R. S. (2012). The changing landscape of functional brain networks for face processing in typical
+development. NeuroImage, 63(3), 1223–1236.
+27. Joseph, J. E., Vanderweyen, D., Swearingen, J., Vaughan, B. K., Novo, D., Zhu, X., Gebregziabher, M.,
+Bonilha, L., Bhatt, R., Naselaris, T., & Dean, B. (2019b). Tracking the Development of Functional
+Connectomes for Face Processing. Brain connectivity, 9(2), 231–239.
+28. Moran-Santa Maria, M. M., Vanderweyen, D. C., Camp, C. C., Zhu, X., McKee, S. A., Cosgrove, K. P.,
+Hartwell, K. J., Brady, K. T., & Joseph, J. E. (2018). Network Analysis of Intrinsic Functional Brain
+Connectivity in Male and Female Adult Smokers: A Preliminary Study. Nicotine & tobacco research:
+official journal of the Society for Research on Nicotine and Tobacco, 20(7), 810–818.
+29. Vanderweyen, D., Munsell, B. C., Mintzer, J.E., Brawman-Mintzer, O., Gajadhar, A., Wu, G. & Joseph, J. E.
+(2015). Identifying abnormal network alterations common to traumatic brain injury and Alzheimer 's
+disease patients using functional connectome data. Lecture Notes in Computer Science, 9352, 229.
+30. Wilkins, R. W., Hodges, D. A., Laurienti, P. J., Steen, M., & Burdette, J. H. (2014). Network science and the
+effects of music preference on functional brain connectivity: from Beethoven to Eminem. Scientific
+reports, 4, 6130.
+31. Rubinov, M., & Sporns, O. (2010). Complex network measures of brain connectivity: uses and
+interpretations. NeuroImage, 52(3), 1059–1069.

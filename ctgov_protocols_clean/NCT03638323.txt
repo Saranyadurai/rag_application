@@ -1,0 +1,133 @@
+<<<PAGE 1>>>
+1 / 3
+Pilot study of the links between presbyacusis and lexical disorders in
+patients with Alzheimer’s disease or related disease (LOOP)
+<<<SECTION 1. Justification / context>>>
+1. Justification / context
+In France, Alzheimer's disease accounts for 70 to 80% of the causes of neurocognitive disorders, i.e.
+600,000 to 800,000 patients. It is a neurodegenerative pathology that causes evolutionary cognitive
+dysfunction, mainly affecting memory functions. The inability to name familia r objects (lack of the
+word) is one of the most commonly noted symptoms at an early stage of the disease.
+Presbyacusis, or age -related hearing loss, is the most common sensory deficit in the elderly which is
+manifested socially by a progressive discomfort of verbal communication. Presbyacusis remains
+underdiagnosed and undertreated: 2/3 of the patients are not using hearing aid.
+In recent years, a link between neurocognitive disorders and hearing loss has been shown by
+investigating general cognition. In this study, we are investigating lexical disorders.
+<<<SECTION 2. Objectives>>>
+2. Objectives
+<<<SECTION 2.1. Main objective>>>
+2.1. Main objective
+To determine the relationship between word loss and presbycusis suspected or proven in patients with
+Alzheimer's disease or related disorders.
+<<<SECTION 2.2. Secondary objective>>>
+2.2. Secondary objective
+Study variables associated with word loss in patients with Alzheimer's disease or related disorders.
+<<<SECTION 3. Outcome measures>>>
+3. Outcome measures
+<<<SECTION 3.1. Primary outcome measure>>>
+3.1. Primary outcome measure
+The lack of word score (BIMM questionnaire) according to the score at the hearing questionnaire.
+<<<SECTION 3.2. Secondary outcome measure>>>
+3.2. Secondary outcome measure
+Age, gender, socio -cultural level, accommodation, laterality, main diagnosis, hearing aid, speech
+language therapy according to lack of word score.
+<<<SECTION 4. Outline of the research>>>
+4. Outline of the research
+Monocentric study on a series of cases.
+<<<SECTION 5. Eligibility criteria>>>
+5. Eligibility criteria
+<<<SECTION 5.1. Inclusion criteria>>>
+5.1. Inclusion criteria
+- > 65 years old
+- French mother tongue
+- Good vision with or without correction
+- Alzheimer's or related disease (15 <Mini-Mental State Examination<25)
+- Affiliate or beneficiary of a social security
+- Informed consent
+<<<SECTION 5.2. Exclusion criteria>>>
+5.2. Exclusion criteria
+- Cognitive disorders related to another pathology (cerebrovascular accident, head trauma, epilepsy ...)
+- Protected patient (under guardianship) or person deprived of liberty by  judicial or administrative
+decision
+<<<PAGE 2>>>
+2 / 3
+<<<SECTION 6. Feasibility and recruitment procedures>>>
+6. Feasibility and recruitment procedures
+Recruitment will take place in the various departments of the Centre de Soins pour Personnes Agées
+(CSPA): geriatric day hospital, long-term care units, follow-up care and rehabilitation units.
+<<<SECTION 7. Research procedures>>>
+7. Research procedures
+<<<SECTION 7.1. Consent>>>
+7.1. Consent
+During the inclusion visit, the d octor, neuropsychologist or speech -language pathologist informs the
+participant and answers all questions about the objective, the nature of the constraints, and the
+expected benefits of the research. It also specifies the participant's rights in a researc h project and
+checks the eligibility criteria. The patient gives his or her consent orally or in writing, which is
+documented in the medical file.
+<<<SECTION 7.2. Conducting the visit>>>
+7.2. Conducting the visit
+Study participants will benefit from an additional speech therapy consultation of approximately one
+hour. During this visit, they will pass the lack of word questionnaire ( BIMM noun and verb naming
+tests) and complete the hearing questionnaire.
+7.3. Rules for stopping a person from participating in the research
+At any time, if desired, the patient may withdraw from the study. He will continue to receive the best
+possible medical care.
+Discontinuations from research will be patients for whom evaluations have not been completed. These
+patients will not be replaced.
+<<<SECTION 8. Study size>>>
+8. Study size
+Expected new entries are of 10 patients per month at the Centr e de Soins pour Personnes Agées.  T he
+recruitment potential is 50 patients over the duration of the study.
+Taking into account possible refusals to participate, patient availability and service organization, we
+plan to enroll 45 patients.
+<<<SECTION 9. Duration>>>
+9. Duration
+- Duration of the inclusion period: 5 months
+- Participation duration of each participant: 1 hour
+- Total duration of the research: 5 months
+<<<SECTION 10. Statistical aspects>>>
+10. Statistical aspects
+The parameters collected will be  presented in tables with descriptive statistics for the entire study
+population and sub -populations (patients with hearing impairment and patie nts without hearing
+impairment).
+The correlation study between the overall score obtained at the lack of word questionnaire  and the
+score obtained at the hearing questionnaire  will be presented in a scatter plot  and the Pearson
+correlation coefficient will be calculated.
+The study of the relationship between factors and word deficiency in patients with Alzheimer's disease
+or related disorders will be carried out by bivariate analysis and then by logistic regression.
+<<<SECTION 11. Monitoring of the research>>>
+11. Monitoring of the research
+<<<SECTION 11.1. Access to data>>>
+11.1. Access to data
+Acceptance of participation in the protocol implies that carers will make available the documents and
+individual data strictly necessary for the monitoring, quality control and audit of the research, to
+persons having access to these documents in accordance with the laws and regulations in force.
+<<<PAGE 3>>>
+3 / 3
+<<<SECTION 11.2. Source data>>>
+11.2. Source data
+All information contained in original documents, or in authenticated copies of these documents,
+relating to clinical examinations, observations or other activities conducted as part of a research study
+and necessary for the reconstitution and evaluation of the research. The documents in which the source
+data are saved are called the source documents.
+The data that will be entered directly into the case report form and that will not have any source data
+as a result are all the scores and reaction times obtained in the lack of word and hearing questionnaires.
+<<<SECTION 11.3. Data confidentiality>>>
+11.3. Data confidentiality
+In accordance with the legislative provisions in force, persons having direct access to source data will
+take all the necessary precautions to ensure the confidentiality of informa tion relating to
+investigational medicinal products, research, participants, especially as regards their identity and the
+results obtained. These people, like the investigators, are subject to professional secrecy.
+During or at the end of the research, th e data collected on the participants and sent to the sponsor by
+the investigators (or any other specialised contributor) will made anonymous. The data must never
+explicitly mention the names of the persons concerned or their addresses.
+<<<SECTION 12. Expected benefits>>>
+12. Expected benefits
+If this study does show a link between presbycusis and lexical disorders in patients with Alzheimer's
+disease or related disorders, a new study will be required in a larger, multicentre population to confirm
+the results.
+Prevention and management of patie nts with Alzheimer's disease or related disorders could be
+improved. Indeed, systematic screening for hearing disorders could be considered as soon as
+Alzheimer's or related diseases are suspected. In addition, in these patients, speech and language
+therapy management may evolve to include two areas: management of language and memory
+disorders, and management of hearing disorders.

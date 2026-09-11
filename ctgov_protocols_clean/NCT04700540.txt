@@ -1,0 +1,2096 @@
+<<<PAGE 1>>>
+Page 1 of 49 Template Revised On: 11/1/2021
+ANCILLARY REVIEWS
+DO NOT DELETE.  Submit the completed checklist below with your protocol.
+Which ancillary reviews do I need and when do I need them?
+Refer to HRP-309 for more information about these ancillary reviews.
+Title: A Mobile Informatics Solution to Aid in Memory; NCT04700540
+Protocol
+This protocol version (V19) was IRB approved on 9/29/2023.
+<<<PAGE 2>>>
+Page 2 of 49 Template Revised On: 11/1/2021
+Select yes or
+no
+Does your study… If yes… Impact on
+IRB Review
+☐ Yes
+✔ No
+Include Gillette resources, staff
+or locations
+Gillette Scientific review and Gillette
+Research Administration approval is
+required.  Contact:
+research@gillettechildrens.com
+Required
+prior to IRB
+submission
+☐ Yes
+✔ No
+Involve Epic, or Fairview
+patients, staff, locations, or
+resources?
+The Fairview ancillary review will be
+assigned to your study by IRB staff
+Contact: ancillaryreview@Fairview.org
+Approval
+must be
+received
+prior to IRB
+committee/
+designated
+review.
+Consider
+seeking
+approval
+prior to IRB
+submission.
+☐ Yes
+✔ No
+Include evaluation of drugs,
+devices, biologics, tobacco, or
+dietary supplements or data
+subject to FDA inspection?
+STOP – Complete the Medical Template
+Protocol (HRP-590)
+The regulatory ancillary review will be
+assigned to your study by IRB staff
+Contact: medreg@umn.edu
+See
+https://policy.umn.edu/research/indide
+☐ Yes
+✔ No
+Require Scientific Review? Not
+sure? See guidance in the
+Investigator Manual (HRP-
+103).
+ONLY REQUIRED      BIOMEDICAL
+RESEARCH REVIEWED BY FULL
+COMMITTEE
+☐ Yes
+✔ No
+Relate to cancer patients,
+cancer treatments, cancer
+screening/prevention, or
+tobacco?
+Complete the CPRC application process.
+Contact: ccprc@umn.edu
+☐ Yes
+✔ No
+Include the use of radiation?
+(x-ray imaging,
+radiopharmaceuticals, external
+beam or brachytherapy)
+Complete the AURPC Human Use
+Application and follow instructions on
+the form for submission to the AURPC
+committee.
+Contact: barmstro@umn.edu
+Approval
+from these
+committees
+must be
+received
+prior to IRB
+approval;
+☐ Yes
+✔ No
+Use the Center for Magnetic
+Resonance Research (CMRR)
+as a study location?
+Complete the CMRR pre-IRB ancillary
+review
+Contact: ande2445@umn.edu
+<<<PAGE 3>>>
+Page 3 of 49 Template Revised On: 11/1/2021
+☐ Yes
+✔ No
+Include the use of
+recombinant or synthetic
+nucleic acids, toxins, or
+infectious agents?
+STOP – Complete the Medical Template
+Protocol (HRP-590)
+These
+groups
+each have
+their own
+application
+process.  ☐ Yes
+✔ No
+Include the use of human fetal
+tissue, human embryos, or
+embryonic stem cells?
+STOP – Complete the Medical Template
+Protocol (HRP-590)
+✔ Yes
+☐ No
+Include PHI or are you
+requesting a HIPAA waiver?
+If yes, HIPCO will conduct a review of this
+protocol.
+Contact: privacy@umn.edu
+☐ Yes
+✔ No
+Use data from CTSI Best
+Practices Integrated
+Informatics Core (BPIC)
+Formerly the AHC Information
+Exchange (AHC-IE)?
+The Information Exchange ancillary
+review will be assigned to your study by
+IRB staff
+Contact: bpic@umn.edu
+Approval
+must be
+received
+prior to IRB
+approval.
+These
+groups do
+not have a
+separate
+application
+process but
+additional
+information
+from the
+study team
+may be
+required.
+☐ Yes
+✔ No
+Use the Biorepository and
+Laboratory Services to collect
+tissue for research?
+STOP – Complete the Medical Template
+Protocol (HRP-590)
+The BLS ancillary review will be
+assigned to your study by IRB staff.
+Contact: Jenny Pham
+Pham0435@umn.edu
+☐ Yes
+✔ No
+Have a PI or study team
+member with a conflict of
+interest?
+The CoI ancillary review will be
+assigned to your study by IRB staff
+Contact: becca002@umn.edu
+✔ Yes
+☐ No
+Need to be registered on
+clinicaltrials.gov?
+If you select “No” in ETHOS, the
+clinicaltrials.gov ancillary review will be
+assigned to your study by IRB staff
+Contact: kmmccorm@umn.edu
+☐ Yes
+✔ No
+Require registration in
+OnCore?
+If you select “No” or “I Don’t Know” in
+ETHOS, the OnCore ancillary review will
+be assigned to your study by IRB staff
+Contact: oncore@umn.edu
+Does not
+affect IRB
+approval.
+PROTOCOL COVER PAGE
+Protocol Title A Mobile Informatics Solution to Aid in Memory
+Name: Jude Mikal
+<<<PAGE 4>>>
+Page 4 of 49 Template Revised On: 11/1/2021
+Principal
+Investigator/Faculty
+Advisor
+Department: School of Public Health, Health Policy & Management
+Telephone Number: 385-212-4185
+Email Address: jpmikal@umn.edu
+Student Investigator Name: N/A
+Current Academic Status (Student, Fellow, Resident):
+Department:
+Telephone Number:
+Institutional Email Address:
+Scientific Assessment I believe Scientific Assessment is not required.
+Version
+Number/Date:
+Version 19, date: 8/31/2023
+<<<PAGE 5>>>
+Page 5 of 49 Template Revised On: 11/1/2021
+REVISION HISTORY
+Revision # Version Date Summary of Changes Consent Change?
+2 2 Phase 1 updates: Focus groups
+instead of interviews
+Yes: phase 1
+consent at focus
+group session
+instead of at time of
+screening and
+enrollment.
+3 2/26/2020 Change in cognitive assessment tool
+and added details about phase 1
+focus groups. Added context of care
+survey for care partners to complete.
+Change in cognitive
+assessment tool
+4 3/2/2020 1. Clarification provided on using
+Mini-Cog and UBACC in consent
+process.
+<<<SECTION 2. Clarification on Baseline and 3>>>
+2. Clarification on Baseline and 3
+month survey
+Clarification
+provided on using
+Mini-Cog and
+UBACC
+5 5/6/2020 Focus Groups will now be conducted
+via Zoom meetings. If needed, dyadic
+interviews will also be conducted with
+participants in place of focus groups.
+Questions were added to phase I
+about changes in technology use due
+to the COVID-19 pandemic.
+Yes: consent in
+phase 1 will now be
+conducted via
+Zoom, so consent
+will occur verbally
+with the caregiver
+and PWMC.
+6 5/24/2020 No focus groups will be conducted,
+instead only dyadic interviews will be
+conducted. The SR Checklist survey
+will be administered verbally during
+the interview instead of after the
+interview via mail or web.
+No
+7 12/22/2020 Updating protocol and materials with
+new Primary Investigator (switched
+from Dr. Joseph Gaugler to Dr. Jude
+Mikal). Changes reflect that Dr.
+Gaugler was responsible for Phase 1
+of the study while Dr. Mikal is
+responsible for Phase 2 of the study.
+No
+8 3/28/2022 Updated to new protocol template
+version available from the UMN IRB.
+No changes were made to content of
+the protocol, unless it was not
+specified by the previous protocol.
+No
+<<<PAGE 6>>>
+Page 6 of 49 Template Revised On: 11/1/2021
+9 5/25/2022 Phase 1 specific content is colored
+green for ease of review (content was
+not changed since phase 1 has
+concluded).
+Specific changes made to Phase 2
+content: Updated staff changes,
+added brief pilot testing to ensure the
+study is not launched for multiple
+dyads before the technology has been
+debugged, added details about survey
+administration, added details about
+administering the UBACC before the
+follow-up surveys to ensure ongoing
+PWMC consent/assent, updated
+scales/information collected in the
+surveys, updated eligibility criteria so
+that the PWMC must live in the
+community, The TICS-40 will be
+administered to assess level of
+dementia severity and screen out
+participants who have severe
+dementia or no cognitive impairment,
+and added recruitment opportunities.
+Yes: updated
+consent forms for
+CP and PWMC and
+a PWMC assent
+form; created CP
+and PWMC consent
+scripts for reviewing
+consent form over
+the phone; added
+details about
+administering the
+UBACC to PWMC
+prior to each survey
+to ensure ongoing
+consent or assent.
+10 7/1/2022 The survey has been broken into Care
+Person and PWMC surveys, and more
+specifically baseline and follow-up
+surveys have been created for each
+participant type to better assess the
+SR based on results from Phase 1.
+Additionally, the semi-structured
+interview, UBACC and
+email/telephone script have been
+revised for Phase 2. An infographic
+has been created to share phase 1
+results with phase 1 participants. A
+screener form including the TICS-40
+questions has been developed along
+with additional recruitment materials
+(emails, fliers, newspaper, and
+Facebook ads). Cover letters for email
+and mail communication have been
+created for Phase 2 as well as
+telephone scripts, for communicating
+with participants throughout the
+study duration. Details have been
+Yes, the UBACC has
+been edited so that
+desired participant
+answers are
+updated for Phase
+<<<SECTION 2. Additionally,>>>
+2. Additionally,
+consent processes
+are detailed further
+in the protocol.
+<<<PAGE 7>>>
+Page 7 of 49 Template Revised On: 11/1/2021
+added about the RA’s blinding to
+randomization and survey data
+collection procedures.
+11 9/2/2022 1) Updated the protocol’s secure
+storage information (section 18)
+because the storage system intended
+for use has changed. 2) Also updated
+the protocol to reflect incentive
+payments of $50 for 20 semi
+structured interviews. Previously, only
+the survey payments were listed. 3)
+Updated incentive payments to be
+paid via Visa Debit Cards instead of
+Greenphire ClinCards. 4) Uploaded
+updated consent forms and consent
+scripts to include semi structured
+interview payment and Visa card
+instead of Clincard. 5) Uploaded
+updated cover letter templates to
+reflect semi structured interview and
+visa card payment were fitting.  6)
+Added Emily Merkel, research
+assistant, and Yun Leng Wong,
+research assistant, to the study.
+Yes: updated
+consent forms and
+scripts to include
+$50 participant
+payment if chosen
+for a semi
+structured
+interview and
+changed Clincard to
+Visa card. Process
+of consenting
+remains the same.
+12 11/10/2022 1) Updated the recruitment section of
+protocol (12) to include snowball
+recruitment and recruitment via
+professional network who works with
+target population. 2) Updated
+protocol to reflect reminder
+procedures for survey follow-up.
+No.
+13 12/13/2022 1)Specified the type of follow up
+surveys (Regular follow up,
+Bereavement or Long Term Care
+Transition), that would be
+administered to caregivers depending
+on their response to the disposition
+(section 5.2 note).
+2)Specified the possibility of potential
+participants screening themselves out
+informally before completing a
+screener, due to the natural
+progression of conversation.
+No.
+14 1/25/2023 Edited inclusion criteria to remove
+criteria that they must remain in the
+No.
+<<<PAGE 8>>>
+Page 8 of 49 Template Revised On: 11/1/2021
+same area for next 6 months. Decided
+this is not required for the technology
+to work appropriately and may help
+with recruitment.
+15 2/14/2023 1. Changed participant payment to
+Amazon gift card to allow for
+appropriately prorated amounts for
+those who do not complete all
+surveys, and to minimize fees that
+participants will face (as seen with
+Visa cards). Added further details
+about prorated amounts.
+2. Updated Data Baking to allow for
+data sharing, which aligns with the
+grant and approved consent forms.
+This discrepancy was noticed in
+review of data sharing requirements.
+16 3/30/2023 The protocol has been updated to
+include national recruitment websites
+and registries fitting to the
+population.
+no
+17 4/12/2023 Updated protocol to include an
+informed consent and rights summary
+to be read to the dyad before the
+semistructured interview.
+no
+19 9/1/2023 Updated the protocol to allow semi
+structured interviews following the 3-
+month follow up time point.
+Interviews will be conducted at 3
+month or at 6 month with selected
+intervention participants to allow us
+to reach the goal of 20 interviews and
+have a more robust response due to
+the limitations imposed by study
+funding and timeline. All other
+procedures will remain the same.
+Also per the IRB's request, the care
+partner and pwmc full consent forms
+were updated to include NIH
+"Certificate of Confidentiality" text.
+Yes: added
+certificate of
+confidentiality text.
+<<<PAGE 9>>>
+Page 9 of 49 Template Revised On: 11/1/2021
+Table of Contents
+1.0 Objectives ................................ ................................ ................................ ................................ ...... 11
+2.0 Background ................................ ................................ ................................ ................................ .... 11
+3.0 Study Endpoints/Events/Outcomes ................................ ................................ ..........................  12
+4.0 Study Intervention(s)/Interaction(s) ................................ ................................ .........................  13
+5.0 Procedures Involved ................................ ................................ ................................ ..................... 14
+6.0 Data Banking ................................ ................................ ................................ ................................ . 23
+7.0 Sharing of Results with Participants ................................ ................................ .........................  23
+8.0 Study Duration ................................ ................................ ................................ ..............................  23
+9.0 Study Population ................................ ................................ ................................ ..........................  24
+10.0 Vulnerable Populations ................................ ................................ ................................ ............... 24
+11.0 Number of Participants ................................ ................................ ................................ ............... 28
+12.0 Recruitment Methods ................................ ................................ ................................ .................. 28
+13.0 Withdrawal of Participants ................................ ................................ ................................ ........ 30
+14.0 Risks to Participants ................................ ................................ ................................ ..................... 31
+15.0 Incomplete Disclosure or Deception ................................ ................................ ..........................  32
+16.0 Potential Benefits to Participants ................................ ................................ ..............................  32
+17.0 Statistical Considerations ................................ ................................ ................................ ............ 32
+18.0 Health Information and Privacy Compliance ................................ ................................ ........... 35
+19.0 Confidentiality ................................ ................................ ................................ ...............................  38
+20.0 Provisions to Monitor the Data to Ensure the Safety of Participants ................................ . 39
+21.0 Compensation for Research-Related Injury ................................ ................................ ............. 42
+22.0 Consent Process ................................ ................................ ................................ ............................  42
+23.0 Setting ................................ ................................ ................................ ................................ ............ 45
+24.0 Multi-Site Research ................................ ................................ ................................ ......................  45
+25.0 Coordinating Center Research................................ ................................ ................................ .... 45
+26.0 Resources Available ................................ ................................ ................................ ..................... 46
+27.0 References ................................ ................................ ................................ ................................ ..... 46
+<<<PAGE 10>>>
+Page 10 of 49 Template Revised On: 11/1/2021
+ABBREVIATIONS/DEFINITIONS
+Abbreviation Full Text
+AD Alzheimer’s Disease
+ADRD Alzheimer’s Disease and Related Dementias
+AME Advanced Medical Electronics
+PWMC Person with Memory Concerns
+RA Research Assistant
+RCT Randomized Controlled Trial
+SR Smartwatch Reminder
+MCI Mild Cognitive Impairment
+UBACC University of California, San Diego Brief Assessment of Capacity to
+Consent
+TICS Telephone Interview for Cognitive Status
+LTFU Lost to follow up
+<<<PAGE 11>>>
+Page 11 of 49 Template Revised On: 11/1/2021
+<<<SECTION 1.0 Objectives>>>
+1.0 Objectives
+1.1 Purpose:
+We propose to develop an informatics system to assist people with memory impairment.
+Early stages of Alzheimer's and Alzheimer's related dementia often causes memory
+concerns. Persons with Memory Concern often cannot match names with faces or cannot
+recognize faces with a sure feeling of familiarity. Persons with Memory Concern (PWMC)
+may have difficulty remembering the names of family members and friends or may
+address them with a wrong name. They recognize the faces they see daily, such as a
+spouse or caregiver, but they may confuse visiting friends and grandchildren. The inability
+to remember names or relationships contributes to isolation and deeply affects their
+social lives. The proposed solution is a Smartwatch Reminder (SR) system to conspicuously
+provide this information to the PWMC when needed. This system will automatically
+transmit pictures and relevant information to a smartwatch worn by the PWMC when
+family or friends visit. The system will be evaluated on the target persons with memory
+concern population to measure engagement and improvements in social interactions and
+well-being.
+Phase I Aims:
+Aim1: The phase I will develop a prototype SR system with limited features. It will work on
+one model of smartphone and smartwatch. The prototype system can be used to get
+feedback from potential users.
+Aim 2: Examine the feasibility of the SR system for PWMC.
+The result of Phase I will include user feedback that demonstrates the acceptability and
+perceived utility of the system.
+Phase II Aims:
+Aim 3: Phase II will develop smartphone and smartwatch apps designed to work with the
+popular products of 2022. The project will provide a smartwatch and tablet for dyads in
+the treatment group. Family, friends, etc. of the treatment group participants will be able
+to download a smartphone app from an online store. Instructional material will be created
+to show the suggested information that can be entered into the app.
+Aim 4: Evaluate whether the Smartwatch Reminders exerts positive benefits for PWMCs’
+social engagement and well-being via an embedded experimental mixed methods design
+that combines the collection and analysis of qualitative data within a traditional
+randomized controlled trial (RCT) design.
+<<<SECTION 2.0 Background>>>
+2.0 Background
+2.1 Significance of Research Question/Purpose:  Millions of Americans have dementia,
+the loss of mental functions, e.g., thinking, memory, and reasoning, which interferes with
+<<<PAGE 12>>>
+Page 12 of 49 Template Revised On: 11/1/2021
+their daily functioning. While some cases of dementia are caused by medical conditions
+that can be treated, most cannot be reversed. Hence, the focus switches from treatment
+to palliative care, i.e., developing a plan to make life easier and more comfortable for
+individuals with dementia and their caregivers. The proposed project will develop an
+important tool to improve the well-being for persons with dementia. There are three
+types of strategies that have been utilized to assist people with memory problems:
+repetitive drill and practice, internal strategies for remembering, and external aids to cue
+or assist people with remembering(1). Only the third strategy, using an external tool, has
+been demonstrated to improve social interactions for patients with AD(1-4).
+2.2 Preliminary Data: AME Corp. working with Dr. Joseph Gaugler at the University of
+Minnesota has recently completed a study of the use of a smartwatch to display the
+names of people in the vicinity that were identified by face recognition. AME called this
+system a Social Support Assistant (SSA). The SSA consisted of a smartwatch and a body
+worn device with a camera. The bodyworn device had a database of face images of the
+friends and family of the PWMC. Face recognition software in the bodyworn device
+matched the faces of people who approached the PWMC to the database. Each time a
+new face match occurred the picture and name would appear on the smartwatch. Other
+information could also appear to identify the relationship that person has with the PWMC.
+A phone app was developed that automated the creation of the face image database for
+the device worn by the PWMC’s. This app allowed a new person to take selfies of their
+face at different angles to optimize the face recognition success. Another person could
+also use the app to take the pictures if the new person being enrolled could not do it
+themselves. The testing successfully showed that PWMC liked using reminders about
+friends and family.
+2.3 Existing Literature: A recent review of intelligent assistive technology describes the
+products that have been or are under development for persons with dementia(5). It is
+significant that none of these devices has been tested in a clinical study with dementia
+subjects(5). There are also no electronic devices proposed to assist PWMC with the
+recognition of other persons. While little has been developed or tested for PWMC,
+electronic devices that store information and prompt users to attend to the information
+with alarm and messaging features have been tested with patients with memory
+impairments due to other neurological conditions with promising results(2). For all
+devices being developed for PWMC, it is important to consider their familiarity with the
+type of device prior to their disease due to their limited ability to learn new
+information(2). Aids that are simple to use and utilize familiar interfaces are most likely to
+be successful(2).
+<<<SECTION 3.0 Study Endpoints/Events/Outcomes>>>
+3.0 Study Endpoints/Events/Outcomes
+3.1 Primary Endpoint/Event/Outcome:
+Phase I: Twenty care partners will complete a system review checklist and context of care
+items in a dyadic interview setting. The intervention will be considered successful if at
+<<<PAGE 13>>>
+Page 13 of 49 Template Revised On: 11/1/2021
+least 75% of participants score an average of 4 (out of 5) points or higher on the checklist,
+indicating that SR met their needs (i.e., indicated agree or strongly agree that the SR was
+useful, acceptable, and feasible overall). This threshold has been used as a benchmark for
+success in prior research evaluating technological interventions for PWMC and their care
+partners(6-8). If the criteria for success are not met, the technology will be refined based
+on feedback and suggestions from PWMC and care partners, before conducting additional
+testing with the improved prototypes. Ample qualitative feedback will be available via the
+dyadic interviews to guide such refinement.
+Phase II: Baseline and 6 month data will be used in a 2x2 repeated measures analysis of
+covariance to examine whether use of the SR results in statistically significant changes in
+PWMC negative health transitions and , social interaction, pleasant events, social stress,
+loneliness, relationship closeness, and community engagement and care partner well-
+being, such as social support, depression and burden (9). The primary independent
+variable in the proposed investigation consists of an indicator variable for random
+assignment into the SR treatment condition or the attention control group. Additional
+analyses will determine if covariates (context of care, mobile device proficiency, and
+dementia severity indicators) significantly vary across the SR treatment and attention
+control groups at baseline and over 6-months. If statistically significant variations between
+the SR treatment and control groups are found, baseline and/or change scores for these
+covariates will be included in all repeated measures analyses of covariance tests to
+provide additional statistical control.
+3.2  Secondary Endpoint(s)/Event(s)/Outcome(s): We will apply a parallel convergent
+mixed methods design. Quantitative and qualitative data will be collected and analyzed
+separately, and then paired side-by-side for comparison(10, 11). Quantitative analyses are
+expected to provide breadth in presenting group-level trends, while qualitative analyses
+will provide insight into variation within these trends, and allow study participants to
+identify meaningful SR components for themselves. After independent quantitative and
+qualitative analyses, the results will be paired side by side for comparison. Researchers
+will identify and iteratively discuss areas of convergence and divergence to validate the
+results(10-13). The thematic codes and categories of implementation/use and
+mechanisms of benefit will be cross-tabulated with the empirical data from the
+randomized controlled evaluation to determine whether the findings diverge, converge,
+or highlight pathways toward additional questions and analysis(12, 13). This comparative,
+mixed method analysis approach may suggest how and why PWMCs experience the
+greatest benefit while using the SR.
+<<<SECTION 4.0 Study Intervention(s)/Interaction(s)>>>
+4.0 Study Intervention(s)/Interaction(s)
+4.1  Description: Researchers will interact with study participants during Phase I and
+Phase II (Table 1). In Phase I, researchers will enroll 20 PWMC and their care partners to
+participate in a dyadic interview session. The dyadic interviews will occur via the HIPAA-
+compliant video conferencing platform, Zoom. The interviews will begin with questions
+<<<PAGE 14>>>
+Page 14 of 49 Template Revised On: 11/1/2021
+about the participants’ technology use prior to and during the COVID-19 pandemic then
+participants will watch a brief instructional video followed by a question and answer
+session on the smartwatch technology, a verbally administered survey, and end with a
+semi-structured discussion about the SR. In Phase II, researchers will enroll 100 PWMC
+and their care partners to participate in initial, 3-month, and 6-month surveys. Half of the
+dyads will be randomly assigned to receive the smartwatch technology for a 6-month
+period and the other half will be randomly assigned to the usual care control group. 20
+PWMC and their care partners who receive the smartwatch technology will be asked to
+participate in a semi-structured interview in the month following their 3 or 6-month
+survey.
+Table 1. Phase I and II Schedule for AME Developers and UMN-Affiliate Researchers
+Months
+1-6
+Months
+7-12
+Months
+13-24
+Months
+25-36
+Project Management: Weekly Web Conference and Annual
+In-Person Meetings
+● ● ● ●
+● Recruit and train RA
+● Build Smartwatch Reminder
+● Data management and entry protocols
+● ○ ○ ○
+Phase I (Months 1-12)
+● Enroll 20 PWMC and their care partners ● ○
+● Complete dyadic interviews      ● ○
+● Analyze Phase I qual/quan data
+● Refine Smartwatch Reminder content and protocol
+for Phase II
+○ ●
+Phase II (Months 12-36)
+● Enroll 100 PWMC and their care partners   ● ○
+● Complete initial, 3-month, 6-month, and embedded
+qual data collection
+● ●
+● Analyze qual/quan data    ○ ●
+● Disseminate Phase II findings   ○ ●
+NOTE: RA = research assistant; PWMC = persons with memory concerns; qual = qualitative;
+quan = quantitative; ● = primary focus; ○ = secondary focus
+<<<SECTION 5.0 Procedures Involved>>>
+5.0 Procedures Involved
+<<<PAGE 15>>>
+Page 15 of 49 Template Revised On: 11/1/2021
+5.1  Study Design: The proposed study will enable us to investigate the utility of the
+Smartwatch Reminder for individuals with varying degrees of memory concern. We will
+evaluate the immediate utility of the Smartwatch for persons with memory concern, and
+determine the extent to which participants practice using the system in the three months
+after it is introduced.  By including participants with mild-to-moderate cognitive
+impairment we will also ascertain the feasibility of starting to use the Smartwatch system
+at a time when participants may immediately benefit from the cues and information
+provided by the system. Through interview questions, we will probe PWMC and their care
+partners to understand if using the Smartwatch in the early stages of cognitive decline is a
+valuable experience and if they would consider using the Smartwatch as the PWMC
+experiences cognitive decline.
+AME has assembled an interdisciplinary team with the necessary skills to achieve the
+objectives of the project and effectively carry out the study design (Figure 1). Mr. Havey at
+AME is an experienced Primary Investigator with decades of project management and
+electronics engineering experience. AME’s Dan Hedin has worked on multiple smartphone
+and smartwatch projects and has published papers on them. Greg Seifert and Paul Gibson
+at AME are the Technical Managers on the study. AME has also partnered with Matt
+Knutson, Louis Barrett and Kevin Kramer as engineers.
+Figure 1. Structure of Industry and Academic Study Collaborators
+The Principal Investigator in Phase I, Dr. Gaugler, PhD, at the University of Minnesota has
+an established track-record of conducting research on PWMC and their care partners. He
+has built on his well-established research foci to apply novel technologies that assist
+family and professional caregivers of persons with dementia. The Principal Investigator in
+Phase II, Dr. Jude Mikal, at the University of Minnesota has acted as a consultant to faculty
+<<<PAGE 16>>>
+Page 16 of 49 Template Revised On: 11/1/2021
+and investigative teams in the areas of project development, research design, and grant
+development. In addition, he is an expert in qualitative research methods, transition-
+related stress, computer-mediated communication and computer-mediated social
+support. Collaborating Co-Investigators on this project include Dr. Mitchell (PhD and
+Assistant Professor of Psychology at Emmanuel College), Dr. Finlay (PhD and Postdoctoral
+Research Fellow in the University of Michigan Institute for Social Research), and Dr.
+Jutkowitz (PhD and Assistant Professor in the Brown School of Public Health and
+researcher at the Center of Innovation in Long-Term Services and Supports at the
+Providence VA Medical Center). The Co-Is have collaborated extensively with Dr. Gaugler
+and each other on multiple evaluations of interventions and services for PWMC, including
+innovative technological interventions in dementia care projects. This includes evaluating
+a remote activity monitoring program that installed sensors in the home of a PWMC. Each
+investigator also has independent expertise in qualitative, quantitative, and mixed-
+methods research and participation in multiple randomized trials. Dr. Mitchell is a
+psychologist with expertise in social support and adult development, and a focus on mixed
+methods. Dr. Finlay is a health geographer and environmental gerontologist whose
+methodological expertise include global positioning systems tracking, in-person and
+virtual geospatial audits, interviews, surveys, and cognitive and physical testing. Dr.
+Jutkowitz is a health services researcher focused on understanding the cost and value of
+care provided to individuals with PWMC. His prior work includes conducting a cost-
+effectiveness study alongside a randomized trial evaluating a dementia caregiver support
+program and evaluating the effect of cognitive decline on time spent providing informal
+caregiver. Our team of collaborators is well-positioned to conduct an evaluation of the
+Smartwatch Reminder (SR).
+5.2  Study Procedures:
+Phase I Feasibility Pilot Study
+Overview. The objective of Phase I is to make an initial, limited assessment of the value of
+the Smartwatch Reminder (SR) for PWMC and their care partners.
+Phase I Sample Size. The academic team will purposively sample 20 dyads (PWMC and
+their care partners) of varying kin relationships (adult child vs. spouse), gender, and
+race/ethnicity to participate in Phase I feasibility testing.
+Phase I Procedure. A parallel-convergent mixed methods design (QUAN+QUAL) will be
+used to generate qualitative and quantitative data on the feasibility and utility of the SR
+system.
+1. Initial Contact: During initial contacts with potential participants, the RA will explain the
+study procedures and invite care partners to participate in the study. Care partners will
+have the opportunity to ask questions about the study procedures.
+2. Enrollment: If the care partner agrees to participate, the RA will screen the participant
+and schedule the dyad for a      dyadic interview session (see Section 9, “Study
+<<<PAGE 17>>>
+Page 17 of 49 Template Revised On: 11/1/2021
+Population”). An email will be sent to the participants containing an instructional
+pamphlet to read over before the interview.
+3. Consent: The RA will first ensure that the dyad is able to use the video conferencing
+platform and troubleshoot any issues that may have occurred. The RA will then obtain
+informed consent from the care provider and PWMC (see Section 21, “Consent Process”).
+4. Dyadic Interview Sessions: The RA will digitally record each session. Audio recordings will
+be transcribed by a professional transcriptionist. The interview      will begin with the
+context of care questions (see Appendix). Participants will then be asked questions on
+technology use prior to and during the COVID-19 pandemic. The RA will then play a video
+on how to use the SR system to the PWMC and their care partner. Next, participants will
+ask the RA questions they have about how the technology works (e.g., navigating the
+smartphone app; entering new profiles, photos, and information; using the smartwatch to
+identify the caregiver and other persons nearby).
+Immediately after the SR tutorial, participants will be asked to complete a brief survey
+including the SR checklist to evaluate their perceptions of the technology. Questions will
+be asked verbally during the interview session. The SR checklist includes Likert items
+designed to measure both the PWMC and care partners’ perceptions of the performance
+of SR in terms of ease of use, clarity, and quality of information provided.
+The RA will then ask the participants semi-structured questions      to elicit open-ended
+data on the feasibility and utility of SR (see Appendix). The interview questions include
+prompts about technology more generally to elicit feedback about opportunities and
+barriers for technology to assist care partners and PWMC in navigating everyday life. This
+will provide a more comprehensive perspective regarding the feasibility and use of the SR
+system.  Participants      will provide in-depth information on the reasons why PWMC and
+care partners felt the SR will or will not be  easy to use, and will point out barriers or
+facilitators to use that will be critical to address when refining SR prior to Phase II.
+Phase I Data Collection.
+18-item system review checklist. This will be completed verbally by      care partners and
+PWMCs during the dyadic interviews. The checklist includes Likert items designed to
+measure both the PWMC and care partners’ perceptions of the performance of SR in
+terms of ease of use, clarity, and quality of information provided.
+Context of care.  Questions will be completed verbally during the dyadic interviews. Care
+partners and PWMCs can  complete the context of care variables. It includes items on
+geographic location, time since diagnosis, type of dementia diagnosis, Medicaid status,
+living arrangement of the PWMC, and demographics of the PWMC and the care partner.
+Semi-structured questions. The RA will conduct dyadic interviews with Phase I
+participants to elicit open-ended data on the feasibility and utility of SR. Questions will
+also elicit feedback on how participants’ technology use has changed due to the COVID-19
+<<<PAGE 18>>>
+Page 18 of 49 Template Revised On: 11/1/2021
+pandemic. The semi-structured questions will provide in-depth information on the
+reasons why PWMC and care partners felt the SR was or was not easy to use, and will
+point out barriers or facilitators to use that will be critical to address when refining SR
+prior to Phase II (33).
+Phase II. Evaluate the Smartwatch Reminder Efficacy
+Overview of Phase II. The primary goal of the SR is to facilitate social interaction for
+PWMC by providing facial recognition of family, friends, and other key people. In this
+Phase II study, the SR will be evaluated to determine whether it provides positive benefits
+for PWMC’s social interactions and well-being.
+Phase II Sample Size. 100 dyads (PWMCs and their care partners) will be enrolled. Half of
+the PWMCs will be randomly assigned to the intervention group (i.e., use of SR) and half
+to the attention control group. The intervention group will receive the SR.
+Procedure. An embedded experimental mixed methods design
+([QUAN+qual]→[QUAN+qual])(12) will be utilized to combine the collection and analysis
+of qualitative data within a traditional randomized controlled trial design(12). This will
+assist the project team in examining the process of the SR’s implementation during the
+evaluation to determine whether or not and why the SR worked for PWMCs and their care
+partners(12, 34, 35).
+Pilot Testing. Prior to initiating full recruitment, we will pilot test the Smartwatch System
+technology among 1-2 dyads. This will ensure that any possible bugs in the Smartwatch
+System are worked out before many more dyads are enrolled and given the technology. If
+no or very minimal problems are found, the 1-2 dyads would remain in the study and be
+included in the total of 100 dyads recruited. If many problems are found, the 1-2 dyads
+would remain in the study, but their data would not be used, so 100 more dyads would
+still need to be recruited.
+1. Initial Contact: During initial contacts with potential participants, the RA (or, if needed,
+Drs. Mitchell, Mikal and Jutkowitz or the research coordinators) will explain the study
+procedures and invite care partners to participate in the study. Care partners will have the
+opportunity to ask questions about the study procedures.
+2. Enrollment: If the care partner agrees to participate, the RA will schedule a brief
+screening and enrollment procedure using the inclusion criteria (see Section 9, “Study
+Population”). The RA will obtain informed consent/assent from the care partner and
+PWMC (see Section 21, “Consent Process”).
+3. Baseline survey: Following enrollment, a baseline survey will be administered to both the
+CP and PWMC (either online in Qualtrics or via mail, if preferred) within 2 weeks of
+enrollment (see Appendix). The RA will administer this prior to exposure to the
+intervention/attention control.
+4. Randomization: Following completion of the baseline survey, PWMC and their care
+partners will be randomly assigned to the SR treatment condition that receives full access
+<<<PAGE 19>>>
+Page 19 of 49 Template Revised On: 11/1/2021
+to the SR along with the training procedures or an attention control group. Randomization
+(participant is assigned to either the treatment or control condition) will be completed via
+an a priori list generated from http://randomizer.org by Dr. Mikal. For those in the SR
+treatment group, the research coordinator will schedule a time to introduce the SR to the
+PWMC and the care partner via Zoom or telephone.
+To ensure blinding is maintained, the RA will not have access to the password-protected
+database containing participants’ group assignment, and will not review survey data
+completion (which would un-blind the RA since all of the treatment participant follow-up
+surveys will contain the system review and all control participant follow-up surveys will
+not). Additionally, opaque, sealed envelopes will be created for the research coordinator
+to reveal which group each participant was randomized into. The outside of each
+envelope will be labeled with a dyad’s ID and the inside will contain their group
+assignment, which will ensure integrity of the randomization order since no one will be
+able to change the order once the envelopes are created.
+5. 3-month survey or contact call: A survey will be administered (either online in Qualtrics
+or via mail, if preferred) by the RA to all participating care partners and PWMC 3 months
+following enrollment. A brief disposition survey will be administered before the 3- and 6-
+month follow-up surveys to determine if the PWMC has moved or passed away. A system
+review of the SR will be assessed via a checklist and open-ended questions (see Appendix)
+and will be sent only to dyads in the intervention group in their follow-up survey (the RA
+will remain blinded because they will email participants personalized links to the survey
+which do not indicate whether the participant is receiving the SR system review or not in
+their follow-up survey). The attention control group will receive a 3-month contact call
+from the research coordinator. Based on our prior experience, PWMC and care partners in
+an attention control group will often seek information and psychosocial support during
+these calls. We will provide free information resources (e.g., brochures or websites of the
+Alzheimer’s Association). See section 10.2 about re-assessing each PWMC’s capacity to
+consent at each time point.
+6. 6-month survey or contact call: A survey will be administered (either online in Qualtrics
+or via mail, if preferred) by the RA to all participating care partners and PWMC 6 months
+following enrollment. A brief disposition survey will be administered before the 3- and 6-
+month follow-up surveys to determine if the PWMC has moved or passed away.
+Additionally, a system review of the SR will be administered by the RA to participating
+care partners and PWMC in the intervention group 6 months following enrollment (while
+remaining blinded). The attention control group will receive a 6-month contact call from
+the research coordinator.
+7. Data tracking for 6 months: Detailed data on frequency and duration of use by PWMC
+and their care partners will be tracked directly by the SR, allowing for an analysis of exact
+utilization and practicality (i.e., how long and often PWMC and their care partners actually
+use the technology). This data will be shared with us securely via Box by AME.
+8. Semi-structured interview: 20 semi-structured interviews will take place up to one month
+after completion of the final 6-month follow-up survey with intervention group
+participants only. Due to a change in study funding and timeline, as of 9/1/23, to meet the
+<<<PAGE 20>>>
+Page 20 of 49 Template Revised On: 11/1/2021
+20 semi-structured interviews, some semi-structured interviews will now take place
+following the 3-month follow up survey with intervention participants. Dyads will
+complete only one interview at 3 or 6 months, not at each time point.
+Note: Baseline and follow-up surveys and interviews will be in a format that is convenient
+to care partners and PWMCs: through online or mail formats, whichever is desired by the
+individual. Each baseline survey is anticipated to take no more than 45 minutes to
+complete with follow-up surveys expected to take approximately 20-30 minutes to
+complete. If the PWMC has passed away or moved into a long-term care facility as
+determined by the brief disposition survey at 3- or 6-months, the PWMC would not be
+administered any additional surveys and the care partner would receive shortened follow-
+up surveys if they agree to continue, depending on the person with memory concern’s
+scenario (bereavement or transition to a long term care/assisted living facility).
+The RA will complete disposition calls or emails ±7 days prior to a scheduled follow-up
+survey. The RA will contact care partners within 1 week of a missed survey to resend, and
+update participants’ contact information as needed throughout the project. RA will follow
+up with CG and PWMC via email reminders at 1, 2 and 3 weeks past the date a survey was
+sent if it is still incomplete. Additionally, at 3 weeks RA/RC will try to contact dyad via
+phone. If no response, participants will be considered lost to follow up (LTFU) for that
+time point.
+Note: If LTFU occurs at baseline, the dyad will be withdrawn from study as they were not
+randomized.
+An annual project newsletter will be sent to all participants to provide updates on study
+progress as well as provide seasonal caregiving tips. Finally, in order to provide additional
+rapport and incentive to participate in the attention control group, all PWMC and care
+partner dyads in the proposed project will be provided with up to a $100 participation
+incentive following completion of their 6-month survey (see more information in Payment
+section 12.5). Those in the treatment group who are selected for and complete a semi-
+structured interview will receive an additional $50 participation incentive.
+Phase II Data Collection.
+The RA will administer the baseline and follow-up surveys at 3- and 6-months, and will be
+blinded to randomization. Completion of these follow-ups may occur outside of the
+timeframe for initial contact based on participant scheduling needs.
+Baseline, 3-Month and 6-Month Survey. The RA will administer all surveys (see
+Appendix). The surveys are designed to collect information from both PWMC and care
+partners. The selected measures have strong psychometric properties, sensitivity to
+change, and clinical relevance in the evaluation of health technology such as SR. Our past
+experience in distributing surveys of similar length indicate that they take PWMC and
+their care partners approximately 20-45 minutes to complete. Mean and sum scores will
+be calculated for all scales.
+<<<PAGE 21>>>
+Page 21 of 49 Template Revised On: 11/1/2021
+● Context of care (baseline only). Care partners will complete context of care variables
+include geographic location, time since diagnosis, type of dementia diagnosis, Medicaid
+status, living arrangement of the PWMC, and demographics of the PWMC and the care
+partner.
+● Dementia severity. Care partners will complete validated measures of dementia severity
+including the PWMC’s dependence on assistance with 6 activity of daily living tasks and
+dependence on assistance with 6 instrumental activity of daily living tasks(16-18, 50-52).
+An 8-item scale will assess the intensity of PWMCs’ memory losses, communication
+deficits, and recognition failures at each time point (memory impairment)(19, 20). From
+the Dementia Severity Rating Scale, we are using one item about the PWMC’s recognition
+of others (53). Additionally, during screening, the PWMC will complete the Telephone
+Interview for Cognitive Status (TICS-40) developed from the Aging, Demographics, and
+Memory Study), which will assess their level of dementia severity at the beginning of the
+study (50).
+● Social interaction. Questionnaires will be administered to care partners to determine the
+frequency and quality of PWMCs’ interaction in six different areas: in-person visits;
+telephone/video calls; traditional mail correspondence, text messaging, or email;, and
+social media. Per the recommendations of prior research on informal long-term care, a
+prior week estimate will be completed that includes frequency and duration of each
+activity(22). A 7-day time-window was chosen as it is less prone to recall error. In addition
+to frequency data, satisfaction with the quality of interaction will be assessed on a simple
+5-point scale, similar to prior reliable measures utilized in Alzheimer’s disease and related
+dementias care partner intervention studies(23).
+● Pleasant Events/Social Engagement. Care partners will complete the Pleasant Events
+Schedule-AD (PES-AD) Short Version (24, 25) for PWMCs. The PES-AD Short Version
+includes 20 items of events and activities for PWMCs. As originally constructed, the items
+of the PES-AD were within the capacity of individuals suffering from the earlier/milder
+stages of dementia, and thus were appropriate for inclusion in this Phase II project(24,
+25). Items are rated according to their frequency during the past month and how much
+the PWMC enjoys the activity. An overall summary score assessing frequency of
+engagement in enjoyable activities is generated by multiplying each frequency and
+enjoyment item with each other and summing the resulting responses. The PES-AD has
+demonstrated excellent reliability and validity(24, 25).
+● Global Health. The PWMCs’ overall health and quality of life are being measured using the
+PROMIS Scale v1.2 – Global Health (26). This assesses various aspects of health and life,
+such as ratings of mood, satisfaction with social activities/relationships, average pain, etc.
+through a series of 10 questions asked of the PWMC.
+● Mobile Device Proficiency and social media use. The Mobile Device Proficiency
+Questionnaire (MDPQ-16; short form) is a 16-item scale used to measure how proficient
+the CP and PWMC are using various new technologies, such as tablets and their different
+features (27). The CPs’ social media usage is also being measured using 3 questions
+developed by the research team.
+<<<PAGE 22>>>
+Page 22 of 49 Template Revised On: 11/1/2021
+● Social Support/Loneliness. Socioemotional support will be measured on a five-item scale
+to assess the affective assistance provided to the care partners by relatives or friends at
+each time point(19, 20). The Lubben Social Network Scale-6 (LSNS-6) is a six-item scale
+that assesses social isolation among the CP and PWMC (55). Loneliness will be measured
+with the 3-item Short Scale for Measuring Loneliness in Large Surveys(28).
+● Care partner well-being. The 11-item Eriksonian Psychosocial Stage Inventory - Identity
+scale(29) will be administered to assess changes in identity coherence. The 10-item Center
+for Epidemiological Studies-Depression scale will be used to measure care partner
+depressive symptoms(30, 31).
+● Relationship closeness. A 6-item measure of Relationship Closeness (32) will be used to
+evaluate the quality of the relationship between the PWMC and their care partner. This 6-
+item measure is part of the Stress Process Model for Residential Care (SPM-RC),
+developed by Whitlatch and colleagues and based on the Stress Process Model (SPM) for
+dementia caregiving. The measure assesses caregiver agreement with statements about
+their relationship with their relative using a 4-point Likert scale (1=strongly disagree,
+4=strongly agree). Higher scores indicate a closer relationship (range 6-24).
+● Community engagement. A 15-item survey developed specifically for the project will
+evaluate the PWMC’s typical social interactions and destinations accessed outside of the
+home. The survey evaluates average frequency of leaving the home; socializing in-person
+with family and friends; and destinations accessed including senior centers, gyms and
+recreational facilities, educational classes, libraries, faith services, club meetings, coffee
+shops/cafes, and parks. Following the 15-item survey, an open-ended question to be
+applied post-baseline asks in which situations the SR system was and was not useful, and
+why.
+● Caregiving Burden. A short version of the Burden Scale for Family Caregivers (BSFC-s) is a
+valid measure of subjective burden among family caregivers and is measured using 10-
+items on a 4-point scale (54).
+Phase II will also feature 20 semi-structured interviews with purposively sampled dyads
+who are randomly assigned to receive SR. These interviews will take place up to one
+month after completion of the final 6-month follow-up survey. As of 8/31/2023 due to
+funding and timeline changes, interviews may also take place up to one month after
+completion of the 3-month follow-up survey. Dyads will only complete an interview at one
+time point (not both). It was determined that interviews at 3 months will be as rich in data
+as the 6 month surveys.  A sequential mixed methods sampling approach will be
+utilized(36) where the results of the first methodological strand will inform the selection
+of participants in this second methodological strand. Specifically, the academic
+collaborators (led by Dr. Mikal) will purposively select 10 dyads who report average
+system review checklist scores between 4 and 5 (i.e., SR met their needs) and 10 dyads
+who indicate average system review checklist scores of 3 and below (i.e., neutral and
+below regarding SR meeting their needs). A stratified purposive sampling approach will be
+applied: the academic collaborators will identify family care partners of different kin
+<<<PAGE 23>>>
+Page 23 of 49 Template Revised On: 11/1/2021
+relationship (care partner is spouse vs. adult child), PWMC with varying dementia severity
+(middle versus late stage dementia symptomatology), caregiver gender, and racial or
+ethnic background of caregivers to participate.
+The open-ended responses of the semi-structured interviews will provide in-depth
+information on the reasons why dyads felt SR did or did not enhance their interactions
+with each other and their friends and family. The research assistant will schedule and
+conduct the semi-structured interviews and will digitally record each one with permission.
+If permission to record the interview is not granted, relevant field notes will be taken
+during and immediately following the interview. Audio recordings will be transcribed by a
+professional transcriptionist into a Microsoft Word file which will then be uploaded to
+NVivo (37) for subsequent analysis. This mixed methods design will allow the research
+team to link the efficacy results of the study to the thematic categories developed from
+the semi-structured interviews.
+5.3  Follow-Up: N/A: The study team will not conduct long-term follow up with study
+participants.
+5.4  Individually Identifiable Health Information: N/A: The research team will not
+access any medical records or other sources of private information about participants,
+apart from the information provided directly by participants in surveys, interviews, or
+direct communication with research team members.
+<<<SECTION 6.0 Data Banking>>>
+6.0 Data Banking
+6.1 Storage and Access:  Any datasets generated and/or analyzed and published or placed in a
+data repository will be de-identified.
+6.2 Data: See 6.1.
+6.3 Release/Sharing: All information obtained from the participants will remain strictly
+confidential and will not be released except at the express written request of the study
+participant [unless permitted by law or regulatory oversight].
+<<<SECTION 7.0 Sharing of Results with Participants>>>
+7.0 Sharing of Results with Participants
+7.1 A report of the study findings will be provided to participants via an infographic.
+The report will only include aggregated findings and de-identified participant quotes (no
+other individual-level data).
+<<<SECTION 8.0 Study Duration>>>
+8.0 Study Duration
+<<<PAGE 24>>>
+Page 24 of 49 Template Revised On: 11/1/2021
+8.1  Phase I: Each individual participant will take part in Phase I of the study one time
+for a dyadic interview. We anticipate taking 6 months to enroll all 20 participants.  We
+expect all study procedures and data analysis to take 12 months total.
+Phase II: Each participant will take part in the study for a total of about 6 months (data
+collection at enrollment, 3, and 6 months).  We anticipate taking 12 months to enroll all
+100 dyads.  All study procedures and data analysis are anticipated to be completed within
+24 months.
+<<<SECTION 9.0 Study Population>>>
+9.0 Study Population
+9.1  Inclusion Criteria: Inclusion criteria for PWMC are as follows: 1) English speaking;
+2) a physician diagnosis of early-stage Alzheimer’s disease or mild-to-moderate cognitive
+impairment; 3) live in the community (including at home with or without the care partner,
+in a retirement community, etc.); 4) no history of serious mental illness (i.e., any major
+psychiatric disorder) and 5) must have some level of cellular connection in their place of
+residence (if known).
+Care partners of PWMC must: 1) speak English; 2) be 21 years of age and over; 3) self-
+identify as someone who provides assistance to the PWMC because of their memory loss
+(these individuals are called ‘‘care partners,’’ as these individuals may or may not provide
+the intensive hands-on care typical of ‘‘caregivers’’); and 5) indicate a willingness to use
+the smartwatch system as well as to being randomized to a control group.
+9.2  Exclusion Criteria: Those who do not meet the criteria above will be excluded.
+Additionally, PWMC with severe or no dementia are not eligible.
+9.3 Screening: Potential participants will complete a brief screening survey prior to enrollment,
+including items assessing each of the inclusion criteria listed above.  Those who are considered
+eligible based on their responses will be invited to participate in the study. It is possible that
+potential participant informally screen as ineligible before completing a screener due to the
+natural progression of conversation via telephone or email. In these instances we would not
+continue to formally screener with those who we know are already ineligible.
+In Phase II, PWMC will be administered the TICS-40 (Telephone Interview for Cognitive Status-
+developed for the Aging, Demographics, and Memory Study) via Zoom or the telephone during
+screening (50). The TICS-40 is a brief, 17-item screening tool, with scores ranging from 0 to 40,
+that is used to screen for different levels of cognitive impairment. According to a crosswalk
+between the Mini-Mental State Exam and the TICS-40, cutoff TICS-40 scores for mild dementia
+are 17-24, for moderate dementia are 6-16, and severe dementia are 0-5 (51, 52). Individuals
+with scores indicating presence of mild or moderate dementia (scores from 6 to 24) will be
+eligible to participate in the research. Individuals without the presence of dementia or with
+severe dementia will not be eligible.
+<<<SECTION 10 Vulnerable Populations>>>
+10 Vulnerable Populations
+10.1 Vulnerable Populations:
+<<<PAGE 25>>>
+Page 25 of 49 Template Revised On: 11/1/2021
+Population / Group Identify whether any of the
+following populations will be
+primary focus of the research
+(targeted), included but not the
+focus of the research or excluded
+from participation in the study.
+Children Excluded
+Pregnant women/fetuses/neonates included but not the focus
+Prisoners Excluded
+Adults lacking capacity to consent
+and/or adults with diminished
+capacity to consent, including, but
+not limited to, those with acute
+medical conditions, psychiatric
+disorders, neurologic disorders,
+developmental disorders, and
+behavioral disorders
+Primary focus of the research
+Non-English speakers Excluded
+Those unable to read (illiterate) Excluded
+Employees of the researcher Excluded
+Students of the researcher Excluded
+Undervalued or disenfranchised
+social group
+included but not the focus
+Active members of the military
+(service members), DoD personnel
+(including civilian employees)
+included but not the focus
+Individual or group that is
+approached for participation in
+Excluded
+<<<PAGE 26>>>
+Page 26 of 49 Template Revised On: 11/1/2021
+research during a stressful situation
+such as emergency room setting,
+childbirth (labor), etc.
+Individual or group that is
+disadvantaged in the distribution of
+social goods and services such as
+income, housing, or healthcare.
+included but not the focus
+Individual or group with a serious
+health condition for which there are
+no satisfactory standard treatments.
+included but not the focus
+Individual or group with a fear of
+negative consequences for not
+participating in the research (e.g.
+institutionalization, deportation,
+disclosure of stigmatizing behavior).
+Excluded
+Any other circumstance/dynamic
+that could increase vulnerability to
+coercion or exploitation that might
+influence consent to research or
+decision to continue in research.
+Excluded
+10.2 Additional Safeguards:
+The smartwatch technology being tested in this study is designed to be used by
+persons with mild-to-moderate dementia severity.  Testing the feasibility and utility of
+the technology for persons with mild or moderate cognitive impairment is therefore
+an important research objective.  It is anticipated that the technology will be most
+useful to individuals whose memory has deteriorated enough to benefit from the cues
+and reminders provided by the smartwatch.  Therefore, moderate cognitive
+impairment may represent the least degree of impairment compatible with the aims
+of the study.  By including participants with mild-to-moderate cognitive impairment,
+we will learn whether the technology is feasible for various stages of cognitive
+impairment, whether the technology provides improvements in social interactions,
+and whether there are modifications that might improve the utility of the technology
+for PWMC.
+Due to the natural progression of AD/ADRD and the length of the study, PWMC will be
+reassessed for their capacity to consent and re-assent or re-consent to participate in
+<<<PAGE 27>>>
+Page 27 of 49 Template Revised On: 11/1/2021
+the research at 3- and 6-month time points. We will use the UCSD Brief Assessment of
+Capacity to Consent to determine whether participants are capable of providing
+consent for themselves. Those who are not able to provide consent will be asked to
+re-assent to participate, in which case, assent will be documented by asked the
+participant to verbally sign an assent form (attached). Those who are able to provide
+consent will be asked to re-consent to participate using the brief follow-up consent
+form (attached).
+Since the study involves no invasive procedures, there will be no physical risks to study
+participants. Thus, no research-related injuries need to be disclosed as none are
+expected. The consideration of need is potentially stressful, and thus there are
+possible psychological risks for the PWMC and care partners. However, the research
+team has considerable experience providing psychosocial support to Alzheimer’s
+disease and related dementia caregivers on various research protocols, so serious
+psychological risks are unlikely to occur based on this experience. The potential social
+or legal risks for the participants relate only to possible violations of confidentiality.
+Participants with impaired capacity to consent will be closely monitored when first
+introduced to the smartwatch technology and taught how to use it; given that this
+technology is non-invasive, additional monitoring in Phase II will take place at the 3-
+and 6-month survey interviews.  Participants with memory concerns will be withdrawn
+from the study if they appear unduly distressed.
+We will use the UCSD Brief Assessment of Capacity to Consent to determine whether
+participants are capable of providing consent for themselves.  Those who are not able
+to provide consent personally will be asked to assent to participate.  In that case,
+assent will be documented by asking the participant to verbally sign an assent form
+(attached).  All potential participants will be informed of the research objectives and
+procedures to the greatest extent that is compatible with their understanding.
+Though not specifically targeted for inclusion, participants from some of the above
+groups (indicated in the table) may be allowed to participate, as indicated in the table.
+Participants will be reminded that all study procedures are voluntary and will not
+impact the care they receive from any institution. We do not anticipate any individuals
+from the above noted groups to have increased risk from participating in the proposed
+research, such as an increased risk of coercion, etc. Thus, our standard protocol
+practices (i.e. data security, confidentiality procedures, etc.) provide reasonable
+protections to these vulnerable participants.
+The research does involve cognitively impaired adults, or adults with fluctuating,
+diminished, or lacking capacity to consent, this the (CHECKLIST: Cognitively Impaired
+Adults (HRP-417)) below has been reviewed.
+10.2.1 This population must be included in the research study because they are
+part of the target population. By including this population in the research,
+we will learn whether or not the Smartwatch Reminder technology is
+<<<PAGE 28>>>
+Page 28 of 49 Template Revised On: 11/1/2021
+helpful to PWMC and in what ways it may be helpful to them, as well as
+their care partners.
+10.2.2 Persons with Memory Concerns are being included in the study if they have
+the capacity to consent or not, because we need to know if individuals with
+lesser and higher degrees of cognitive impairment benefit from the SR or
+not. Individuals with severe cognitive impairment, such as late-stage
+dementia are not included in our study because we do not expect the SR to
+provide any benefit to this group.
+10.2.3 Adults lacking the capacity to consent or have a diminished capacity to
+consent are one of the primary groups of participants to be recruited to the
+study. Specific safeguards to protect this population include signing of a
+consent form by their family caregiver. Additionally, the person with
+memory loss either consents or assents to the research before each survey
+based on their Capacity to Consent scores – see more detail in the consent
+section below.
+10.3 If research includes potential for direct benefit to participant, provide rationale for
+any exclusions indicated in the table above:
+Some individuals in the above vulnerable groups are excluded because they are not
+our population of interest (i.e. ADRD does not impact children) or because
+participating in such research would potentially be risky for them or because they
+would be ineligible (i.e. must live in the community therefore prisoners would be
+ineligible).
+<<<SECTION 11 Number of Participants>>>
+11 Number of Participants
+11.1 Number of Participants to be Consented:
+Phase I: 20 dyads, or 40 participants
+Phase II: 100 dyads, or 200 participants
+<<<SECTION 12 Recruitment Methods>>>
+12 Recruitment Methods
+12.1 Recruitment Process: Participants will be recruited in various in-person and online
+ways using the approved text and images.  In person recruitment opportunities may
+include advertisements at memory clubs and programs for PWMC, through the Care
+Options Network, and at the annual Caring for People with Memory Loss
+Conference. Additionally, virtual recruitment via advertisement in the University of
+Minnesota Caregiver Registry and via newsletters shared by colleagues and
+professionals in this area of work are engaged with the target population.  The
+research coordinators, Dr. Mikal, Dr. Mitchell, Dr. Finlay, or Dr. Jutkowitz will initiate
+email, telephone, or mail contact with family members on the Registry and who
+respond to an advertisement, or those who complete a permission to contact form
+<<<PAGE 29>>>
+Page 29 of 49 Template Revised On: 11/1/2021
+(sent out via emails, shared at the conference, via newsletters, etc.; attached). In
+addition, Dr. Mikal, Dr. Mitchell, Dr. Finlay, or Dr. Jutkowitz will ask professional care
+providers on the Registry to identify potential family members for recruitment
+purposes, including family members of diverse ethnic or racial origin and geographic
+location (given that many provide care to under-represented older persons).
+Snowball recruitment among potential/enrolled participants may also be used. In
+this case, following the initial screening conversation, potential participants may be
+asked if they know of anyone else who might be fitting for the study. If so, UMN
+staff will share an approved flyer for the [potential] participant to then share. If
+needed, participants will be recruited via ads on facebook and newspapers, on the
+National Institutes of Health-supported website called researchmatch.org, and other
+national research recruiting sites and registries fitting for this population (such as
+Banner Health and FTD Disorders Registry LLC). Using this method, only those who
+are interested are contacted.
+Registration forms for educational presentations (by study staff or other agencies)
+may include an opportunity for individuals interested to provide their permission for
+the research team to contact them to share additional information about the study.
+[Thus, by nature of this, UMN staff or other agency staff involved in planning,
+hosting, or post-webinar certificates will have access to the names/contact
+information of those indicating interest in receiving more information about the
+study]. Presentation “polls” may offer an additional opportunity for presentation
+attendees to provide permission for contact. Presentation slides may also be used
+during these community presentations to increase outreach. Hard copy permission
+forms may also be presented at in-person presentations.
+Note: General promotional materials/text (emails/newsletters/flyers/etc) are shared
+in the context of general promotional recruitment efforts. However, study staff do
+not pursue individualized study-related contact with potential participants until
+contact is made by an interested individual or a permission form/request for
+information is obtained.
+12.2 Source of Participants:  Participants will be community members who respond to a
+recruitment source listed in 12.1. Dr. Gaugler and his evaluation team developed
+and actively maintain the Caregiver Registry based on their community outreach and
+education efforts on Alzheimer’s disease and related dementias. All individuals in
+the Registry have provided permission for Dr. Gaugler and his team to contact them
+to participate in research. The registry includes 675 family members of PWMCs and
+316 professionals as of August 2018, and calls for new registry participants occur
+annually from March to June.
+12.3 Identification of Potential Participants: Individuals will self-identify as potential
+participants. Dr. Gaugler has developed and maintains the University of Minnesota
+Caregiver Registry based on his various community outreach and education efforts
+on Alzheimer’s disease and related dementias (#1007S85812). All individuals in the
+Registry have provided permission for Dr. Gaugler and his research staff to contact
+<<<PAGE 30>>>
+Page 30 of 49 Template Revised On: 11/1/2021
+them to participate in research. Dr. Gaugler has conducted several prior and ongoing
+evaluations of early-stage dementia support programs throughout the
+Minneapolis/St. Paul area and works with several memory clubs and programs for
+PWMC. . Dr. Gaugler also directs the Center for Healthy Aging and Innovation which
+hosts events among our target population, which may also be used for recruitment.
+Finally, Dr. Gaugler is a member of the Care Options Network, and will post an
+invitation to participate to Network members. No medical records will be used to
+identify potential participants.
+12.3.1 For information contained in private/protected records, explain how the
+researcher has legitimate access to these records: N/A
+12.3.2 Dr. Mikal, Dr. Mitchell, Dr. Finlay, Dr. Jutkowitz, the research coordinators,
+or the research assistant will make initial contact with potential
+participants who respond to advertisements or complete a permission to
+contact form.
+12.3.3 No medical records will be used to identify potential participants.
+12.4 Recruitment Materials: Flyers, emails, ads, and phone calls will be used for
+recruitment.  A copy of the flyer and email/phone script are included in the IRB
+application.
+12.5 Payment: In order to provide additional rapport and incentive to participate, all
+care partner and PWMC dyads in the proposed project will be provided with up to a
+$100 participation incentive. Those who are selected and complete a semi structured
+interview will be provided an additional $50 participation incentive. Compensation will
+be mailed after completion of  participation (following the dyadic interview for Phase
+I, and after the 6 month assessment for Phase II). For phase II, dyads will receive a
+prorated amount based on the number of surveys completed ($33.00 for one, $66.00
+for two, or $100.00 for all three) The dyads will be compensated using Amazon gift
+cards.
+<<<SECTION 13 Withdrawal of Participants>>>
+13 Withdrawal of Participants
+13.1 Withdrawal Circumstances:  If instances of elder abuse or mistreatment are
+identified or reported to the research team, the Minnesota Adult Abuse Reporting
+Center will be contacted (1-844-880-1574) and the participant will be withdrawn from
+the study without their consent.
+Withdrawal Procedures: In instances where care partners or PWMCs wish to withdraw
+from the study, we will determine the reason for study withdrawal, and whether or
+not the care partner or PWMC agrees to still complete regular, brief surveys (either
+online or over the phone) to collect data on outcome variables.  Data prior to
+withdrawal will be used in subsequent analyses unless the dyad does not wish for
+their data to be included at all.
+<<<PAGE 31>>>
+Page 31 of 49 Template Revised On: 11/1/2021
+13.2 Termination Procedures: Following completion of the Phase II study period,
+participants will be asked to return the SR technology to the research team.  We will
+thank them for participating and distribute compensation.  After all participants have
+completed their study period, we will clean and analyze the data, and generate
+reports of the findings.  Data will be securely stored for 5 years or until all
+dissemination efforts have been completed.
+<<<SECTION 14 Risks to Participants>>>
+14 Risks to Participants
+14.1  Foreseeable Risks: Since the study involves no invasive procedures, there will be
+no physical risks to study participants. The consideration of need is potentially stressful, and thus
+there are possible psychological risks for the PWMC and care partner. Since research team has
+considerable experience providing psychosocial support to Alzheimer’s disease and related
+dementia caregivers on various research protocols, serious psychological risks are unlikely to
+occur. The potential social or legal risks for the participants relate only to possible violations of
+confidentiality.
+Complete privacy cannot be guaranteed while using Zoom video conferencing, as some tools
+keep participant data, and we cannot guarantee others are not keeping a log of the discussion.
+Additional steps will be taken by password protecting these dyadic interviews.
+The experience of the University of Minnesota research team will minimize the possibility of
+psychological risks. The unlikelihood of such problems is evident from the absence of any
+clinically significant problems during the past fifteen years that Dr. Gaugler has operated various
+protocols related to dementia caregiving research. Additionally, as another safeguard,
+participants will receive a list of ADRD and caregiving resources (approved) at each time point
+with their baseline and follow-up surveys, during a time where sensitive questions may prompt
+emotional responses related to current and future situations. RA will be trained to interview in
+ways that are non-threatening, friendly, and respectful. We will emphasize to all participants that
+they do not have to complete any question they do not want to answer, and that the interview
+may be terminated at any time according to their wishes. We will stress to care partners or
+PWMCs that their decision to discontinue the study will in no way affect the services they are
+receiving from the University of Minnesota or other entities.
+In the event a care partner or PWMC does become upset during the interview process, the RA
+will contact the PI who will be available for consultation. If a participant is in crisis because of
+their care situation or some other reason, research staff will be instructed to consult with the PI.
+With the participant’s permission, we will then contact the appropriate resource person in an
+external agency (e.g., the Alzheimer’s Association). Based on the research team’s experience
+working with caregiving families, we expect no or very few such instances to occur. If a member
+of the research team does identify neglect or other potentially inappropriate care practices, the
+state Ombudsman will be notified to protect the rights of persons with dementia and their
+families.
+There is a possibility that data collected by AME from the technology, such as location, could be
+lost. This is very unlikely to occur, but participants will be made aware of this risk prior to
+consenting.
+<<<PAGE 32>>>
+Page 32 of 49 Template Revised On: 11/1/2021
+14.2 Reproduction Risks: N/A
+14.3  Risks to Others: N/A
+<<<SECTION 15 Incomplete Disclosure or Deception>>>
+15 Incomplete Disclosure or Deception
+15.2 Incomplete Disclosure or Deception:
+This study will not use incomplete disclosure or deception.
+<<<SECTION 16 Potential Benefits to Participants>>>
+16 Potential Benefits to Participants
+16.1  Potential Benefits: We anticipate that using the smartwatch technology will
+benefit participants by improving social interactions and well-being.
+<<<SECTION 17 Statistical Considerations>>>
+17 Statistical Considerations
+17.1  Data Analysis Plan:
+Phase I Quantitative Analysis: As the aim of Phase I is to examine the feasibility, acceptability,
+and utility of Smartwatch Reminder, the quantitative analyses of Phase I will largely rely on
+descriptive statistics. Specifically, Phase I quantitative analyses will utilize frequency tables and
+means to examine sample characteristics and item-level responses to the 18-item system review
+checklist and context of care items (see appendix). Mean scores for each item, as well as an
+overall summary score for each participant, will be calculated.
+Phase I Qualitative Analysis: Analyses of qualitative treatment fidelity data will primarily focus on
+thematic content analysis of open-ended data to examine Smartwatch utility and mechanisms of
+benefit. As noted by experienced methodologists, systematic reading and rereading of qualitative
+content and hand coding of a significant proportion of this content is necessary in order to
+develop an understanding of meanings in their conversational or observational contexts(38, 39).
+Grounded theory techniques described by Morse(38) and Strauss and Corbin(39) will guide the
+analyses of qualitative data in this evaluation. These approaches allow participants to construct
+meanings, perceptions, and behaviors from their own vantage points. Dr. Mitchell and Dr. Finlay
+will lead open-coding of all available qualitative data: the interview transcripts and RA field notes.
+All qualitative data will be thematically analyzed using Braun and Clarke’s (2006) six steps of
+thematic analysis: (1) familiarization; (2) generation of initial codes; (3) search for themes; (4)
+review themes; (5) define and name themes; and (6) write up of themes analyzed. Researchers
+will follow an iterative process to continually identify themes, linkages, and explanations. Regular
+debriefing and audit trails (clear pathways detailing how the data are collected and managed) will
+enhance transparency and credibility(40). All open-ended data collected will be first read by Dr.
+Mitchell and Dr. Finlay to identify textual elements that emerge repeatedly (i.e., codes); these
+codes will then be clustered into larger categories that are later used to construct major thematic
+elements from the text (with the use of nVivo 10 analytic software). These themes will provide
+insights as to the SR’s implementation and use (i.e., treatment fidelity/process evaluation
+embedded component) and mechanisms of benefit (i.e., semi-structured interview embedded
+component). During weekly meetings in the analysis phase of the proposed project, Dr. Mitchell
+and Dr. Finlay will discuss their own identified codes to reach a consensus about specific codes,
+categories, and themes that emerge from the qualitative data (these decisions will be noted in an
+<<<PAGE 33>>>
+Page 33 of 49 Template Revised On: 11/1/2021
+audit trail). In addition, patterns that link particular themes will be identified and discussed in
+successive meetings between Dr. Mitchell and Dr. Finlay to identify more complex processes of
+Smartwatch use or this technology’s pathways to benefit PWMC and their care partners. During
+monthly team meetings, the development of codes, categories, and themes will be reviewed with
+the other academic investigators (Drs. Gaugler and Jutkowitz) and the AME team to yield any
+additional input into these project components. The multiple team meetings and discussions will
+allow for an exploration of alternative interpretations of the qualitative data and will also provide
+a check regarding the quality and richness of the data collected during the embedded mixed
+methods components.
+Phase II Quantitative Analysis: Data available at baseline and 6 months will allow for a 2x2
+repeated measures analysis of covariance to examine whether use of the SR results in statistically
+significant changes in PWMC negative health transitions and , social interaction, pleasant events,
+social stress, loneliness, , relationship closeness, and community engagement and care partner
+well-being, such as social support, depression and burden (9). The primary independent variable
+in the proposed investigation consists of an indicator variable for random assignment into the SR
+treatment condition or the attention control group. IBM SPSS Statistics 21(41) will be used to
+conduct these analyses, as it supports a range of univariate, bivariate, and multivariate statistical
+analysis procedures. The team has extensive experience conducting longitudinal analyses on their
+prior research on dementia(5, 6, 42-44). Our proposed analyses will provide in-depth tests of the
+study hypotheses. Outcomes will include statistical significance of within-subjects, or 6-month
+change, in those in the Smartwatch Reminder treatment or control groups on key outcome
+variables (see above). Additional analyses will determine if covariates (context of care, mobile
+device proficiency,  and dementia severity indicators) significantly vary across the SR treatment
+and attention control groups at baseline and over 6-months. If statistically significant variations
+between the SR treatment and control groups are found, baseline and/or change scores for these
+covariates will be included in all repeated measures analyses of covariance tests to provide
+additional statistical control.
+Variations in SR use and setting: Empirical treatment fidelity data and context of care measures
+that assess heterogeneity in the use of SR within the treatment condition (e.g., frequency and
+duration of SR use) will be included as a series of additional analyses. These analyses will explore
+the effects of variations in SR use on the outcomes hypothesized above for PWMCs and their care
+partners.
+Phase II Qualitative Analysis: The methods described in Phase I Qualitative Analysis will be
+applied to the open-ended system review checklist responses, as well as the interviews gathered
+at the end of Phase II.
+Phase II mixed methods analysis: Researchers will apply a parallel convergent mixed methods
+design. Quantitative and qualitative data will be collected and analyzed separately, and then
+paired side-by-side for comparison(10, 11). Quantitative analyses are expected to provide
+breadth in presenting group-level trends, while qualitative analyses will provide insight into
+variation within these trends, and allow study participants to identify meaningful SR components
+for themselves. After independent quantitative and qualitative analyses, the results will be paired
+side by side for comparison. Researchers will identify and iteratively discuss areas of convergence
+<<<PAGE 34>>>
+Page 34 of 49 Template Revised On: 11/1/2021
+and divergence to validate the results(10-13). The thematic codes and categories of
+implementation/use and mechanisms of benefit will be cross-tabulated with the empirical data
+from the randomized controlled evaluation to determine whether the findings diverge, converge,
+or highlight pathways toward additional questions and analysis(12, 13). This comparative, mixed
+method analysis approach may suggest how and why PWMCs experience the greatest benefit
+while using the SRS.
+17.2 Power Analysis:
+Phase I: The purpose of Phase I is to evaluate feasibility and utility of the SR
+system, and to identify areas for potential improvement of the technology.  The
+sample size of 20 dyads is appropriate for these objectives.
+Phase II: A repeated measures analysis of covariance (ANCOVA) will be utilized to
+capitalize on the randomized design and the two sets of data that will be collected.
+The number of PWMC-care partner dyads to be enrolled to address study
+hypotheses was determined using power analysis procedures(45, 46). A sample
+size of 100 to identify a medium statistical effect (standardized regression
+coefficient = 0.15) at a suitable level of statistical power (0.80 is considered an
+excellent power value) is able to effectively incorporate up to 6 baseline covariates
+that vary significantly across the randomly assigned Smartwatch Reminder
+treatment and control conditions if they exist (as random assignment is often used
+to ensure statistically comparable treatment and control conditions, we feel this is
+a conservative estimate of baseline covariates)(46). Specifically, we relied on
+statistical power tables by the expert statistician Cohen(46) to conduct our
+assessment of power. As noted in Table 2 of Cohen (1992)(45), an alpha level of
+.05, a medium effect size of .15 (as opposed to using specific measures, Cohen
+operationalized a medium effect size of .15 as one that is observable, and a survey
+across the social sciences suggested that this proposed effect size was close to the
+average of observed effects), and a multiple regression model (similar to an
+ANCOVA) that includes up to 6 covariates requires a sample size of 97. For these
+reasons, an expected sample size of 100 PWMC and care partner dyads will be
+sufficient to conduct the Phase II efficacy evaluation. We anticipate having less
+than a 3% attrition rate which will ensure we maintain sufficient power. As noted
+in various recommendations for mixed methods sampling, 20 participants is
+considered an adequate sample size for semi-structured interview protocols to
+ensure the richness and depth of open-ended data collected(36, 47).
+17.3  Statistical Analysis:
+Statistical analyses used will include calculation of frequencies, bivariate correlations,
+t-tests, chi-square tests, and repeated measures ANCOVA as detailed above.
+17.3 Data Integrity:
+<<<PAGE 35>>>
+Page 35 of 49 Template Revised On: 11/1/2021
+Several steps will be taken to ensure data quality. The psychometric properties of the
+study measures are generally well-established; however, additional steps will be
+taken to ensure the reliability and validity of the study measures. For example,
+internal reliability will be established with Cronbach's alpha (α) estimates for each
+measure and subscale. In addition, construct validity will be comprehensively
+assessed with a confirmatory factor analysis. In this particular method, individual
+items of each measure are loaded onto their latent construct. Indices of fit in
+structural equation models (e.g., Root Mean Square Error of Approximation = .05,
+Goodness of Fit Index =.97, Non-Normative Fit Index = .93 and Comparative Fit Index
+= .97; ‘excellent’ fit is demonstrated in models where p > .05, RMSEA < .05, GFI >.92,
+NNFI >.95 and CFI > .95)(32) then act as tests of significance for the construct validity
+of each measure. These procedures will help to establish the psychometric qualities
+of each tool beyond their utilization in prior study. Each outcome variable will be
+examined to determine if skewness exists or outliers are present. Normal probability
+plots and histograms of each dependent variable will be analyzed; this step is
+necessary because individual outcome variables must have near-normal distributions
+in order to be included in subsequent models. If the outcome variables are not
+normally distributed, the original variables can be subjected to algebraic
+transformations or other standard transformation techniques to meet model
+assumptions(9).
+<<<SECTION 18 Health Information and Privacy Compliance>>>
+18 Health Information and Privacy Compliance
+18.1 Select which of the following is applicable to your research:
+✔ My research does not require access to individual health information and
+therefore assert HIPAA does not apply.
+☐ I am requesting that all research participants sign a HIPCO approved HIPAA
+Disclosure Authorization to participate in the research (either the standalone
+form or the combined consent and HIPAA Authorization).
+☐ I am requesting the IRB to approve a Waiver or an alteration of research
+participant authorization to participate in the research.
+Appropriate Use for Research:
+☐ An external IRB (e.g. Advarra) is reviewing and we are requesting use of the
+authorization language embedded in the template consent form in lieu of the U
+of M stand-alone HIPAA Authorization.  Note: External IRB must be serving as
+the privacy board for this option.
+18.2 Identify the source of Private Health Information you will be using for your
+research (Check all that apply)
+<<<PAGE 36>>>
+Page 36 of 49 Template Revised On: 11/1/2021
+☐ I will use the Informatics Consulting Services (ICS) available through CTSI (also
+referred to as the University's Information Exchange (IE) or data shelter) to pull
+records for me
+✔ I will collect information directly from research participants.
+☐ I will use University services to access and retrieve records from the Bone
+Marrow Transplant (BMPT) database, also known as the HSCT (Hematopoietic
+Stem Cell Transplant) database.
+☐ I will pull records directly from EPIC.
+☐ I will retrieve record directly from axiUm / MiPACS
+☐ I will receive data from the Center for Medicare/Medicaid Services
+✔ I will receive a limited data set from another institution
+☐ Other.  Describe:
+18.3 Explain how you will ensure that only records of patients who have agreed to have
+their information used for research will be reviewed: N/A, not reviewing records
+18.4 Approximate number of records required for review:
+N/A
+18.5 Please describe how you will communicate with research participants during the
+course of this research.  Check all applicable boxes
+☐ This research involves record review only. There will be no communication with
+research participants.
+☐ Communication with research participants will take place in the course of
+treatment, through MyChart, or other similar forms of communication used
+with patients receiving treatment.
+✔ Communication with research participants will take place outside of treatment
+settings. If this box is selected, please describe the type of communication and
+how it will be received by participants.
+Participants will be communicated with via telephone, Zoom, mail, and
+email. As part of the consent form, participants will agree or not to use
+unencrypted email for communication throughout the study. If a participant
+requests the use of encrypted emails, we will do so. PHI will not be sent to
+participants via any form of communication.
+<<<SECTION 18.6 Access to participants>>>
+18.6 Access to participants
+Only participants who have consented and agreed to participate in the research
+will be included. All information obtained from the participants will remain
+<<<PAGE 37>>>
+Page 37 of 49 Template Revised On: 11/1/2021
+strictly confidential and will not be released except at the express written
+request of the study participant.
+18.7 Location(s) of storage, sharing and analysis of research data, including any
+links to research data (check all that apply).
+☐ In the data shelter of the Information Exchange (IE)
+☐ Store ☐ Analyze ☐ Share
+☐ In the Bone Marrow Transplant (BMT) database, also known as the HSCT
+(Hematopoietic Stem Cell Transplant) Database
+☐ Store ☐ Analyze ☐ Share
+☐ In REDCap (recap.ahc.umn.edu)
+☐ Store ☐ Analyze ☐ Share
+✔ In Qualtrics (qualtrics.umn.edu)
+✔ Store  ☐ Analyze ✔ Share
+☐ In OnCore (oncore.umn.edu)
+☐ Store ☐ Analyze ☐ Share
+✔ In the University’s Box Secure Storage (box.umn.edu)
+✔ Store  ✔ Analyze ✔ Share
+✔ In an AHC-IS supported server. Provide folder path, location of server and IT
+Support Contact:  https://remote-access.ahc.umn.edu S:\Public_Health_Center-on-
+Aging\Mikal\Smartwatch Memory Aid Troy Karkula
+✔ Store  ✔ Analyze ✔ Share
+In an AHC-IS supported desktop or laptop.
+Provide UMN device numbers of all devices:
+All data will be stored in an AHC-IE Data Shelter which is a virtual Windows server
+that provides researchers a secure environment in which to work with clinical data.
+All viewing and manipulation of the data will take place within the Data Shelter. All
+data is password protected and only personnel named on our IRB protocol will be
+given permission to login to the Shelter to view and analyze the requested data.
+Furthermore, per the policies of the AHC-IE, only authorized users who have
+completed HIPAA training will be granted access. The data will be maintained in the
+AHC-IE Data Shelter for 2-3 years after the conclusion of Phase II, which is the time
+<<<PAGE 38>>>
+Page 38 of 49 Template Revised On: 11/1/2021
+anticipated it will take to disseminate any and all research papers or presentations
+from these data.
+Store       Analyze       Share
+✔ Other.
+Similarly, paper forms of the data will be located in a locked file cabinet in Dr.
+Mikal’s research office only accessible to him, and other approved research staff.
+Unless the data are being filed or accessed, these cabinets will remain locked.
+Indicate if  data will be collected, downloaded, accessed, shared or stored using a
+server, desktop, laptop, external drive or mobile device (including a tablet computer
+such as an iPad or a smartform (iPhone or Android devices) that you have not
+already identified in the preceding questions
+☐I will use a server not previously listed to collect/download research data
+✔ I will use a desktop or laptop not previously listed
+☐I will use an external hard drive or USB drive (“flash” or “thumb” drives) not
+previously listed
+☐I will use a mobile device such as an tablet or smartphone not previously listed
+18.8 Consultants. Vendors. Third Parties: Semi-structured interview recordings will be
+sent to ProductionTranscripts for transcription. Audio recordings and transcripts are
+shared between the UMN and ProductionTranscripts via ProductionTranscripts’
+secure transfer website. De-identified transcripts may be analyzed in NVivo
+software, which is on the AHC Secure Server. On the AHC Secure Server, participant
+data may be analyzed using SPSS or R.
+18.9 Links to identifiable data: 2-3 years after phase II is completed, any identifiable data
+and the link will be destroyed.
+18.10 Sharing of Data with Research Team Members. Team members will have access to
+data on the server, Qualtrics, Box, and paper forms in Dr. Mikal’s office, as
+indicated above.
+18.11 Storage of Documents: paper forms of the data will be located in a locked
+file cabinet in Dr. Mikal’s research office only accessible to him and other
+approved research staff.  Unless the data are being filed or accessed, these
+cabinets will remain locked.
+18.12 Disposal of Documents: Identifiable data will be destroyed 2-3 years after
+the conclusion of phase II in order to disseminate findings.
+<<<PAGE 39>>>
+Page 39 of 49 Template Revised On: 11/1/2021
+<<<SECTION 19 Confidentiality>>>
+19 Confidentiality
+19.1  Data Security:
+A copy of the consent form or other research study information will not be placed in the
+participants’ medical, employment, or educational records.
+The research team will not access any medical records or other sources of private information
+about participants, apart from the information provided directly by participants in surveys,
+interviews, or direct communication with research team members.
+20 Provisions to Monitor the Data to Ensure the Safety of Participants
+20.1 Data Integrity Monitoring.
+As the proposed project will pose minimal risks to study participants the Principal
+Investigator (Dr. Gaugler in Phase I and Dr. Mikal in Phase II) and Co-Investigators, Dr.
+Mitchell, Dr. Finlay, and Dr. Jutkowitz, will serve as the primary monitoring entities of this
+study.
+In addition to ongoing review of protocol and human subjects research compliance during
+weekly project meetings with research staff, the research coordinators and the Co-Is (Dr.
+Mitchell, Dr. Finlay, and Dr. Jutkowitz) will generate quarterly reports (every 3 months)
+and will randomly audit 3 cases every 3 months to ensure that each case complies with
+Institutional Review Board (IRB) requirements, including use of IRB-approved forms
+(particularly the verbal consent form) and that each staff person on the proposed project
+adheres to the study protocol.  In both weekly meetings and quarterly audit reports, the
+Co-Is will actively work with project staff to minimize research-associated risk and protect
+confidentiality of participant data (see Protection of Human Research Subjects).
+The research coordinators and the Co-Is, Dr. Mitchell, Dr. Finlay, and Dr. Jutkowitz, (who
+have oversight for the data management and analysis of the project), will produce a
+quarterly audit report that will highlight the results of the audit analysis as well as study
+progress.  In addition, the report will provide information on any deviations from the
+approved protocol (e.g., deviations in adhering to study eligibility criteria), error rates, and
+any other issues related to the progress of the study.  The PI will review the audit report
+to ensure ongoing quality control, and will work with the Co-Is if needed, to ascertain if
+audited cases deviate from the approved study protocol.  Audit reports are described in
+more detail below.
+As noted above, the proposed study involves no invasive procedures and there will be no
+physical risks to study participants. The consideration of need is potentially stressful, and
+thus there are possible psychological risks for PWMC and their care partners. However,
+potential participants with a history of serious mental illness (i.e., any major psychiatric
+disorder) will not be included in the study and since the research team has considerable
+<<<PAGE 40>>>
+Page 40 of 49 Template Revised On: 11/1/2021
+experience providing psychosocial support to dementia caregivers on various research
+protocols, serious psychological risks are unlikely to occur. The potential social or legal
+risks for the participants relate only to possible violations of confidentiality.
+Quarterly audit reports.  The research coordinators and the Co-Is, Dr. Mitchell, Dr. Finlay, and Dr.
+Jutkowitz (who also have oversight for the data management and analysis of the project), will
+produce a quarterly audit report that will highlight the results of the audit analysis as well as
+study progress.  In addition, the report will provide information on any deviations from the
+approved protocol (e.g., deviations in adhering to study eligibility criteria), error rates, and any
+other issues related to the progress of the study.  The PI will review the audit report to ensure
+ongoing quality control, and will work with the Co-Is if needed, to ascertain if audited cases
+deviate from the approved study protocol.  In instances of adverse events occurring, related to
+the intervention (see below), the PI, the NIA project officer, and the University of Minnesota IRB
+will be notified immediately.
+The audit reports will include the following: Table of contents, Narrative/trial summary, Summary
+of main findings, Discussion of issues or problems, Report preparation procedures, Study
+description, Project organizational chart, personnel, Brief statement of purpose of trial, Projected
+timetable and schedule, Study administration, Recruitment and participant status, Table 1:
+Enrollment by year or month of study, Figure 1: Comparison of target to actual enrollment by
+month, Forms status (e.g., consent, completing of screener, baseline assessment battery, etc.).
+20.2 Data Safety Monitoring.
+Monitoring study safety.  In both weekly meetings and quarterly audit reports, the Co-Is
+will actively work with project staff to minimize research-associated risk and protect
+confidentiality of participant data (see Protection of Human Research Subjects).  Research
+staff will be trained to interview in ways that are non-threatening, friendly, and respectful.
+We will emphasize to all participants that they do not have to complete any question they
+do not want to answer, and that the interview may be terminated at any time according
+to their wishes.  We will stress to participants that their decision to discontinue the study
+will in no way affect the services they are receiving from the University of Minnesota or
+other entities.
+In the event a participant does become upset during the interview process, research staff
+will contact the PI, who will be available for consultation.  If a participant is in crisis
+because of their care situation or some other reason, research staff will be instructed to
+consult with the PI.  With the participant’s permission, we will then contact the
+appropriate resource person in an external agency (e.g., the Alzheimer’s Association).
+Based on the research team’s experience working with persons with dementia their
+caregiving families, we expect no or very few such instances to occur.  If a member of the
+research team does identify neglect or other potentially inappropriate care practices, the
+state Ombudsman will be notified to protect the rights of persons with dementia and their
+families.
+<<<PAGE 41>>>
+Page 41 of 49 Template Revised On: 11/1/2021
+Reporting Adverse Events and Unanticipated Problems. In addition to ongoing monitoring of
+protocol and human subjects compliance and reporting and the production of bi-annual case
+audits to the PI, the Co-Is will generate safety reports on an ongoing basis that will list adverse
+events, serious events, unexpected events, events related to or associated with the intervention,
+and the potential causality of the intervention to the event for each participant if they occur.
+Taken from the September 2002 National Institutes of Mental Health policy on Data and Safety
+Monitoring in Clinical Trials and the Guidance on Reporting Adverse Events to Institutional
+Review Board for NIH-Supported Multicenter Trials (as suggested in the Policy of the National
+Institute of Nursing Research for Data and Safety Monitoring of Clinical Trials), the definition of
+each event is as follows:
+Adverse event.  Any untoward medical occurrence in a patient or clinical investigation
+participant which does not necessarily have to have a causal relationship with the
+treatment. An adverse event can therefore be any unfavorable and unintended sign
+(including an abnormal laboratory finding, for example), symptom, or disease temporally
+associated with the use of [an intervention], whether or not considered related to the
+[interventions].
+Serious adverse event.  Any adverse experience that results in any of the following
+outcomes: death, a life threatening experience, inpatient hospitalization, a persistent or
+significant disability/incapacity, or a congenital anomaly/birth defect. Important medical
+events that may not result in death, be life threatening, or require hospitalization, may be
+considered a serious adverse drug experience when based upon appropriate medical
+judgment, they may require medical or surgical intervention to prevent one of the
+outcomes listed in this definition.
+Unexpected.  Any adverse experience, the specificity or severity of which is not consistent
+with the risks information described in the protocol or consent documents.
+Related to (or associated with) the intervention.  There is a reasonable possibility that the
+experience may have been caused by the intervention.
+Causality.  A reasonable possibility that the product is etiologically related to the adverse
+event. Causality assessment includes, for example, assessment of temporal relationships,
+dechallenge/rechallenge information, association with (or lack of association with)
+underlying disease, presence (or absence) of a more likely cause, plausibility, etc.
+In the instance of an adverse event, the Co-Is will classify whether the event is unexpected,
+adverse, or seriously adverse, whether the event is unexpected or related to the intervention,
+and what potentially caused the event.  The Co-Is will review study-related data on an ongoing
+basis and will alert the PI, University of Minnesota IRB, and the NIA program officer as well as NIA
+if these events occur.  Specifically, the Co-Is will utilize an adverse event form that will provide
+detail on the occurrence (who, what, when, where, why if relevant) of any adverse, serious
+adverse, unexpected/unanticipated event and whether these events were related to the
+Smartwatch Reminder system.  All adverse event reports and any additional documentation will
+be further provided and collated in the quarterly audit reports for review by the PI, University of
+Minnesota IRB, and the NIA project officer.
+<<<PAGE 42>>>
+Page 42 of 49 Template Revised On: 11/1/2021
+<<<SECTION 21 Compensation for Research-Related Injury>>>
+21 Compensation for Research-Related Injury
+21.1 Compensation for Research-Related Injury:
+The research involves no greater than Minimal Risk to participants, and
+research-related injury is not anticipated.
+21.2 Contract Language: N/A
+<<<SECTION 22 Consent Process>>>
+22 Consent Process
+22.1 Consent Process (when consent will be obtained):
+In Phase I, care partners and PWMC will take part in a brief consent and enrollment procedure via
+Zoom, during the first hour of the dyadic interview. The research staff will read the verbal
+consent form verbatim over Zoom to the care partners, and give them the opportunity to ask
+questions prior to consenting to participate. Care partners will be asked to provide verbal consent
+to participate after the consent form is read to them verbatim. Completed consent forms will be
+emailed to care partners and PWMC for their records. In Phase II, care partners will be asked to
+provide verbal consent to participate. After volunteering to participate, the RA will schedule a
+brief screening, consent and enrollment procedure to take place either via Zoom or telephone.
+In Phase I and II, we will use the UCSD Brief Assessment of Capacity to Consent (UBACC) to
+determine whether PWMC participants are capable of providing consent for themselves. In phase
+I, we will also administer a cognitive screening test called the Mini-Cog to screen for presence of
+dementia. In Phase I, these will be administered via Zoom. The UCSD Brief Assessment of
+Capacity to Consent will be administered verbally, as usual in Phases I and II. In Phase II,
+individuals with a UBACC score of 14.5 or higher are considered able to have the capacity to
+consent and will be asked to consent to participation. While individuals with a UBACC score lower
+than 14.5 do not and will be asked to assent to participation. In Phase II, assent will be
+documented by asking the participant to verbally sign an assent form after it is read verbatim to
+them. Afterwards, the assent form will be emailed to the participant for their records. All
+potential participants will be informed of the research objectives and procedures to the greatest
+extent that is compatible with their understanding.
+All questions in the Mini-Cog are administered verbally except for one question that requires
+drawing of an analog clock face. To administer this question will ask the care partner to draw a
+circle on a standard sheet of paper so the PWMC can complete the assessment by drawing the
+clock face on the circle. The RA will show the care partner a piece of paper with a circle drawn on
+it for reference to ensure proper circle size. Those with a Mini-Cog score of 3 or higher and are
+able to provide consent personally will be asked to provide verbal consent for Phase I.  Those
+who are not able to provide consent personally or with a Mini-Cog score of 2 or below will be
+asked to assent to participate. In that case, assent will be documented by asking the participant
+to verbally sign an assent form after it is read verbatim in Phase I  (attached). In Phase I, the
+<<<PAGE 43>>>
+Page 43 of 49 Template Revised On: 11/1/2021
+assent form will be emailed to the participant for their records.  All potential participants will be
+informed of the research objectives and procedures to the greatest extent that is compatible with
+their understanding. Participants with impaired capacity to consent will be closely monitored,
+and will be withdrawn from the study if they appear unduly distressed. We will re-administer the
+UBACC  during follow-up with Phase II participants who are PWMC to ensure ongoing consent or
+assent to participation.
+In Phase II, dyads will be encouraged to go through the consent process together at the same
+time, such as on Zoom. However, not all dyads will live together or have access to Zoom
+technology. Therefore, CP and PWMC will have the option of consenting over the phone.
+Additionally, CP will have the option of filling out their consent form online in Qualtrics once it
+has been summarized for them over the phone. Given the nature of administering the UBACC and
+the consent/assent process for PWMC, they can only provide consent/assent over the phone or
+Zoom.
+Due to the natural progression of AD/ADRD and the length of the study, PWMC will be reassessed
+for their capacity to consent and re-assent or re-consent to participate in the research at 3- and
+6-month time points. We will read a script to the CP over the telephone to communicate our
+follow-up procedures. We will then use the UCSD Brief Assessment of Capacity to Consent to
+determine whether PWMC are capable of providing consent for themselves. Those who are not
+able to provide consent will be asked to re-assent to participate, in which case, assent will be
+documented by asking the participant to verbally sign an assent form (attached). Those who are
+able to provide consent will be asked to re-consent to participate using the brief follow-up
+consent form (attached). Prior to beginning the semi-structured interview (within one month of
+the 3 or 6-month PWMC reassent/consent), a brief Informed Particpation statement will be read
+to the Care Partner and Person with Memory Concerns, then allowing each of them to ask
+questions or decide not to participate. If needed, the research coordinator or research assistant
+will resend the 3 or 6 month consent/re-assent form for full details.
+22.2          Waiver or Alteration of Consent Process (when consent will not be obtained,
+required information will not be disclosed, or the research involves deception):
+N/A
+<<<SECTION 22.3 Waiver of Written/Signed Documentation of Consent (when written/signed>>>
+22.3 Waiver of Written/Signed Documentation of Consent (when written/signed
+consent will not be obtained):
+Due to COVID-19 concerns for the vulnerable population being studied and to improve
+convenience for dyads, UMN staff will administer a verbal consent form to participants via
+Zoom or the telephone using a consent script. A verbal consent or assent form will be
+administered to PWMC, as determined by scores on the UCSD Brief Assessment of Capacity
+to Consent, via Zoom using a script.  As all scripts state, participants will be asked if they have
+any questions regarding the study prior to asking for their consent or assent to participate.
+The research staff will document the care partner and PWMC’s's verbal consent or assent by
+<<<PAGE 44>>>
+Page 44 of 49 Template Revised On: 11/1/2021
+signing the form. This consent and assent forms will be completed by the research team or
+participants electronically via Qualtrics.
+The consent and assent forms/scripts were developed using IRB-templates. If a participant
+enrolls, a copy of the completed consent or assent form (signed by the research team if
+consenting online) will be emailed to the participant for their records.
+The study does not involve newborn dried blood spots.
+22.4 Non-English Speaking Participants:
+N/A – All participants will be English-speaking
+22.5 Participants Who Are Not Yet Adults (infants, children, teenagers under 18 years of
+age):
+N/A – All participants will be over the age of 18.
+22.6 Cognitively Impaired Adults, or adults with fluctuating or diminished capacity to
+consent:
+Care partners will be asked to provide verbal consent to participate. We will use the UCSD
+Brief Assessment of Capacity to Consent to determine whether PWMC participants are
+capable of providing consent for themselves.  Those who are not able to provide consent
+personally will be asked to assent to participate.  In that case, assent will be documented by
+asking the participant to verbally sign an assent form after it is read verbatim (attached).   All
+potential participants will be informed of the research objectives and procedures to the
+greatest extent that is compatible with their understanding.
+22.7 Adults Unable to Consent:
+22.7.1 Permission:
+The care partner enrolling in the study with the care recipient will be
+responsible for signing with the person with diminished capacity to
+consent.
+22.7.2 Assent:
+As noted above, we will use the UCSD Brief Assessment of Capacity to
+Consent to determine whether PWMC participants are capable of
+providing consent for themselves.  Those who are not able to provide
+consent personally will be asked to assent to participate.  In that case,
+assent will be documented by asking the participant to verbally sign
+an assent form after it is read verbatim (attached).
+22.7.3 Dissent:
+<<<PAGE 45>>>
+Page 45 of 49 Template Revised On: 11/1/2021
+The assent form will not be verbally signed by the person with
+diminished capacity to consent if they do not assent to participate in
+the research.
+<<<SECTION 23 Setting>>>
+23 Setting
+23.3 Research Sites:
+Participants will be recruited through the University of Minnesota Caregiver Registry. Dr.
+Gaugler and his evaluation team developed and actively maintain the Registry based on their
+community outreach and education efforts on Alzheimer’s disease and related dementias. All
+individuals in the Registry have provided permission for Dr. Gaugler and his team to contact
+them to participate in research. The registry includes 675 family members of PWMCs and 316
+professionals as of August 2018, and calls for new registry participants occur annually from
+March to June. The RA, Dr. Mikal, Dr. Mitchell, or Dr. Jutkowitz will initiate email, telephone,
+or mail contact with family members on the Registry. In addition, Dr. Mikal, Dr. Mitchell, or
+Dr. Jutkowitz will ask professional care providers on the Registry to identify potential family
+members for recruitment purposes, including family members of diverse ethnic or racial
+origin and geographic location (given that many provide care to under-represented older
+persons). In addition, Dr. Gaugler has conducted several prior and ongoing evaluations of
+early-stage dementia support programs throughout the Minneapolis/St. Paul area and works
+with several memory clubs and programs for PWMC. Dr. Gaugler will contact each of these
+programs, in addition to the early-stage services coordinator at the Minnesota-North Dakota
+Alzheimer’s Association Regional Office with whom he has collaborated to further identify
+PWMCs and their care partners for the proposed project. Dr. Gaugler also holds an annual
+Caring For Persons with Memory Loss Conference where participants will be recruited. Dr.
+Gaugler also directs the Center for Healthy Aging and Innovation which hosts events among
+our target population, which may also be used for recruitment. Participants may also be
+recruited via ads on Facebook or in newspapers. Finally, Dr. Gaugler is a member of the Care
+Options Network, and will post an invitation to participate to Network members.
+In Phase I, interaction with participants will take place in a HIPAA-compliant video
+conferencing platform, Zoom. In Phase II, interaction with participants will take place via
+telephone, email or Zoom communication. In other instances, if requested, interaction may
+take place in a private office room in Mayo Memorial Building (Dr. Mikal’s research office) .
+23.4 International Research:
+N/A – the research will only take place in Minnesota
+23.5 Community Based Participatory Research:
+N/A – the research will not involve community-based partners
+<<<SECTION 24 Multi-Site Research>>>
+24 Multi-Site Research
+N/A
+<<<SECTION 25 Coordinating Center Research>>>
+25 Coordinating Center Research
+<<<PAGE 46>>>
+Page 46 of 49 Template Revised On: 11/1/2021
+N/A
+<<<SECTION 26 Resources Available>>>
+26 Resources Available
+26.3 Resources Available:
+Advanced Medical Electronics (AME) has a 9,220 square foot office and engineering facility in
+Maple Grove, Minnesota. Design work will take place in this facility. A complete set of tools
+and resources are maintained in this facility for the design, testing, and manufacturing of
+electronic medical devices and their associated software packages. AME is well equipped
+with electronic test equipment including digital oscilloscopes, logic analyzers, frequency
+analyzers, signal sources, digital meters, and power supplies. AME maintains a prototype
+fabrication capability for electronics circuit assembly, metal-working, and plastic fabrication.
+Mechanical design tools include a full CAD seat of Pro-E. AME owns several embedded
+processor emulator systems to support the development of embedded code. AME maintains
+a suite of Silvaco, Inc. integrated circuit design CAD tools. More details for AME resources
+available to support the proposed research and development tasks are provided below in the
+equipment section.
+Dr. Gaugler is a Professor and Dr. Mikal is a Research Scientist at the University of
+Minnesota’s School of Public Health. The School of Public Health is among the top schools of
+public health in the nation. For the last four out of five years, the School has attracted more
+National Institutes of Health research funding than any other public university school of
+public health. The School has strong links to the community in our backyard and around the
+globe and has ranked in the top ten among public university schools of public health in total
+grants and contracts. The Division of Health Policy and Management’s educational programs
+feature five majors and dozens of opportunities for joint degrees and certificates. The
+Division has extensive research and educational management capabilities, including a full-
+time administrator, several full-time student administrators, a financial management staff,
+computer services (including programmer/analysts), and an available publications staff. At
+present there are over 75 research projects underway totaling over $50 million dollars and
+employing over 90 research assistants.
+<<<SECTION 27 References>>>
+27 References
+1. Nolan BA, Mathews RM, Harrison M. Using external memory aids to increase room finding
+by older adults with dementia. Am J Alzheimers Dis Other Demen. 2001;16(4):251-4. PMID:
+11501349.
+2. Bourgeois MS, Hickey E. Dementia: From diagnosis to management-A functional
+approach: New York, NY: Taylor & Francis; 2011.
+3. Fried-Oken M, Rowland C, Baker G, Dixon M, Mills C, Schultz D, Oken B. The Effect of
+Voice Output on the AAC-Supported Conversations of Persons with Alzheimer's Disease. ACM
+Trans Access Comput. 2009;1(3):15. PMCID: PMC3141213.
+4. Bharucha AJ, Anand V, Forlizzi J, Dew MA, Reynolds CF 3rd, Stevens S, Wactlar H.
+Intelligent assistive technology applications to dementia care: current capabilities, limitations, and
+future challenges. Am J Geriatr Psychiatry. 2009;17(2):88-104. PMCID: PMC2768007.
+<<<PAGE 47>>>
+Page 47 of 49 Template Revised On: 11/1/2021
+5. Gaugler JE, Zmora R, Mitchell LL, Finlay JM, Peterson CM, McCarron H, Jutkowitz E. Six-
+Month Effectiveness of Remote Activity Monitoring for Persons Living With Dementia and Their
+Family Caregivers: An Experimental Mixed Methods Study. Gerontologist. 2019;59(1):78-89.
+PMID: 29982413; PMCID: PMC6326253.
+6. Mitchell LL, Peterson CM, Rud SR, Jutkowitz E, Sarkinen A, Trost S, Porta CM, Finlay JM,
+Gaugler JE. "It's Like a Cyber-Security Blanket": The Utility of Remote Activity Monitoring in
+Family Dementia Care. J Appl Gerontol. 2018:733464818760238. PMID: 29504488; PMCID:
+PMC6353693.
+7. Hamel AV, Sims TL, Klassen D, Havey T, Gaugler JE. Memory Matters: A Mixed-Methods
+Feasibility Study of a Mobile Aid to Stimulate Reminiscence in Individuals With Memory Loss. J
+Gerontol Nurs. 2016;42(7):15-24. PMCID: PMC5458778.
+8. Garlinghouse A, Rud S, Johnson K, Plocher T, Klassen D, Havey T, Gaugler JE. Creating
+objects with 3D printers to stimulate reminiscence in memory loss: A mixed-method feasibility
+study. Inform Health Soc Care. 2018;43(4):362-78. PMID: 28786714; PMCID: PMC6375677.
+9. Tabachnick BG, Fidell LS. Using multivariate statistics. 5th ed. Boston, MA: Allyn &
+Bacon/Pearson Education; 2007.
+10. Creswell JW. A Concise Introduction to Mixed Methods Research. Los Angeles, CA:
+SAGE Publications; 2014.
+11. Finlay JM, Kobayashi LC. Social isolation and loneliness in later life: A parallel convergent
+mixed-methods case study of older adults and their residential contexts in the Minneapolis
+metropolitan area, USA. Soc Sci Med. 2018;208:25-33. PMID: 29758475.
+12. Creswell JW, Clark VLP. Designing and conducting mixed methods research: Wiley Online
+Library; 2007.
+13. Morse J, Niehaus L. Mixed Method Design: Principles and Procedures. Walnut Creek, CA:
+Left Coast Press, Inc.; 2009.
+14. Backinger CL, Kingsley PA. Write it right: Recommendations for developing user
+instruction manuals for medical devices used in home health care. Washington, DC: Food and
+Drug Administration, 1993 HHS Publication FDA 93-4258.
+15. Tariq SH, Tumosa N, Chibnall JT, Perry MH 3rd, Morley JE. Comparison of the Saint
+Louis University mental status examination and the mini-mental state examination for detecting
+dementia and mild neurocognitive disorder--a pilot study. Am J Geriatr Psychiatry.
+2006;14(11):900-10. PMID: 17068312.
+16. Katz S, Ford AB, Moskowitz RW, Jackson BA, Jaffe MW. Studies of Illness in the Aged.
+The Index of Adl: A Standardized Measure of Biological and Psychosocial Function. JAMA.
+1963;185:914-9. PMID: 14044222.
+17. Graf C. The Lawton instrumental activities of daily living scale. Am J Nurs. 2008;108(4):52-
+62; quiz -3. PMID: 18367931.
+18. Lawton MP, Brody EM. Assessment of older people: self-maintaining and instrumental
+activities of daily living. Gerontologist. 1969;9(3):179-86. PMID: 5349366.
+19. Anashensel CS, Pearlin CI, Mullan JT, Zarit SH, Whitlatch CJ. Profiles in caregiving: The
+unexpected career. San Diego, CA: Academic Press; 1995.
+20. Pearlin LI, Mullan JT, Semple SJ, Skaff MM. Caregiving and the stress process: an
+overview of concepts and their measures. Gerontologist. 1990;30(5):583-94. PMID: 2276631.
+21. Teri L, Truax P, Logsdon R, Uomoto J, Zarit S, Vitaliano PP. Assessment of behavioral
+problems in dementia: the revised memory and behavior problems checklist. Psychol Aging.
+1992;7(4):622-31. PMID: 1466831.
+22. Gaugler JE, Kane RL, Kane RA. Family care for older adults with disabilities: toward more
+targeted and interpretable research. Int J Aging Hum Dev. 2002;54(3):205-31. PMID: 12148687.
+<<<PAGE 48>>>
+Page 48 of 49 Template Revised On: 11/1/2021
+23. Roth DL, Mittelman MS, Clay OJ, Madan A, Haley WE. Changes in social support as
+mediators of the impact of a psychosocial intervention for spouse caregivers of persons with
+Alzheimer's disease. Psychol Aging. 2005;20(4):634-44. PMID: 16420138.
+24. Logsdon RG, Teri L. The Pleasant Events Schedule-AD: psychometric properties and
+relationship to depression and cognition in Alzheimer's disease patients. Gerontologist.
+1997;37(1):40-5. PMID: 9046704.
+25. Teri L, Logsdon RG. Identifying pleasant activities for Alzheimer's disease patients: the
+pleasant events schedule-AD. Gerontologist. 1991;31(1):124-7. PMID: 2007468.
+26. Pellicciari, L., Chiarotto, A., Giusti, E., Crins, M. H. P., Roorda, L. D., & Terwee, C. B.
+(2021). Psychometric properties of the patient-reported outcomes measurement information
+system scale v1.2: global health (PROMIS-GH) in a Dutch general population. Health and Quality
+of Life Outcomes, 19(1), 226-226.
+27. Roque, N. A., & Boot, W. R. (2018). A new tool for assessing mobile device proficiency in
+older adults: the mobile device proficiency questionnaire. Journal of Applied Gerontology, 37(2),
+131-156. 28. Hughes ME, Waite LJ, Hawkley LC, Cacioppo JT. A Short Scale for Measuring
+Loneliness in Large Surveys: Results From Two Population-Based Studies. Research on Aging.
+2004;26(6):655-672. doi:10.1177/0164027504268574
+29. Rosenthal DA, Gurney RM, Moore SM. From trust on intimacy: A new inventory for
+examining erikson's stages of psychosocial development. J Youth Adolesc. 1981;10(6):525-37.
+PMID: 24310543.
+30. Radloff LS. Scale: A Self-Report Depression Scale for Research in the General
+Population. J Clin Exp Neuropsychol. 1977;19:34-356.
+31. Weissman MM, Sholomskas D, Pottenger M, Prusoff BA, Locke BZ. Assessing depressive
+symptoms in five psychiatric populations: a validation study. Am J Epidemiol. 1977;106(3):203-14.
+PMID: 900119.
+32. Whitlatch CJ, Schur D, Noelker LS, Ejaz FK, Looman WJ. The stress process of family
+caregiving in institutional settings. Gerontologist. 2001;41:462-473.
+33. Bowen DJ, Kreuter M, Spring B, Cofta-Woerpel L, Linnan L, Weiner D, Bakken S, Kaplan
+CP, Squiers L, Fabrizio C, Fernandez M. How we design feasibility studies. Am J Prev Med.
+2009;36(5):452-7. PMCID: PMC2859314.
+34. Creswell JW, Fetters MD, Plano Clark VL, Morales A. Mixed methods intervention trials.
+In: Andrew S, Halcomb EJ, editors. Mixed Methods Research for Nursing and the Health
+Sciences: Oxford: Wiley-Blackwell; 2009. p. 161-80.
+35. Victor CR, Ross F, Axford J. Capturing lay perspectives in a randomized control trial of a
+health promotion intervention for people with osteoarthritis of the knee. J Eval Clin Pract.
+2004;10(1):63-70. PMID: 14731152.
+36. Teddlie C, Yu F. Mixed methods sampling a typology with examples. J Mix Methods Res.
+2007;1(1):77-100.
+37. Richards L. NVivo Qualitative Data Analysis Software Version 11.0. 2016.
+38. Morse JM, Field PA. Qualitative research methods for health professionals. Sage; 1995.
+39. Straus A, Corbin J. Basics of qualitative research: Techniques and procedures for
+developing grounded theory. 2nd ed. 1998.
+40. Marshall C, Rossman GB. Designing qualitative research: SAGE Publications; 2014.
+41. IBM Corporation. IMB SPSS statistics for Windows. 2012.
+42. Finlay JM, Davila H, Whipple MO, McCreedy EM, Jutkowitz E, Jensen A, Kane RA. What
+we learned through asking about evidence: A model for interdisciplinary student engagement.
+Gerontol Geriatr Educ. 2018:1-15. PMID: 29364792; PMCID: PMC6057849.
+<<<PAGE 49>>>
+Page 49 of 49 Template Revised On: 11/1/2021
+43. Jutkowitz E, Kane RL, Gaugler JE, MacLehose RF, Dowd B, Kuntz KM. Societal and
+Family Lifetime Cost of Dementia: Implications for Policy. J Am Geriatr Soc. 2017;65(10):2169-75.
+PMCID: PMC5657516.
+44. Jutkowitz E, MacLehose RF, Gaugler JE, Dowd B, Kuntz KM, Kane RL. Risk Factors
+Associated With Cognitive, Functional, and Behavioral Trajectories of Newly Diagnosed Dementia
+Patients. J Gerontol A Biol Sci Med Sci. 2017;72(2):251-8. PMCID: PMC5344797.
+45. Cohen J. A power primer. Psychol Bull. 1992;112(1):155-9. PMID: 19565683.
+46. Cohen J. Statistical Power Analysis for the Behavioral Sciences. 2nd ed. Lawrence
+Erlbaum Associates, Publishers; 1988.
+47. Collins KM, Onwuegbuzie AJ, Jiao QG. A mixed methods investigation of mixed methods
+sampling designs in social and health science research. J Mix Methods Res. 2007;1(3):267-94.
+48. Gaugler JE. Final report: Contemporary journeys pilot evaluation. 2010.
+49. Gaugler JE. Final report: Discover your story. 2010.
+50.  Langa K, M, Plassman B, L, Wallace R, B, Herzog A, R, Heeringa S, G, Ofstedal M, B,
+Burke J, R, Fisher G, G, Fultz N, H, Hurd M, D, Potter G, G, Rodgers W, L, Steffens D, C, Weir D,
+R, Willis R, J: The Aging, Demographics, and Memory Study: Study Design and Methods.
+Neuroepidemiology 2005;25:181-191. doi: 10.1159/000087448
+51.  Fong TG, Fearing MA, Jones RN, et al. Telephone interview for cognitive status: Creating
+a crosswalk with the Mini-Mental State Examination. Alzheimers Dement. 2009;5(6):492-497.
+doi:10.1016/j.jalz.2009.02.007
+52.  Perneczky R, Wagenpfeil S, Komossa K, Grimmer T, Diehl J, Kurz A. Mapping scores
+onto stages: mini-mental state examination and clinical dementia rating. Am J Geriatr Psychiatry.
+2006;14(2):139-144. doi:10.1097/01.JGP.0000192478.82189.a8
+53.       Clark CM, Ewbank DC. Performance of the Dementia Severity Rating Scale: A Caregiver
+Questionnaire for Rating Severity in Alzheimer Disease. Alzheimer Disease and Associated
+Disorders. 1996; 10 (1):31-39.
+54.       Graessel E, Berth H, Lichte T, Grau H. Subjective caregiver burden: validity of the 10-item
+short version of the Burden Scale for Family Caregivers BSFC-s. BMC Geriatr. 2014;14:23.
+Published 2014 Feb 20. doi:10.1186/1471-2318-14-23
+55.      Lubben, J., Blozik, E., Gillmann, G., IIiffe, S., von Renteln Kruse, W., Beck, J. C., & Stuck,
+A. E. (2006). Performance of an abbreviated version of the Lubben Social Network Scale among
+three European Community–dwelling older adult populations. Gerontologist, 46(4), 503–513.

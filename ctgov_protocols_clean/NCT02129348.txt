@@ -1,0 +1,925 @@
+<<<PAGE 1>>>
+Protocol Title: Treatment of Psychosis and Agitation in Alzheimer’s disease
+Document Title: Study Protocol
+NCT: NCT02129348
+Document Date: 02MARCH2021
+<<<PAGE 2>>>
+Page 1 of 26
+Protocol Title:
+Treatment of Psychosis and Agitation in
+Alzheimer's Disease
+Protocol Number:
+First Approval:
+04/02/2014
+Expiration Date:
+03/09/2022
+Version Date:
+03/02/2021
+Clinic:
+Memory Disorders Clinic
+Contact Principal Investigator:
+Davangere Devanand, MD
+Email: dpd3@columbia.edu
+Telephone: 646-774-8658
+Co-Investigator(s):
+Gregory Pelton, MD
+Edward Huey, MD
+Research Chief:
+Davangere Devanand, MD
+Cover Sheet
+Choose ONE option from the following that is applicable to your study
+If you are creating a new protocol, select "I am submitting a new protocol." As 5 Year Renewals are no
+longer required, this option remains for historical purposes.
+I am proposing an amendment only to an existing protocol
+Division & Personnel
+Division
+What Area Group does the PI belong to?
+What Division/Department does the PI belong to?
+Division of Geriatric Psychiatry
+Within the division/department, what Center or group are you affiliated with, if any?
+n/a
+Unaffiliated Personnel
+List investigators, if any, who will be participating in this protocol but are not affiliated with New York
+State Psychiatric Institute or Columbia University. Provide: Full Name, Degrees and Affiliation.
+<<<PAGE 3>>>
+Page 2  of 26
+None
+Amendment
+Procedures
+To create the protocol summary form, first indicate if this research will include any of the following
+procedures
+Psychiatric  Assessment
+Neuropsychological  Evaluation
+Collection  of Biological Specimens
+Studies  of DNA
+Medication  Trial
+Use of  Placebo or Sham Treatment
+Off-label Use  of Drug or Device
+Population
+Indicate which of the following populations will be included in this research
+Adults who may  have impaired decision-making ability
+Adults who lack capacity  to consent
+Adults
+Individuals  with Psychosis
+Research Support/Funding
+<<<PAGE 4>>>
+Page 3 of 26
+Will an existing internal account be used to support the project?
+No
+Is the project externally funded or is external funding planned?
+Yes
+Select the number of external sources of funding that will be applicable to this study
+Funding Source #1
+Is the PI of the grant/contract the same as the PI of the IRB protocol?
+Yes
+Select one of the following
+The grant/contract is currently funded
+Source of Funding
+Federal
+Institute/Agency
+National Institute on Aging
+Grant Name
+Treatment of psychosis and agitation in Alzheimer's Disease
+Grant Number
+1R01AG047146-01
+Select one of the following
+Multicenter(NYSPI is the lead site)
+Business Office
+RFMH
+Does the grant/contract involve a subcontract?
+Yes
+Subcontracted?
+To
+Name institution(s)
+University of Miami Miller School of Medicine
+McLean Hospital
+University of Texas Southwestern Medical Center
+Study Location
+Indicate if the research is/will be conducted at any of the following
+NYSPI
+This protocol describes research conducted by the PI at other facilities/locations
+No
+<<<PAGE 5>>>
+Page 4 of 26
+Lay Summary of Proposed Research
+Lay Summary of Proposed Research
+Symptoms of agitation/aggression with or without psychosis that commonly occur in patients with
+Alzheimer’s disease (AD), are distressing to patients and caregivers, often lead to institutionalization, are
+associated with increased mortality, and are very difficult to treat. Worldwide, the prevalence of dementias,
+including AD, is rapidly increasing due to the aging population with a corresponding increase in the number
+of patients with dementia who develop symptoms of agitation/aggression with or without psychosis. Among
+the psychotropic medications studied in AD, only antipsychotics have been shown to be superior to placebo
+in randomized, double-blind, controlled trials.
+Clinically, many patients with AD show no response or minimal response to antipsychotics for symptoms of
+agitation/aggression or psychosis, or they have intolerable side effects on these medications. Antipsychotics
+have a wide range of side effects, including the risk of increased mortality (60-70% higher rate of death on
+antipsychotic compared to placebo) that led to an FDA black box warning for patients with dementia; a
+more recent review and meta-analysis showed a 54% increased risk of mortality. Our published data on the
+persistence of agitation over prolonged periods in patients with AD, and the increased risk of relapse when
+antipsychotics are discontinued after maintenance of treatment response, indicate that antipsychotics may
+need to be prescribed for long periods in many patients with the attendant risks of longterm side effects and
+increased risk of mortality. In addition, some patients show only partial response to antipsychotics and
+symptoms persist. For these reasons, we need to study alternative treatment strategies. Currently, there is no
+FDA-approved medication for the treatment of psychosis or agitation in AD.
+Our initial open treatment pilot data show that patients with no response or partial response to antipsychotics
+clearly improve on lithium, supporting the systematic study of lithium treatment for agitation/aggression
+with or without psychosis in AD. Our innovative project will examine the efficacy and side effects of low
+dose lithium treatment of agitation/aggression with or without psychosis in 80 patients with AD in a
+randomized, doubleblind, 12-week trial (essentially a Phase II trial). The results will determine the potential
+for a large-scale clinical trial (Phase III) to establish the utility of lithium in these patients.
+Background, Significance and Rationale
+Background, Significance and Rationale
+Symptoms of psychosis or agitation are common in Alzheimer’s disease. These symptoms are associated
+with distress for the patient, an increased burden for caregivers, more rapid cognitive decline, greater risk of
+institutionalization and mortality, and increased health care costs. In a recent meta-analysis, caregiver
+education and behavior modification studies revealed a small to medium effect size in treating agitation in
+these patients. However, none of these studies were double-blind (difficult to achieve in such studies) and
+none had a control group that received the same amount of staff time as the intervention group, thereby
+biasing the results toward the active intervention. The value of behavioral strategies typically is limited in
+patients with severe agitation and psychosis. Large, well-controlled trials with an adequate control group
+remain to be conducted to establish the utility of caregiver education and behavioral intervention strategies.
+<<<PAGE 6>>>
+Page 5 of 26
+Among the psychotropic medications that have been studied, only antipsychotics have shown superiority
+over placebo for the treatment of psychosis and agitation in patients with dementia.
+However, most studies show only moderate superiority for antipsychotic over placebo and a few studies
+have been negative. The side effects of antipsychotic medications include sedation, extrapyramidal signs,
+tardive dyskinesia, weight gain, and the metabolic syndrome. A pooled analysis from 17 short-term trials
+showed that the mortality rate in patients with dementia receiving antipsychotic medications was 1.6 to 1.7
+times as high (60-70% increase in mortality rate) as the mortality rate in patients receiving placebo. These
+findings led the FDA to issue a black-box warning for antipsychotic medication use in patients with
+dementia; a more recent meta-analysis reported a slightly lower odds ratio of 1.54 (54% increase in
+mortality rate).
+In an NIA-funded, multicenter, randomized, double-blind trial in 180 patients with AD and symptoms of
+psychosis or agitation/aggression, we showed that after response to open treatment with the atypical
+antipsychotic risperidone (16 weeks), randomized discontinuation to placebo was associated with a
+significantly increased risk of relapse 16 weeks later and 32 weeks later compared to continuation
+risperidone. Although the increased likelihood of relapse after discontinuation is a concern, Federal
+regulations in nursing homes continue to require discontinuation of antipsychotics 3-6 months after
+initiating treatment unless the treating physician provides written justification to continue the antipsychotic.
+Further, the risk of adverse effects has led the Center for Medicare and Medicaid Services (CMS) to require
+a 15% reduction of antipsychotic use in patients with dementia in nursing homes. Clearly, while
+antipsychotics may play an important therapeutic role, their adverse effects impede their use and new
+medication approaches need to be investigated.
+The selective serotonin reuptake inhibitor (SSRI) citalopram and risperidone showed similar response rates
+in one trial, and a placebo-controlled trial of citalopram (CitAD) is now being conducted for AD patients
+with agitation. The utility of SSRIs in these patients, however, remains to be established. One criticism of
+antipsychotics in the treatment of agitation in dementia is that they are sedating and that this is erroneously
+observed as improvement in agitation. However, in the CATIE-AD trial the highly sedating antipsychotic,
+quetiapine, was found to be less effective than risperidone, which is not as sedating.
+Further, there has been little correlation between sedation and improvement in agitation in antipsychotic
+treatment studies. Sedation is not a common side effect of lithium and should not be an issue in our
+proposed trial. Anticonvulsants are widely used to treat agitation in AD. Early small-scale studies suggested
+efficacy for carbamazepine to treat psychosis and agitation in AD, but there were negative studies.
+However, carbamazepine is a relatively toxic anticonvulsant that can lead to liver damage and blood
+dyscrasias. Large-scale studies with the widely used anticonvulsant medication valproate failed to show
+superiority over placebo in treating agitation and psychosis, and valproate did not prevent the emergence of
+agitation or psychosis in patients with dementia. Other anticonvulsants, including lamotrigine and
+gabapentin, have not been studied in placebo-controlled trials in these patients. Manic-like symptoms are
+uncommon and full-blown mania is very rare in AD. Lithium has several different actions from
+anticonvulsants, though both are effective in bipolar disorder, especially mania. Lithium is not being
+proposed here to treat mania in AD though we will monitor symptoms on the Young Mania Rating Scale.
+In patients with AD, lithium has been studied for its putative cognitive enhancing effects. A few reports
+suggest that chronic lithium use reduces the risk of dementia, but other data show increased dementia risk
+<<<PAGE 7>>>
+Page 6 of 26
+with lithium use. A placebo-controlled, single-blind lithium trial showed no cognitive effects in patients
+with AD, but a recent trial of lithium in 45 patients with mild cognitive impairment (MCI, which often leads
+to clinically diagnosable AD) showed a small advantage for lithium (n=24) over placebo (n=21) in attention
+and other cognitive domains. None of these studies with lithium were intended to treat psychosis or
+agitation in AD, and patients with these symptoms typically were excluded in these clinical trials. There has
+been no systematic placebo-controlled trial of lithium to treat agitation/aggression with or without psychosis
+in AD even though lithium is a highly effective treatment for mania with psychosis and symptoms of
+agitation or aggression. Nonetheless, the published studies of lithium to treat cognitive decline in older
+patients provide valuable data about the safety of low-dose lithium in patients with MCI or AD.
+Specific Aims and Hypotheses
+Specific Aims and Hypotheses
+Specific Aim 1. To compare changes in agitation/aggression with or without psychosis in patients with AD
+who receive 12 weeks of randomized, double-blind treatment with lithium or placebo.
+Primary Hypothesis. Over these 12 weeks, the agitation/aggression domain score on the Neuropsychiatric
+Inventory (NPI) will decrease significantly more on lithium than placebo.
+Secondary Hypothesis. Over these 12 weeks, the proportion of responders on lithium will be significantly
+greater than the proportion of responders on placebo. Response is defined as a 30% decrease in NPI core
+score (defined as the sum of domains for agitation/aggression, delusions and hallucinations) plus a
+CGIChange score of much improved or very much improved (CGI based on these behavioral symptoms
+only).
+Exploratory hypothesis. Over these 12 weeks, the psychosis score, measured by the sum of the NPI domain
+scores for delusions and hallucinations, will decrease significantly more on lithium than placebo.
+Specific Aim 2. To evaluate the tolerability of low dose lithium by assessing emergent somatic side effects
+over the course of the 12-week trial on lithium compared to placebo.
+Specific Aim 3. To explore associations between improvement on lithium (decrease in agitation/aggression
+and psychosis scores) and serum brain-derived neurotrophic factor (BDNF) levels (baseline, 12 weeks), a
+SNP in intron 1 of the ACCN1 gene, and variation at the 7q11.2 gene locus, because these indices are
+associated with lithium response in bipolar disorder. We do not postulate a specific mechanism of action for
+lithium in our trial, but will evaluate these three potential predictors of lithium response with the aim of
+improving patient selection for personalized treatment. We will examine BDNF serum levels as a biomarker
+correlate of lithium treatment by correlating change in BDNF levels with change in NPI agitation/aggression
+and psychosis scores.
+Description of Subject Population
+<<<PAGE 8>>>
+Page 7 of 26
+Sample #1
+Specify subject population
+Adults with possible or probable Alzheimer's disease (AD)
+Number of completers required to accomplish study aims
+68
+Projected number of subjects who will be enrolled to obtain required number of completers
+80
+Age range of subject population
+<<<SECTION 18 and older>>>
+18 and older
+Gender, Racial and Ethnic Breakdown
+Eighty outpatients will be recruited through the Columbia University Alzheimer’s Disease Research Center
+(ADRC; Memory Disorders Clinic and Behavioral Neurology Practice Group) over 4.2 years (19 patients
+per year). Based on our previous studies recruiting a similar subject population, the estimated gender
+distribution is 55% female with an ethnic distribution of 65% non-Hispanic White, 20% Hispanic, 12%
+African American, and 3% Asian American.
+Description of subject population
+Adults, male or female, with a diagnosis of possible or probable AD by NINCDS- ADRDA and possible or
+probable AD dementia by the new NIA criteria.
+Recruitment Procedures
+Describe settings where recruitment will occur
+The Memory Disorders Center (MDC) at the New York State Psychiatric Institute (NYSPI) and the
+Behavioral Neurology practice group at the Neurological Institute (New York Presbyterian Hospital) are our
+main sources of recruitment for studies of patients with AD. Drs. Devanand, Pelton and Huey are attending
+psychiatrists in these settings. In this protocol, we will treat only outpatients.  Other sources of recruitment
+include advertising on electronic media such as online forums for caregivers of AD patients, web postings
+through the site studykik.com and recruit.cumc.columbia.edu,  as well as posting the approved study fliers at
+medical centers and caregiver support groups for AD patients.
+How and by whom will subjects be approached and/or recruited?
+All patients will be recruited by Drs. Devanand, Pelton and Huey. We will also submit the attached flyer to
+local media, web postings through the site studykik.com and recruit.cumc.columbia.edu, as well as post it in
+medical centers and at caregiver support groups to advertise specifically for the study.
+Timeline for recruitment.
+Day 1: screening for inclusion/exclusion criteria. If eligible the patient and informant will be approached by
+one of the study physicians to obtain informed consent. Informed consent will be completed on the
+screening day or at the baseline visit in patients/informants who may need to think over the study before
+<<<PAGE 9>>>
+Page 8  of 26
+signing informed consent.
+Week 1: complete baseline visit and start study medication or placebo for the 12-week trial. In patients
+where there is clinical urgency, the screening and baseline visits may be merged into a single visit and all
+procedures will be completed on the screening day itself. Procedures will be conducted according to the
+schedule described in the table under “Procedures.”
+How will the study be advertised/publicized?
+The proposed study will be conducted at the New York State Psychiatric Institute with patients recruited by
+Drs. Devanand, Pelton, and Huey. Additionally, the attached flyer will be submitted to local media, web
+postings through the site studykik.com and recruit.cumc.columbia.edu, as well as post it in medical centers
+and at caregiver support groups to advertise specifically for the study.
+Do you have ads/recruitment material requiring review at this time?
+No
+Does this study involve a clinical trial?
+Yes
+Please provide the NCT Registration Number
+02129348
+Concurrent Research  Studies
+Will subjects in this study participate in or be recruited from other studies?
+No
+Inclusion/Exclusion Criteria
+Name the subject group/sub sample
+Patients
+with possible or probable AD
+Create or insert table to describe the inclusion criteria and methods to ascertain them
+Inclusion Criteria Method of Ascertainment
+<<<SECTION 1. Diagnosis of possible or probable AD>>>
+1. Diagnosis of possible or probable AD
+by standard NIA criteria (McKahnn et al,
+1984; McKhann et all, 2011).
+Physician evaluation
+2. Folstein MMSE 5-26 out of 30.  Neuropsychological evaluation
+<<<SECTION 3. Neuropsychiatric Inventory (NPI) Physician evaluation>>>
+3. Neuropsychiatric Inventory (NPI) Physician evaluation
+<<<PAGE 10>>>
+Page 9  of 26
+agitation/aggression subscale score > 4. On
+each subscale (frequency X severity), a
+score
+higher than 4 represents moderate to
+severe symptoms.
+<<<SECTION 4. Female patients need to be post->>>
+4. Female patients need to be post-
+menopausal
+Patient and informant interview
+5. Availability of informant; patients
+without
+an informant will not be recruited.
+Patients who lack capacity must have a
+surrogate.
+Physician Evaluation
+Create or insert table to describe the exclusion criteria and methods to ascertain them
+Exclusion Criteria Method of Ascertainment
+<<<SECTION 1. Medical contraindication to lithium>>>
+1. Medical contraindication to lithium
+treatment
+or prior history of intolerability
+to lithium treatment. Contraindications to
+lithium
+in this study include: resting tremor
+causing functional impairment, history of
+falls in the last month, untreated thyroid
+disease or any abnormal thyroid function
+test (T3, T4, or
+TSH), creatinine level greater than 1.5
+mg/100ml or a glomerular filtration rate
+less than 44ml/min/1.73m2
+Blood pressure > 150/90 mm Hg.
+Heart rate < 50 bpm
+Unstable cardiac disease based on history,
+physical examination, and ECG.
+Evaluation
+2. Medications, in combination with
+lithium, known to have adverse renal
+effects, including therapeutic or higher
+Physician Evaluation
+<<<PAGE 11>>>
+Page 10 of 26
+doses of diuretics, i.e. hydrochlorothiazide
+greater than 25mg daily or furosemide
+greater than 10mg daily. Whenever
+feasible, patients receiving concomitant
+antidepressants or
+antipsychotics will be washed off
+these medications for at least 24 hours
+before starting lithium. Patients who do not
+wish to discontinue antipsychotics or
+antidepressants,
+typically because of family
+member/caregiver objection, will be
+allowed to enter the trial provided there is
+no contraindication to concomitant lithium
+use with that specific psychotropic
+medication. During the trial, patients will
+be permitted to receive lorazepam as
+needed up to 1 mg/day for
+anxiety/insomnia, and non-benzodiazepine
+hypnotics, e.g.,
+zolpidem.
+3. Current clinical diagnosis of
+schizophrenia, schizoaffective disorder,
+other psychosis, or
+bipolar 1 disorder (DSM-IV TR criteria).
+Physician Evaluation
+<<<SECTION 4. Current or recent (past 6 months)>>>
+4. Current or recent (past 6 months)
+alcohol or substance dependence (DSM-IV
+TR criteria).
+Physician Evaluation
+<<<SECTION 5. Current major depression or suicidality>>>
+5. Current major depression or suicidality
+as assessed by the study psychiatrist.
+Physician Evaluation
+<<<SECTION 6. Suicidal behavior or dangerous behavior>>>
+6. Suicidal behavior or dangerous behavior
+with serious safety risk or risk of physical
+harm to self or others.
+Physician Evaluation
+7. Parkinson’s disease, Lewy body disease,
+multiple sclerosis, CNS infection,
+Huntington’s disease, amyotrophic lateral
+sclerosis, other major neurological
+disorder.
+Physician Evaluation
+<<<SECTION 8. Clinical stroke with residual Physician Evaluation>>>
+8. Clinical stroke with residual Physician Evaluation
+<<<PAGE 12>>>
+Page 11 of 26
+neurological deficits. MRI findings of
+cerebrovascular disease (small infarcts,
+lacunes,
+periventricular disease) in the absence of
+clinical stroke with residual neurological
+deficits will not lead to exclusion.
+9. Acute, severe, unstable medical illness.
+For cancer, patients with active illness or
+metastases will be excluded, but past
+history of successfully treated cancer will
+not lead to exclusion.
+Physician Evaluation
+10. QTc interval > 460 ms at the time of
+baseline EKG is an exclusion criterion
+for treatment.
+EKG reading by physician.
+11. Hypernatremia as determined by
+serum sodium level > 150 meq/L  Evaluation
+Waiver of Consent/Authorization
+Indicate if you are requesting any of the following consent waivers
+Waiver of consent for use of records that include protected health information (a HIPAA waiver of
+Authorization)
+No
+Waiver or alteration of consent
+Yes
+Waiver of documentation of consent
+No
+Waiver of parental consent
+No
+Consent Procedures
+Is eligibility screening for this study conducted under a different IRB protocol?
+No
+Describe procedures used to obtain consent during the screening process
+<<<PAGE 13>>>
+Page 12 of 26
+Verbal consent is obtained before continuing with phone screening.
+Describe Study Consent Procedures
+All patients at enrollment will be assessed for capacity and this will be documented in the chart. For patients
+who retain the capacity to consent, voluntary informed consent will be obtained from all subjects by Drs.
+Devanand, Pelton or Huey. Typically, patients with Folstein MMSE greater than 20 out of 30 retain the
+capacity to consent.
+For patients who lack the capacity to consent, as is expected for the majority of patients in this study, the
+required NYSPI/Columbia IRB-approved surrogate consent procedures will be followed as detailed below.
+At baseline, patients who lack the capacity to consent will be required to have the capacity to appoint a
+surrogate and then the patient will need to appoint the surrogate. In patients who lack the capacity to
+consent, if the patient lacks the capacity to appoint a surrogate or does not wish to appoint a surrogate the
+patient will not be included in the study. Under no circumstance will a patient objecting to participation be
+included in the study.
+The consent form describes the nature of the procedures and time requirements, potential risks, the
+confidentiality of information, and the rights of research subjects, including their right to withdraw from the
+research at any time without loss of benefits to which they are otherwise entitled. It is made explicit that this
+protocol involves a randomized controlled trial in which the patient will be randomly assigned to Lithium or
+placebo for a 12-week period. The consent process also includes documentation of permission to obtain
+previous medical records.
+The informant also signs a separate consent form indicating willingness to provide information (rating
+scales) about the patient. The IRB-approved forms for informed consent and for assessment of capacity are
+made part of the patient’s permanent medical record, with a copy being filed in the research chart. The IRB-
+approved forms for informed consent and for assessment of capacity are made part of the patient’s
+permanent medical record, with a copy being filed in the research chart.
+Clinical Settings and Consent Procedures.
+Memory Disorders Clinic. Memory Disorders Clinic physicians include Drs. Devanand, Pelton, and Huey
+who work in a supervisory capacity. Evaluations are conducted by Neurology fellows. If a patient is
+potentially eligible, these fellows will briefly describe the study and if the patient is interested then refer the
+patient to Dr. Devanand or Dr. Pelton or Dr. Huey (whoever is available at that time). Therefore, in this
+setting patients will first be approached about the study by a non-study physician.
+Behavioral Neurology Practice Group. Dr. Huey, but not Dr. Devanand or Dr. Pelton, is a member of this
+group. If the other Neurology faculty physician in this group believes that a patient is potentially eligible,
+this physician will briefly describe the study and if the patient/caregiver is interested then refer the patient to
+Dr. Devanand or Dr. Pelton or Dr. Huey (whoever is available at that time). If Dr. Huey evaluates a patient
+who may be eligible, he will explicitly inform them that they have the option of getting a second opinion
+regarding study participation from a physician in the clinical setting who is not an investigator in the study,
+and immediately arrange for that second opinion if requested.
+<<<PAGE 14>>>
+Page 13 of 26
+Indicate which of the following are employed as a part of screening or main study consent procedures
+Consent Form
+Justification for Waiver or Alteration of Consent
+Waiver of consent is requested for the following
+We are requesting a waiver of consent for family history information gathered from secondary subjects.
+Explain why your research can not be practicably carried out without the waiver or alteration
+The federal regulation 45CFR46.116(d) states that an IRB may approve a consent procedure which does not
+include, or which alters, some or all of the elements of informed consent set forth in this section, or waive
+the requirements to obtain informed consent provided the IRB finds and documents that: (1) The research
+involves no more than minimal risk to the subjects; (2) The waiver or alteration will not adversely affect the
+rights and welfare of the subjects; (3) The research could not practicably be carried out without the waiver
+or alteration; and (4) Whenever appropriate, the subjects will be provided with additional pertinent
+information after participation.
+Describe whether and how subjects will be provided with additional pertinent information after participation
+These subjects will not be provided with additional information after participation.
+Assent Procedures
+Describe procedures by which subject assent will be assessed and/or recorded
+The IRB-approved forms for informed consent and for assessment of capacity are made part of the patient’s
+permanent medical record, with a copy being filed in the research chart.
+Persons designated to discuss and document consent
+Select the names of persons designated to obtain consent/assent
+Devanand, Davangere, MD
+<<<PAGE 15>>>
+Page 14 of 26
+Huey, Edward, MD
+Pelton, Gregory, MD
+Type in the name(s) not found in the above list
+Huey, Edward, MD
+Independent Assessment of Capacity
+You have indicated that your study involves subjects who MAY LACK capacity to consent.
+Does this study require an independent assessment of capacity?
+Yes
+Methods/procedures for capacity assessment
+As stated under Consent Procedures, for patients who lack the capacity to consent, as is expected for the
+majority of patients in this study, the required NYSPI/Columbia IRB-approved surrogate consent
+procedures will be followed. At baseline, patients who lack the capacity to consent will be required to have
+the capacity to appoint a surrogate and then the patient will need to appoint the surrogate. In patients who
+lack the capacity to consent, if the patient lacks the capacity to appoint a surrogate or does not wish to
+appoint a surrogate the patient will not be included in the study. Under no circumstance will a patient
+objecting to participation be included in the study.
+You have indicated that your study involves subjects who DO LACK capacity to consent. Please justify
+The nature of Alzheimer's disease is that some patients may not have the capacity to consent but it is
+important to include these patients if possible in the protocol to ensure representativeness of the sample and
+to avoid inclusion bias. Therefore, inclusion of these subjects is justified.
+Procedures for surrogate consent
+At NYSPI, OMH regulations require that in patients who lack the capacity to consent, surrogate consent is
+acceptable when all the following procedures are conducted:
+1. A psychiatrist or licensed clinical psychologist who is independent of the research must confirm that the
+patient still retains the capacity to designate a surrogate, i.e., identify the surrogate and indicate that the
+surrogate can consent on the patient’s behalf for the research study. Drs. Bret Rutherford, Joel Sneed, Karen
+Marder, Karen Bell, Joan Prudic, Scott Small, Sarah Janicki, Clara Boyd, Alon Seifan, and Jamie Noble will
+be the independent evaluators for this study. They will follow the procedures described here using the forms
+attached as an addendum to the Informed Consent Form. 2. The document designating the research
+surrogate must be witnessed by two persons who are independent of the research. The psychiatrist or
+licensed clinical psychologist who assesses the patient’s capacity to choose a surrogate may also be witness
+to the choice of the surrogate.
+<<<PAGE 16>>>
+Page 15 of 26
+3. If the patient chooses a surrogate but is unable to sign the document, another person may sign for the
+patient and the two witnesses shall, in writing, confirm the patient’s choice of a surrogate and witness the
+signature of the person signing for the patient.
+4. The surrogate cannot function as a witness to the choice of the surrogate. A family member or friend of
+the patient who is not the surrogate may function as a witness.
+5. The surrogate cannot be an administrator or employee of the facility at which the research is conducted or
+the facility conducting the research. This restriction does not apply if the person is related to the patient by
+blood, marriage, or adoption. The selection of a patient’s spouse as a surrogate is revoked upon the legal
+separation or divorce of the patient and spouse unless the patient specifies otherwise.
+6. Notice of the appointment of a surrogate must be provided to the Mental Health Legal Service (MHLS).
+We will inform MHLS each time a patient who lacks capacity to consent and appoints a surrogate is
+recruited for this protocol.
+Study Procedures
+Describe the procedures required for this study
+We will follow the procedures successfully used for blinded lithium levels in controlled trials in mood
+disorders. A physician independent of the study will receive lithium levels. This physician will provide the
+actual lithium level to the study physician for patients randomized to lithium, and make up a comparable
+“sham” level for patients on placebo.  Dr. Devanand will be the Principal Investigator as well as a study
+physician. He will make executive decisions including study monitoring, regulatory issues, quality control
+(QC), and dispute resolution. He will have overall responsibility for the clinical care of the patients during
+the course of the study.
+Dr. Pelton will be the Co-Investigator and the second study physician. He will evaluate the patients during
+the visits and be responsible for the clinical care of the patients during the course of the study.
+Dr. Huey will be a Co-Investigator and a study physician. He will evaluate the patients during the visits and
+be responsible for the clinical care of the patients during the course of the study.
+Research Assistant. This individual will be responsible for the conduct of all cognitive testing (at screening
+and during the study), other research procedures, data checking and integrity for all the data ensuing from
+this project.
+Most patients participating in this study will not be able to provide detailed, accurate information during an
+interview because of their severity of dementia. The informant will provide this information about the
+patient, including relevant portions of the NACC clinical history (such as the Hachinski Ischemic Score &
+Cerebrovascular Disease form, Schwab and England and Activities of Daily Living Scale, and Subject
+Medications form) and the entire NPI, TESS, Young Mania Rating Scale, CGI, Clinical Dementia Rating
+and Basic Activities of Daily Living scales. The somatic side effect rating scale (TESS) will incorporate the
+<<<PAGE 17>>>
+Page 16  of 26
+report of the patient as well. The efficacy rating scales (NPI, CGI, Young Mania Rating Scale) will
+incorporate behavioral observation of the patient and patient’s report of symptoms. The Get Up & Go scale
+will be performed to assess patient’s gait, balance, and fall risk.
+These evaluation strategies are the current standard in clinical trials of treatment of agitation-aggression
+with
+or without psychosis in patients with dementia.
+SCREENING VISIT
+As part of the evaluation, a history is obtained to include age, age-at-onset of memory problems,
+handedness, education, occupation, medical and psychiatric history. Concurrent medications will be
+documented at all visits. Blood work will be done (SMAC, CBC, thyroid functions T3, T4, TSH, and renal
+functions including creatinine and urea as part of the SMAC). Blood pressure and heart rate will also be
+recorded at this visit as well as weight and height.
+Patients who are found to be eligible at the screening visit will be randomized to treatment with lithium or
+placebo. Patient randomization will be stratified according to their classification, determined at the
+screening visit, as either psychotic or not psychotic. To classify patients as psychotic or not psychotic the
+following criterion will be used:
+a. Patients receiving Neuropsychiatric Inventory (NPI) hallucination or delusions subscale scores ≥ 4 will be
+classified as psychotic. On each subscale (frequency X severity), a score higher than 4 represents moderate
+to severe symptoms.
+STUDY VISITS
+Patients who are enrolled will be asked to come for the baseline visit, typically 1 week after the screening
+visit. Subsequent study visits are at weeks 2, 4, 6, 8, 10, 12. Weekly visits are often not practically feasible
+for the caregiver (usually a family member) in patients with AD who are agitated or psychotic because the
+caregiver needs to bring, or arrange to bring, the difficult-to-manage patient to the appointment. Therefore,
+the visits are at 2-week intervals. However, if clinically indicated, the patient will be brought in for
+additional weekly visits at the intervening time-points. The week 10 visit is optional and ratings will be
+conducted by phone at week 10 if the patient is clinically stable at week 8 and a week 10 visit is not
+considered to be clinically necessary.
+Washout Procedures. Whenever feasible, patients receiving concomitant antidepressants or antipsychotics
+will be washed off these medications for at least 24 hours before starting lithium. Patients who do not wish
+to discontinue antipsychotics or antidepressants, typically because of family member/caregiver objection,
+will be allowed to enter the trial provided there is no contraindication to concomitant lithium use with that
+specific psychotropic medication. During the trial, patients will be permitted to receive lorazepam as needed
+up to 1 mg/day for anxiety/insomnia, and non-benzodiazepine hypnotics, e.g., zolpidem.  No patient who is
+currently responding to a concomitant medication will be washed off of it.
+Psychotropic medications will be washed out from 0 days to 14 days based on the specific psychotropic
+being used (14 days for fluoxetine or patients receiving high doses of antidepressants or other psychotropics,
+7 days or fewer for other situations).  The lithium/placebo protocol will begin the day after the last day of
+psychotropic is received during washout. We recognize that this is shorter than used in most psychotropic
+<<<PAGE 18>>>
+Page 17  of 26
+medication trials in psychiatry, but is necessitated by the nature of the patients being studied that will
+require prompt study entry to ensure recruitment. There is no reason to suspect significant adverse
+interaction between any psychotropic medication and lithium carbonate 150 mg daily which is the dose that
+will be used in the first 2 weeks after randomization. Of note, this short washout strategy was used in our
+ADAD trial (Devanand et al NEJM 2012) and the CitAD trial (Porteinsson et al, JAMA 2014) for which we
+were a site and Devanand and Pelton were co-authors. The dropout rate in both these studies was lower than
+that in any other published large-scale trial of psychotropic medications to treat agitation with or without
+psychosis in patients with dementia. We believe that this psychotropic medication washout strategy
+contributed to our success.
+Of note, patients do not need to be washed off psychotropic medications to participate in our proposed trial,
+and we expect half the sample to continue to receive other psychotropics including antipsychotic
+medications during the trial. Essentially, washout will be conducted only when it is deemed to be safe and
+acceptable to do so by the study physician in consultation with the patient and caregivers.
+Lithium oral dose. Drs. Devanand, Pelton or Huey will prescribe generic lithium carbonate/placebo. The
+patient will be started on lithium/placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-
+week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on
+real/sham lithium blood level. This upward dose titration will occur only if clinically indicated (absence of
+response at lower doses without intolerable side effects). Patients who develop side effects, e.g., tremor,
+falls, will have their dose reduced.
+Lithium levels will be drawn approximately 12-14 hours after the last dose, typically in the morning for
+patients who took their last dose of lithium/placebo the previous night.
+Dosing change will involve instruction to the patient/caregiver over the telephone after the serum lithium
+level result is obtained from the week 2 blood draw and before the week 4 visit. At week 4 (patient on
+lithium/placebo 150mg/day or 300mg/day since week 2), blood to obtain the serum lithium level will again
+be drawn and the oral dose adjusted up to 450-600mg/day over the telephone after the serum lithium level
+result is obtained and before the week 6 visit based on the serum level obtained and clinical response and
+side effects. At week 6, the serum lithium level (patient on an oral dose of 150mg to 600mg/day, the
+maximum daily dose) will be drawn with subsequent dose adjustment based on procedures similar to those
+employed at week 2 and week 4. We will also draw a lithium level at week 8 with subsequent dose
+adjustment if indicated. We expect the dose to remain stable from week 8 to week 12 for essentially all
+patients, and the week 10 visit will be optional with telephone ratings conducted for patients who cannot
+come in to the clinic at that time-point. Patients who are clinically unstable will be required to come for the
+week 10 visit. Serum lithium level will be repeated at week 12.  During the trial, patients will be permitted
+to receive lorazepam as needed up to 1 mg/day for anxiety/insomnia.
+We are targeting a lithium level of 0.2 to 0.6 mmol/l. This low, fairly wide blood level range is chosen
+because of the potential increased toxicity risk in the elderly, even though the studies reviewed earlier do not
+show significant toxicity at low oral doses and blood levels in patients with dementia. Lithium levels will be
+assayed in the laboratory at the Nathan Kline Institute in Rockland. Clinical response of symptoms and side
+effects experienced by the patient will be primary in guiding oral lithium dose adjustment, and will override
+the information obtained from serum lithium levels if such a choice needs to be made.
+<<<PAGE 19>>>
+Page 18 of 26
+Blinded lithium levels. Serum lithium levels will be assayed using standard, reliable clinical assay
+procedures at New York Presbyterian Hospital. This laboratory routinely conducts serum lithium level
+assays in patients with bipolar disorder and maintains high reliability. We will follow the procedures
+successfully used for blinded lithium levels in controlled trials in mood disorders. A physician independent
+of the study will receive lithium levels. This physician will provide the actual lithium level to the study
+physician for patients randomized to lithium, and make up a comparable “sham” level for patients on
+placebo.
+At each follow-up visit, blood draws will take place approximately 12-14 hours after the previous night’s
+lithium or placebo dose. In order to ensure that study physicians, research staff, and patients are unaware of
+medication assignment, the physician independent of the study will receive all the lithium levels. This
+physician will provide the actual lithium level to the study physician for patients actually taking lithium, and
+will make up a comparable “sham” lithium level for patient taking placebo. “Sham” lithium levels are
+defined as imitation lithium levels which are not reflective of the patient’s actual blood lithium level and are
+only relevant to those patients taking placebo.  This “sham” level will vary from low to high levels and will
+be largely based on the number of pills taken by the patient. Based on the blood level received and clinical
+response and tolerability, the study physician will adjust the number of pills at study visits. Lithium levels
+will be an important factor taken into account, but clinical response and side effects will be central in
+decision-making.
+Blindness of raters. Raters will remain blind to randomized treatment condition (lithium or placebo) and will
+receive real or sham lithium blood levels based on the operational parameters described above.
+Lithium dosing strategy. Lithium and placebo will be prescribed in identical-looking capsules made up by
+the NYSPI pharmacy.
+Blood for SMAC (including creatinine), CBC, thyroid functions (T3, T4, TSH) will be drawn at baseline,
+week 6, and at 12 weeks. Creatinine and eGFR levels will be closely monitored and compared to baseline. If
+the eGFR declines to less than 44 ml/min or the serum creatinine level increases to more than 1.5 times the
+baseline level or if there is a > 0.3 mg/dl (>26.5mmol/l) increase in serum creatinine, treatment with lithium
+or placebo will be stopped. For patients who have improved on lithium, the laboratory values at 12 weeks
+will help to make the decision as to whether lithium can be safely continued, which will occur if TFTs and
+creatinine remain within range (TFTs within normal limits, creatinine and eGFR criteria as specified above).
+Response will be defined as a 30% decrease in NPI core score (sum of subscales for delusions,
+hallucinations and agitation/aggression) and a CGI change score of much improved or very much improved
+(CGI based on psychosis/agitation, not on severity of dementia) from baseline to 12 weeks.
+If treatment with lithium/placebo needs to be interrupted due to medical illness or surgery or any other
+reason at any time point in the study, interruption for up to 30 days will be permitted in this study. Research
+treatment with lithium/placebo will then resume and clinic visits will continue as scheduled.
+Safety Monitoring during the course of the entire study will include vital signs assessment, physical exams,
+laboratory tests, monitoring of adverse events (TESS, and open-ended interview), and monitoring of
+concurrent medication records. As needed, communication with the patient’s primary physician will also
+take place. A DSMB will be appointed in consultation with NIA.
+<<<PAGE 20>>>
+Page 19 of 26
+All adverse events occurring after signing the consent forms, regardless of adherence to study treatment,
+will be recorded at all contacts with the patient. At scheduled visits, patients/informants will be interviewed
+about whether the patient experienced any symptoms or side effects since the last visit. Adverse events will
+be recorded and an adverse event form will be completed. If adverse events are noted, they will be rated as
+mild, moderate, or severe based on their clinical severity and frequency. The PI will inform the IRB
+immediately after knowledge of death, or of an event that is life-threatening that results in hospitalization, or
+that involves persistent or significant disability or incapacity (these will be rated as Serious Adverse
+Events). Data collected regarding these serious adverse events will include the treatment provided, outcome,
+and presumed relationship to study drug and will be updated as new information becomes available.
+Medication Adherence will be assessed by pill counts done by the research assistant under the supervision
+of the study physician. Patients who return more than 25% of the pills that should have been taken will be
+rated as non-adherent for that visit. Non-adherence by itself will not lead to study termination, but the
+presence of non-adherence will be taken into account in the statistical analyses.
+Implications. Patients with AD who develop agitation with or without psychosis are difficult to treat, and the
+development of these types of symptoms is the most common precipitant for institutionalization. In the
+absence of established effective, safe treatments for these symptoms, if lithium proves to be safe and
+effective and superior to placebo, this will provide important initial pilot data for the investigators to
+subsequently apply for funding to conduct a randomized, double-blind, placebo-controlled trial.
+You can upload charts or diagrams if any
+Criteria for Early Discontinuation
+Criteria for Early Discontinuation
+Dropout. Patients who cannot tolerate lithium will be offered treatment with alternative medications, e.g., an
+antipsychotic medication that they did not receive earlier. Creatinine and eGFR levels will be closely
+monitored as part of the SMAC done at baseline, week 6 and week 12. At 6 weeks, if the eGFR declines to
+less than 44 ml/min or the serum creatinine level increases to more than 1.5 times the baseline level or if
+there is a > 0.3 mg/dl (>26.5mmol/l) increase in serum creatinine, treatment with lithium or placebo will be
+stopped and alternative treatment strategies will be employed. The same criteria will apply to the 12-week
+time-point, and patients on lithium or placebo who do not meet the above kidney function test requirements
+will not receive lithium post-study. For patients who terminate treatment before 12 weeks, the study
+physician will terminate the protocol and an early termination visit will be completed. The blind will be
+broken by a physician independent of the research for all patients who exit randomized treatment, i.e., either
+early due to dropout from randomized treatment or after completion of the protocol. Therefore, the
+physician will be able to treat the patient in an informed manner. Patients who discontinue placebo will be
+offered open lithium treatment as the first option but all other clinically appropriate psychotropic medication
+strategies will also be considered.
+<<<PAGE 21>>>
+Page 20 of 26
+If during the course of the trial, a patient demonstrates suicidal behavior or dangerous behavior with serious
+safety risk or risk of physical harm to self or others, the patient will be withdrawn from the protocol and
+receive open treatment.
+For patients who do not make an appointment, every effort will be made to maintain the patient in the study
+including making a home visit if feasible. Patients who develop intolerable side effects even at the lowest
+permitted dose will be terminated from the protocol by the study investigator. The study investigator can
+also terminate the protocol if severe medical illness warrants study termination. The decision to terminate
+the protocol will be determined primarily by the presence of side effects that will take precedence over
+lithium levels.
+Blood and other Biological Samples
+Please create or insert a table describing the proposed collection of blood or other biological specimens
+Routine Laboratory Tests: At baseline, week 6, and at 12 weeks, blood will be collected for the following
+screening laboratory tests that will be performed by the OMH Clinical Laboratories-Nathan Kline Institute:
+CBC, BUN, creatinine, eGFR, electrolytes, liver and thyroid function studies (total of 20 ml).
+In addition, blood for lithium level (10 ml, also sent to NKI) will be obtained at week 2, week 4, week 6,
+week 8 (with subsequent dose adjustment if indicated), and week 12 in the protocol.
+Genetic studies: Apolipoprotein E genotype is the best replicated genetic association with late-onset AD and
+its effect appears to be stronger than all the other genes shown to be associated with late onset AD. We do
+not postulate a hypothesis for apolipoprotein E genotype, but will examine it in exploratory analyses
+because of its strong association with AD. For all genetic assays, blood will be collected at baseline (8.5 ml)
+and DNA extracted in the Human Genetics Research Core laboratory at Columbia University. DNA will be
+analyzed in Dr. Lorraine Clark’s laboratory at Columbia University for apolipoprotein E genotype, ACCN1
+gene (SNP located in intron 1) and 7q.11.2 gene locus.
+Throughout the 12-week trial the total amount of blood taken is 68.5 ml.
+Assessment Instruments
+Create a table or give a brief description of the instruments that will be used for assessment
+Assessment Time Allotment
+NACC Clinical Evaluation by Physician 20 min
+Treatment Emergent Symptom Scale (TESS) 4 min
+GCI (behavior and global)  5 min
+<<<PAGE 22>>>
+Page 21 of 26
+Clinical Dementia Rating (CDR) 2 min
+Cumulative Illness Rating Scale (Geriatric)  5 min
+Other Scales/Assessment Time Allotment
+Basic ADL Scale 5 min
+NPI Neuropsychiatric Inventory 20 min
+Get Up & Go 2 min
+Zarit Caregiver Burden Interview 10 min
+Simpson-Angus Scale 10 min
+Young Mania Rating Scale (YMRS) 2 min
+Neuropsychological Testing Time Allotment
+Folstein Mini Mental State Exam (MMSE) 5 min
+Severe Impairment Battery (SIB) 20 min
+Please attach copies, unless standard instruments are used
+Off label and investigational use of drugs/devices
+Choose from the following that will be applicable to your study
+Drug
+Select the number of drugs used in this study
+1
+Drug #1
+Name of the drug
+Lithium
+Manufacturer and other information
+We will use the generic version of lithium carbonate supplied to the NYSPI pharmacy.
+Approval Status
+No IND is required
+Choose one of the following options
+FDA conditions are met (see 'Rules')
+Explain
+Under Section 505 (i) of the Federal Food, Drug and Cosmetic Act (FDCA), we believe that this study
+meets all the requirements for exemption from the IND regulations (we have no intention to apply for a
+patent, and the other criteria in Section 505 (i) are also met).
+Research Related Delay to Treatment
+Will research procedures result in a delay to treatment?
+Yes
+Maximum duration of delay to any treatment
+<<<PAGE 23>>>
+Page 22 of 26
+The maximum duration of delay to treatment is 12 weeks, during which the patient may be treated with
+Lithium or placebo.
+Maximum duration of delay to standard care or treatment of known efficacy
+The delay to treatment is up to 12 weeks.  However, no specific treatment for agitation/aggression with or
+without psychosis has been FDA-approved in patients with dementia.  Also, patients starting on concomitant
+psychotropics that cannot be washed out will be permitted to stay on them during the trial, and lorazepam is
+available as a rescue medication.
+Treatment to be provided at the end of the study
+After the study ends, the patient will continue to be followed in our ADRC by the physician who was
+following the patient prior to the start of the study, and will continue lithium or use alternative medications
+as clinically indicated.
+Clinical Treatment Alternatives
+Clinical treatment alternatives
+Alternative medications include antipsychotics, and these are presented and discussed in the consent form.
+Risks/Discomforts/Inconveniences
+Risks that could be encountered during the study period
+Possible side effects of lithium include diarrhea, vomiting, shakiness, drowsiness, slowed thinking,
+weakening of muscles, difficulty concentrating, acne, weight gain, change in thyroid function (a hormone
+that regulates metabolic and other functions), increased urination (more frequent and more volume),
+bradycardia and hypernatremia. Hypernatremia is a condition caused by high levels of sodium in the blood
+that can occur due to dehydration, often due to lack of intake of fluids. Symptoms include dry mouth,
+weakness, lethargy, increased confusion, irritability and heart palpitations, and seizures can occur. If you
+experience any of these symptoms, report them to your study doctor immediately. Because of the possibility
+of becoming sleepy, patients will be instructed to be cautious about driving especially when the medication
+is started or the dose is raised. Renal functions will be monitored as noted earlier.
+Describe procedures for minimizing risks
+There are three areas in which safeguards to protect subjects from undue risk require discussion. These
+include the procedures used to obtain informed consent, the procedures used to ensure confidentiality of
+subjects’ responses and findings on tests, and the procedures used to minimize possible risks associated with
+the research procedures.
+Informed Consent. Informed consent is obtained and documented with a signed consent statement giving
+full information about the study. In the consent form and in discussion with an investigator, subjects are
+advised fully of the procedures to be used, the amount of time required of them, the fact that this is a
+longitudinal treatment study with repeated assessment at specified time points, the possible risks and
+benefits of the procedures and the treatment conditions, their right to refuse participation in the study
+without prejudice, their right to terminate participation at any moment without prejudice, and the name and
+telephone number of the Principal Investigator.
+<<<PAGE 24>>>
+Page 23 of 26
+Capacity to Consent. Based on IRB requirements, patients will be recruited by a study physician who signs
+the consent form in addition to the patient and informant. As described earlier, for patients who lack the
+capacity to consent but retain the capacity to appoint a surrogate, we will follow the procedures required by
+the NYSPI IRB (based on New York State OMH regulations) regarding assessment of capacity to consent.
+Research Procedures. We have described above the potential risks of the research procedures and the
+safeguards that will be used to minimize risks. These include termination of subjects from research
+participation if it is believed that such participation endangers their welfare. Monitoring procedures are used
+to evaluate potential side effects of research procedures. The protocol stipulates an extensive medical,
+neurological, and psychiatric evaluation of all subjects as a condition for research participation.
+Methods to Protect Confidentiality
+Describe methods to protect confidentiality
+Confidentiality of Subjects’ Responses. In the informed consent form, subjects are told that the information
+they provide and all findings will be kept strictly confidential, with access limited to the research staff with
+the possible exception of State or Federal regulatory personnel for audits. All records are kept in locked
+files. Each subject is given a code number for database purposes, and the patient’s name does not reside in
+the database. Computer files will be stored in a database that is password protected and behind an institute
+and department firewall. No one but the project staff has access to the master list linking subjects’ names to
+code numbers, and all information obtained is coded. The master list is kept under strict lock and key. The
+research data on specific measures are released to the patients, and this is specified in the consent form.  A
+certificate of confidentiality has been obtained from the NIH.
+Will the study be conducted under a certificate of confidentiality?
+Yes, we have already received a Certificate of Confidentiality
+Direct Benefits to Subjects
+Direct Benefits to Subjects
+Patients will obtain free clinical evaluation, neuropsychological testing, and may benefit from treatment
+with Lithium or placebo. The treatment is clinically not inconsistent with treatment typically received by
+patients with AD who develop agitation with or without psychosis.
+Potential benefits to society may be considerable. If the hypotheses are supported by the results, this will
+suggest that lithium may be a useful alternative or adjunct to the use of other psychotropic medications to
+treat agitation with or without psychosis in AD.
+<<<PAGE 25>>>
+Page 24 of 26
+Compensation and/or Reimbursement
+Will compensation or reimbursement for expenses be offered to subjects?
+Yes
+Please describe and indicate total amount and schedule of payment(s).
+Include justification for compensation amounts and indicate if there are bonus payments.
+Compensation will include $20.00 per hour spent in the clinic during study visits. We may also reimburse
+for travel expenses, if needed by the subject.
+References
+References
+Camins A, Verdaguer E, Junyent F, Yeste-Velasco M, Pelegrí C, Vilaplana J, Pallás M. Potential
+mechanisms involved in the prevention of neurodegenerative diseases by lithium. CNS Neurosci Ther. 2009
+Winter;15(4):333-44. Review.
+Devanand DP, Marder K, Michaels, KS, Sackeim HA, Bell K, Sullivan MA, Cooper TB, Pelton GH,
+Mayeux R. A randomized, placebo-controlled, dose-comparison trial of haloperidol treatment for psychosis
+and disruptive behaviors in Alzheimer’s disease. American Journal of Psychiatry, 155:1512-1520, 1998.
+Devanand DP, Mintzer J, Schultz SK, Andrews HF, Sultzer DL, de la Pena D, Gupta S, Colon S,
+Schimming C, Pelton GH, Levin, B. Relapse risk after discontinuation of risperidone in Alzheimer's disease.
+New Engl J Med, 2012; 367:1497-1507.
+Dunn N, Holmes C, Mullee M. Does lithium therapy protect against the onset of dementia? Alzheimer Dis
+Assoc Disord. 2005 Jan-Mar;19(1):20-2.
+Fahy S, Lawlor BA. Lithium use in octogenarians. Int J Geriatr Psychiatry. 2001 Oct;16(10):1000-3.
+Forlenza OV, Diniz BS, Radanovic M, Santos FS, Talib LL, Gattaz WF. Disease-modifying properties of
+long-term lithium treatment for amnestic mild cognitive impairment: randomised controlled trial. Br J
+Psychiatry. 2011 May;198(5):351-6.
+Haddad P, Wieck A, Yarrow M, Denham P. 1999. The Lithium Side Effects Rating Scale (LISERS);
+development of a self-rating instrument. Eur Neuropsychopharmacol 9(s5): 231–232.
+Hampel H, Ewers M, Bürger K, Annas P, Mörtberg A, Bogstedt A, Frölich L, Schröder J, Schönknecht P,
+Riepe MW, Kraft I, Gasser T, Leyhe T, Möller HJ, Kurz A, Basun H. Lithium trial in Alzheimer's disease: a
+randomized, single-blind, placebo-controlled, multicenter 10-week study. J Clin Psychiatry. 2009
+Jun;70(6):922-31.
+Janowsky DS, Buneviciute J, Hu Q, Davis JM. Lithium-induced renal insufficiency: a longitudinal study of
+creatinine increases in intellectually disabled adults. J Clin Psychopharmacol. 2011 Dec;31(6):769-73.
+<<<PAGE 26>>>
+Page 25 of 26
+Jefferson JW. A clinician's guide to monitoring kidney function in lithium-treated patients. J Clin
+Psychiatry. 2010 Sep;71(9):1153-7. Review.
+Katz I, de Deyn PP, Mintzer J, Greenspan A, Zhu Y, Brodaty H. The efficacy and safety of risperidone in
+the treatment of psychosis of Alzheimer's disease and mixed dementia: a meta-analysis of 4 placebo-
+controlled clinical trials. Int J Geriatr Psychiatry 2007;22:475-484.
+Kessing LV, Søndergård L, Forman JL, Andersen PK. Lithium treatment and risk of dementia. Arch Gen
+Psychiatry. 2008 Nov;65(11):1331-5.
+Macdonald A, Briggs K, Poppe M, Higgins A, Velayudhan L, Lovestone S. A feasibility and tolerability
+study of lithium in Alzheimer's disease. Int J Geriatr Psychiatry. 2008 Jul;23(7):704-11.
+McKnight RF, Adida M, Budge K, Stockton S, Goodwin GM, Geddes JR. Lithium toxicity profile: a
+systematic review and meta-analysis. Lancet. 2012 Feb 25;379(9817):721-8. Epub 2012 Jan 20. Review.
+Nunes PV, Forlenza OV, Gattaz WF. Lithium and risk for Alzheimer's disease in elderly patients with
+bipolar disorder. Br J Psychiatry. 2007 Apr;190:359-60.
+Rej S, Abitbol R, Looper K, Segal M. Chronic renal failure in lithium-using geriatric patients: effects of
+lithium continuation versus discontinuation-a 60-month retrospective study. Int J Geriatr Psychiatry. 2012
+Jun 4. doi: 10.1002/gps.3841. [Epub ahead of print]
+Schneider LS, Dagerman K, Insel PS. Efficacy and adverse effects of atypical antipsychotics for dementia:
+meta-analysis of randomized, placebo-controlled trials. Am J Geriatr Psychiatry 2006;14:191–210.
+Schneider LS, Dagerman KS, Insel P. Risk of death with atypical antipsychotic drug treatment for dementia:
+Meta-analysis of randomized placebo-controlled trials. JAMA 2005;294:1934–1943.
+Shulman KI, Sykora K, Gill SS, Mamdani M, Anderson G, Marras C, Wodchis WP, Lee PE, Rochon P.
+New thyroxine treatment in older adults beginning lithium therapy: implications for clinical practice. Am J
+Geriatr Psychiatry. 2005 Apr;13(4):299-304.
+Tariot PN, Schneider LS, Cummings J, Thomas RG, Raman R, Jakimovich LJ, Loy R, Bartocci B, Fleisher
+A, Ismail MS, Porsteinsson A, Weiner M, Jack CR Jr, Thal L, Aisen PS; Alzheimer'sDisease Cooperative
+Study Group. Chronic divalproex sodium to attenuate agitation and clinical progression of Alzheimer
+disease. Arch Gen Psychiatry. 2011 Aug;68(8):853-61.
+Tredget J, Kirov A, Kirov G. Effects of chronic lithium treatment on renal function. J Affect Disord. 2010
+Nov;126(3):436-40. Epub 2010 May 16.
+Wong YW, Tam S, So KF, Chen JY, Cheng WS, Luk KD, Tang SW, Young W. A three-month, open-label,
+single-arm trial evaluating the safety and pharmacokinetics of oral lithium in patients with chronic spinal
+cord injury. Spinal Cord. 2011 Jan;49(1):94-8. Epub 2010 Jun 8.
+<<<PAGE 27>>>
+Page 26  of 26
+Zhang X, Heng X, Li T, Li L, Yang D, Zhang X, Du Y, Doody RS, Le W. Long-term treatment with lithium
+alleviates memory deficits and reduces amyloid- production in an aged Alzheimer's disease transgenic
+mouse model. J Alzheimers Dis. 2011;24(4):739-49.

@@ -1,0 +1,854 @@
+<<<PAGE 1>>>
+1
+Decisions about Cancer Screening in Alzheimer’s Disease
+(DECAD)
+PROTOCOL
+4.28.2022
+BACKGROUND AND STUDY AIMS
+The incidence of both Alzheimer’s disease and related dementias (AD) and of breast cancer increases with
+age; thus, many older women with AD are faced with questions about breast cancer screening. Having AD can
+impact a women’s ability to participate in her medical decision-making about breast cancer screening. As a
+result, AD family caregivers (hereafter referred to as caregivers) are frequently involved in making decisions
+about mammography. Each year over 800,000 women with AD receive screening mammography. Caregivers
+cite decision-making and procedures related to mammograms as particularly stressful and there is a lack of
+data that mammography screening helps women with AD live longer or better.
+The average life expectancy of older women with AD is <10 years. Current guidelines recommend not
+screening women with a life expectancy of <10 years. The rationale is that these women will not live long
+enough to experience the life prolonging benefits of mammography screening. Instead, screening these
+women can put them at risk for physical and psychological harm as a result of over diagnosis, overtreatment,
+additional tests due to false positives, and the identification of clinically unimportant cancer. Conversely, while
+mammography screening may not help older women with AD live longer, it may help find breast cancers earlier
+when they are easier to treat. Therefore, it is important that women with AD and their caregivers have
+information to make an informed decision about screening. The goal of our project is to test if an evidence-
+based decision aid for caregivers can improve the quality of decision-making about mammography in older
+women with AD.
+A decision aid for AD caregivers about mammography could improve the quality of medical decision-making,
+by informing caregivers about the risks, benefits, and their choices. No decision aids exist to support AD
+caregivers with decisions about mammography despite the frequency that caregivers are approached with this
+decision. The DECAD Study will test if a decision aid can support AD caregivers and patients in making
+decisions about breast cancer screening by improving markers of decision quality. The study aims are:
+Primary Aim: To examine the effect of a mammography screening decision aid intervention for older
+women with AD on markers of decision quality among caregivers.
+Hypothesis: Caregivers of patients who receive the decision aid will have lower levels of decisional conflict
+(primary outcome) and higher levels of decision-making self-efficacy (secondary outcome) about breast cancer
+screening in older women with AD, compared to the control group.
+Secondary Aim: To examine the effect of a mammography screening decision aid intervention for
+caregivers on the utilization of mammograms in older women with AD.
+Hypothesis: Women with AD who are randomized to receive the decision aid will receive less mammography
+screening at 15 and 24 months after the intervention, compared to the control group.
+Exploratory Aim: To identify the factors that are associated with impact of a decision aid intervention
+on mammography screening cessation in older women with AD.
+Exploratory Hypothesis: Among the dyads randomized to receive the decision aid, caregivers of patients with
+more severe cognitive impairment, greater co-morbidities, or older age will experience a greater reduction in
+frequency of mammograms in the 15 and 24 months following the intervention.
+<<<PAGE 2>>>
+2
+METHODS
+Study Design:
+ Two arm, randomized controlled trial.
+ 426 AD patient-informal caregiver dyads with completed baselines. 213 dyads receive the decision aid
+on mammography
+(Appendix 1 and
+Appendix 2) and 213
+dyads to receive a control
+condition in the form of a
+two-page paper pamphlet
+on home safety
+developed by the
+American Geriatrics
+Society Foundation for
+Health in Aging (Appendix
+3).
+Participants:
+ Patients will be women,
+age 75 and older with a
+diagnosis of Alzheimer’s
+disease or related
+dementia.
+Table 1. Inclusion and exclusion criteria for the DECAD Trial
+INCLUSION CRITERIA
+Patients Caregivers
+Female and 75 years or older 18 years or older
+At least one mammogram in the past five years Primary family caregiver of the patient*
+Primary care visit scheduled in the next 12 months
+Diagnosis of AD as determined by ICD-10 code Ability to provide informed consent
+Ability to provide informed consent or assent
+Ability to communicate in English Ability to communicate in English
+EXCLUSION CRITERIA
+Patients Caregivers
+Permanent resident of a nursing facility Caregiver is a non-family member who is not
+a legal Healthcare Power of Attorney
+Had a mammogram in the past 6 months Less than a 7th grade education**
+Primary care visit scheduled is not the first visit
+with the PCP
+Made a decision to stop getting mammograms Made a decision that the patient will stop
+getting mammograms
+History of Atypical Ductal Hyperplasia, lobular
+carcinoma in situ, ductal carcinoma in situ, or
+invasive breast cancer or other cancer in the past
+5 years.
+Has a diagnosis of AD or has a serious mental
+illness such as bipolar or schizophrenia as
+determined byICD-10 code
+Has mild cognitive impairment, serious mental
+illness such as bipolar or schizophrenia as
+determined byICD-10 code
+* Identified by the patient or listed as primary caregiver in EMR.
+**The reading level of the decision aid is 7th grade.
+Table 2. Sites for DECAD Recruitment*
+Site Number of
+sites
+# of
+Physician
+s
+Women
+≥70
+years
+old with
+AD
+Race and Ethnicity
+for population with
+AD
+Eskenazi Health
+Aging Brain Care
+Program
+1
+5
+1,383
+White 42%
+African American 51%
+Other or unknown 7%
+Hispanic 2%
+Indiana University
+Alzheimer Disease
+Center
+1
+NA
+43
+White 67.5%
+African American
+32.5%
+Indiana University
+Health Department of
+Neurology
+1 3 TBD TBD
+Alzheimer’s
+Association- Greater
+Indiana Chapter
+5-10 NA TBD TBD
+IU Health PC
+179
+2,026
+White 75.6%
+African American
+22.4%
+<<<PAGE 3>>>
+3
+ Caregivers will be age 18 and
+older and an unpaid, informal
+caregiver for the patient either
+self-identified, identified by the
+patent, or identified by the
+patient’s medical team.
+ See Table 1 for patient and
+caregiver inclusion and exclusion
+criteria.
+Recruitment Sites (as of 11/30/2021):
+ Aging Brain Care Program at
+Eskenazi Health
+ Indiana University Alzheimer
+Disease Center (research
+registry)
+ Indiana University Health Department of Neurology
+ Indiana University Health Department of Psychiatry (Drs. Bateman and Wang)
+ Alzheimer’s Association- Greater Indiana Chapter (Support Group members)
+ Indiana University Health Primary Care Practices in central Indiana
+ Eskenazi Health Primary Care Practices in central Indiana
+ Beth Israel Deaconess Medical Center, Boston, Massachusetts
+ Parkview Health, Fort Wayne, Indiana
+ CICOA Aging and In-Home Services, central Indiana
+ LifeStream Services, eastern Indiana
+ Thrive Alliance, southern central Indiana
+ SWIRCA & More, southwest Indiana
+Primary outcome: Caregiver decisional conflict at post-index visit (T3)
+Secondary outcome (caregiver): Caregiver decision-making self-efficacy at post-index visit (T3)
+Secondary outcome (patient): Utilization of mammograms at 15 (T4) and 24 months post-index visit (T5).
+Table 3. Measures
+Outcomes Construct/Core
+Attributes
+Outcome
+measure(s)
+Name of
+Measure
+citation
+Description Scoring When Source
+Primary outcome Feel Informed
+Values clarification
+Decisional
+Conflict
+Decision
+Conflict Scale
+16-items on a 1-5 Likert
+scale. Measures uncertainty
+around a decision, whether
+Scores
+range 0-100;
+Lower
+T1
+T3
+Caregiver
+reported
+14 PC
+practices
+Other or unknown 2%
+Hispanic 0.9%
+BIDMC 7 sites 90  1600 White- 64%
+Black- 23%
+Asian- 4%
+Hispanic -5%
+Parkview Health TBD TBD TBD TBD
+CICOA Aging and In-
+Home Services
+NA NA 988 TBD
+LifeStream Services NA NA 200 TBD
+Thrive Alliance  NA NA 40 TBD
+SWIRCA & More NA NA 90 TBD
+Total 34 277 6280
+*Data as of March 2017 besides BIDMC, Parkview Health, CICOA, LifeStream, Thrive
+Alliance, SWIRCA & More
+<<<PAGE 4>>>
+4
+one feels informed, clear
+about their personal values,
+and supported in their
+decision-making.
+scores
+indicate less
+conflict.
+Secondary
+outcomes
+Belief in  ability to
+make and
+participate in
+shared decision
+making
+Decision-
+making self-
+efficacy
+Decision Self-
+Efficacy Scale
+(DSE)
+11-items on a 5-point Likert
+scale. Measures of self-
+confidence or belief in one’s
+ability to make decisions
+Low,
+medium,
+high
+decision
+self-
+efficacy.
+Scores
+range 0-100
+T1
+T3
+Caregiver
+reported
+Receipt of
+screening
+DECAD
+Created
+Review primary care notes,
+radiology reports, and
+documentation on
+screening/preventive care;
+caregiver report
+Yes or no
+determinatio
+n
+T4
+T5
+Pt EMR;
+Caregiver
+reported
+Involvement in the
+decision
+Caregiver role
+in decision-
+making
+Adapted from
+the Control
+Preferences
+Scale
+4-items to assess
+preferences for and
+involvement in making
+decisions on their own or
+sharing responsibility with
+the pt or doctor.
+Active vs.
+passive/shar
+ed with
+doctor (since
+aim of
+decision aids
+is to help
+dyads be
+more active
+in decision-
+making)
+T3
+Caregiver
+reported
+Patient role in
+decision-
+making
+Adapted from
+the Control
+Preferences
+Scale
+2-items to assess
+involvement in making
+decisions on their own or
+sharing responsibility with
+their family or doctor.
+Active vs.
+passive/shar
+ed with
+doctor (since
+aim of
+decision aids
+is to help
+dyads be
+more active
+in decision-
+making)
+T3
+Patient
+reported
+Other measures  Socio-
+demographics
+DECAD
+Created
+32 item questionnaire to
+measure items such as
+relationship to the patient,
+frequency and type of
+contact with the patient,
+geographic distance from
+the patient, education level,
+annual income, self-
+reported health status, etc.
+Co-variates T1 Caregiver
+reported
+Does severity of the
+patient’s cog and
+functional
+impairment impact
+caregiver decision
+making
+Severity of
+patient’s
+cognitive
+impairment
+Dementia
+Severity
+Rating Scale
+(DSRS)
+12-item questionnaire for
+caregivers to assess
+severity of AD in 12 major
+functional and cognitive
+domains.
+Score
+ranges from
+0 (mild) to
+54 (severe).
+T1 Caregiver
+reported
+Caregiver
+Appraisal of
+Function and
+Upset (CAFU)
+15-item questionnaire for
+caregivers to measure
+ADLs and iADLS
+impairment and how much
+those impairments upset or
+burden the caregiver
+T1 Caregiver
+reported
+Intention for
+the patient to
+be screened
+DECAD
+Created
+3-items total. Two on a 5-
+point scale to assess
+propensity to get screened.
+One to ask how many more
+mammograms they think
+the patient will get.
+Yes vs.
+those who
+are unsure
+vs. No
+screening;
+We will look
+at the scores
+continuously
+and
+categorize
+scores as 1-
+2(no), 3
+(unsure), or
+4-5 (yes).
+T1
+T3
+Caregiver
+and
+Patient
+reported
+<<<PAGE 5>>>
+5
+Breast Cancer
+and
+Alzheimer’s
+disease
+Knowledge
+DECAD
+Created
+16-items (6 multiple choice
+and 10 true/false); 13 were
+adapted from other studies
+and 3 were developed
+based on the decision aid.
+Sum of
+correct
+answers
+T1
+T3
+Caregiver
+reported
+Burden of
+screening on
+the patient
+DECAD
+Created
+Review patient’s EMR for
+additional diagnostic
+procedures due to
+mammogram follow-up;
+false-positive results,
+identification of an
+abnormality on screening
+exam but further work-up
+declined, identification of a
+clinically unimportant
+cancer; documentation of
+depressive symptoms,
+anxiety, or pain related to
+the experience of getting a
+mammogram and not a
+general measure to be
+assessed independent of
+that event
+Yes or no
+Characteriza
+tion if yes
+T4
+T5
+(quart
+erly for
+DSMB
+)
+Pt EMR
+review;
+Burden of
+screening on
+the caregiver
+DECAD
+Created
+<<<SECTION 5 items on a 5-point Likert>>>
+5 items on a 5-point Likert
+scale. Assess perceptions
+about the burden of
+mammography for the
+patient
+&
+Semi-structured questions
+about patient’s
+mammogram experience
+and perceived burden of
+screening.
+Sum of
+scores
+T4 Caregiver
+reported
+Values, Attitudes,
+Norms, and
+Experiences
+DECAD
+created
+15 items total. 5 items on a
+10 point scale re: values; 3
+items on a 7 point scale on
+attitudes; and 3 items on a
+5 point scale re; perceived
+norms; and 4-itmes on a 5
+point scale re: experience
+with mammograms
+descriptive T1
+T3
+Caregiver
+and
+Patient
+reported
+Health literacy  A 4-item health literacy
+assessment with values of
+0-5 based on possible
+responses to each of the
+questions.116
+Higher
+scores being
+higher health
+literacy.
+T1 Caregiver
+reported
+Numeracy   A 3-item assessment of
+numeracy skills
+Higher
+scores being
+higher health
+literacy.
+T1 Caregiver
+reported
+Mammogram
+discussion with the
+Patient’s provider
+8-items that assess if a
+discussion about
+mammograms took place
+and the content of those
+discussions.
+Descriptive T3
+Process measure  Acceptability
+of the decision
+aid
+DECAD
+Created
+3-items on a yes/no scale
+and 6-items on a 5-point
+Likert scale to measure
+caregivers’ and patients’
+perceptions about the
+length, clarity, helpfulness
+and willingness to
+recommend decision aid.
+Also, the number of times
+they reviewed it, how many
+pages they read, how long
+it took them to read it, how
+they would prefer to receive
+it if not part of a study.
+Sum of
+scores
+T3 Patient
+reported
+Process measure  Acceptability
+of the decision
+aid
+DECAD
+Created
+20-items on a 5-point Likert
+scale and 8 yes/no
+questions to measure
+Sum of
+scores
+T3 Caregiver
+reported
+<<<PAGE 6>>>
+6
+caregivers’ and patients’
+perceptions about the
+length, clarity, helpfulness
+and willingness to
+recommend decision aid.
+Also, the number of times
+they reviewed it, how many
+pages they read, how long
+it took them to read it, how
+they would prefer to receive
+it if not part of a study.
+Intervention Description and Timing of Measures
+Although participants may be recruited from specialty memory care or AD clinics, the intervention will be
+delivered in the patient’s primary care setting (e.g. the usual setting for discussions about mammography).
+Step 1: Identification of Potential Participants
+ Participants will be identified in a variety of ways and will be tailored based on the recruitment site.
+Patients identified through a clinical site (ABC, IUH) will be identified via the Indiana Network for Patient
+Care, which can access patient lists by doctors and clinic and PC clinic schedules. To identify potential
+participants at BIDMC, a data manager at BIDMC will send a research assistant a list of all women 75-
+89 years with dementia (based on ICD-10 codes [will be expansive and will include codes for memory
+loss and all forms of dementia]) and without a history of breast cancer scheduled to see their primary
+care provider (PCP, physician or nurse practitioner). With a HIPAA waiver a research assistant (RA) will
+then review these patients' medical records to see if the patient meets eligibility criteria (e.g., diagnosis
+of Alzheimer's or related dementia; mammogram in the past 5 years but not in the past 6 months, no
+history of breast cancer listed in problem list).  Patients’ physicians will be notified first of their patient’s
+potential eligibility and be asked if DECAD can approach the patient and their caregiver for
+participation. Physicians are routinely given 2 weeks to review their patient list (per IU PBRN). At
+BIDMC, physicians are routinely given 2 days to respond to an email requesting permission to contact
+their patients. However, if the physician has an out-of-office response we give PCPs 2 days to respond
+after they return. The email informing PCPs that we plan to contact their patients tells PCPs that if we
+do not hear from them in 2 days then we will send their patients an informational letter about the study.
+Once approved by physician, the patient and caregiver will get a letter informing them of the study and
+that study personnel will be calling them in 1-2 weeks to provide more information. Participants
+identified from non-clinical sites (eg. Alz Assoc) will receive information about the study from the Alz
+Asso and from Trial Match. They will reach out to the study team directly or will provide permission to
+be follow-up by the study team regarding recruitment. We will also present the study at community
+events such as caregiver support groups and Alzheimer’s related events. Caregivers approached at
+these events will have the opportunity to sign a contact list that includes their phone number, to hear
+more information about our study. The study team will then reach out to those caregivers to assess
+eligibility and confirm interest in participation. We will use our pre-approved brochure for these
+caregivers.
+ We will consider any woman age ≥75 years with a diagnosis of AD or related dementia who has
+received a mammogram in the past 5 years (but not in the past 6 months) and who does not have a
+history of breast cancer or documentation in her EMR that she has decided to stop mammography.
+ We will approach the primary family caregiver/ informant for each eligible woman. Caregivers will be
+eligible if they are a caregiver for the patient and intend to accompany the patient to their next primary
+care visit.
+ Rolling enrollment will take place over 36 months with an average monthly enrollment of 11-12 dyads.
+<<<PAGE 7>>>
+7
+Step 2: Enrollment
+ Following eligibility determination and the informed consent process (which includes HIPAA release
+form), and baseline assessment the dyads will be randomly assigned in 1:1 ratio to one of two groups:
+mammogram decision aid or home safety guide, stratified by site.
+ Decision aid or home safety guide will be mailed to both the patient and the caregiver immediately after
+randomization but at least 1 week before the index visit.
+ Date of the patient’s next PCP visit will be obtained via caregiver report at the baseline interview and
+via EMR review at the time of enrollment.
+ For all dyads, the Research Assistant will meet them in person or by phone 0-2 days before the index
+visit to standardize the process by which all dyads review the decision aid. The pre-index visit
+assessment (T2) will occur in-person or by phone 30 minutes-2 days before the index visit either at the
+patient’s house, at the caregiver’s house, at the provider office or at a location of the dyads choice.
+Observational data only is collected at this assessment. The RAs will not discuss the content of the
+decision aid at that time; they will simply ensure that they have read it or have had it read to them
+before the index visit. We will record if the RA is asked to read the DA to either member of the dyad. If
+Figure 1.
+<<<PAGE 8>>>
+8
+the dyad has any questions about the content of the decision aid, the RA will encourage them to ask
+the patient’s provider any questions. The phone option script will provide prompts to ensure review of
+the decision aid during the phone conversation
+ If the date of the patient’s index visit is not known or not documented in the EMR, the RA will follow the
+study tracking process to obtain the patient’s index visit appointment date. This includes a 2x per month
+phone call to the caregiver and EMR review (if accessible).
+ If the index PCP visit does not occur within approximately six months of the baseline, another provider
+visit may be substituted with PI permission.
+ The post- index visit (T3) will occur in-person or via phone 0-5 days after the index visit.
+ The 15 month follow-up (T4) will be in-person or via phone and include an assessment with the
+caregiver and a review of the patient’s EMR. This interview may be audio recorded.  In the event we
+have exhausted the attempts to reach the participant/caregiver by phone or in person, we will send a
+paper copy of a letter explaining the request to have them complete the survey on paper and return to
+the research assistant.
+ The 24 month follow-up (T5) will include a review of the patient’s EMR (only).
+ See Table 3 and Figure 1 for a complete list of measures and timing of collection.
+Statistical Plan:
+Step 1: Overview
+ For analysis, we will examine univariate distributions of continuous variables in order to detect any
+potential violations of assumptions to our planned parametric methods of analyses.
+ We will transform variables as needed to ensure normal distribution assumptions are met.
+ We will use nonparametric methods if transformations are inadequate.
+ Demographic characteristics of the patients and caregivers will be compared between the two groups in
+order to evaluate if randomization is effectively balanced. We will include caregiver sex as a moderating
+biological variable and examine the influence of sex on caregivers’ decisional conflict and other factors
+associated with the impact of our decision aid interaction on mammography screening use.
+ We will use Chi-squared tests or Fisher’s exact tests to compare the frequencies of categorical
+variables. Analysis of variance (ANOVA), or its nonparametric alternative, the Wilcoxon rank sum test,
+will be used to compare the distribution of continuous variables between the groups.
+ We will use SAS 9.4 for all analyses (SAS Institute, Carey, NC).
+Step 2: Primary Aim
+ Analysis of covariance (ANCOVA) models will be used to compare mean Decisional Conflict Scale
+(DCS) scores between the intervention and control groups. For each caregiver, the difference in DCS
+scores from baseline to follow-up will be used as the dependent variable in the ANCOVA with
+randomization group assignment as the independent variable adjusting for the stratification variable of
+recruitment site and for other potential baseline covariates that are found to be significantly different
+between the two groups in univariate comparisons.
+<<<PAGE 9>>>
+9
+ ANCOVA models will also be used to compare secondary decision quality outcome (e.g., decision-
+making self-efficacy) at follow-up between the intervention and control groups adjusting for site and
+other potential baseline covariates found to be significantly different between the two groups in
+univariate comparisons.
+Step 3: Secondary Aim
+ A binary indicator variable for receipt of mammograms within 15 months and within 24 months from the
+intervention date will be used as a secondary outcome variable.
+ A logistic model with group (decision aid or control) as the independent variable will be used adjusting
+for recruitment sites (e.g., EH, IUH and IADC) and other potential baseline covariates found to be
+different in univariate comparisons.
+Step 4: Exploratory Aim
+ Once we have tested our hypothesis for the main effects, we will also perform hypothesis-generating
+exploratory analyses to examine effects in sub-groups of patients and caregivers.
+ Hypothesized sub-group analyses will be used for both the primary and secondary outcomes
+examining the moderating effect of patients’ and caregivers’ characteristics on decision aid impact.
+ The following patient variables will be included in sub-group analyses: age, level of cognitive
+impairment, number of co-morbidities, and their role in mammography decisions.
+ The following caregiver variables will be included in sub-group analyses: relationship to the patient,
+level of education, health literacy, and perceived burden of mammography for the patient and for them.
+ We will include each of these variables in the ANCOVA models for the primary outcome, in the logistic
+models for the secondary outcome and test for interactions between these variables and intervention
+group adjusting for recruitment sites and other potential baseline covariates. Significant interaction
+between a patient/caregiver characteristic variable and group would indicate different intervention
+effects in the dyad subgroups defined by the variable.
+Step 5: Sensitivity analyses for the impact of refusals and other sources of missing data
+ We will compare patient/caregiver characteristics between those who complete the follow-up
+assessments and those who did not. Significant variables detected from these comparisons will be
+included in the ANCOVA models as covariates to control for potential bias from missing data.
+Sensitivity analyses for the impact of refusals and other sources of missing data: Given the short time
+frame for collecting decision quality measures at follow-up and our pilot data, we anticipate few missing data
+due to caregiver refusal for the primary and main secondary outcomes. We will compare patient/caregiver
+characteristics between those who complete the follow-up assessments and those who did not. Significant
+variables detected from these comparisons will be included in the ANCOVA models as covariates to control for
+potential bias from missing data. Since the secondary outcome of receipt of mammogram screening will be
+collected from the EMR, missing data would arise only in cases of patient’s death or moving out of state. We
+anticipate minimum missing data on the analysis of the receipt of mammogram screening.
+<<<PAGE 10>>>
+10
+STATISTICAL POWER
+Sample size for the proposed trial is calculated using our pilot data that showed effect sizes of 0.28 on
+Decision Conflict Scale (DCS) score and 0.34 for self-efficacy scores. To detect effect size of 0.28 or greater
+on DCS scores between the two groups, we will need to have 202 patient/caregiver dyads per group to
+complete both baseline and follow-up with 80.2% power using two sample t-test at 0.05 level. Allowing 5%
+missing data at follow-up, we will need to enroll 213 patient/caregiver dyads per group (total 426 dyad
+baselines). With our planned sample size, we will have 92.6% to detect effect size of 0.34 or greater on
+changes in self-efficacy scores between the two groups.
+The pilot showed the mean DCS were similar between the two groups, the control group had a large SD which
+should come down with large sample size. Table 4.
+Table 4. Baseline DCS scores
+Group N Mean Std Dev Std Err Minimum Maximum
+Control 8 26.8375 22.6769 8.0175 0 69.0000
+Decision support 9 26.4444 16.4249 5.4750 0 45.0000
+Change in DCS from baseline to follow-up: DA group had greater decrease in DCS than controls. The current
+effect size is about 0.55. Table 5.
+Table 5. Change in DCS scores from baseline to follow-up, by group
+Group N Mean Std Dev Std Err Minimum Maximum
+Control 8 5.2000 8.8073 3.1139 -6.0000 21.0000
+Decision support 9 9.7778 7.8705 2.6235 0 20.0000
+Diff (1-2)   -4.5778 8.3208 4.0432
+TIMELINE
+Table 6. Timeline
+Oct 2017 2018 2019 2020 2021 April 2022
+Q
+1
+Q
+2
+Q
+3
+Q
+4
+Q
+1
+Q
+2
+Q
+3
+Q
+4
+Q
+1
+Q
+2
+Q
+3
+Q
+4
+Q
+1
+Q
+2
+Q
+3
+Q
+4
+Q
+1
+Q
+2
+Q
+3
+Q
+4
+Q
+1
+Q
+2
+Q
+3
+Q
+4
+Study Preparation: IRB Modification, hire/train staff
+Recruitment: open new sites, organize by wave per
+site
+Data collection: Enrollment & Baseline assessment
+Follow-up assessments
+Convene DSMB
+Data analysis
+Prepare abstracts and manuscripts
+Disseminate results
+ADVERSE EVENTS REPORTING
+The DECAD study has a NIA approved Data Safety Monitoring Plan and a Data Safety Monitoring Board (See
+the DSMP and DSMB Charter attached).  In summary:
+The PI will comply with Indiana University IRB and the NIA guidelines for defining, collecting, and reporting
+serious adverse events, adverse events, and unanticipated problems.
+<<<PAGE 11>>>
+11
+Definitions-This study involves reviewing a paper-based decision aid regarding mammograms and answering
+questions and does not involve the administration of a medication or medical procedure.  While an adverse
+event is unlikely, it is possible that a subject in this study may experience an adverse event. In our study, a
+serious adverse event is defined as the following: (1) death; (2) a life-threatening episode requiring immediate
+intervention; (3) an inpatient hospitalization or prolongation of existing hospitalization; (4) a persistent or
+significant incapacitation or substantial disruption of the ability to conduct normal life functions; (5) an episode
+that requires intervention to prevent the above and/or permanent impairment or damage.
+Non-serious adverse events are “any untoward or unfavorable medical occurrence in a subject, including any
+abnormal sign (e.g., abnormal physical exam or laboratory finding), symptom, or disease temporally associated
+with the subject’s participation in the research” that do not meet the definition for serious adverse event.
+Unanticipated problems are defined as any incident, experience, or outcome that is unexpected, in terms of
+nature, severity, or frequency and that may be related or possibly related to the research procedures, or
+suggests that, as a result of the problem, participants may be at higher risk than previously known or
+recognized.
+Collecting- All adverse events, unanticipated problems and potential risks will be monitored and collected
+ongoing and throughout the study by the DECAD research assistants and research manager. Monitoring
+events related to an increased risk that a malignancy of the breast may go undetected or any complications,
+distress, or pain that arise from receiving a mammogram or as a result of follow-up procedures after a
+mammogram will be will be done via electronic medical record reviews of study patients’ primary care
+encounter notes, radiology reports, and other documentation on screening/preventive care for breast cancer
+and from caregiver reports. Events related to any patient and caregiver loss of privacy or confidentiality or
+fatigue, frustration or distress related to completing the intervention or the outcome questionnaires will be
+assessed by the research manager via monitoring of the delivery of the study protocols and procedures and by
+patient and caregiver reports.
+For all participants, adverse events will be collected starting at enrollment and continue until after the
+participant has completed the study. If an adverse event occurs, it will be documented on the NIA adverse
+event and serious adverse event forms found at https://www.nia.nih.gov/research/dgcg/clinical-research-study-
+investigators-toolbox/adverse-events. Unanticipated problems, that do not meet the definition of an adverse
+event, will be documented in a DECAD study log that will be stored in a secure electronic folder behind the IU
+fire wall. Details in the log may include participant study ID, date that the problem was reported or discovered
+by the study, a description of the problem, and a corrective plan and measures to prevent reoccurrence.
+Measurement and Reporting of Adverse Events- Adverse events associated with reviewing a paper-based
+decision aid on mammography are infrequent. Therefore, adverse event rates are expected to vary little
+between the treatment and control groups. Adverse events will be monitored by the research manager on an
+ongoing basis. All adverse events and unanticipated problems will be reported to the study PI within 24 hours.
+We plan to present unblinded adverse events data to the DSMB when requested and at scheduled meetings.
+The NIA adverse event form will be used by the study staff to report all adverse events caused by the
+intervention.
+In the case of a participant death, the NIA Program Official, the IU IRB and the DSMB Chair will be notified
+within 24 hours using NIA standardized forms for reporting serious adverse events (noted above). If
+unanticipated, serious adverse events occur (i.e., not listed in the Data and Safety Monitoring Plan) and that
+are related to the intervention, they will be reported to NIA Program Official, the IU IRB, and to the DSMB Chair
+within 48 hours of study’s knowledge of the event using NIA standardized forms for reporting serious adverse
+events. In cases where there is any question regarding the level of an adverse event or attributable cause, or
+areas of uncertainty, the DECAD Study Team will consult with the DSMB and IU IRB. Further details are
+provided in the DECAD DSMB charter. The summary of all other adverse events and unanticipated problems
+should be reported to NIA Program Official and to the DSMB quarterly, unless otherwise requested by the
+DSMB.
+<<<PAGE 12>>>
+12

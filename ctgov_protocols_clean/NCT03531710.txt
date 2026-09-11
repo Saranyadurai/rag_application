@@ -1,0 +1,1829 @@
+<<<PAGE 1>>>
+CLINICAL TRIAL PROTOCOL
+Investigational Product:
+UBITh® AD Immunotherapeutic Vaccine (UB-311)
+An Extension Study of a Phase IIa study in Patients with Mild Alzheimer’s
+Disease to Evaluate the Safety, Tolerability, Immunogenicity, and Efficacy of
+UBITh® AD Immunotherapeutic Vaccine (UB-311)
+Protocol Number:
+V203-AD-EXT Confidential Version: 1.1
+Date: 22-Jan-2018
+This document contains confidential information and is the property of United Neuroscience Ltd. (UNS) . The
+receiver(s) of this document understood and agreed that this document is not to be disclosed to any
+unauthorized third party without written agreement issued by the sponsor. The need to disclose certai n
+information contained in this document for the purpose of obtaining informed consent from potential subjects
+or his/her legally acceptable representative(s) of this study will be considered as exceptions.
+<<<PAGE 2>>>
+Clinical Trial Protocol: V203-AD-EXT  Version: 1. 1, Date: 22-Jan-2018
+Principal Investigators: Dr. Pei-Ning Wang（王培寧醫師）
+Department of Neurology,
+Taipei Veterans General Hospital, Taipei, Taiwan
+Dr. Ming-Jang Chiu（邱銘章醫師）
+Department of Neurology,
+National Taiwan University Hospital, Taipei, Taiwan
+Dr. Chin-Chang Huang（黃錦章醫師）
+Department of Neurology,
+Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan
+Dr. Chiung-Chih Chang（張瓊之醫師）
+Department of Neurology,
+Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan
+Sponsor: 愛爾蘭商聯腦科學股份有限公司台灣分公司
+United Neuroscience Ltd., Taiwan Branch (Ireland)
+Taipei, Taiwan
+Product authorized by: 愛爾蘭商聯腦科學股份有限公司
+United Neuroscience Ltd. (UNS)
+<<<PAGE 3>>>
+Clinical Trial Protocol: V203-AD-EXT  Version: 1. 1, Date: 22-Jan-2018
+Principal Investigator’s Signature Page
+I understood the obligations as a clinical trial investigator and agree to perform and report
+the study in compliance to the protocol, good clinical practice (GCP), and the current rules
+and regulations set forth by the applicable health authorities.
+Name  Affiliation  Signature  Date
+<<<PAGE 4>>>
+Clinical Trial Protocol: V203-AD-EXT  Version: 1. 1, Date: 22-Jan-2018
+Co-Investigator’s Signature Page
+I understood the obligations as a clinical trial investigator and agree to perform and report
+the study in compliance to the protocol, good clinical practice (GCP), and the current rules
+and regulations set forth by the applicable health authorities.
+Name  Affiliation  Signature  Date
+<<<PAGE 5>>>
+Clinical Trial Protocol: V203-AD-EXT  Version: 1. 1, Date: 22-Jan-2018
+Internal Signature Page
+I understood the obligations as an officer providing service in the organization(s) listed on the
+cover page of this document, and agreed to perform the study in my responsible aspects, in
+compliance to the protocol and good clinical practice (GCP) an d the current rules and
+regulations set forth by the applicable health authorities.
+Affiliation  Name  Position  Signature  Date
+United Neuroscience
+Ltd., Taiwan
+<<<PAGE 6>>>
+Clinical Trial Protocol: V203-AD-EXT 1 Version: 1.1, Date: 22-Jan-2018
+TABLE OF CONTENTS
+TABLE OF CONTENTS ......................................................................................................................... 1
+LIST OF ABBREVIATIONS ................................................................................................................... 6
+SYNOPSIS ................................................................................................................................................ 9
+1. INTRODUCTION AND RATIONALE .......................................................................................... 14
+2 OBJECTIVES .................................................................................................................................. 15
+3 TRIAL DESIGN .............................................................................................................................. 15
+3.1 Description of the Protocol ................................................................................................. 15
+3.1.1 Screening Period ............................................................................................................... 16
+3.1.2 Treatment Period ............................................................................................................... 16
+3.1.3 Follow-up Period ............................................................................................................... 16
+3.2 Endpoints........................................................................................................................... 16
+3.2.1 Primary .............................................................................................................................. 16
+3.2.2 Secondary .......................................................................................................................... 17
+2.2.3 Exploratory ........................................................................................................................ 17
+3.3 Description of Blinding Methods ........................................................................................ 17
+3.4 Stopping Rules ................................................................................................................... 17
+4 SELECTION AND WITHDRAWAL OF SUBJECTS ................................................................... 19
+4.1 Number of Subjects ............................................................................................................ 19
+4.2 Inclusion Criteria ............................................................................................................... 19
+4.3 Exclusion Criteria .............................................................................................................. 19
+4.4 Subject Withdrawal Criteria .............................................................................................. 20
+5 TREATMENT OF SUBJECTS ....................................................................................................... 22
+5.1 Description of Study Drug .................................................................................................. 22
+5.2 Dosing Regimens and Rationale ......................................................................................... 22
+<<<PAGE 7>>>
+Clinical Trial Protocol: V203-AD-EXT 2 Version: 1.1, Date: 22-Jan-2018
+5.3 Handling of Study Drug ..................................................................................................... 22
+5.3.1 Packing and Labelling ...................................................................................................... 22
+5.3.2 Storage ............................................................................................................................... 22
+5.4 Drug Accountability ........................................................................................................... 22
+5.5 Concomitant Medicines ...................................................................................................... 23
+5.5.1 Permitted Medicines .......................................................................................................... 23
+5.5.2 Prohibited Medicines ........................................................................................................ 23
+5.6 Subject Compliance ........................................................................................................... 24
+6 ASSESSMENT OF INVESTIGATIONAL PRODUCT .................................................................. 25
+6.1 Immunogenicity ................................................................................................................. 25
+6.1.1 Anti-Aβ antibody measurement ........................................................................................ 25
+6.1.2 Response rate..................................................................................................................... 25
+6.2 Safety ................................................................................................................................. 25
+6.3 Efficacy .............................................................................................................................. 25
+6.3.1 Evaluation variables ......................................................................................................... 25
+6.3.2 Efficacy assessment methods ............................................................................................ 26
+6.4 Measures to protect blinding of this trial ............................................................................ 27
+7 ASSESSMENT OF SAFETY........................................................................................................... 28
+7.1 Safety Endpoints ................................................................................................................ 28
+7.1.1 Local tolerability ............................................................................................................... 28
+7.1.2 Clinical safety .................................................................................................................... 28
+7.1.3 Adverse event collection .................................................................................................... 28
+7.1.4 ECG ................................................................................................................................... 28
+7.1.5 MRI .................................................................................................................................... 29
+7.1.6 Safety laboratory ............................................................................................................... 29
+<<<PAGE 8>>>
+Clinical Trial Protocol: V203-AD-EXT 3 Version: 1.1, Date: 22-Jan-2018
+7.2 Safety Instructions ............................................................................................................. 29
+7.2.1 Local tolerability ............................................................................................................... 29
+7.2.2 Monitoring of ARIA .......................................................................................................... 29
+7.3 Adverse Events Recording ................................................................................................. 29
+7.4 Adverse Events Monitoring ................................................................................................ 30
+7.5 Definitions of Adverse Event and Serious Adverse Event ................................................... 30
+7.6 Recording and Reporting of Adverse Event ....................................................................... 31
+7.7 Follow-up ........................................................................................................................... 33
+7.8 Obligation of the Sponsor ................................................................................................... 33
+8 STUDY PROCEDURES .................................................................................................................. 34
+8.1 Study Visits ........................................................................................................................ 34
+8.1.1 The Screening visit (-42 < Day < -1) ................................................................................ 34
+8.1.2 Visit 1 (Week 1, Day 1) ...................................................................................................... 35
+8.1.3 Visit 2 (Week 5, Day 29) .................................................................................................... 35
+8.1.4 Visit 3 (Week 13, Day 85) .................................................................................................. 36
+8.1.5 Visit 4 (Week 25, Day 169) ................................................................................................ 37
+8.1.6 Visit 5 (Week 49, Day 337) ................................................................................................ 37
+8.1.7 Visit 6 (Week 73, Day 505) ................................................................................................ 38
+8.1.8 Visit 7 (Week 97, Day 673) ................................................................................................ 38
+8.1.9 Visit 8 (Week 109, Day 757) .............................................................................................. 38
+8.2 Events and Time Schedule ................................................................................................. 40
+8.3 Blood Sample Collection .................................................................................................... 41
+9 STATISTICS ................................................................................................................................... 42
+9.1 Analysis Variables .............................................................................................................. 42
+9.1.1 Demographic and baseline characteristics ....................................................................... 42
+<<<PAGE 9>>>
+Clinical Trial Protocol: V203-AD-EXT 4 Version: 1.1, Date: 22-Jan-2018
+9.1.2 Immunogenicity variables .................................................................................................  42
+9.1.3 Efficacy variables .............................................................................................................. 42
+9.1.4 Safety variables ................................................................................................................. 43
+9.2 Analysis Populations .......................................................................................................... 43
+9.2.1 Efficacy populations ......................................................................................................... 43
+9.2.2 Safety population ............................................................................................................... 43
+9.2.3 Disposition of subjects....................................................................................................... 44
+9.3 Statistical Methods ............................................................................................................. 44
+9.3.1 Demographic and baseline characteristics ....................................................................... 44
+9.3.2 Treatment tolerability and compliance ............................................................................. 45
+9.3.3 Analysis of immunogenicity variable ............................................................................... 45
+9.3.4 Analysis of efficacy variables ............................................................................................ 45
+9.3.5 Analysis of safety data ....................................................................................................... 45
+10 QUALITY CONTROL AND QUALITY ASSURANCE ................................................................ 48
+10.1 Responsibility of the Investigator(s) ................................................................................... 48
+10.2 Responsibility of the Sponsor ............................................................................................. 48
+10.3 Source Document Requirements ........................................................................................ 48
+10.4 Use and Completion of Case Report Forms (CRFs) and Additional Request ...................... 49
+11 ETHICS ........................................................................................................................................... 50
+11.1 Declaration of Helsinki and Ethical Review ........................................................................ 50
+11.2 Patient Information and Consent ....................................................................................... 50
+11.3 Patient Data Protection ...................................................................................................... 50
+12 DATA HANDLING AND RECORD KEEPING ............................................................................ 51
+12.1 Data Management .............................................................................................................. 51
+12.2 Record Retention in Study Sites ......................................................................................... 51
+<<<PAGE 10>>>
+Clinical Trial Protocol: V203-AD-EXT 5 Version: 1.1, Date: 22-Jan-2018
+13 FINANCING AND INSURANCE ................................................................................................... 52
+14 PUBLICATION POLICY ............................................................................................................... 53
+15 REFERENCES ................................................................................................................................ 54
+<<<PAGE 11>>>
+Clinical Trial Protocol: V203-AD-EXT 6 Version: 1.1, Date: 22-Jan-2018
+LIST OF ABBREVIATIONS
+ABBREVIATION TERM
+Aβ Amyloid β
+AChE Acetyl Cholinesterase
+AD Alzheimer’s Disease
+ADAS-Cog Alzheimer’s Disease Assessment Scale-Cognitive Subscale
+AE Adverse Event
+ALT Alanine Aminotransferase
+ANC Absolute Neutrophil Count
+ANOVA Analysis of Variance
+ARIA Amyloid-related Imaging Abnormalities
+ARIA-E Amyloid-related Imaging Abnormalities: Vasogenic Edema and/or Sulcal
+Effusion
+ARIA-H Amyloid-related Imaging Abnormalities: Microhemorrhage and
+Superficial Siderosis
+AST Aspartate Aminotransferase
+BMI Body Mass Index
+BUN Blood Urine Nitrogen
+BW Body Weight
+CDR-SB Clinical Dementia Rating-Sum of Boxes
+CI Confidence Interval
+CNS Central Nerves System
+CpG-ODN Cytosine-phosphate-guanosine Oligodeoxynucleotide
+CRF Case Report Form
+CRO Contract Research Organization
+CRP C-reactive Protein
+CSR Clinical Study Report
+CTCAE Common Terminology Criteria for Adverse Events
+DAD Disability Assessment for Dementia
+dL Deciliter
+DNA Deoxyribonucleic Acid
+DOH Department of Health
+ECG Electrocardiogram
+EDTA Ethylenediamine Tetra Acetic Acid
+EIA Enzyme Immunoassay
+ELISPOT Enzyme-Linked ImmunoSpot
+ESR Erythrocyte Sedimentation Rate
+ET Early Termination
+<<<PAGE 12>>>
+Clinical Trial Protocol: V203-AD-EXT 7 Version: 1.1, Date: 22-Jan-2018
+GCP Good Clinical Practice
+GFAP Glial fibrillary acidic protein
+HbA1c Glycosylated Hemoglobin
+HBsAg Hepatitis B Surface Antigen
+HBV Hepatitis B Virus
+ICF Informed Consent Form
+ICH International Conference on Harmonization
+IEC Independent Ethics Committee
+IL Interleukin
+IL-6 Interleukin-6
+IL-8 Interleukin-8
+IM Intramuscular
+IQR Interquartile Range
+IRB Institutional Review Board
+IU International Unit
+kg Kilogram
+KS-CGMH Kaohsiung Chang Gung Memorial Hospital
+LK-CGMH Linkou Chang Gung Memorial Hospital
+m Meter
+MCI Mild Cognitive Impairment
+mcg, µg  Microgram
+MedDRA Medical Dictionary for Regulatory Activities
+mg Milligram
+mITT Modified Intention-to-treat
+mL Milliliter
+mm Millimeter
+MMSE Mini Mental State Examination
+MRI Magnetic Resonance Imaging
+n Number of Observations Available
+NCI National Cancer Institute
+NFH Neurofilament Heavy Chain
+NFL Neurofilament Light Chain
+NMDA N-methyl-D-aspartate
+NTB Neuropsychological Test Battery
+NTUH National Taiwan University Hospital
+PE Physical Examination
+PET Positron Emission Tomography
+PP Per-protocol
+PSD Power spectral densities
+<<<PAGE 13>>>
+Clinical Trial Protocol: V203-AD-EXT 8 Version: 1.1, Date: 22-Jan-2018
+ROI Region of Interest
+S Screening
+SAE Serious Adverse Event
+SAP Statistical Analysis Plan
+SD Standard Deviation
+SSRIs Selective Serotonin Reuptake Inhibitors
+SUSAR Suspected Unexpected Serious Adverse Reaction
+SUVR Standard Uptake Value Ratio
+TEAE Treatment-emergent Adverse Event
+TNF-α Tumor necrosis factor-alpha
+TVGH Taipei Veterans General Hospital
+UCHL1 Ubiquitin C-Terminal Hydrolase L1
+UNS United Neuroscience Ltd.
+ULN Upper limits of normal
+ULRR Upper Limit of Reference Range
+US FDA United States, Food and Drug Administration
+V Visit
+W Week
+WBC White Blood Cells
+WHO World Health Organization
+<<<PAGE 14>>>
+Clinical Trial Protocol: V203-AD-EXT 9 Version: 1.1, Date: 22-Jan-2018
+SYNOPSIS
+PROTOCOL NUMBER V203-AD-EXT
+TITLE An Extension Study of a Phase IIa study in Patients with  Mild
+Alzheimer’s Disease to Evaluate the Safety, Tolerability,
+Immunogenicity, and Efficacy of UBITh ® AD Immunotherapeutic
+Vaccine (UB-311)
+STUDY SITES There will be four study sites:
+Site 1: Taipei Veterans General Hospital (TVGH)
+Principal Investigator: Dr. Pei-Ning Wang
+Site 2: National Taiwan University Hospital (NTUH)
+Principal Investigator: Dr. Ming-Jang Chiu
+Site 3: Linkou Chang Gung Memorial Hospital (LK-CGMH)
+Principal Investigator: Dr. Chin-Chang Huang
+Site 4: Kaohsiung Chang Gung Memorial Hospital (KS-CGMH)
+Principal Investigator: Dr. Chiung-Chih Chang
+STUDY OBJECTIVES To assess the long-term treatment effects of UB-311 on:
+1. Safety and tolerability of UB-311;
+2. Immunogenicity of UB-311;
+3. Change in cognitive and functional performance;
+4. Change in qEEG;
+5. Change of brain volume and cortical thickness
+6. Change in amyloid deposition evaluated by 18F-AV-45 PET
+imaging;
+7. Change in neurodegenerative biomarkers;
+8. Correlation between the titers of anti -Aβ antibody and
+anti-measles or anti-HBV cellular and humoral immune memory
+STUDY DESIGN This is a 108- week extension study in patients with mi ld
+Alzheimer’s disease ( AD) who participated in V203- AD trial, a
+multicenter, randomized, double-blind, placebo-controlled phase IIa
+study of UB-311.
+Subjects from UB -311 treatment groups (Arm 1 with  a 3 -month
+treatment interval and Arm 2 with a 6 -month treatment interval) in
+V203-AD study will receive total 3 doses of UB-311 at weeks 1, 49
+and 97 and 2 doses of placebo at weeks  5 and 13 as treatment group
+1. Subjects from placebo treatment group (Arm 3) in V203- AD
+study will receive total 5 doses of UB-311 at weeks 1, 5, 13, 49 and
+97 as treatment group 2. Subjects will be followed till Week 109.
+To maintain the blinding of V203 -AD study, the first thre e
+<<<PAGE 15>>>
+Clinical Trial Protocol: V203-AD-EXT 10 Version: 1.1, Date: 22-Jan-2018
+injections at weeks 1, 5 and 1 3 in t his extension study will keep
+blinded before the end of V203-AD study.
+STUDY POPULATION
+Total expected number
+of subjects
+Inclusion criteria
+Subjects from V203- AD trial ( maximum 42 subjects) will be
+eligible to join this extension study.
+Subjects may be included in the clinical trial only if they meet all  of
+the following criteria:
+1. Patients who participated in  V203-AD trial  without major
+safety concerns;
+2. The last UB-311/placebo injection received in V203- AD study
+should be at least 24 weeks prior to the V1 of this extension
+study;
+3. Stable doses  of permitted medication s for 3 months  before
+screening, such as  acetyl cholinesterase (AChE) inhibitors,
+N-methyl-D-aspartate (NMDA) receptor antagonist, ergot
+alkaloids or their derivatives for cognitive enhancement;
+4. Female must either be post- menopausal (no menstrual period
+for >1 year), surgically sterilized or agree to avoid becoming
+pregnant during the entire period of this study; while sexually
+active fertile male must agree to use effective birth control
+methods throughout the study duration, if their sexual
+partner(s) are women of childbearing potential;
+5. With a  caregiver who has frequent contact with the subject
+(e.g. an average of 10 hours per week or more) and agrees to
+sign the informed consent form (ICF)  and to perform
+study-related AD scales;
+6. Both patient and his/her caregiver should sign the written
+informed consent before undergoing any study procedures; and
+7. Agree not to donate blood or blood products for transfusion
+during the study and for 3 months thereafter
+Exclusion criteria Subjects will be excluded from the c linical trial for any of the
+following reasons:
+1. Clinically significant neurological disease other than
+Alzheimer’s disease, such as Parkinson’s disease, multi -infarct
+dementia, Huntington’s disease, normal pressure
+hydrocephalus, brain  tumor, progressive s upranuclear palsy,
+seizure disorder, subdural hematoma, multiple sclerosis, or
+history of significant head trauma followed by persistent
+neurologic defaults or known structural brain abnormalities;
+<<<PAGE 16>>>
+Clinical Trial Protocol: V203-AD-EXT 11 Version: 1.1, Date: 22-Jan-2018
+2. Screening magnetic resonance imaging (MRI) scan with
+evidence of central nerves system (CNS) infection, infarction,
+or other focal lesions, cerebrovascular disease, superficial
+siderosis, macrohemorrhage, microhemorrhages, multiple
+lacunes or lacunes in a critical memory structure accompanies
+with symptoms that the investigator determine s to be a safety
+concern;
+3. Major depressive episode or manic episode  as described in
+Diagnostic and Statistical Manual of Mental Disorders , Fifth
+Edition (DSM-V) within the past 1 year  before screening .
+Psychotic features, agitati on or behavioural problems within
+the last 3  months before screening  which could lead to
+difficulty in complying with the protocol;
+4. History of schizophrenia (DSM-V criteria);
+5. Any significant systemic illness or unstable medical condition
+which could lead to difficulty in complying with the protocol;
+6. History of alcohol or substance abuse or dependence within the
+past 2 years before screening (DSM-V criteria);
+7. History of autoimmune disease, including but not limited to
+ankylosing spondylitis, Sjogren’s syndr ome, systemic lupus
+erythematosus, rheumatic arthritis, or multiple sclerosis;
+8. History of severe systemic disease  that may affect a subject ’s
+participation at the investigator’s discretion;
+9. History of anaphylaxis; other serious adverse reactions to any
+vaccine; or any serious allergic reactions to medications
+requiring treatment;
+10. Use of any prohibited medications within 4 weeks  prior to
+screening;
+11. Use of any investigational drug within 4 weeks  before
+screening;
+12. Previous exposure to any anti -Aβ immunotherapy except
+UB-311;
+13. History of cancer, including solid tumors and hematological
+malignancies (except basal cell and in situ squamous cell
+carcinomas of the skin that have been excised and resolved);
+14. Received blood or blood derivatives treatment within 3 months
+prior to screening;
+15. Current or recent participation  (within 12 months before
+screening) in any procedures involving radioactive agents such
+that radiation exposure of the subject in any given year would
+exceed the whole-body limits of annual and total do se
+<<<PAGE 17>>>
+Clinical Trial Protocol: V203-AD-EXT 12 Version: 1.1, Date: 22-Jan-2018
+commitment of 5 rems set forth in the US Code of Federal
+Regulations (CFR) Title 21 section 361.1;
+16. Abnormal clinical laboratory values judged by the investigator
+to be a safety concern to join the study
+INVESTIGATIONAL
+PRODUCT(S)
+The UB-311 (UBITh® AD Immunotherapeutic Vaccine) is supplied
+as a single-dose vial containing 300 µg in 0.5 mL solution.
+PRIMARY ENDPOINT(S)
+AND MAIN SECONDARY
+ENDPOINT(S)
+Primary endpoints:
+ Safety and tolerability: the incidence of adverse event
+(AE)/serious adverse event (SAE); and
+ The immunogenicity of UB -311 as measured by change in
+anti-Aβ antibody levels and response rate.
+Secondary endpoints:
+The treatment effects of UB-311 on:
+ The change in cognitive and global assessments, including:
+– Alzheimer’s Disease Assessment Scale -Cognitive Subscale
+(ADAS-Cog)
+– Mini-Mental State Exam (MMSE)
+– Clinical Dementia Rating-Sum of Boxes (CDR-SB)
+– Computerized cognitive tests
+ The change from baseline of V203- AD study  in amyloid
+deposition by 18F-AV-45 PET imaging;
+Exploratory endpoints:
+ Titers of  anti-Aβ1-42 monomer and anti -Aβ1-42 oligomer
+antibodies;
+ The change in qEEG;
+ The change of brain volume and cortical thickness;
+ The change in neurodegenerative biomarkers  in blood such as
+Aβ40, Aβ42, tau, neurofilament heavy chain (NFH), neurofilament
+light chain (NFL), glial fibrillary acidic protein (GFAP)  and
+ubiquitin C-Terminal Hydrolase L1 (UCHL1);
+ The correlation between titers of anti -Aβ antibody with
+anti-measles or anti-HBV antibodies  and memory T cell
+responses for UBITh® 1 and UBITh® 2.
+STATISTICAL
+CONSIDERATIONS
+The overall treatment tolerability of UB -311 is defined as the
+percentage of number of administered dose s divided by number of
+administered doses plus number of missed doses of subject(s) who
+drops out due to drug-related AE(s). It is calculated according to the
+following formula:
+100% x (A+B1+C+D)/ (A+B1+B2+C+D)
+<<<PAGE 18>>>
+Clinical Trial Protocol: V203-AD-EXT 13 Version: 1.1, Date: 22-Jan-2018
+where
+A: number of administered doses of completers
+B1: number of administered doses of subject(s) who drops out
+due to drug-related AE(s)
+B2: number of missed doses  of subject(s) who drops out due to
+drug-related AE(s)
+C: number of administered doses of subject(s) who drops out due
+to drug-unrelated AE(s)
+D: number of administered doses of subject(s) who drops out not
+due to AE(s)
+Analysis Population
+Modified intent-to-treat (mITT) population: all subjects who receive
+at least one dose of the study drug and have both baseline and at
+least one post -baseline assessment in any of the primary or
+secondary variables , irrespective of compliance with the study
+protocol and procedures.
+Per-protocol (PP) population: subjects who receive all planned doses
+of the study drug, complete the treatment period , fulfil all entry
+criteria, and have no key protocol deviation.
+Safety population: subjects exposed to at least one dose of the  study
+drug.
+The analyses of primary safety variables and tolerability will be
+performed on safety population, and the analyses of immunogenicity
+and efficacy endpoints will be performed on both m ITT and PP
+populations.
+For the analyses of immunogenicity, UB -311 response rate will be
+calculated and the change in antibody level will also be compared by
+a repeated-measures mixed-effects model.
+For the analyses of e fficacy, continuous variables with repeated
+measures will be analyzed using a mixed-effects model.
+DURATION OF STUDY
+PERIOD
+Screening period: <6 weeks
+Treatment period: 96 weeks
+Follow-up period: 12 weeks
+<<<PAGE 19>>>
+Clinical Trial Protocol: V203-AD-EXT 14 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 1. INTRODUCTION AND RATIONALE>>>
+1. INTRODUCTION AND RATIONALE
+Alzheimer’s disease (AD) , a progressive, multifactorial, and heterogeneous  neurodegenerative
+disease, affects 47 million people worldwide  and the number is projected to increase to more than
+131 million by 2050 1. Several early community -based studies  have shown that AD is the most
+common cause of dementia in Taiwan with prevalence ranging from 1.7 to 4.4%2-4 and an incidence
+rate of about 0.817%5 in 2010.
+Alzheimer’s disease is characterized by extracellular aggregates of amyloid β  (Aβ) protein  and
+intracellular tangles of the neurofilament protein tau , both are toxic to neurons. Therefore, A β has
+been a major therapeut ic target in A β immunotherapy. Although symptomatic therapies are
+available, there is still no proven treatment that can address a variety of neurobehavioral
+disturbances and reverse progression of AD 6-7. It has been shown that reducing A β deposition is
+able to improve cognition function in animal models of AD. R ecently released human clinical trial
+results of Aducanumab, a human  monoclonal antibody targeting aggregated forms of  β-amyloid
+developed by Biogen Inc 8 also supports this notion. Unlike this passive immunity approach, t he
+goal for an active A β immunotherapy is to stimulate an immune response to generate robust
+endogenous anti-Aβ antibodies that ultimately reduce brain Aβ levels. UBITh AD active
+immunotherapeutic vaccine (UB -311) is comprised of two A β1-14-targeting peptide immunogens
+(B-cell epitopes) each linked to proprietary, synthetic helper T -cell peptide epitopes (UBITh )
+formulated in a Th2-biased delivery system designed to minimize T-cell inflammatory reactivity9-12.
+Studies in small animals, baboons and macaques showed that anti -Aβ antibodies were generated
+with the expected N-terminus site-specificity by UB-311.
+The neurodegenerative processes in AD lead to the loss of synapses and dysfunction of brain
+electrical circuits. Quantitative electroencephalograhy (qEEG) is a clinical tool commonly used to
+non-invasively assess brain synaptic and circuit function. S tudies have shown abnormal frequency
+power spectra and functional connectivity of resting state electroencephalographic (EEG) rhythms
+in subjects with AD compared to healthy age- matched elderly subjects . Alzheimer’s patients are
+typically characterized by a slowing of EEG, including an increase in delta and theta power and a
+decrease in alpha and beta13-15. EEG is thus a noninvasive, low cost and widely available biomarker
+to identify dementia and classify the degree of its severity by signal processing and analysis. qEEG
+will be used to track brain neurophysiology changes in this study.
+In addition to the imaging biomarker, 18F-AV-45 PET, peripheral blood based biomarker assays
+will also be performed throughout the study for AD progression and UB -311 therapeutic effect.
+These include  Aβ40, A β42, Tau, Neurofilament heavy chain (NFH), Neurofilament light chain
+(NFL), glial fibrillary acidic protein (GFAP), and ubiquitin C-terminal Hydrolase L1 (UCHL1).
+In the phase I study (V118-AD) of UB-311, all 19 subjects completed the study and only 16 mild or
+moderate treatment-related AE episodes were reported in 9 subjects. Injection site reaction was the
+most frequently reported AE 16. An UB-311 Phase IIa study (V203- AD) with an identical 3 -arm,
+randomized, double-blind, placebo- controlled trial design is underway in Taiwan and  43 patients
+has been enrolled. In V203-AD study, subjects receive 7 doses of UB-311, 5 doses of UB-311 and 2
+doses of placebo or 7 doses of placebo utilizing 1:1:1 randomization scheme. Until Oct 2017, 25
+patients have completed the treatment period containing 7 injections of study drug and all  patients
+have received 4 injections of study drug. To evaluate the long- term safety, tolerability and potential
+efficacy, patients who previously participated in  V203-AD study will be eligible to participate in
+<<<PAGE 20>>>
+Clinical Trial Protocol: V203-AD-EXT 15 Version: 1.1, Date: 22-Jan-2018
+the exten sion study and will receive 3 or 5 doses of UB -311 within a 96- week treatment period
+followed by a 12- week follow-up period. A ssessments such as cognitive and global  performance,
+amyloid PET imaging, EEG , brain volume/cortical thickness  and fluid neurodege nerative
+biomarkers will be performed to evaluate the AD progression and treatment effect.
+<<<SECTION 2 OBJECTIVES>>>
+2 OBJECTIVES
+The primary objectives of this study are to assess the  long-term safety and tolerability of UB -311
+treatment, and to evaluate the immunogenicity of  UB-311 through measurement of anti -Aβ
+antibodies.
+The secondary objectives are to evaluate the effects of UB -311 on the changes of cognitive and
+global performance and to investigate whether UB -311 treatment results in group differences and
+changes in amyloid deposition in vivo evaluated by18F-AV-45 PET imaging. In addition, the change
+of qEEG, brain volume/cortical thickness and level of neurodegenerative biomarkers  in blood will
+be assessed for AD progression and UB-311 efficacy evaluation.
+UBITh®1 and UBITh ®2 epitopes are idealized T  helper (Th) cell designs based on and modified
+from Th sites on measles virus F protein and hepatitis B surface antigen, respectively. To evaluate if
+subjects who previously infected with measles/HBV or immunized with measles/HBV vaccines will
+generated higher titer of anti -Aβ antibody by UB -311, titers of anti -measles and anti -HBV
+antibodies will be compared to the maximum titer of anti- Aβ antibody in subjects. In addition, an
+evaluation for T -cell memory status against UBITh ® 1 and UBITh® 2 will also be performed in
+peripheral blood isolated monocytic cells.
+<<<SECTION 3 TRIAL DESIGN>>>
+3 TRIAL DESIGN
+This is a 108-week extension study of V203-AD multicenter Phase IIa trial.
+Individuals who participated in V203-AD trial will be eligible to join the extension study.
+<<<SECTION 3.1 Description of the Protocol>>>
+3.1 Description of the Protocol
+The study comprises 3 periods as shown in Table 3.1 (please also see 8.2 Events and Time
+Schedule):
+ An up to 6-week screening period to complete screening visit,
+ A 96-week treatment period, and
+ A 12-week follow-up period.
+<<<PAGE 21>>>
+Clinical Trial Protocol: V203-AD-EXT 16 Version: 1.1, Date: 22-Jan-2018
+Table 3.1 Clinical Schematic Diagram
+Screening Treatment Follow-up
+Visit S1 V1 V2 V3 V4 V5 V6 V7 V8
+Week -6 ~ -1  1 5 13 25 49 73 97 109
+Treatments
+1. For UB -311 treatment groups
+(arm 1 and 2) from V203-AD  ↑ ↑P ↑P  ↑  ↑
+2. For placebo g roup (arm 3)
+from V203-AD   ↑ ↑ ↑  ↑  ↑
+↑: UB-311   ↑ P: placebo
+<<<SECTION 3.1.1 Screening Period>>>
+3.1.1 Screening Period
+Subjects who completed the last injection in V203- AD study at least 24 weeks prior to the V1 of
+this extension study are screened within the screening period (Weeks -6~-1). All tests required for
+evaluating the eligibility of the subjects are performed at S1.  If a subject ’s last MRI scan in
+V203-AD study is within 3 months before  the screening visit of this extension study, an MRI is not
+required for screening. The data of l ast MRI scan from V203- AD can be used for eligibility/safety
+evaluation in the extension study
+<<<SECTION 3.1.2 Treatment Period>>>
+3.1.2 Treatment Period
+Subjects meeting all inclusion criteria  and presenting no exclusion criteria enter the treatment
+period, from V1 (Week 1) to V7 (Week 97).
+Because the purpose of giving placebo in this extension study is to maintain the blindness of
+V203-AD study, placebo will not be given to subjects after unblinding of V203-AD study.
+<<<SECTION 3.1.3 Follow-up Period>>>
+3.1.3 Follow-up Period
+The follow-up period comprises 1 visit: V8 (Week 109)
+<<<SECTION 3.2 Endpoints>>>
+3.2 Endpoints
+<<<SECTION 3.2.1 Primary>>>
+3.2.1 Primary
+The primary endpoints of this study are:
+• Safety and tolerability of UB-311: incidence of adverse event (AE)/serious adverse event (SAE).
+• The immunogenicity of UB-311 as measured by
+– Change in anti-Aβ antibody levels
+– Response rate (see section 6.1.2 for definition)
+<<<PAGE 22>>>
+Clinical Trial Protocol: V203-AD-EXT 17 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 3.2.2 Secondary>>>
+3.2.2 Secondary
+The secondary endpoints are to measure the treatment effects of UB-311 on:
+ The change in cognitive and global assessments, including:
+ Alzheimer’s Disease Assessment Scale-Cognitive Subscale (ADAS-Cog)
+ Mini-Mental State Exam (MMSE)
+ Clinical Dementia Rating-Sum of Boxes (CDR-SB)
+ Computerized cognitive tests
+ The change from baseline of V203-AD study in amyloid deposition by 18F-AV-45 PET imaging;
+<<<SECTION 2.2.3 Exploratory>>>
+2.2.3 Exploratory
+ Titers of anti-Aβ1-42 monomer and anti-Aβ1-42 oligomer antibodies;
+ The change in qEEG;
+ The change of brain volume and cortical thickness;
+ The change in neurodegenerative biomarkers  such as A β40, A β42, tau, NFH, NFL, GFAP and
+UCHL1; and
+ The correlation between titers of anti -Aβ antibody and anti -measles or anti-HBV antibodies as
+well as memory T cell response for UBITh® 1 and UBITh® 2.
+The changes in anti -Aβ antibody levels , cognitive and global assessments , PET, qEEG, brain
+volume and cortical thickness  and neurodegenerative biomarkers  in blood will be compared
+between the 3 treatment groups from V203-AD study. If subjects agree to provide his/her remaining
+specimens from V203- AD for neurodegenerative biomarkers analysis, the data will be also
+compared from baseline in V203-AD study between 3 treatment groups.
+<<<SECTION 3.3 Description of Blinding Methods>>>
+3.3 Description of Blinding Methods
+The UB -311 and placebo vials are indistinguishable by appearance. Knowing which study drug
+(UB-311 or placebo) is given in the second and third injections of the extension study will
+jeopardize the blindness of the V203- AD study, so we will reserve the blindness of the first three
+injections until the end of ongoing V203- AD study. Investigators do not have access to the
+information of randomization code and treatment arm of each subject until  the V203-AD study is
+completed except under circumstances described in section 6.4. T o maintain the blind ness of
+V203-AD s tudy, neither the investigator nor the sponsor will have access to the data that could
+potentially compromise study blindness before the end of V203-AD study.
+<<<SECTION 3.4 Stopping Rules>>>
+3.4 Stopping Rules
+The scientific measures of treatment that correspond to early termination are safety.
+In the event of an unexpected and suspected SAE that results in a life-threatening condition or death,
+the principal investigator(s) will assess the relationship between SAE and the study drug according
+to the subject ’s clinical symptoms, clinical data, characteristics of the study medicine and safety
+<<<PAGE 23>>>
+Clinical Trial Protocol: V203-AD-EXT 18 Version: 1.1, Date: 22-Jan-2018
+endpoints, such as MRI results. If the causality assessment confirms that the SAE is definitely
+related to the study drug, and the Institutional Review Board  (IRB) and Department of Health
+(DOH) express consensus opinions , the clinical trial might  be stopped. The subject will receive
+immediate clinical treatment for the adverse event and will not receive additional administrations  of
+the study medicine.
+After this trial ends, all attempts should be made to follow up all subjects through telephone calls or
+by direct contact, in order to document any delayed or unresolved adverse drug reactions or  adverse
+events.
+<<<PAGE 24>>>
+Clinical Trial Protocol: V203-AD-EXT 19 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 4 SELECTION AND WITHDRAWAL OF SUBJECTS>>>
+4 SELECTION AND WITHDRAWAL OF SUBJECTS
+<<<SECTION 4.1 Number of Subjects>>>
+4.1 Number of Subjects
+Subjects from V203-AD trial (maximum 42 subjects) will be eligible to join this extension study.
+<<<SECTION 4.2 Inclusion Criteria>>>
+4.2 Inclusion Criteria
+For inclusion in the study subjects must fulfil all of the following criteria:
+1. Patients who participated in V203-AD trial without major safety concerns;
+2. The last UB -311/placebo injection received in V203- AD study should be at least 24 weeks
+prior to the V1 of this extension study;
+3. Stable doses  of permitted medications for 3 months  before screening, such as  acetyl
+cholinesterase (AChE) inhibitors, N -methyl-D-aspartate (NMDA) recep tor antagonist, ergot
+alkaloids or their derivatives for cognitive enhancement;
+4. Female must either be post-menopausal (no menstrual period for >1 year), surgically sterilized
+or agree to avoid becoming pregnant during the entire period of this study; while  sexually
+active fertile male must agree to use effective birth control methods throughout the study
+duration, if their sexual partner(s) are women of childbearing potential;
+5. With a caregiver who has frequent contact with the subject (e.g. an average of 10  hours per
+week or more) and agrees to sign the informed consent form (ICF)  and to perform
+study-related AD scales;
+6. Both patient and his/her caregiver should sign the written informed consent before undergoing
+any study procedures; and
+7. Agree not to donate blood or blood products for transfusion during the study and for 3 months
+thereafter.
+<<<SECTION 4.3 Exclusion Criteria>>>
+4.3 Exclusion Criteria
+Any of the following is regarded as a criterion for exclusion from the study:
+1. Clinically significant neurological disease other than Alzheimer’s dise ase, such as Parkinson’s
+disease, multi- infarct dementia, Huntington’s disease, normal pressure hydrocephalus, brain
+tumor, progressive supranuclear palsy, seizure disorder, subdural hematoma, multiple sclerosis,
+or history of significant head trauma followed by persistent neurologic defaults or known
+structural brain abnormalities;
+2. Screening magnetic resonance imaging (MRI) scan with evidence of central nerves system
+(CNS) infection, infarction, or other focal lesions, cerebrovascular disease, superficial
+siderosis, macrohemorrhage, microhemorrhages, multiple lacunes or lacunes in a critical
+memory structure accompanies with symptoms  that the investigator determine s to be a safety
+concern;
+3. Major depressive episode or manic episode  as described in Diagnosti c and Statistical Manual
+of Mental Disorders, Fifth Edition (DSM-V) within the past 1 year before screening. Psychotic
+<<<PAGE 25>>>
+Clinical Trial Protocol: V203-AD-EXT 20 Version: 1.1, Date: 22-Jan-2018
+features, agitation or behavioural problems within the last 3 months before screening which
+could lead to difficulty in complying with the protocol;
+4. History of schizophrenia (DSM-V criteria);
+5. Any significant systemic illness or unstable medical condition which could lead to difficulty in
+complying with the protocol;
+6. History of alcohol or substance abuse or dependence within the past 2 year s before screening
+(DSM-V criteria);
+7. History of autoimmune disease, including but not limited to ankylosing spondylitis, Sjogren’s
+syndrome, systemic lupus erythematosus, rheumatic arthritis, or multiple sclerosis;
+8. History of severe systemic disease that may affect a subject’s participation at the investigator’s
+discretion;
+9. History of anaphylaxis; other serious adverse reactions to any vaccine; or any serious allergic
+reactions to medications requiring treatment;
+10. Use of any prohibited medications within 4 weeks prior to screening;
+11. Use of any investigational drug within 4 weeks before screening;
+12. Previous exposure to any anti-Aβ immunotherapy except UB-311;
+13. History of cancer, including solid tumors and hematological malignancies (except basal cell
+and in situ squamous cell carcinomas of the skin that have been excised and resolved);
+14. Received blood or blood derivatives treatment within 3 months prior to screening; and
+15. Current or recent participation (within 12 months before screening) in any procedures involving
+radioactive agents such that radiation exposure of the subject in any given year would exceed
+the whole-body limits of annual and total dose commitment of 5 rems set forth in the US Code
+of Federal Regulations (CFR) Title 21 section 361.1.
+16. Abnormal clinical laboratory values judged by the investigator to be a safety concern to join the
+study
+<<<SECTION 4.4 Subject Withdrawal Criteria>>>
+4.4 Subject Withdrawal Criteria
+A subject may withdraw from the study treatment or the study due to the following reasons:
+1. Lost to follow up.
+2. The subject withdraws consent.
+3. Development of an imaging abnormality consistent with vasogenic edema, macrohemorrhage,
+or an area of superficial siderosis appears or a clinically symptomatic microhemorrhage.
+4. Development of intolerable adverse event due to study treatment as determined by the
+investigator and/or subject.
+5. Development of an intercurrent illness or condition for which the subject requires  concomitant
+medications which are not allowed in the study.
+6. Discovery that the subject entered the study in violation of the protocol or occurrence of a
+protocol violation during the study that may affect safety at the investigator’s discretion.
+<<<PAGE 26>>>
+Clinical Trial Protocol: V203-AD-EXT 21 Version: 1.1, Date: 22-Jan-2018
+7. Subject’s pregnancy.
+8. Subject’s death.
+9. The investigator feels that in the best interest of the subject’s health, the subject is to be
+withdrawn from the trial.
+10. Data not known before starting the trial become available and raise concern about  the safety of
+the study drug such that continuation would pose potential risk to any particular subject.
+The type and timing of the data to be collected and follow-up for withdrawn subjects
+When a subject decides to withdraw from the study treatment or the study,  he/she should be
+contacted to obtain information about the reason(s) for discontinuation and any adverse events. For
+subjects who withdraw from the study treatment or the study after study drug administration, efforts
+will be made, as appropriate and at discretion of investigator, to have an early termination (ET) visit
+arranged as soon as possible. A ll study procedures listed in Visit 8/ET (see sections 8.2) should be
+completed at the early termination visit when applicable. In addition, subjects will be encouraged to
+complete all remaining scheduled visits and procedures before the early termination visit.
+If a subject is withdrawn at  a scheduled study visit, the early termination  visit could be conducted
+on the same day. Besides, i n the event of a drop -out after study drug administration, all attempts
+should be made to follow-up the subject through telephone calls or by direct contact until the end of
+this study (Week 109) in order to document any delayed adverse drug reactions or adverse events.
+<<<PAGE 27>>>
+Clinical Trial Protocol: V203-AD-EXT 22 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 5 TREATMENT OF SUBJECTS>>>
+5 TREATMENT OF SUBJECTS
+<<<SECTION 5.1 Description of Study Drug>>>
+5.1 Description of Study Drug
+Study drug: UB-311 (UBITh® AD Immunotherapeutic Vaccine), 300 µg per 0.5 mL per vial.
+<<<SECTION 5.2 Dosing Regimens and Rationale>>>
+5.2 Dosing Regimens and Rationale
+Eligible subjects will receive total 3 or 5 doses of UB -311 depends on which treatment arm they
+were in V203-AD study. Subjects from placebo treatment group (Arm 3) in V203- AD study will
+receive total 5 doses of UB -311 at week s 1, 5, 13, 49 and 97. Subjects from UB -311 treatment
+groups (Arm 1 and 2) in V203-AD study will receive total 3 doses of UB-311 at weeks 1, 49 and 97
+and 2 doses of placebo at week s 5 and 13. Placebo will not be given to subjects after unblinding of
+V203-AD study.
+The long- term safety, tolerability and efficacy of UB -311 will be evaluated  during the extension
+study. Considering the requirement  of priming doses to elicit comparable anti -Aβ antibody titer,
+subjects from placebo treatment group ( Arm 3) in V203-AD study will receive UB-311 at Weeks 5
+and 13 and UB-311 treatment groups ( Arm 1 and 2) from V203- AD study will receive placebo  at
+Weeks 5 and 13 to avoid unblinding of V203-AD study.
+UB-311/placebo will be given via intramuscular (IM) injection on alternate arms or at different sites,
+which will be recorded.
+<<<SECTION 5.3 Handling of Study Drug>>>
+5.3 Handling of Study Drug
+<<<SECTION 5.3.1 Packing and Labelling>>>
+5.3.1 Packing and Labelling
+The drug is  suitably packaged to protect it from alteration, contamination, and damage during
+storage, handling, and shipping. The treatment boxes contain ing UB-311/placebo are labelled with
+subject’s number, storage condition, and manufacturer and the vials are placed in the order of
+injection. The blindness of the first three injections  will be  reserved until the end of ongoing
+V203-AD study.
+<<<SECTION 5.3.2 Storage>>>
+5.3.2 Storage
+The study drugs have to be stored between 2°C and 8°C. The study drugs at each study site must be
+properly stored, under the responsibility of the investigator or the pharmacist in accordance with the
+storage conditions indicated on the label. The monitor should check the stora ge conditions during
+the monitoring visits.
+<<<SECTION 5.4 Drug Accountability>>>
+5.4 Drug Accountability
+The study drugs should  be kept in pharmacy of each study site , and be administered to subjects in
+the clinical trial under the responsibility of the investigator. In addition, the investigator should keep
+accurate drug delivery records. Any study drug accidentally or deliberately destroyed should be
+accounted for and documented. Any discrepancies between the amounts dispensed and those
+returned should be explained.
+<<<PAGE 28>>>
+Clinical Trial Protocol: V203-AD-EXT 23 Version: 1.1, Date: 22-Jan-2018
+After the end of the study, all used and unused vials of study drug should be packed, sealed, and
+returned to UNS. All remaining study drugs should be destroyed by UNS or its designee.
+<<<SECTION 5.5 Concomitant Medicines>>>
+5.5 Concomitant Medicines
+All concomitant medications should be recorded in the case report form (CRF).
+<<<SECTION 5.5.1 Permitted Medicines>>>
+5.5.1 Permitted Medicines
+Permitted medicines/treatments are subject’s routinely used medications or the treatments which are
+judged by the investigator as not to affect the efficacy and safety assessments in the study.
+In addition, the following medications may be permitted:
+ Acetyl cholinesterase inhibitors (donepezil hydrochloride, rivastigmine tartrate, tacrine,
+galantamine); N-methyl-D-aspartate (NMDA) receptor antagonist (memantine); ergot alkaloids
+and their derivatives, must be on stable dose for at lea st 3 months prior to the screening visit .
+During the study period, subjects may adjust the dose of permitted medicines if determined to be
+needed by the investigators.
+ Ginkgo biloba
+ Piracetam (Nootropil)
+ Vitamin E (≤400 IU/day)
+<<<SECTION 5.5.2 Prohibited Medicines>>>
+5.5.2 Prohibited Medicines
+The following medications are prohibited within 4 weeks  prior to the screening visit and during the
+study period:
+ Antiparkinson’s drugs (e.g. L-dopa, dopamine agonists, amantadine)
+ Neuroleptics, with the exception of haloperidol ≤ 2 mg/day, quetiapine ≤300 mg/day, risperidone
+≤2 mg/day, sulpiride ≤200 mg/day, and olanzapine ≤10 mg/day
+ Sedative/hypnotics (in exceptional cases where short -acting and intermediate -acting
+benzodiazepines are conditionally allowed, for example, midazolam in oral dosage  ≤7.5 mg/day
+for s leep only, midazolam injection ≤5 mg/day for office procedures with sedation only,
+oxazolam ≤10 mg/day, alprazolam  ≤1 mg/day, lorazepam ≤1 mg/day, bromazepam ≤12 mg/day
+with maximum starting dose of 1.5 mg, twice a day, estazolam  ≤1 mg/day at bedtime for s leep
+only, and other hypnotics such as zolpidem  ≤10 mg/day, and zopiclone  ≤7.5 mg/day may be
+allowed during the study
+ Antidepressants (e.g. bupropion, imipramine, mirtazapine , nefazodone and t razodone) with the
+exception of  selective serotonin reuptake inhibitors (SSRIs), e.g. fluoxetine, paroxetine,
+sertraline, fluvoxamine, escitalopram, citalopram and serotonin- norepinephrine reuptake
+inhibitors (SNRIs), e.g. venlafaxine, duloxetine, milnacipran, desvenlafaxine
+ Heparin or thrombolytic therapy starting from 4-week screening period
+<<<PAGE 29>>>
+Clinical Trial Protocol: V203-AD-EXT 24 Version: 1.1, Date: 22-Jan-2018
+ Other treatments, including traditional herbal medicines and nutritional supplements , that may
+disturb the study result at investigator’s discretion
+<<<SECTION 5.6 Subject Compliance>>>
+5.6 Subject Compliance
+The compliance to the study treatments will be checked by the  investigator and study drug
+administration will be recorded in the CRF.
+<<<PAGE 30>>>
+Clinical Trial Protocol: V203-AD-EXT 25 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 6 ASSESSMENT OF INVESTIGATIONAL PRODUCT>>>
+6 ASSESSMENT OF INVESTIGATIONAL PRODUCT
+<<<SECTION 6.1 Immunogenicity>>>
+6.1 Immunogenicity
+Immunogenicity is evaluated as one of the primary endpoints in this study.
+• Change in anti-Aβ antibody levels till the end of the study (Week 109)
+• Response rate (see section 6.1.2 for definition)
+6.1.1 Anti-Aβ antibody measurement
+For the immunogenicit y assessment of the investigational product, UB -311, the level of anti -Aβ
+antibodies i n the serum samples will be measured by a validated enzyme immunoassay
+manufactured by United Biomedical, Inc. (UBI).
+The level of anti-Aβ antibodies is assessed at every visit throughout the study period from V1 to V8
+except V4 and V6 (Weeks 1, 5, 13, 49, 97 and 109). For visits that UB-311/placebo is scheduled to
+be administrated (V1, V2, V3, V5 and V7), blood samples will be collected before the treatment.
+<<<SECTION 6.1.2 Response rate>>>
+6.1.2 Response rate
+Antibody responder is defined as the study subject whose serum a ntibody titer is gre ater than the
+response threshold (see section 9. 1.2 for definition) at any visit after V1 . Response  rate will be
+calculated as the percent of the number of antibody responders versus the total number of subjects.
+<<<SECTION 6.2 Safety>>>
+6.2 Safety
+The study-specific and general safety criteria are described in section 7.1 (Safety Endpoints).
+A patient card, including the relevant “ 24 hour alert system” telephone number, will be provided to
+every subject who participates in the study.
+<<<SECTION 6.3 Efficacy>>>
+6.3 Efficacy
+Efficacy variables are evaluated as secondary and exploratory endpoints in this study.
+<<<SECTION 6.3.1 Evaluation variables>>>
+6.3.1 Evaluation variables
+6.3.1.1 The change in cognitive and global assessments till the end of the study (Week 109)
+• Cognition: ADAS-Cog, MMSE and computerized cognitive test
+• Global: CDR-SB
+6.3.1.2 The change of amyloid burden in retention of 18F-AV-45
+The data will be expressed by mean regional standard uptake value ratio (SUVR ) in the selected
+regions of interests (ROIs) . The baseline of V203- AD study will be used to assess the change of
+<<<PAGE 31>>>
+Clinical Trial Protocol: V203-AD-EXT 26 Version: 1.1, Date: 22-Jan-2018
+amyloid deposition during the study.
+6.3.1.3 The change in qEEG over the period extension study
+The absolute and relative power spectral densities (PSDs) will be calculated for each 1 second
+epoch (1 -40 Hz bins), and also grouped into the standard EEG bandwidths: delta, theta, alpha,
+sigma, beta, and gamma. Additionally, the PSD variables will be averaged across brain regions of
+interest, including: frontal, central, parietal, anterior, temporal, and left/right brain regions. Global
+power in each band will be calculated by averaging power values for all channels.
+6.3.1.4 The change of brain volume and cortical thickness
+Alzheimer's disease leads to nerve cell death and tissue loss throughout the brain. Over time, the
+brain shrinks dramatically, affecting nearly all its functions. Therefore, the change of brain volume
+and cortical thickness will be evaluated via MRI scans.
+6.3.1.5 The change in neurodegenerative biomarkers over the period of extension study
+The concentration of neurodegenerative biomarkers such as  Aβ40, Aβ42, tau, NFH, NFL, GFAP and
+UCHL1 will be measured and compared during the study to evaluate their  correlation with disease
+progression and treatment efficacy of UB-311.
+6.3.1.6 The correlation between titers of anti-Aβ antibody and anti-measles or anti-HBV antibodies
+as well as memory T cell response for UBITh® 1 and UBITh® 2
+The titers of anti- measles and anti -HBV antibodies will be compared to the maximum titer of
+anti-Aβ antibody in subjects  to evaluate t he possible correlation  between the titers of anti- Aβ
+antibody elicited by UB-311 and anti-measles or anti-HBV antibodies in subjects.
+Memory T cell response for UBITh® 1 and UBITh® 2 will be compared with titers of anti -measles
+or anti-HBV antibodies and anti-Aβ antibody.
+<<<SECTION 6.3.2 Efficacy assessment methods>>>
+6.3.2 Efficacy assessment methods
+6.3.2.1 Rating scales
+All scales are rated by an independent clinical psychologist and/or study nurse who has to complete
+the training session specifically designed for this study.
+MMSE, ADAS -Cog and CDR/CDR- SB are evaluated at  Weeks 1 (V1), 49 (V5) and 109  (V8).
+Computerized cognitive test is  evaluated at Screening, Weeks 1 (V1), 25 (V4), 49 (V5), 73 (V6)
+and 109 (V8).
+6.3.2.2 18F-AV-45 retention measurement
+18F-AV-45 PET is conducted at week 97 (V7) to assess the change in amylo id burden over the
+period of V203-AD and the extension study.
+<<<PAGE 32>>>
+Clinical Trial Protocol: V203-AD-EXT 27 Version: 1.1, Date: 22-Jan-2018
+In case of scanning failure, re-injection/re-scanning of 18F-AV-45 is allowed.
+6.3.2.3 EEG
+EEG is conducted at Screening, Weeks 1 (V1), 2 5 (V4), 49 (V5), 7 3 (V6) and 109  (V8).
+Five-minute eyes open an d eye closed , the 3 -choice vigilance task and the standard image
+recognition task will be performed by trained and certificated clinical personnel.
+6.3.2.4 Brain volume and cortical thickness
+The change of brain volume and cortical thickness is  assessed by MRI im aging. MRI is scheduled
+at Screening, Week 13 (V3) and Week 97 (V7).
+6.3.2.5 Neurodegenerative biomarkers
+The level of different neurodegenerative biomarkers including A β40, Aβ42, tau, NFH, NFL, GFAP
+and UCHL1 is measured at Week 1 (V1), Week 49 (V5), Week 97 (V7) and Week 109 (V8).
+<<<SECTION 6.4 Measures to protect blinding of this trial>>>
+6.4 Measures to protect blinding of this trial
+In order to protect blinding of V203- AD study while it’ s still ongoing, study drugs for this
+extension study will be labelled with individual subject number . In the event that an adverse eff ect
+is considered serious and related to the study drug, and knowing the assignment is essential for
+treating the subject, the investigator is allowed to contact UNS or CRO to call IVRS/IWRS from
+V203-AD study to obtain the treatment code of that individua l subject. If the treatment assignment
+is unblinded, the investigator must notify UNS in writing and document the course of the events in
+the CRF.
+<<<PAGE 33>>>
+Clinical Trial Protocol: V203-AD-EXT 28 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 7 ASSESSMENT OF SAFETY>>>
+7 ASSESSMENT OF SAFETY
+<<<SECTION 7.1 Safety Endpoints>>>
+7.1 Safety Endpoints
+• Local tolerability at the injection site
+• Amyloid-related imaging abn ormalities (ARIA)  including vasogenic edema and/or sulcal
+effusion (ARIA -E) and hemosiderin deposits (ARIA -H), such as microhemorrhage and
+superficial siderosis.
+• Other adverse events and serious adverse events
+• Vital signs
+• Physical examination
+• 12-lead Electrocardiogram (ECG)
+• Laboratory tests: hematology, clinical chemistry, and inflammatory parameters
+<<<SECTION 7.1.1 Local tolerability>>>
+7.1.1 Local tolerability
+Local tolerability at injection site will be evaluated by the investigator at 30 -60 minutes
+post-injection at Week s 1 (V1), 5 (V2), 13 (V3), 49 (V5) and 97 (V7). The subjects will record
+injection site reactions happening between 1 hour post -injection and 7 days post -injection in the
+patient diary (see Section 7.3). Subjects will be instructed not to rub or otherwise tamper with their
+injection site.
+<<<SECTION 7.1.2 Clinical safety>>>
+7.1.2 Clinical safety
+Clinical safety will be assessed by physical examination and vital signs (including temperature,
+respiratory rate, heart rate, blood pressure, and body weight ) at screening and at every visit
+throughout the study (V1 to V 8). Neur ology examination and vital signs will be assessed again
+30-60 minutes after study drug injection at Weeks 1 (V1), 5 (V2), 13 (V3), 49 (V5) and 97 (V7).
+<<<SECTION 7.1.3 Adverse event collection>>>
+7.1.3 Adverse event collection
+Adverse events and serious adverse events will be collected from the time o f signing informed
+consent form and then at each visit until the end of the study.
+<<<SECTION 7.1.4 ECG>>>
+7.1.4 ECG
+A 12-lead ECG record is performed at S creening and at Weeks 49 (V5) and 109 (V8). The 12-lead
+ECGs should be performed after at least 10 minutes in s upine position. The electrodes are to be
+positioned at the same place for each ECG recording.
+Both traces will be analyzed in comparison with the screening recorded trace at the end of the study.
+The original trace is kept as source data. In the CRF the assessment “ normal”, “abnormal-clinically
+significant”, or “abnormal- not clinically significant” as determined by the investigator, is collected.
+<<<PAGE 34>>>
+Clinical Trial Protocol: V203-AD-EXT 29 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 7.1.5 MRI>>>
+7.1.5 MRI
+MRI is performed at S creening and at Week s 13 (V3) and 97 (V7) to monitor ARIA  that may be
+induced by amyloid-modifying therapy. If a subject’s last MRI scan in V203- AD study is within 3
+months before the screening visit of this extension study, an MRI is not required for screening. The
+data of last MRI scan from V203- AD can be used for eligibility/safety evaluation in the ext ension
+study.
+<<<SECTION 7.1.6 Safety laboratory>>>
+7.1.6 Safety laboratory
+The following laboratory data are collected:
+• Hematology: complete blood count including differential cell count and absolute neutrophil
+count at Screening, Weeks 1 (V1), 5 (V2), 13 (V3), 49 (V5), 97 (V7) and 109 (V8).
+• Clinical chemistry: HbA1c at Screening; glucose AC, AST, ALT, bilirubin, sodium, total
+protein, BUN, creatinine, potassium, and albumin at Screening, Weeks 1 (V1), 5 (V2), 13 (V3),
+49 (V5), 97 (V7) and 109 (V8).
+• Inflammatory parameters: CRP and ESR at S creening, and at Week s 5 (V2), 49 (V5) and 109
+(V8); TNF-α, IL-6, and IL-8 at Weeks 1 (V1), 5 (V2) and 109 (V8).
+For visits during which UB-311 or placebo is scheduled to be administered (V1, V2, V3, V5 and
+V7), blood samples will be collected before the treatment.
+<<<SECTION 7.2  Safety Instructions>>>
+7.2  Safety Instructions
+<<<SECTION 7.2.1 Local tolerability>>>
+7.2.1 Local tolerability
+In the case where the investigator or the subject recognizes any signs of local intolerability, this
+should be recorded on the AE form in the CRF.
+<<<SECTION 7.2.2 Monitoring of ARIA>>>
+7.2.2 Monitoring of ARIA
+Because vasogenic edema and other amyloid-related imaging abnormalities (ARIA) have been
+reported in clinical trials with multiple therapeutic avenues to lower A β burden in AD, subjects
+enrolled in this study will be followed for any suspected vasogenic  edema (i.e. with s ymptoms
+and/or signs of  headache, loss of coordination [ ataxia], weakness or  decreasing levels of
+consciousness) or ARIA. All Principal Investigators should be notified of the possible occurrence of
+ARIAs and the measures to be taken.
+The detailed procedures of MRI are des cribed in a separate imaging manual by a Central Imaging
+Corelab.
+<<<SECTION 7.3 Adverse Events Recording>>>
+7.3 Adverse Events Recording
+During the scheduled visits, adverse events should be collected by means of standard questions (For
+example: Have you had any health problems since the previous visit?). Spontaneously reported
+<<<PAGE 35>>>
+Clinical Trial Protocol: V203-AD-EXT 30 Version: 1.1, Date: 22-Jan-2018
+and/or observed adverse events and the responses to the questions  should be recorded on the CRF
+with information about the degree of seriousness and any action taken.
+The p atient diary will be used to record injection site reactions happening between 1 hour
+post-injection and 7 days post -injection. (Please also refer to the Injection Reaction Plan to acquire
+necessary information).
+All adverse events are to be coded to a “ Preferred Term” and primary “System-Organ Class” using
+the Medical Dictionary for Regulatory Activities (MedDRA). AEs are reported and graded using
+National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version
+4.03 or later.
+<<<SECTION 7.4 Adverse Events Monitoring>>>
+7.4 Adverse Events Monitoring
+Adverse events will be monitored by Contract Research Organization (CRO)  based on its
+Monitoring Plan. All events will be managed and reported, and included in the final clinical study
+report.
+<<<SECTION 7.5 Definitions of Adverse Event and Serious Adverse Event>>>
+7.5 Definitions of Adverse Event and Serious Adverse Event
+An Adverse Event (AE) is any untoward medical occurrence in a patient or clinical investigation
+subject during the participation of the study, whether or not consi dered related to the medicinal
+product. An AE can therefore be any  new or exacerbated unfavorable  and unintended sign
+(including an abnormal laboratory finding), symptom, or disease. The occurrence does not
+necessarily have to have a causal relationship with the treatment.
+A priori, efficacy endpoints as specified in the protocol will not be considered as AEs except if,
+because of the course or severity or any other features of such events, the i nvestigator, according to
+his/her best medical judgment, considers these events as exceptional in this medical condition.
+Unexpected adverse drug experience is defined as any adverse drug experience, the specificity or
+severity of which is not consistent with the current investigator brochure; or, if an investigator
+brochure is not required or available, the specificity or severity of which is not consistent with the
+risk information described in the general investigative plan or elsewhere in the current application,
+as amended. “Unexpected”, as used in this definition, refers to an adverse drug experience that has
+not been previously observed (e.g., included in the investigator’ s brochure) rather than from the
+perspective of such experience not being anticipated from the pharmacological properties of the
+pharmaceutical product.
+A Serious Adverse Event (SAE) is any untoward medical occurrence that at any dose:
+ Results in death or,
+ Is life-threatening or,
+Note: The term "life -threatening" in the definition of "serious" refers to an event in which the
+patient was at risk of death at the time of the event; it does not refer to an event, which
+hypothetically might have caused death if it were more severe.
+ Requires inpatient hospitalization or prolongation of existing hospitalization or,
+ Results in persistent or significant disability/incapacity or,
+<<<PAGE 36>>>
+Clinical Trial Protocol: V203-AD-EXT 31 Version: 1.1, Date: 22-Jan-2018
+ Is a congenital anomaly/birth defect or,
+ Is a medically important event:
+Medical and scientific judgment should be exercised in deciding whether expedited reporting is
+appropriate in other situations, such as important medical events that may not be immediately
+life threatening or result in death or hospitalization but may jeopardize the subject  or may
+require intervention to prevent one of the other outcomes listed in the definition above.
+An adverse event fulfilling any one or more of these criteria should be reported as a serious adverse
+event, irrespective of the dose of drug given, and even if it is the result of an interaction or drug
+abuse.
+A distinction should be drawn between serious and severe adverse events. The term ‘severe’ is often
+used to describe the intensity (severity) of a specific event (as in mild, moderate, or severe
+myocardial infarction); the event itself, however, may be of relatively minor medical significance
+(such as severe headache). This is not the same as ‘serious,’ which is based on subject’s event
+outcome or action criteria usually associated with events that pose a threat to a subject’s life or
+functioning. The seriousness (not severity) serves as a guide for defining regulatory reporting
+obligations.
+<<<SECTION 7.6 Recording and Reporting of Adverse Event>>>
+7.6 Recording and Reporting of Adverse Event
+All AEs and SAEs, regardless of seriousness or relationship to study drug(s),  spanning from the
+first visit planned in the Clinical Trial Protocol/signature of the informed consent form up to the last
+(post treatment follow -up) visit, are to be reported and recorded on the  corresponding page(s) or
+screen(s) included in the CRF.
+Laboratory, vital signs or ECG abnormalities are to be recorded as Adverse Events only if they are
+medically relevant: symptomatic, requiring corrective treatment, leading to discontinuation and/or
+fulfilling a seriousness criterion.
+The investigator may be asked to provide photocopies of the medical records for completing the AE
+or SAE report. The medical records submitted to the relevant pa rties will conceal the subjects’
+names. It is the responsibility of the investigator to report AEs or SAEs by diagnosis terminologies,
+if possible. When the diagnosis is possible for the reported AE or SAE, no signs and symptoms used
+to establish that particular diagnosis should be reported.
+The investigator will be asked to determine the severity and causality of each AE and SAE based on
+the investigator’s clinical judgment. Adverse event reporting begins from date of consent and ended
+on the last day of t he study period. The intensity of the AEs is  graded according to the Common
+Terminology Criteria for Adverse Events (CTCAE) version 4.03 as follows:
+Severity of AE Description
+Grade 1 Mild; asymptomatic or mild symptoms; clinical or diagnostic observatio ns only; intervention
+not indicated.
+Grade 2 Moderate; minimal, local or noninvasive intervention indicated; limiting age -appropriate
+<<<PAGE 37>>>
+Clinical Trial Protocol: V203-AD-EXT 32 Version: 1.1, Date: 22-Jan-2018
+instrumental activities of daily living (ADL)*.
+Grade 3 Severe or medically significant but not immediately life -threatening; hospitalization or
+prolongation of hospitalization indicated; disabling; limiting self care ADL**.
+Grade 4 Life-threatening consequences; urgent intervention indicated.
+Grade 5 Death related to AE.
+Activities of Daily Living (ADL):
+*Instrumental ADL refers to preparing meals, shopping for groceries or clothes, using the telephone, managing money, etc.
+**Self care ADL refers to bathing, dressing and undressing, feeding self, using the toilet, taking medications, and not bedridden.
+The investigator makes a judgment regarding whether or not the AE i s related to study drug, using
+the definitions below. The investigator is  to evaluate any changes in laboratory values and ma ke a
+determination as to whether or not the change is clinically important and whether or not the changes
+are related to study drug. However, even if the investigator determines there is no relationship to the
+study drug, the AE or clinically significant laboratory abnormality must still be recorded in the CRF
+along with the investigator’s assessment of relationship as follows:
+Relationship Description
+Unrelated The AE must definitely have been caused by the subject’s clinical state, or the study
+procedure/conditions (i.e. it had no association with the study drug)
+Unlikely The temporal association between the AE and the study drug was such that the study drug
+was not likely to have any reasonable association with AE.
+Possible The AE followed a reasonable temporal sequence from the time of drug administration, but
+could have been produced by the subject’s clinical state or the study procedures / conditions.
+Probable The AE followed a reasonable temporal sequence from the time of study drug administration,
+abated upon discontinuation of the study drug and could not be reasonably explai ned by the
+known characteristics of the subject’s clinical state.
+Definite The AE followed a reasonable temporal sequence from the time of study drug administration,
+abated upon discontinuation of the study drug and reappeared when the study drug is
+introduced.
+It is usually important for the investigators to take information of underlying diseases, concomitant
+drugs, temporal relationship of the onset of the event to the time of dosing the study medication,
+and re-challenging outcomes, into account when making a causal relation decision.
+It is the investigators’ responsibility to follow proactively the outcome of each AE/SAE until
+resolution or stabilization of the condition or lost of follow-up.
+Whether or not related to the study medication, all SAEs which happen during the study must be
+reported to the sponsor (UNS) and the CRO within the time frame (within 24 hours beginning from
+the investigator's knowledge of the event).
+An Adverse Event Form should be completed for all SAEs and forwarded to the CRO/ sponsor
+within 24 hours. When new significant information is obtained as well as when outcome of an event
+<<<PAGE 38>>>
+Clinical Trial Protocol: V203-AD-EXT 33 Version: 1.1, Date: 22-Jan-2018
+is known, the investigator should inform the CRO/sponsor. In applicable cases, sponsor may
+request a letter from the investigator summarizing events r elated to the case. Investigator should
+follow subjects as far as possible until an outcome to the events is known.
+The SAE/SUSAR (Suspected Unexpected Serious Adverse Reaction) will be reported to the
+regulatory authority and the Institutional Review Boar d (IRB) according to the Good Clinical
+Practice (GCP), regulatory, and IRB requirements. A SUSAR is defined as the SAE with the nature
+and severity of which is not consistent with the applicable product information (e.g., investigator’s
+brochure for an una pproved investigational medicinal product or package insert for an approved
+medicinal product). The investigator is responsible to communicate details of medical emergencies
+in trial subjects to the IRB. In case of a SAE/SUSAR results in death or a life -threatening event, the
+investigator should notify IRB at the assigned institution via a written document as soon as possible
+within 7 days of the initial recognition (followed by completing report within 8 days) and the other
+SAE/SUSARs within 15 days. Spons or/CRO is responsible to inform the events to the regulatory
+authorities within the same time frame.
+<<<SECTION 7.7 Follow-up>>>
+7.7 Follow-up
+The investigator should take all appropriate measures to ensure the safety of the subjects ; notably
+he/she should follow up the outcome of any A Es (clinical signs, laboratory values or other, etc.)
+until the return to normal or consolidation of the subject's condition.
+In case of any SAE , the subject must be followed up until clinical recovery is complete and
+laboratory results have returned to normal, or until progression has been stabilized. This may imply
+that follow-up will continue after the subject has left the clinical trial.
+In case of any SAE  brought to the attention of the investigator at any time after the initiation of
+clinical trial and considered by him/her to be caused by the study drug with a reasonable possibility,
+this should be reported to the sponsor  or the sponsor ’s delegate within the time frame  beginning
+from the investigator's knowledge of the event.
+<<<SECTION 7.8 Obligation of the Sponsor>>>
+7.8 Obligation of the Sponsor
+During the course of the study, the sponsor will report in an expedited manner all SAEs that are
+both unexpected and at least reasonably related to the study drug to the health authorities, IRBs as
+appropriate and to the investigators.
+In addition, the s ponsor may report in an expedited manner all SAEs that are expected and at least
+reasonably related to the study drug to the authorities, according to local regulations.
+The sponsor will report all safety observations made during the conduct of the trial i n the clinical
+study report (CSR).
+<<<PAGE 39>>>
+Clinical Trial Protocol: V203-AD-EXT 34 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 8 STUDY PROCEDURES>>>
+8 STUDY PROCEDURES
+<<<SECTION 8.1 Study Visits>>>
+8.1 Study Visits
+The study consists of a screening period (up to 6 weeks), a treatment period ( 96 weeks) with 7
+visits, and a follow-up period (12 weeks). For V2 (Week 5) and V3 (Week 13), a time frame of ±  3
+days is acceptable using the day of V1 as reference (Day 1), i.e. if one visit date is changed, the next
+visit should take place according to the original schedule. For V4 (Week 25) to V8 (Week 109), a
+time frame of ± 14 days is acceptable using the day of V1 as reference. Out of visit/dosing windo w
+and missing visit/dose are considered as protocol deviations.
+8.1.1 The Screening visit (-42 < Day < -1)
+The Screening visit may take place no more than 42 days prior to V1 . The subject receives verbal
+information concerning the aims and methods of the study, its constraints and risks , and the study
+duration. The written informed consent must be signed by the subject , the subject ’s caregiver, and
+the investigator prior to any investigations. No screening procedures  and assessments can be
+performed until the subject and the caregiver are fully informed of the study and sign the inform
+consent. Subjects, who are diagnosed with a medical condition during the screening process will be
+notified and referred for medical care.
+This visit includes:
+• Informed consent from the subject and the study caregiver
+• Inclusion/Exclusion criteria
+• Demographics (age and gender)
+• Complete medical history and concomitant diseases (general medical history: up to 30 days prior
+to screening vi sit; neurological and psychiatric: within 1 year prior to screening visit; s urgery /
+Procedure: within 10 years prior to screening visit; other cancer history: life time base)
+• Concomitant and previous medication (within the last 3 months)
+• Record of AEs and SAEs
+• Physical examination and height
+• Vital signs, including temperature, respiratory rate, heart rate, blood pressure, and body weight
+• Structural MRI scanning  (If a subject ’s last MRI scan in V203 -AD study is within 3 months
+before the screening visit of this extension study, an MRI is not required for screening.)
+• 12-lead ECG
+• Computerized cognitive test (two practices will be performed before the real test)
+• EEG
+• Blood collection for testing of:
+– CRP and ESR
+<<<PAGE 40>>>
+Clinical Trial Protocol: V203-AD-EXT 35 Version: 1.1, Date: 22-Jan-2018
+– Clinical chemistry (HbA1c, glucose AC, AST, ALT, bilirubin, sodium, total protein,
+BUN, creatinine, potassium, and albumin)
+– Hematology (complete blood count including differential cell count and absolute
+neutrophil count)
+– Anti-measles and anti-HBV antibodies
+– Memory T cell response for UBITh® 1 and UBITh® 2
+<<<SECTION 8.1.2 Visit 1 (Week 1, Day 1)>>>
+8.1.2 Visit 1 (Week 1, Day 1)
+This visit (V1) should be scheduled within 6 weeks after S1 and includes:
+• Verification of Inclusion/Exclusion criteria and check for eligibility
+• Survey instruments
+– MMSE
+– CDR-SB
+– ADAS-Cog
+– Computerized cognitive test
+• EEG
+• Record of AEs and SAEs
+• Record of the use or change of any concomitant medications
+• Physical examination
+• Vital signs, including temperature, respiratory rate, heart rate, blood pressure, and body weight
+• Blood collection for: (before the UB-311 injection)
+– Anti-Aβ, anti-Aβ1-42 monomer and anti-Aβ1-42 oligomer antibodies
+– TNF-α, IL-6, and IL-8
+– Clinical chemistry (glucose AC, AST, ALT, bilirubin, sodium, total protein, BUN,
+creatinine, potassium, and albumin)
+– Hematology (complete blood count including differential cell count  and absolute
+neutrophil count)
+– Neurodegenerative biomarkers (Aβ40, Aβ42, tau, NFH, NFL, GFAP and UCHL1)
+• Injecting study drug
+• Injection site assessments, vital signs  (except body weight) , and neurology examination  of
+physical examination 30-60 minutes after injection
+<<<SECTION 8.1.3 Visit 2 (Week 5, Day 29)>>>
+8.1.3 Visit 2 (Week 5, Day 29)
+<<<PAGE 41>>>
+Clinical Trial Protocol: V203-AD-EXT 36 Version: 1.1, Date: 22-Jan-2018
+This visit (V2) should be scheduled 4 weeks ± 3 days after V1 and includes:
+• Record of AE and SAE
+• Record of the use or change of any concomitant medications
+• Physical examination
+• Vital signs, including temperature, respiratory rate, heart rate, blood pressure, and body weight
+• Blood sampling for: (before the UB-311/placebo injection)
+– Anti-Aβ, anti-Aβ1-42 monomer and anti-Aβ1-42 oligomer antibodies
+– CRP, ESR, TNF-α, IL-6, and IL-8
+– Clinical chemistry (glucose AC, AST, ALT, bi lirubin, sodium, total protein, BUN,
+creatinine, potassium, and albumin)
+– Hematology (complete blood count including differential cell count and absolute
+neutrophil count)
+• Injecting study drug
+• Injection site assessments, vital signs (except body weight), and neurology examination  of
+physical examination 30-60 minutes after injection
+<<<SECTION 8.1.4 Visit 3 (Week 13, Day 85)>>>
+8.1.4 Visit 3 (Week 13, Day 85)
+This visit (V3) should be scheduled 12 weeks ± 3 days after V1 and includes:
+• Structural MRI scanning (should be scheduled < 14 days before the injection of study drug)
+• Record of AEs and SAEs
+• Record of the use or change of any concomitant medications
+• Physical examination
+• Vital signs, including temperature, respiratory rate, heart rate, blood pressure, and body weight
+• Blood collection for: (before the UB-311/placebo injection)
+– Anti-Aβ, anti-Aβ1-42 monomer and anti-Aβ1-42 oligomer antibodies
+– Clinical chemistry (glucose AC, AST, ALT, bilirubin, sodium, total protein, BUN,
+creatinine, potassium, and albumin)
+– Hematology (complete blood count including differential cell count and absolute
+neutrophil count)
+– Anti-measles and anti-HBV antibodies
+– Memory T cell response for UBITh® 1 and UBITh® 2
+• Injecting study drug
+• Injection site assessment, vital signs  (except body weight ), and neurology examination of
+physical examination 30-60 minutes after injection
+<<<PAGE 42>>>
+Clinical Trial Protocol: V203-AD-EXT 37 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 8.1.5 Visit 4 (Week 25, Day 169)>>>
+8.1.5 Visit 4 (Week 25, Day 169)
+This visit (V4) should be scheduled 24 weeks ± 14 days after V1 and includes:
+• Record of AEs and SAEs
+• Record of the use or change of any concomitant medications
+• Physical examination
+• Vital signs, including temperature, respiratory rate, heart rate, blood pressure, and body weight
+• EEG
+• Computerized cognitive test
+<<<SECTION 8.1.6 Visit 5 (Week 49, Day 337)>>>
+8.1.6 Visit 5 (Week 49, Day 337)
+This visit (V5) should be scheduled 48 weeks ± 14 days after V1 and includes:
+• 12-lead ECG
+• Survey instruments
+– MMSE
+– CDR-SB
+– ADAS-Cog
+– Computerized cognitive test
+• EEG
+• Record of AEs and SAEs
+• Record of the use or change of any concomitant medications
+• Physical examination
+• Vital signs, including temperature, respiratory rate, heart rate, blood pressure, and body weight
+• Blood collection for: (before the UB-311 injection)
+– Anti-Aβ, anti-Aβ1-42 monomer and anti-Aβ1-42 oligomer antibodies
+– CRP and ESR
+– Clinical chemistry (glucose AC, AST, ALT, bilirubin, sodium, total protein, BUN,
+creatinine, potassium, and albumin)
+– Hematology (complete blood count inc luding differential cell count and absolute
+neutrophil count)
+– Neurodegenerative biomarkers (Aβ40, Aβ42, tau, NFH, NFL, GFAP and UCHL1)
+• Injecting study drug
+<<<PAGE 43>>>
+Clinical Trial Protocol: V203-AD-EXT 38 Version: 1.1, Date: 22-Jan-2018
+• Injection site assessment, vital signs  (except body weight) , and neurology examination  of
+physical examination 30-60 minutes after injection
+<<<SECTION 8.1.7 Visit 6 (Week 73, Day 505)>>>
+8.1.7 Visit 6 (Week 73, Day 505)
+This visit (V6) should be scheduled 72 weeks ± 14 days after V1 and includes:
+• Record of AEs and SAEs
+• Record of the use or change of any concomitant medications
+• Physical examination
+• Vital signs, including temperature, respiratory rate, heart rate, blood pressure, and body weight
+• EEG
+• Computerized cognitive test
+<<<SECTION 8.1.8 Visit 7 (Week 97, Day 673)>>>
+8.1.8 Visit 7 (Week 97, Day 673)
+This visit (V7) should be scheduled 96 weeks ± 14 days after V1 and includes:
+• Structural MRI scanning (should be scheduled < 14 days before the injection of study drug)
+• 18F-AV-45 PET scanning (a time frame of ±14 days is acceptable)
+• Record of AEs and SAEs
+• Record of the use or change of any concomitant medications
+• Physical examination
+• Vital signs, including temperature, respiratory rate, heart rate, blood pressure, and body weight
+• Blood sampling for: (before the UB-311 injection)
+– Anti-Aβ, anti-Aβ1-42 monomer and anti-Aβ1-42 oligomer antibodies
+– Clinical chemistry (glucose AC, AST, ALT, bilirubin, sodium, tot al protein, BUN,
+creatinine, potassium, and albumin)
+– Hematology (complete blood count including differential cell count and absolute
+neutrophil count)
+– Neurodegenerative biomarkers (Aβ40, Aβ42, tau, NFH, NFL, GFAP and UCHL1)
+• Injecting study drug
+• Injection s ite assessment, vital signs  (except body weight) , and neurology examination  of
+physical examination 30-60 minutes after injection
+<<<SECTION 8.1.9 Visit 8 (Week 109, Day 757)>>>
+8.1.9 Visit 8 (Week 109, Day 757)
+This visit (V8) should be scheduled 108 weeks ± 14 days after V1 and includes:
+<<<PAGE 44>>>
+Clinical Trial Protocol: V203-AD-EXT 39 Version: 1.1, Date: 22-Jan-2018
+• 12-lead ECG
+• Survey instruments
+– MMSE
+– CDR-SB
+– ADAS-Cog
+– Computerized cognitive test
+• EEG
+• Record of AEs and SAEs
+• Record of the use or change of any concomitant medications
+• Physical examination
+• Vital signs, including temperature, respiratory rate, heart rate, blood pressure, and body weight
+• Blood sampling for:
+– Anti-Aβ, anti-Aβ1-42 monomer and anti-Aβ1-42 oligomer antibodies
+– CRP, ESR, TNF-α, IL-6, and IL-8
+– Clinical chemistry (glucose AC, AST, ALT, bilirubin, sodium, total protein, BUN,
+creatinine, potassium, and albumin)
+– Hematology (complete blood count including diffe rential cell count and absolute
+neutrophil count)
+– Neurodegenerative biomarkers (Aβ40, Aβ42, tau, NFH, NFL, GFAP and UCHL1)
+– Anti-measles and anti-HBV antibodies
+– Memory T cell response for UBITh® 1 and UBITh® 2
+<<<PAGE 45>>>
+Clinical Trial Protocol: V203-AD-EXT 40 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 8.2 Events and Time Schedule>>>
+8.2 Events and Time Schedule
+Visit S V1 V2 V3 V4 V5 V6 V7 V8/ET
+Week -6~-1 1/BL 5 13 25 49 73 97 109/ET
+Day -42~-1 1 29±3 85±3 169±14 337±14 505±14 673±14 757±14
+Vaccination/injection site
+assessment/
+Neurology/vital signs1
+XXX  X  X
+ICF, medical history & concomitant
+disease, demographics X
+Incl./excl. criteria X X
+ECG X     X   X
+MRI2 X   X    X X**
+18F-AV-45 PET3        X X**
+MMSE, CDR-SB and ADAS-Cog  X    X   X
+Computerized cognitive test X X   X X X  X
+EEG XX   XXX  X
+AE/SAE XXXX  XXXXX
+Previous and concomitant
+medicines XXXXXXXXX
+PE4/vital signs XXXXXXXXX
+Anti-Measles antibody X   X*     X
+Anti-HBV surface antibody X   X*     X
+Memory T cell response test  X   X*     X
+Clinical chemistry & hematology5 X X* X* X*  X*  X* X
+Inflammatory6 X X* X*   X*   X
+Anti-Aβ Ab level in serum  X* X* X*  X*  X* X
+Anti-Aβ1-42 monomer & oligomer
+Antibodies  X* X* X*  X*  X* X
+Neurodegenerative biomarkers
+(Aβ40, Aβ42, Tau, NFL, NFH, GFAP
+and UCHL1)
+X*    X*  X* X
+BL=baseline; ET=early termination; MRI=structure MRI
+1. 30-60 minutes after injection. Vital sign: not need to measure body weight.
+2. If a subject’s last MRI scan in V203 -AD study is within 3 months before  the screening visit of this extension study, an MRI is
+not required for screening. The data  of last MRI scan from V203 -AD can be used for eligibility/safety evaluation in the
+extension study. For V3 (Week 13) and V7 (Week 97), MRI should be scheduled <14 days before the injection of study drug.
+3. A time frame of ±14 days is acceptable for 18F-AV-45 PET scan.
+4. Including height (for S1 only)
+5. Clinical chemistry: HbA1c (for S1 only), glucose AC, AST, ALT, bilirubin, sodium, total protein, BUN, creatinine, potassium,
+and albumin at S1 and every visit throughout the study (V1 to V 8); Hematology: complete blood count including differential
+cell count and ANC at S1and every visit throughout the study (V1 to V8).
+6. Inflammatory parameters: CRP and ESR: for S1, V2 (Week 5), V5 (Week 49) and V8 (Week 109); TNF-α, IL-6, and IL-8: for
+V1 (Week 1), V2 (Week 5) and V8 (Week 109).
+*  Blood specimens should be drawn before the UB-311/Placebo injection.
+**  For early termination visit only.
+<<<PAGE 46>>>
+Clinical Trial Protocol: V203-AD-EXT 41 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 8.3 Blood Sample Collection>>>
+8.3 Blood Sample Collection
+For visits that UB -311 or placebo is scheduled to be  administrated (V1, V2, V3, V5and V7), blood
+samples will be collected before the treatment.
+At Screening, V1, V2, V3, V5, V7 and V8/ET, different amount of blood will be collected in plain
+tube, SST II tube, NaF tube , EDTA or heparin tube. The details are  described in the central
+laboratory’s handbook.
+<<<PAGE 47>>>
+Clinical Trial Protocol: V203-AD-EXT 42 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 9 STATISTICS>>>
+9 STATISTICS
+The material of this section is the basis for the Statistical Analysis Plan (SAP) for the study. The
+SAP may be revised during the study to accommodate Clinical Trial Protocol amendments and to
+make changes to adapt to unexpected issues in study execution and data that may affect planned
+analyses.
+<<<SECTION 9.1 Analysis Variables>>>
+9.1 Analysis Variables
+<<<SECTION 9.1.1 Demographic and baseline characteristics>>>
+9.1.1 Demographic and baseline characteristics
+The baseline value is defined as the last available value before the first injection of UB -311 in the
+extension study.
+Demographic characteristics are defined as follows:
+• Age (in years) to be derived as: (date of informed consent - date of birth)/365.25
+• Gender (male/female)
+• Body weight (kg)
+• Body Mass Index (BMI, kg/m2): weight in kg/(height in meters)2
+Disease characteristics including:
+• Disease duration (years): (date of informed consent – date of diagnosis)/365.25
+• Baseline scores of MMSE, CDR-SB, ADAS-Cog and computerized cognitive test
+Physical examination, medical history and concomitant dise ase, and previous and concomitant
+medication will be described at baseline.
+The baseline safety data of clinical chemistry and hematology, CRP, ESR , TNF-α, IL-6, IL-8, and
+number of microhemorrhages in the brain will also be summarized.
+<<<SECTION 9.1.2 Immunogenicity variables>>>
+9.1.2 Immunogenicity variables
+The level of anti -Aβ antibodies is one of the primary endpoints and is assessed a t Week 1 (V1),
+Week 5 (V2), Week 13  (V3), Week 49 (V5), Week 97 (V7) and Week 109 (V8). The one-sided
+95% confidence interval (CI, right side) from all visits (V1 to V 13) for subjects in Arm 3 (placebo
+group) of V203-AD study will be calculated as the threshold  of response. Antibody responders will
+be defined as the s ubjects with serum a ntibody titer > response threshold at any visit after first
+injection of UB-311.
+<<<SECTION 9.1.3 Efficacy variables>>>
+9.1.3 Efficacy variables
+9.1.3.1 Rating scales
+MMSE, CDR-SB and ADAS -Cog are rated at Week 1 (V1), Week 49 (V5) and Week  109 (V8),
+while computerized cognitive test is  assessed at the Screening visit, Week 1 (V1), Week 25 (V4),
+<<<PAGE 48>>>
+Clinical Trial Protocol: V203-AD-EXT 43 Version: 1.1, Date: 22-Jan-2018
+Week 49 (V5), Week 73 (V6) and Week 109 (V8). Although the scores of two practices of
+computerized cognitive test at screening will be recorded, only the score of the real test will be used
+for data analysis. If a patient withdraws from the study prematurely during the study period or does
+not have any or some of the scores, the data will be treated as missing values, and no procedure for
+handling missing assessments will be applied.
+9.1.3.2 18F-AV-45 retention
+18F-AV-45 PET scanning is performed  within ±14 days of V 7 date. No procedure for handling
+missing assessments will be applied if there is a missing value.
+<<<SECTION 9.1.4 Safety variables>>>
+9.1.4 Safety variables
+The safety analysis will be based on the reported adverse events and other  safety information
+including:
+• Local tolerability at injection site
+• Amyloid-related imaging abnormalities (ARIA)  including vasogenic edema and/or sulcal
+effusion (ARIA -E) and hemosiderin deposits (ARIA -H), including microhemorrhage and
+superficial siderosis
+• Vital signs
+• Physical examination
+• 12-lead ECG
+• Laboratory tests: hematology, clinical chemistry (glucose AC, AST, ALT, bilirubin, sodium,
+total protein, BUN, creatinine, potassium , and albumin), and inflammatory parameters (CRP ,
+ESR, TNF-α, IL-6, and IL-8)
+<<<SECTION 9.2 Analysis Populations>>>
+9.2 Analysis Populations
+<<<SECTION 9.2.1 Efficacy populations>>>
+9.2.1 Efficacy populations
+The analyses of immunogenicity and efficacy endpoints will be performed by the treatment
+allocation and based on the modified intention-to-treat and per -protocol populations described
+below.
+Modified i ntention-to-treat ( mITT) population: all subjects who receive at least one dose of the
+study drug, and have both baseline and at least one post -baseline assessment in any of the primary
+or secondary variables, irrespective of compliance with the study protocol and procedures.
+Per-protocol (PP) population: subjects who receive all planned doses of the study drug, complete
+the treatment period, fulfil all entry criteria, and have no key protocol deviation.
+<<<SECTION 9.2.2 Safety population>>>
+9.2.2 Safety population
+<<<PAGE 49>>>
+Clinical Trial Protocol: V203-AD-EXT 44 Version: 1.1, Date: 22-Jan-2018
+The safety population is the total treated population defined as all subjects exposed to at least one
+dose of the study drug, regardless of the amount of treatment administered.
+Safety endpoints and tolerability will be analyzed based on the safety population.
+<<<SECTION 9.2.3 Disposition of subjects>>>
+9.2.3 Disposition of subjects
+The total num ber of subjects for each of the following categories will be presented in the clinical
+study report (CSR).
+• Screened subjects: all patients who have signed the inform consent
+• Enrolled subjects: subjects who are enrolled in the extension study
+• The safety population (as defined in Section 9.2.2)
+• The mITT population (as defined in Section 9.2.1)
+• The PP population (as defined in Section 9.2.1)
+A list of subjects prematurely withdrawn from the study, along with reasons for discontinuation,
+will be provided.
+<<<SECTION 9.3 Statistical Methods>>>
+9.3 Statistical Methods
+Continuous data will be summarized using the number of observations available (n), mean, standard
+deviation (SD), median, interquartile range (IQR), minimum, and maximum.
+Categorical data will be summarized using count and percentage. Miss ing data will not be
+categorized in the summaries.
+In general, descriptive statistics of quantitative efficacy and safety parameters (results and changes
+from baseline) by scheduled visit will be provided on observed cases, i.e. the inclusion of only
+subjects with non-missing assessments at a specific visit.
+All statistical tests will be two-sided at the alpha level of 0.05.
+<<<SECTION 9.3.1 Demographic and baseline characteristics>>>
+9.3.1 Demographic and baseline characteristics
+9.3.1.1 Subject demographic characteristics, medical history and diagnoses
+Descriptive statistics w ill be used to summarize the demographic, baseline characteristics data and
+medical history for the safety population to describe the study population.
+Pathologies associated with past medical and surgical history will be classified into primary system
+organ classes and preferred terms using MedDRA and will be summarized using counts and
+percentages. The primary system organ classes and preferred terms will be sorted in decreasing
+order of frequency.
+9.3.1.2 Previous and concomitant medications/therapy
+<<<PAGE 50>>>
+Clinical Trial Protocol: V203-AD-EXT 45 Version: 1.1, Date: 22-Jan-2018
+Medications will be classified into the following two groups:
+• Previous medications are those that the subject took within 3 months  period prior to the
+Screening visit and prior to the first administration of UB-311 at Week 1 (V1).
+• Concomitant medications are those th at the subject continued or started on or after the first
+injection of the study drug up to the end of the study.
+These medications will be classified into anatomic and therapeutic classes using the World Health
+Organization (WHO) Drug Dictionary. Subject will only be counted once within each anatomic and
+therapeutic class.
+Descriptive statistics including number of subjects and percentage will be provided.
+<<<SECTION 9.3.2 Treatment tolerability and compliance>>>
+9.3.2 Treatment tolerability and compliance
+The overall treatment tolerability of UB-311 is defined as the percentage of number of administered
+doses divided by number of administered dose s plus number of missed doses of subject(s) who
+drops out due to drug-related AE(s). It is calculated according to the following formula:
+100% x (A+B1+C+D) / (A+B1+B2+C+D)
+where
+A: number of administered doses of completers
+B1: number of administered doses of subject(s) who drops out due to drug-related AE(s)
+B2: number of missed doses of subject(s) who drops out due to drug-related AE(s)
+C: number of administered doses of subject(s) who drops out due to drug-unrelated AE(s)
+D: number of administered doses of subject(s) who drops out not due to AE(s)
+The overall compliance is defined as the actual dose (UB -311 or placebo) of injection compared to
+the prescribed dose of treat ment during the study. It is calculated according to the following
+formula:
+100% x (Actual injection dose/Prescribed injection dose)
+<<<SECTION 9.3.3 Analysis of immunogenicity variable>>>
+9.3.3 Analysis of immunogenicity variable
+Immunogenicity analyses will be performed on the m ITT and PP populations. The change i n
+antibody level will be analyzed by a repeated-measures mixed-effects model.
+<<<SECTION 9.3.4 Analysis of efficacy variables>>>
+9.3.4 Analysis of efficacy variables
+Efficacy analyses will be performed on the m ITT and PP populations. Descriptive statistics will be
+provided for all continuous variables at the s cheduled visits. Continuous variables with repeated
+measures will be analyzed using a mixed-effects model.
+<<<SECTION 9.3.5 Analysis of safety data>>>
+9.3.5 Analysis of safety data
+<<<PAGE 51>>>
+Clinical Trial Protocol: V203-AD-EXT 46 Version: 1.1, Date: 22-Jan-2018
+The review of safety and tolerance will be performed on the safety population as defined in section
+9.3.2 Safety Population.
+The observation period will be divided into 2 segments: pre-treatment and post-treatment.
+• The pre-treatment period is defined as the time from the date of the informed consent to the
+time before the administration of first dose of UB-311 in the extension study.
+• The post-treatment period is defined as the time from after the first dose of UB -311 to the end
+of the study.
+9.3.5.1 Analysis of adverse event
+Pre-treatment AEs are defined as AEs that develop or worsen or become serious during the
+pre-treatment period.
+Treatment-emergent AEs (TEAEs) are defined as AEs that develop or worsen (according to the
+investigator’s judgement) or become serious during the post-treatment period.
+The primary focus of adverse event reporting in the CSR will be TEAEs. Pre -treatment AEs will be
+described separately.
+All adverse events
+All adverse events are to be coded to a “Preferred Term” and primary “System-organ Class” using
+the Medical Dictionary for Regulatory Activities (MedDRA).
+Summaries of all TEAEs will include:
+• The overview of AEs, summarizing number (%) of subjects with any TEAE/serious TEAE.
+• The number and percentage of subjects with at least one TEAE by System -organ Class and
+Preferred Term.
+• Summary of TEAEs by intensity ( Grades 1 to 5), presented by System -organ Class a nd
+Preferred Term.
+• Summary of TEAEs by causal relationship to the study drug, by System -organ Class and
+Preferred Term.
+Serious adverse events
+Serious TEAEs will be summarized and presented as number and percent of subjects in the study.
+Adverse events leading to treatment discontinuation
+TEAEs leading to treatment discontinuation will be summarized and presented  as number and
+percentage of subjects in the study.
+<<<PAGE 52>>>
+Clinical Trial Protocol: V203-AD-EXT 47 Version: 1.1, Date: 22-Jan-2018
+Local tolerability at injection site
+The number and percentage of subjects with reaction at injection site will be summarized and
+presented.
+Vasogenic brain edema and amyloid imaging related abnormalities
+The number and percentage of subjects with a myloid-related imaging abnormalities (ARIA) will be
+summarized and presented.
+9.3.5.2 Analysis of laboratory variables
+The summaries will include subjects in the safety population who have at least one laboratory test
+performed during the post-treatment period and, when required by the definition of the abnormality,
+with an available baseline value and avail able laboratory normal ranges. For those descriptions , the
+baseline value will be the last available measure before the first UB-311 injection.
+Clinical laboratory values will be converted to standard international units. Descriptive statistics
+will be used to summarize the laboratory results and the changes from baseline by scheduled visit.
+9.3.5.3 Analysis of vital sign variables
+The summaries will include subjects in the safety population who have at least one parameter to be
+analyzed during the post -treatment period. Descriptive statistics will be used to summarize the
+results and the changes from baseline value by scheduled visit.
+9.3.5.4 Analysis of 12-lead ECG status
+Only ECG status (i.e. normal or abnormal  (clinically significant or not clinically significant) ) will
+be reported.
+9.3.5.5 Reason for withdrawal
+Reason for withdrawal will be tabulated.
+<<<PAGE 53>>>
+Clinical Trial Protocol: V203-AD-EXT 48 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 10  QUALITY CONTROL AND QUALITY ASSURANCE>>>
+10  QUALITY CONTROL AND QUALITY ASSURANCE
+<<<SECTION 10.1  Responsibility of the Investigator(s)>>>
+10.1  Responsibility of the Investigator(s)
+The Investigator(s) undertake(s) to perform the clinical trial in accordance with this c linical trial
+protocol, International Conference on Harmonisation ( ICH) guidelines for Good Clinical Practice
+(GCP) and the applicable regulatory requirements.
+The investigator is required to ensure compliance with all procedures required by the c linical trial
+protocol and with all study procedures provided by the s ponsor (including security rules). The
+investigator agrees to provide reliable data and all information requested by the c linical trial
+protocol in an accurate and legible manner according to the ins tructions provided and to ensure
+direct access to source documents by sponsor representatives.
+If any circuit includes transfer of data, particular attention should be paid to the confidentiality of
+the patient's data to be transferred.
+The investigator ma y appoint such other individuals, as he/she may deem appropriate as co -
+investigators to assist in the conduct of the clinical trial in accordance with the c linical trial
+protocol. All co-investigators shall be appointed and listed in a timely manner. The co -investigators
+will be supervised by and work under the responsibility of the Investigator. The  investigator will
+provide them with a copy of the clinical trial protocol and all necessary information.
+<<<SECTION 10.2  Responsibility of the Sponsor>>>
+10.2  Responsibility of the Sponsor
+The sponsor of this clinical trial is responsible to health authorities for taking all reasonable steps to
+ensure the proper conduct of the c linical trial protocol as regards ethics, c linical trial protocol
+compliance, and integrity and validity of the data recorded on the case report forms. Thus, the main
+duty of the sponsor or sponsor’s delegate is to help the investigator and the sponsor maintain a high
+level of ethical, scientific, technical and regulatory quality in all aspects of the clinical trial.
+At regular intervals d uring the c linical trial, the site will be contacted, through monitoring visits,
+letters or telephone calls, by a representative of the sponsor or sponsor ’s delegate to review study
+progress, investigator and subjec t compliance with c linical trial protocol requirements and any
+emergent problems. These monitoring visits will include but are not limited to review of the
+following aspects: subject informed consent, subjec t recruitment and follow -up, SAE
+documentation and reporting, AE documentation, study drug allocation, subject compliance with
+the study drug regimen, study drug accountability, concomitant therapy use and quality of data.
+<<<SECTION 10.3  Source Document Requirements>>>
+10.3  Source Document Requirements
+According to the ICH guidelines for GCP , the sponsor or sponsor ’s delegate must check the  case
+report form (CRF) entries against the source documents, except for the pre -identified source data
+directly recorded in the CRF.  The informed consent form will include a statement by which the
+patient allows the s ponsor’s duly authorized personnel, the i ndependent e thics committee
+(IRB/IEC), and the regulatory authorities to have direct access to original medical records which
+support the data on the CRF (eg, subjec t's medical file, appointment books, original  laboratory
+records, etc.). These personnel, bound by professional secrecy, must maintain the  confidentiality of
+all personal identity or personal medical information (according to confidentiality rules).
+<<<PAGE 54>>>
+Clinical Trial Protocol: V203-AD-EXT 49 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 10.4  Use and Completion of Case Report Forms (CRFs) and Additional Request>>>
+10.4  Use and Completion of Case Report Forms (CRFs) and Additional Request
+It is the responsibility of the i nvestigator to maintain adequate and accurate CRFs (according to the
+technology used) designed by the s ponsor to record (according to s ponsor instructions) all
+observations and other data pertinent to the clinical investiga tion. All CRFs should be completed in
+their entirety in a neat, legible manner to ensure accurate interpretation of data. Should a correction
+be made, the correction will be recorded  in the CRF. An audit trail will allow to identify the
+modification.
+<<<PAGE 55>>>
+Clinical Trial Protocol: V203-AD-EXT 50 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 11 ETHICS>>>
+11 ETHICS
+<<<SECTION 11.1 Declaration of Helsinki and Ethical Review>>>
+11.1 Declaration of Helsinki and Ethical Review
+The study will be performed in accordance with the principles stated in the Declaration of Helsinki.
+The institutional review board (IRB) must approve the study protocol and informed consent form
+before the enrollment of subjects. The views of the IRB should be dated and filed. The names and
+titles of those who attend the IRB meeting should be attached. After receiving the approval letter
+from the IRB, the investigators have the responsibility to forward the copy of the approved letter to
+UNS before the commencement of the clinical trial.
+The investigator is responsible for informing the IRB of any serious adverse events and/or major
+amendments to the protocol as per local requirements. The investigator should file all
+correspondence with the IRB.
+<<<SECTION 11.2 Patient Information and Consent>>>
+11.2 Patient Information and Consent
+The investigator will ensure that the subject  and his/her caregiver (must be a family member) are
+given full and adequate verbal and written information about the nature, purpose, pos sible risk and
+benefit of the clinical trial.  Subjects and their caregivers must also be informed that they are free to
+discontinue their participation in the c linical trial at any time. The investigator must see the signed
+informed consent before enrolment.
+The subjects should have a copy of the ICF. If any modifications are to be made according to local
+requirements, the new version must be approved by UNS and IRB as well.
+<<<SECTION 11.3 Patient Data Protection>>>
+11.3 Patient Data Protection
+In the CRFs, all patients should be identified by number, initials, date of birth and sex. The
+investigator is responsible for keeping a name list of all patients including patients’ numbers, full
+names and last known address.
+The subjects will be informed in ICF about the possibility of audits by authorized repr esentatives of
+the UNS and/or regulatory authorities in which case a review of those parts of the hospital records
+relevant to the study may be required. However, the investigator will follow all applicable privacy
+laws in order to protect a subject’s privacy and confidentiality.
+<<<PAGE 56>>>
+Clinical Trial Protocol: V203-AD-EXT 51 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 12 DATA HANDLING AND RECORD KEEPING>>>
+12 DATA HANDLING AND RECORD KEEPING
+<<<SECTION 12.1 Data Management>>>
+12.1 Data Management
+The monitor and the investigator will ensure that the data are correctly and legibly recorded on the
+CRF. Monitors are responsible for the data editing. All data should be verified before data
+management. Any corrections should be verified and recorded by the investigator.
+The sponsor or its delegate will be responsible for data management of the trial. The responsibilities
+include database setup, entry screen generation, data entry and verification, data query/resolution,
+data cleanup, and data lock. Database will be converted into SAS dataset for statistical analysis.
+<<<SECTION 12.2 Record Retention in Study Sites>>>
+12.2 Record Retention in Study Sites
+The investigator must maintain all confidential study documentation, and take measures to prevent
+accidental or premature destruction of these documents.
+It is recommended that the investigator retain the study documents at least 2 years after the approval
+of a marketing application or at least 2 years have elapsed since the formal disco ntinuation of
+clinical development of the study drug.
+However, applicable regulatory requirements should be taken into account in the event that a longer
+period is required.
+The investigator must notify the sponsor prior to destroying any study essential documents
+following the clinical trial completion or discontinuation.
+If the investigator's personal situation is such that archiving can no longer be ensured by him/her,
+the investigator shall inform the sponsor and the relevant records shall be transferre d to a mutually
+agreed upon designee.
+<<<PAGE 57>>>
+Clinical Trial Protocol: V203-AD-EXT 52 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 13 FINANCING AND INSURANCE>>>
+13 FINANCING AND INSURANCE
+The sponsor certifies that it has taken out a liability insurance policy covering all clinical trials
+under its sponsorship. This insurance policy is in accordance with local laws and requireme nts. The
+insurance of the sponsor does not relieve the investigator and the collaborators from maintaining
+their own liability insurance policy. An insurance certificate will be provided to the IRB or health
+authorities in countries requiring this document.
+<<<PAGE 58>>>
+Clinical Trial Protocol: V203-AD-EXT 53 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 14 PUBLICATION POLICY>>>
+14 PUBLICATION POLICY
+UNS follows local regulatory requirements relating to clinical trial registration and disclosure of
+results.
+UNS commits to seek publication of results of its completed applicable clinical trials on any
+marketed product in the peer -reviewed scientific literature, regardless of trial outcome. UNS
+supports recognized standards concerning authorship and publication.
+UNS will provide final statistical reports of protocol- derived outcomes to external authors. UNS
+reserves the right to rev iew and comment on draft abstracts, manuscripts, presentations and other
+communications by external investigators regarding UNS -sponsored trials, prior to submission or
+public disclosure, in order to protect intellectual property and confidential informati on. As study
+sponsor, UNS does not approve or veto such publications.
+<<<PAGE 59>>>
+Clinical Trial Protocol: V203-AD-EXT 54 Version: 1.1, Date: 22-Jan-2018
+<<<SECTION 15 REFERENCES>>>
+15 REFERENCES
+1. Prince M, Comas -Herrera A, Knapp M, Guerchet M, Karagiannidou M. World Alzheimer's
+Report 2016; 2016.
+2. Liu HC, Lin KN, Teng EL, et al. Prevalence a nd subtypes of dementia in Taiwan: a community
+survey of 5297 individuals. J Am Geriatr Soc 1995;43:144-9.
+3. Liu HC, Fuh JL, Wang SJ, et al. Prevalence and subtypes of dementia in a rural Chinese
+population. Alzheimer Dis Assoc Disord 1998;12:127-34.
+4. Fuh JL, Wang SJ. Dementia in Taiwan: past, present, and future. Acta Neurol Taiwan
+2008;17:153-61.
+5. Hung YN, Kadziola Z, Brnabic AJ, et al. The epidemiology and burden of Alzheimer's disease
+in Taiwan utilizing data from the National Health Insurance Rese arch Database. Clinicoecon
+Outcomes Res 2016;8:387-95.
+6. Jacobsen JS, Reinhart P, Pangalos MN. Current concepts in therapeutic strategies targeting
+cognitive decline and disease modification in Alzheimer's disease. NeuroRx 2005;2:612-26.
+7. Selkoe DJ, Har dy J. The amyloid hypothesis of Alzheimer's disease at 25 years. EMBO Mol
+Med 2016;8:595-608.
+8. Sevigny J, Chia o P, Bussiere T, et al. The antibody aducanumab reduces Abeta plaques in
+Alzheimer's disease. Nature 2016;537:50-6.
+9. Wang CY. Artificial T helper epitopes as immune stimulators for synthetic peptide immunogens.
+US patent no. 6,713,301 B1. United States: United Biomedical Inc.; 2004.
+10. Wang CY. Immunogenic peptide composition for the prevention and treatment of Alzheimer’s
+disease. In: United S tates patent application  publication no. US 2004/0247612 A1. United States:
+United Biomedical Inc.; 2004.
+11. Wang CY , Finstad CL, Walfield AM, et al. Site -specific UB ITh amyloid -beta vaccine for
+immunotherapy of Alzheimer's disease. Vaccine 2007;25:3041-52.
+12. Wang CY , Walfield AM. Site-specific peptide vaccines for immunotherapy and immunization
+against chronic diseases, cancer, infectious diseases, and for veterinary applications. Vaccine
+2005;23:2049-56.
+13. Babiloni C, Triggiani AI, Lizio R, et al. Cl assification of Single Normal and Alzheimer's
+Disease Individuals from Cortical Sources of Resting State EEG Rhythms. Front Neurosci
+2016;10:47.
+14. Huang C, Wahlund L, Dierks T, Julin P, Winblad B, Jelic V . Discrimination of Alzheimer's
+disease and mild cognitive impairment by equivalent EEG sources: a cross -sectional and
+longitudinal study. Clin Neurophysiol 2000;111:1961-7.
+15. Jeong J. EEG dynamics in patients with Alzheimer's disease. Clin Neurophysiol
+2004;115:1490-505.
+<<<PAGE 60>>>
+Clinical Trial Protocol: V203-AD-EXT 55 Version: 1.1, Date: 22-Jan-2018
+16. Wang CY, Wang PN, Chiu MJ e t al. UB-311, a novel UBITh® amyl oid β peptide vaccine for
+mild Alzheimer's disease. Alzheimer's & Dementia: Translational Research & Clinical Interventions
+2017;3:11.

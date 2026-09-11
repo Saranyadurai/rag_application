@@ -1,0 +1,1154 @@
+<<<PAGE 1>>>
+A Study About the Impact of Intensive Instruction on the Use of
+Aricept and the Reasons for Discontinuation in Patients With
+Alzheimer's Disease
+Clinical study protocol
+Protocol# ART-2013-01
+(NCT01972204)
+<<<PAGE 2>>>
+List / abbreviations and definitions of abbreviations and terms
+Acronym   Expression not to be omitted (definition)
+AChE   Acetylcholine esterase : acetylcholinesterase
+AD   Alzheimer's disease : Alzheimer's dementia
+ADL   A ctivities of D aily L iving : daily living behavior
+AE   Adverse event : adverse event
+BPSD   Behavioral and Psychological Symptoms of Dementia : behavioral
+and psychological symptoms of dementia
+CRC   C linical research coordinator: test coordinator over ter
+DSM   Diagnostic and Statistical Manual of Mental Disorders : Diagnostic
+Statistics Manual of the American Psychiatric Association
+FAST   Functional Assessment Staging : Dementia severity rating scale
+MMSE - J   Mini-Mental State Examination - English : Mental State Short
+Time Test - Japan Version
+NMDA   N-methyl-D-aspartate : N methyl D aspartic acid
+SAE   Serious adverse event : serious adverse event
+<<<PAGE 3>>>
+summary
+item   Contents
+Study name
+A Study About the Impact of Intensive Instruction on the Use of
+Aricept and the Reasons for Discontinuation in Patients With
+Alzheimer's Disease
+The purpose
+The purpose of this study is to examine the influence of the
+instruction on the use of Aricept with educational brochure on the
+48-week medication persistence and to assess the reasons for
+discontinuation.
+Examination
+design
+Multicenter joint randomized parallel group comparison study
+comparative study
+Target patient
+Alzheimer type dementia patients
+Selection criteria
+1) Patients meeting DSM- IV diagnostic criteria for Alzheimer's
+dementia
+2) Patients who agreed with this research ( consent from patients
+should be acquired as much as possible and consent from
+substitute is essential )
+3) We agree to cooperate with this research, provide necessary
+patient information, patients with families or carers who can
+accompany at the regular visit date
+4) Outpatient from home
+Exclusion criteria
+1) Patients receiving treatment for AChE inhibitors (donepezil,
+galantamine, rivastigmine) , and NMDA receptor antagonists
+(memantine) within 4 weeks before consent acquisition
+2) Patients with dyspepsil hydrochloride preparations or
+hypersensitivity to piperidine derivatives
+3) Patients are  also other test drug  which has r eceived the
+administration of investigational drugs within 12 weeks before the
+start of administration of study drug
+4) Other patients whose clinical research doctor  deemed
+inappropriate as subjects
+Target case
+number   150 cases
+Drugs used
+Aricept ® products (commercially available)
+· Tablets 3 mg , tablets 5 mg , tablets 10 mg
+Fine grain 0.5 %
+· D tablets 3 mg , D tablets 5 mg , D tablets 10 mg
+· Oral jelly 3 mg , Oral jelly 5 mg , Oral jelly 10 mg
+· Dry syrup 1%
+Normally, once 3 mg 1 day as donepezil hydrochloride in adults
+Starting from 1 to 2 weeks 5 mg  And orally administered.  For
+advanced Alzheimer's type dementia patients, 5 mg  In 4 weeks
+<<<PAGE 4>>>
+or more, 10 mg  .  Further, it should be reduced according to
+symptoms.
+Fine: Normal, for adults once a day 0.6 g  Starting from 1 to 2
+weeks 1.0 g  And orally administered.  For advanced Alzheimer
+type dementia patients, 1.0 g  In after more than 4 weeks, 2.0
+g  .  Further, it should be reduced according to symptoms.
+Dry syrup: usually, once a day for adults 0. 3 g  It starts from
+0 after one to two weeks. 5 g  And orally administered.  The high
+degree of Alzheimer-type dementia, 0. 5 g  In 4 weeks or more, 1.
+0 g  .  Further, it should be reduced according to symptoms.
+Test method
+Clinical research personnel to query the allocation group  to
+promptly clinical research secretariat after consent from the subject
+has been acquired  ( "informed consent file"  in due strengthening
+leadership group / Normal leadership group), the administration of
+Aricept ® Start.  Among the study period of between 48 weeks, the
+subjects required date  to visit (2  weeks, 12 weeks, 24 weeks, 48
+weeks, increase the time from the donepezil hydrochloride 5 mg to
+10 mg), examination of the provisions ·  Perform observation
+( compliance with medication,  cognitive function test, adverse
+events , concomitant medication ).
+Enhanced leadership group due to "informed consent file",
+intends line medication guidance using the "informed consent file"
+to the required date to subject himself and family or caregiver.
+If you stop taking Aricept ® medication, investigate until the
+reason is clear .
+Evaluation
+items
+Key evaluation items
+- Aricept ® medication continuation rate when medication after
+<<<SECTION 48 weeks>>>
+48 weeks
+- Aricept ® medication discontinuation at the time of reason
+Secondary endpoint
+- Aricept ® factor analysis of the impact on the medication
+continued
+analysis
+Aricept ® medication continuation rate of 48 weeks compared
+with strengthening leadership group and the normal guidance
+group due to "informed consent file".  Aggregates the reason at
+the time of Aricept ® medication discontinuation, to compare the
+reason for terminating between groups.  In addition, the factors
+that affect the Aricept ® medication continuously analyzed by
+logistic regression analysis.
+Medical
+institutions   15 facilities
+Research period   After the Joint Ethics Committee approval to 2017 Dec.
+<<<PAGE 5>>>
+table of contents
+1.                Background · Preface
+<<<SECTION 2.                Purpose of clinical research>>>
+2.                Purpose of clinical research
+<<<SECTION 3.                Object>>>
+3.                Object
+<<<SECTION 3.1.                Selection criteria>>>
+3.1.                Selection criteria
+<<<SECTION 3.2.                Exclusion criteria>>>
+3.2.                Exclusion criteria
+<<<SECTION 3.3.                Definition of cancellation example>>>
+3.3.                Definition of cancellation example
+<<<SECTION 3.4.                Additional Supplementary Items in Canceled Example>>>
+3.4.                Additional Supplementary Items in Canceled Example
+Four.                Explain to the subject and obtain consent
+Five.                Clinical research method
+<<<SECTION 5.1.                Clinical research design>>>
+5.1.                Clinical research design
+<<<SECTION 5.2.                Test outline>>>
+5.2.                Test outline
+<<<SECTION 5.3.                Study participation schedule period of subjects>>>
+5.3.                Study participation schedule period of subjects
+<<<SECTION 5.4.                Drug information>>>
+5.4.                Drug information
+5.5.                Dose / administration method and administration period / method of use
+<<<SECTION 5.6.                Assignment method>>>
+5.6.                Assignment method
+<<<SECTION 5.7.                Regulations on concomitant medication (therapy)>>>
+5.7.                Regulations on concomitant medication (therapy)
+<<<SECTION 6.                Evaluation item>>>
+6.                Evaluation item
+<<<SECTION 6.1.                Key evaluation items>>>
+6.1.                Key evaluation items
+<<<SECTION 6.2.                Secondary purpose>>>
+6.2.                Secondary purpose
+<<<SECTION 7.                Observation / inspection items and schedule>>>
+7.                Observation / inspection items and schedule
+<<<SECTION 7.1.                Observation and inspection schedu>>>
+7.1.                Observation and inspection schedu
+<<<SECTION 7.2.                Observation and inspection items>>>
+7.2.                Observation and inspection items
+<<<SECTION 8.                End of research, suspension and suspension>>>
+8.                End of research, suspension and suspension
+<<<SECTION 8.1.                End of research>>>
+8.1.                End of research
+<<<SECTION 8.2.                Stop / stop research>>>
+8.2.                Stop / stop research
+<<<SECTION 9.                Adverse events and pregnancy information, other events>>>
+9.                Adverse events and pregnancy information, other events
+<<<SECTION 9.1.                Definition>>>
+9.1.                Definition
+<<<SECTION 9.2.                Record of adverse events>>>
+9.2.                Record of adverse events
+<<<SECTION 9.3.                Report of serious adverse events>>>
+9.3.                Report of serious adverse events
+<<<SECTION 9.4.                Report on pregnancy information>>>
+9.4.                Report on pregnancy information
+<<<SECTION 9.5.                Report of other events>>>
+9.5.                Report of other events
+<<<SECTION 9.6.                Expected adverse events>>>
+9.6.                Expected adverse events
+<<<SECTION 9.7.                Report to the manufacturer of the drug>>>
+9.7.                Report to the manufacturer of the drug
+Ten.                Implementation period
+<<<SECTION 11.                Statistical analysis>>>
+11.                Statistical analysis
+<<<SECTION 11.1.                Analysis target group>>>
+11.1.                Analysis target group
+<<<SECTION 11.2.                Analysis of main evaluation items>>>
+11.2.                Analysis of main evaluation items
+<<<SECTION 11.3.                Analysis of secondary evaluation items>>>
+11.3.                Analysis of secondary evaluation items
+<<<SECTION 11.4.                Safety analysis>>>
+11.4.                Safety analysis
+<<<SECTION 11.5.                Other>>>
+11.5.                Other
+<<<SECTION 12.                Target case number and setting rationale>>>
+12.                Target case number and setting rationale
+<<<SECTION 13.                Ethical matters>>>
+13.                Ethical matters
+<<<SECTION 13.1.                Rules to observe>>>
+13.1.                Rules to observe
+13.2.                Creation and revision of explanatory documents / consent documents
+<<<SECTION 13.3.                Ethics committee review>>>
+13.3.                Ethics committee review
+<<<PAGE 6>>>
+<<<SECTION 13.4.                audit>>>
+13.4.                audit
+14.                Money payment and health damage compensation, financial resources for
+clinical research
+<<<SECTION 14.1.                Medical expenses during this clinical study>>>
+14.1.                Medical expenses during this clinical study
+<<<SECTION 14.2.                Money payment to subjects>>>
+14.2.                Money payment to subjects
+14.3.                Funding sources and conflicts of interest in clinical research
+<<<SECTION 14.4.                compensation>>>
+14.4.                compensation
+<<<SECTION 15.                About personal information and other rights>>>
+15.                About personal information and other rights
+<<<SECTION 15.1.                Protection of privacy>>>
+15.1.                Protection of privacy
+15.2.                By signing a consent form, you will approve browsing
+15.3.                About cases where intellectual property rights etc. arise
+<<<SECTION 15.4.                About browsing of source material>>>
+15.4.                About browsing of source material
+<<<SECTION 16.                Preservation of materials>>>
+16.                Preservation of materials
+<<<SECTION 16.1.                Anonymize materials>>>
+16.1.                Anonymize materials
+<<<SECTION 16.2.                Storage of documents>>>
+16.2.                Storage of documents
+<<<SECTION 17.                Publication of research results>>>
+17.                Publication of research results
+<<<SECTION 18.                Clinical research implementation system>>>
+18.                Clinical research implementation system
+<<<SECTION 19.                References>>>
+19.                References
+1
+<<<PAGE 7>>>
+1.           Background · Preface
+Alzheimer type dementia ( AD ) is a progressive neurodegenerative disorder, with a
+decline in cognitive and memory ability, progressive disorder in daily living behavior,
+various symptoms of mental symptoms and behavior disorder 1) .  Along with the rapid
+aging, the prevalence of dementia in Japan is increasing, according to the announcement
+of the Ministry of Health, Labor and Welfare study group in May 2013 (Representative
+Takashi Asada Tsukuba University), 65 years of age or older The prevalence of dementia
+among elderly people is estimated at 15 % , which is said to be 4.62 million at 2012 .  AD
+is pathologically characterized by generalized cerebral atrophy and senile plaques of the
+cerebral cortex and neurofibrillary tangles.  In addition, neurochemical studies  have
+reported reduction of acetylcholine ( ACh ) mainly in forebrain and decreased activity of
+choline acetyltransferase which is ACh synthase, and the functional deterioration itself
+in intracerebral cholinergic nerve itself is the most essential "Choline hypothesis" to be
+said to be a pathological condition began to be cast.
+Aricept ® (generic name: donepezil hydrochloride) is an acetylcholinesterase ( AChE )
+inhibitor created by Eisai Co., Ltd.  It is an  AD therapeutic agent having an action of
+increasing ACh concentration in the brain .  In Japan, in October 1999 tablets ( 3 mg ,
+5 mg ) were approved for the suppression of the progress of cognitive symptoms in mild
+and moderate AD, and in tablets ( 3 mg , 5 mg ) as approval, in August 2007 irrespective
+of severity, Suppression of progress of cognitive symptoms in  all AD was recognized as
+efficacy and effect.  With respect to the dosage form additional, fine granules in March
+2001, orally disintegrating in February 2004 (D) Tablets (3 m g, 5 mg) , with the change
+of dosage regimen in August 2007, tablets ( 10 mg ), D tablet ( 10 mg ), oral jelly ( 3 mg ,
+5 mg , 10 mg ) in July 2009 , and dry syrup in February 2013 .
+Aricept ® once, suspended (6 weeks or 4-8 weeks) Then, the case of no treatment
+cognitive function that is equivalent reported 2), compliance continuation rate of Aricept
+® under the actual clinical,  low values  (Table - 1).  According to the  report 3) of
+Watanabe et al., When carried out understanding of drug therapy with  pathology and
+Aricept ® of AD, medication instruction classroom with the aim to improve the
+medication adherence of the (Aricept classroom 4)) to the patient and family, medication
+continuation rate although the improvement of is Ru recognized, yet, a patient of about
+30% in one year has led to discontinuation.   In addition,  the reason that lead to
+medication discontinuation of Aricept ®, the details are to grasp the unknown is often a
+(eg. Visits and the like that are no longer),  the reason for terminating also in order  to
+address the measures for medication continuation rate improved details There is a need.
+<<<PAGE 8>>>
+Table - 1 medication continuation rate of Aricept ® under real clinical
+Specific usage record
+survey A5 )
+Specific usage record
+survey B6 )
+Watanabe 's report
+3)
+Object   Mild   Height   Mainly mild,
+moderate
+Example
+number
+640 cases   824 cases   About 50 cases
+period   3 months   6
+months
+<<<SECTION 1 year   2>>>
+1 year   2
+years
+<<<SECTION 1 year>>>
+1 year
+Drug
+continuation
+rate
+59.7 %
+83.7 %
+68.9 %
+50.9 %
+49.2 %
+Aricept
+Classroom
+Drug
+continuation
+rate at the time
+of
+implementation
+73.1 %
+Eisai Co., Ltd., has been created with the patient and family that medication Aricept
+® a description for the tool for caregivers "informed consent file".  This tool explains the
+pathology of AD , the significance of medication by Aricept ® , side effects, etc. , and aims
+to improve the  continuation rate  of Aricept ® medication by  deepening the
+understanding of patients and their families and carers .
+In the present study, strengthening of medication instruction using the tool to verify
+the impact on the  Aricept ® medication continuation rate.   In addition,  in subjects
+medication of Aricept ® has reached the stop, investigate the reason for discontinuation
+in more detail, you analyze the background factor.
+As a result of this study,  we hope to  build a standard dosing guidance method  for
+drug treatment of Alzheimer type dementia  and accumulate useful information  for
+measures to improve the medication continuity rate .
+<<<PAGE 9>>>
+<<<SECTION 2.           Purpose of clinical research>>>
+2.           Purpose of clinical research
+The purpose of this study is to examine the influence of the instruction on the use of
+Aricept with educational brochure on the 48-week medication persistence and to assess
+the reasons for discontinuation. To examine the influence of the instruction on the use
+of Aricept with educational brochure comparing to the ordinary instruction on the 48-
+week medication persistence and to assess the reasons for discontinuation.
+<<<SECTION 3.           Object>>>
+3.           Object
+Alzheimer disease patients
+<<<SECTION 3.1.           Selection criteria>>>
+3.1.           Selection criteria
+Target patients who meet all of the following criteria
+1)           Patients conforming to  the diagnostic criteria for Alzheimer type dementia
+by DSM - IV
+2)           Patients who agreed with this research (consent from patients should be
+acquired as much as possible and consent from substitute is essential)
+3)           We agreed to cooperate with  this research,  provide subject information
+necessary for this research, patients with families or caregivers who can accompany
+at the regular visit date
+Four)           Outpatient from home
+<<<SECTION 3.2.           Exclusion criteria>>>
+3.2.           Exclusion criteria
+Patients who conflict with any of the  following will not be  included in this  clinical
+study
+1)           Patients AChE inhibitor within 4 weeks prior informed consent (donepezil,
+galantamine, rivastigmine), and are receiving medical NMDA receptor antagonists
+(memantine)
+2)           Patients with dyspepsil hydrochloride preparations or hypersensitivity to
+piperidine derivatives
+3)           Patients are also other test drug  which has received the administration of
+investigational drugs within 12 weeks before the start of administration of study
+drug
+Four)           Other patients whose clinical research doctor  deemed inappropriate as
+subjects
+[ Rationale for setting ]
+<<<PAGE 10>>>
+1)    Because there is concern about  the influence on the evaluation of  drug
+continuation rate , 2 ) to 3 ) for safety consideration
+4 )     In order to leave room for  clinical research doctors  to consider  whether to
+participate in this clinical study considering the safety of the subject taking the general
+factors other than those mentioned above into consideration
+<<<SECTION 3.3.           Definition of cancellation example>>>
+3.3.           Definition of cancellation example
+During the clinical study period ,  Medication of Aricept ® If you need to abort occurs,
+if it is found that to stop the medication of Aricept ®, or when it becomes the patient was
+transferred, non-visit by the  institutionalization and hospitalization,  etc., the case
+became untraceable It is handled as a discontinued example.  In addition, even if you
+change the Aricept ® to generic drugs handled as a discontinued example.
+In addition, we are dealing  with a subject that is not called off example  with a
+"medication continue".
+The doctor in charge of clinical research investigates  the reasons for  suspension
+( classification ① and classification ② below ) until the reason becomes clear in the
+discontinued example and records it in the case report.
+[Reason classification of ①] (1 only one selection)
+1)           Doctor's judgment
+2)           Hope and judgment of the subject himself / herself
+3)           Hope , judgment of family member or carer
+[Reason classification of ②] (select one or more)
+1)           Adverse event
+2)           Insufficient effect
+( A )       Effect on cognitive function
+(B)       Effect on ADL
+( C )       Effect on psychological symptoms
+( D )       Other: Free description
+3)           Change to other oral preparations (galantamine, memantine) ( 1) 2) Reason
+for change other than 12) : Free description)
+Four)           Change to patch agent (rivastigmine)  ( 1) 2) Reason for change other
+than 12) : Free description)
+Five)           Change to generic drug
+<<<PAGE 11>>>
+6)           Aricept ® drug discontinuation due to hospital entry, ward hospitalization
+(entry to nursing home health care facility,  hospitalization of  comprehensive
+medical system etc )
+7)           Withdrawal of treatment due to visiting difficulties (eg family members or
+carers were absent)
+8)           Discontinuation of therapy due to medication assistance burden increase
+9)           Refusal (if the subject refuses to take the test medicine and the reason is
+unclear)
+10)       Transfer , facility entry , inpatient due to hospitalization
+11)       Others: it corresponds to the freedom described (12 if the reason is unclear))
+12)       Unknown (When it becomes impossible pursuit, reason is unclear etc.)
+<<<SECTION 3.4.           Additional Supplementary Items in Canceled Example>>>
+3.4.           Additional Supplementary Items in Canceled Example
+Investigate the date of discontinuation and state it in the case report.
+Even after discontinuation, when continuing medication for Aricept ® (for example,
+in case of inability to visit by transfer, facility entry , hospitalization, etc) , follow up will
+take place at the prescribed visit points ( 2 weeks, 12 weeks, 24 weeks, 48 weeks) At the
+time of the period,  investigate the medication situation of Aricept ® by phone etc. and
+describe it in the case report.
+If there is use of Alzheimer's type dementia treatment drug (including generic drugs)
+after discontinuation, as  follow up,  investigate the medication situation of the
+therapeutic medicine on the telephone etc. at 48 weeks and describe the contents in the
+case report .
+<<<SECTION 4.           Explain to the subject and obtain consent>>>
+4.           Explain to the subject and obtain consent
+This doctor in charge of clinical research will fully explain the content of this clinical
+study etc. to subjects and substitutes .  Give subjects and substitutives enough time to
+ask questions and whether to participate in this clinical study or not before confirming
+that we have understood the content of this clinical study well and before starting Obtain
+written consent from the principal  (as far as p ossible) and from the substitute for free
+participation in participation in this clinical study .
+The consent document, describes the clinical research physician and agreed subjects
+(as possible) was carried out, Daidaku's signed or serial name seal, dating.  In addition,
+if the CRC · pharmacist etc complementarily explained, the cooperating person also signs,
+<<<PAGE 12>>>
+signs, signs, and writes dates.  One copy of the original shall be kept in the chart and
+the copy shall be given to the subject.
+During this clinical study period,  it can affect the willingness of  subjects and
+Daidaku's about whether you want to join to continue to  subject and Daidaku's new
+important information may be related to the consent of,  or this clinical study, If sexual
+information is obtained, the  clinical research representative  promptly revises the
+consent explanation document based on the information and obtain approval from the
+joint ethics committee.  Clinical research representatives will provide clinical research
+physicians with a revised consent statement .  The doctor in charge of clinical research
+should promptly explain the information to the subject  and the substitute, obtain the
+reconsideration by free will about the continuing participation in this clinical study, copy
+the copy of the consent form and the revised explanatory document to the subject .
+In addition, subjects and substitutes can withdraw their consent at  any time even
+after agreeing to participate in this clinical study, and shall not suffer any disadvantage
+due to withdrawal of consent .
+<<<SECTION 5.           Clinical research method>>>
+5.           Clinical research method
+<<<SECTION 5.1.           Clinical study design>>>
+5.1.           Clinical study design
+Multicenter joint randomized parallel group comparison study comparative study
+<<<SECTION 5.2.           Test outline>>>
+5.2.           Test outline
+Reinforcement guidance group by "informed consent file"
+( 75 cases)
+Aricept ® administration period ( 48 weeks)
+Acquisition
+consent
+Random
+allocation
+Regular teaching group ( 75 cases)
+1)           Taking medication by "Informed consent file" (Attachment 2 )
+In strengthening leadership group due to "informed consent file", during the visit
+of the provisions  (the second week [at the time increased  from donepezil
+hydrochloride 3 mg to 5 mg], 12 weeks, 24 weeks, 48 weeks, and the increase at the
+time) from the donepezil hydrochloride 5 mg to 10 mg, use the "informed consent
+<<<PAGE 13>>>
+file", the pathology of AD,  the significance of  drug therapy with  Aricept ®, side
+effects, etc. to the subject himself and family or caregiver explain.
+2)           Confirmation of reason for canceling medication
+If medication is stopped  , confirm the reason .  If you did not visit the  clinical
+research physician, CRC · pharmacist or the like to perform the investigation until
+the clear reason by telephone or the like.
+<<<SECTION 5.3.           Study participation schedule period of subjects>>>
+5.3.           Study participation schedule period of subjects
+<<<SECTION 48 weeks>>>
+48 weeks
+<<<SECTION 5.4.           Drug information>>>
+5.4.           Drug information
+Aricept ® products [ Eisai Co., Ltd. ]
+1)           Tablets 3 mg , tablets 5 mg , tablets 10 mg ( containing 3 mg , 5 mg , 10 mg
+of donepezil hydrochloride in 1 tablet )
+2)           Fine grain 0.5 % ( 1.0  g contains 5 mg of donepezil hydrochloride )
+3)           D Tablets 3 mg, D Tablets 5 mg, (containing donepezil hydrochloride 3 mg
+in 1 tablet, 5 mg, 10 m g) D Tablets 10 mg
+4)           Oral jelly 3 mg, oral jelly 5 mg, (containing donepezil hydrochloride 3 mg,
+5 mg, 10 mg in 1) oral jelly 10 mg
+5)           Dry syrup 1% ( containing 1 mg of donepezil hydrochloride in 1.0 g )
+It is possible to change the dosage form during the research period .  When changing
+the dosage form, describe its contents in the case report.
+Storage and Storage Conditions
+· Storage at room temperature
+· Before opening the fine grained bulk package, shield the light and preserve it.
+· D tablet After opening the aluminum bag,  PTP packing should be stored avoiding
+moisture.  Rose packaging should be stored after opening the aluminum bag,
+shielding light and avoiding dampness.
+For details see Aricept ® package insert
+5.5.           Dose / administration method and administration period / method of use
+There line the administration of the following drug agents, to continue 48 weeks.
+<<<PAGE 14>>>
+Once a day as donepezil hydrochloride 3 mg  Starting from 1 to 2 weeks 5 mg  And
+orally administered.  For advanced Alzheimer's type dementia patients,  5 mg   In 4
+weeks or more, 10 mg  .  Further, it should be reduced according to symptoms.
+Fine: Normal, for adults once a day 0.6 g  Starting from 1 to 2 weeks 1.0 g  And
+orally administered.  For advanced Alzheimer type dementia patients,  1.0 g  In after
+more than 4 weeks, 2.0 g  .  Further, it should be reduced according to symptoms.
+Dry syrup: usually, once a day for adults 0. 3 g  It starts from 0 after one to two
+weeks. 5 g  And orally administered.  The high degree of Alzheimer-type dementia, 0.
+5 g  In 4 weeks or more, 1. 0 g  .  Further, it should be reduced according to symptoms.
+In addition, if the dose of donepezil hydrochloride is increased or decreased in the
+range up to 10 mg at the discretion of the doctor in charge of clinical research , the study
+is continued .
+<<<SECTION 5.6.           Assignment method>>>
+5.6.           Assignment method
+Assignment managers prepare subject individually allocated envelopes of random
+assignment of 240 cases of study treatment ( including 90 preliminary cases ) beforehand
+and provide them  to the  clinical research secretariat  .  Clinical research staff will
+promptly refer to the clinical research secretariat to allocate examination treatment of
+the subject in the registration form after consent from the subject is acquired .  Clinical
+research Secretariat, in advance based on the allocation table that was created,  and
+notifies the allocation group  that is described in the allocation table by  young turn to
+clinical research personnel.   When notifying the assignment, the  Clinical Research
+Secretariat promptly transmits "  registration date  ", "  date of  consent acquisition",
+"subject identification code", "facility name", " name of clinical research staff who made
+the notification " fill in the allocation record file, stores.
+After the subject of allocation query,  clinical research personnel, for subjects having
+acquired the consent, store to create a subject identification code table.   In the subject
+ID code table, fill in the subject name, gender, consent acquisition date, medical record
+number, subject ID code.   The assignment treatment group notified from the  clinical
+research secretariat shall be entered in the subject identification code table promptly
+after notification .
+<<<SECTION 5.7.           Regulations on concomitant medication (therapy)>>>
+5.7.           Regulations on concomitant medication (therapy)
+1) Concomitant medication (therapy)
+Not applicable
+<<<PAGE 15>>>
+2) Combination prohibited drug (therapy)
+· AChE inhibitors (galantamine , rivastigmine )
+3) combination restriction drug (therapy)
+Not applicable
+4) Combination caution drug (therapy)
+Use it with caution when using it.
+· Sucamethonium chloride hydrate
+It may potentiate muscle relaxant action.
+· Choline activator, cholinesterase inhibitor
+There is a possibility that the choline stimulating action such as the vagus nerve
+stimulating action is enhanced.
+· Itraconazole, erythromycin, etc., quinidine sulfate hydrate etc.
+It may inhibit the metabolism of this drug and potentiate its action.
+· Carbamazepine, dexamethasone, phenytoin, phenobarbital, rifampicin etc.
+It may promote the metabolism of this drug and reduce its action.
+· Central anticholinergic agent, atropine anticholinergic agent
+This drug and anticholinergic agent may interfere with each other and reduce the
+respective effects.
+Non-steroidal anti-inflammatory analgesics
+It may cause peptic ulcers.
+For details see Aricept ® package insert
+<<<SECTION 6.           Evaluation item>>>
+6.           Evaluation item
+<<<SECTION 6.1.           Key evaluation items>>>
+6.1.           Key evaluation items
+1 )      Compliance continuation rate when Aricept ® administration after 48 weeks
+2 )      The reason at the time of Aricept ® medication discontinuation
+<<<SECTION 6.2.           Secondary objectives>>>
+6.2.           Secondary objectives
+1)           In each group, the analysis of the factors that affect the Aricept ® medication
+continues
+<<<PAGE 16>>>
+[ Subject background factor ]
+- years of education (number of years)
+· Same residence family (Yes No)
+· Caregiver background (relationship, sex, age, nursing care experience, watch over
+/ day)
+· Nursing care classification ( 7 categories)
+· In-home service (availability, type [free description] , frequency / month)
+· Severity : FAST ( 7 steps)
+· MMSE-J total score
+· MMSE-J item scores
+· Daily independence degree of elderly with dementia ( 9 ranks)
+· Concomitant medications (antipsychotic drugs, antiepileptic drugs,
+antidepressants, sleep inducing drugs, Chinese herbal medicines etc. )
+· Number of concomitant drugs (number)
+· BPSD ( delusions, hallucinations, excitement, depression · discomfort, anxiety,
+euphoria, irresponsible · indifference, depression suppression, irritabilit y ·
+instability, presence or absence of abnormal behavior )
+[ Factors after commencement of research ]
+· MMSE-J total score change
+· MMSE-J The amount of change in each item score
+· Average compliance ( 90 % or more, 70 % or more and less than 90 % , 30 % or
+more and less than 70 % , 10 % or more and less than 30 %, less than 10 % )
+· Addition (presence or absence) of  antipsychotic drugs, antiepileptic drugs,
+antidepressants, sleep inducing drugs, Chinese herbal medicines etc.  during the
+research period
+· Addition of memantine during the research period (presence / absence)
+2)           Safety assessment
+· Adverse events
+Side effects
+<<<PAGE 17>>>
+item
+Clinical
+the
+study
+start
+date
+Administration
+start date
+2
+weeks
+※ 1
+12
+weeks
+※ 2
+24
+weeks
+※ 2
+48
+weeks ※
+2
+Or
+Canceled
+※ 4
+Donepezil
+hydrochloride
+when
+increasing from
+5 mg to 10 mg *
+5
+Acquisition
+consent
+○
+Subject
+background
+○
+Medication
+compliance
+○   ○   ○   ○   ○
+Medication
+instruction
+by
+'informed
+consent file'
+※ 3
+○   ○   ○   ○     ○
+Cognitive
+function
+test * 6
+( MMSE-
+J )
+△     △   △   △   △
+Adverse
+event
+○   ○   ○   ○
+○
+Use of
+concomitant
+medication
+○   ○   ○   ○   ○
+○
+<<<PAGE 18>>>
+<<<SECTION 7.           Observation / inspection items and schedule>>>
+7.           Observation / inspection items and schedule
+<<<SECTION 7.1.           Observation and inspection schedu>>>
+7.1.           Observation and inspection schedu
+Table - 2 Administration and Inspection Schedule
+※ 1    Increase from 3 mg to 5 mg of donepezil hydrochloride .  The week
+before the allowable range.
+※ 2 Allow 2 weeks before and after .
+※ 3    It is implemented in the reinforcement guidance group by "informed
+consent file" .  (Attachment 2 )
+* 4 Detailed confirmation of the reason for termination is carried out .  If you do
+not visit the hospital, doctor in charge of clinical research, CRC · pharmacist etc
+investigate until the reason is clarified by telephone etc.
+※ 5    It is carried out in advanced Alzheimer's type dementia.  From donepezil
+hydrochloride 5 mg to 10 mg
+Is increased.
+* 6 When implementation is possible, at the start of administration and at 12 weeks.
+Furthermore, it is also carried out to the  extent possible, at 24 week, 48 week,
+when stopping, and when  increasing from 5 mg to 10 mg of donepezil
+hydrochloride .
+<<<SECTION 7.2.           Observation and inspection items>>>
+7.2.           Observation and inspection items
+<<<SECTION 7.2.1.           Subject background>>>
+7.2.1.           Subject background
+Investigate the following items at the start of clinical research and fill in the case
+report.
+· Subjects Background: gender, date of birth  or age, years of education  (number of
+years), family member (presence or absence),  caregiver background
+(relationship, gender, age, presence or absence of nursing experience,
+watching time / day), requiring long-term care division ( 7 categories) ,
+in- home service (presence / absence, type  [ free description  ] ,
+frequency / month)
+· Consent of  examinee and substitutee  : date of consent acquisition  , subject
+identification code
+· Disease period: morbidity period, severity  FAST Attachment 3) ( 7th step ) , Daily life
+independence of elderly people with dementia Attachment 4) ( 9 ranks) ,
+Total score  of each MMSE-J and each item score,  BPSD (delusions,
+hallucinations, excitement, depression · discomfort, anxiety, euphoria,
+<<<PAGE 19>>>
+excitement / indifference, depression suppression, irritation / instability,
+abnormal behavior)
+· Complications: Name of the afflicted disease at acquiring consent
+· Concomitant medication: drug name
+<<<SECTION 7.2.2.           View>>>
+7.2.2.           View
+When administered after 2 weeks, when 12 weeks, at week 24, at 48 weeks or when
+stopped, and examined the following items during increase from donepezil hydrochloride
+5 mg to 10 mg, to fill in the case report form.
+1)           Medication compliance
+The doctor in charge listens to subject compliance and evaluates in the following
+five stages.
+① medication 90 % or more ② medication 70 % or more and  less than 90 % ③
+medication 30 % or more and less than 70 %
+④ medication 10 % or more and less than 30 %    ⑤ medication taking less than
+10 %
+2)           Cognitive function test
+Examine the total score and each item score of MMSE- J .  If practicable, perform
+at the beginning of administration and at 12 weeks.  Furthermore, it is also carried
+out to the extent possible, at 24 week, 48 week, when stopping, and when increasing
+from 5 mg to 10 mg of donepezil hydrochloride .
+3)           Adverse event
+<<<SECTION 9.2 See record of adverse events>>>
+9.2 See record of adverse events
+Four)           Use of concomitant medication
+Investigate the drug name.   For memantine,  we investigate  dose and dosing
+period.
+<<<SECTION 8.           End of research , suspension and suspension>>>
+8.           End of research , suspension and suspension
+<<<SECTION 8.1.           The end of the study>>>
+8.1.           The end of the study
+Regarding treatment after completion of  this clinical study, we will  leave it to the
+judgment of the attending physician based on the state of the subject .
+In the case where the clinical study has been completed in the exemplary medical
+institutions, research responsible  physician based on the provisions of  the medical
+institution, the length  and Tokushukai group Co  Ethics Committee  schematic and
+terminated that the medical institutions of this clinical study results .
+<<<PAGE 20>>>
+<<<SECTION 8.2.           Stop-interruption in the research>>>
+8.2.           Stop-interruption in the research
+During this clinical study progresses, if it is forced to change, such as stop-interrupted
+or this clinical study implementation plan of the clinical studies for the following reasons,
+research investigators  length of  quickly its contents  and the  reasons of medical
+institutions Contact.   The responsible  physician shall promptly  report the  relevant
+information to the head of the medical institution  and the Joint Ethics Committee  in
+writing.
+1)           If drug safety agent used, the critical information on the effectiveness
+obtained
+2)           When it is judged that it is necessary to change  this clinical study
+implementation plan due to the occurrence of serious adverse event
+3)           When it is judged that recruitment of subjects is difficult and it is obviously
+difficult to achieve the number of cases planned
+<<<SECTION 9.           Adverse events and pregnancy information , other events>>>
+9.           Adverse events and pregnancy information , other events
+<<<SECTION 9.1.           Definition>>>
+9.1.           Definition
+Definitions of adverse events ( AE ) and serious adverse events (  SAE ) are shown
+below.
+<<<SECTION 9.1.1.           Adverse event ( AE )>>>
+9.1.1.           Adverse event ( AE )
+The adverse event occurs during this clinical study period to a subject in medicine
+agent is administered,  (including abnormal abnormal laboratory values) any
+undesirable or unintended sign is  that the event, and this clinical study Whether or
+not there is a cause -and-effect relation does not matter.   Including worsening of the
+original disease, deterioration of complications.
+9.1.2.           Serious adverse events (Serious adverse event: SAE)
+The serious adverse events,  of any medical events that occur when  drug agent is
+administered (both doses), refers to the following event.
+1)         Those that resulted in death
+2)         Threatening life
+3)         Those in need of extension of  hospitalization or hospitalization /
+treatment period
+4)         Persistent or serious malfunction
+5)        Congenital abnormality has come
+<<<PAGE 21>>>
+6)        Other serious medical events
+Medical judgment that medical or surgical treatment is required to expose subjects to
+crisis or not to result in any of the above, even if death, life-threatening events, or events
+requiring hospitalization are not occurred Is considered a serious adverse event.
+<<<SECTION 9.2. Record of adverse events>>>
+9.2. Record of adverse events
+Clinical research physician is, this clinical study for a new adverse events occurring
+after the start, the event name , serious category (serious, non -serious), severity (mild,
+moderate, severe) , the expression date, treatment , outcome date (or outcome date
+confirmed) , outcome ( recovery, there has been recovery sequelae, light, non -recovery,
+death, unknown) and this clinical study causal relationship between (no relation, related
+Oh might Rukamo , probably related Yes ) In the case report.
+For abnormal variations in clinical laboratory values judged clinically important by a
+doctor in charge of clinical research , fill out the case report along with the basis.
+Regarding the causal relationship between adverse events and this clinical study , fill
+in the case report the basis of the judgment.
+(1)   Causality relationship with this clinical study
+1 ) No relation:
+There is no reasonable causal relation between this drug administration
+and adverse event. (There is no temporal rationality between this drug
+administration and adverse events, or it is thought that the factors of
+patients, such as concomitant drugs and original diseases and
+complications, are greatly influenced by patients.)
+2 ) There may be relevance :
+There is a possibility of a reasonable causal relationship between this
+drug administration and an adverse event. (There is temporal rationality
+between this drug administration and the adverse event expression and
+the possibility of a causal relationship with this  drug is considered even
+when considering factors of patients such as concomitant drugs and
+original diseases and complications Conceivable.)
+3 ) Probably related :
+There is a high possibility of a reasonable causal relationship between
+this drug adminis tration and an adverse event. (There is temporal
+rationality between this drug administration and the adverse event
+expression and the possibility of a causal relationship with this drug is
+<<<PAGE 22>>>
+considered even when considering factors of patients such as concomitant
+drugs and original diseases and complications A similar adverse event is
+admitted by re - administration.
+(2)   Severity of Adverse Events
+1 ) Mild: degree of discomfort, but not affecting normal daily activities
+2 ) Moderate: degree of disruption to normal daily activities due to discomfort
+3 ) High level : incapacity or enough to normal daily activities becomes
+impossible, it was deprived of the activity capacity state
+If the severity of an adverse event changes, record the heaviest one.
+<<<SECTION 9.3. Report of serious adverse events>>>
+9.3. Report of serious adverse events
+This clinical study regardless of presence or absence of a causal relationship between,
+if serious adverse events were expressed, investigator physician , after taking prompt
+and appropriate treatment of safety in the first priority, immediately the medical Report
+to the chief of the institution.
+Brief description of the adverse events, the reason is judged to be severe , the test
+subject identification code , investigator physician , clinical research name and day 1 of
+administration , causality ( drug agents and clinical studies determined steps) shall
+describe . In addition, the adverse event will be notified to the joint clinical research
+institution.
+In addition, prepare a serious adverse event report and contact the clinical research
+secretariat (submission of a copy) . In addition, when unexpected serious adverse events
+related to this clinical study occur, the status and results of response will be announced
+and reported to the Minister of Health, Labor and Welfare, etc.
+<<<SECTION 9.4. Reporting of pregnancy information>>>
+9.4. Reporting of pregnancy information
+If you perceive the information about the pregnancy is , the study investigators report
+on pregnancy and to create, clinical research secretariat to contact the (Submission of
+copy) . Study principal investigator, and follow-up to the outcome of birth, spontaneous
+abortion, abortion, etc. pregnancy is known, after the proven outcomes of pregnancy, to
+create a report on the outcome of pregnancy, clinical research secretariat to contact the
+(A copy of the Submit) . If t he outcome of pregnancy is spontaneous abortion, abortion,
+congenital anomaly, perinatal mortality, treat it as a serious adverse event, in addition
+<<<PAGE 23>>>
+to a report on the outcome of pregnancy, together with a serious adverse event report
+create.
+<<<SECTION 9.5. Report of other events>>>
+9.5. Report of other events
+Excessive amount of administration If you perceive the information related to the
+research principal investigator excessive amount of administration report on the Create,
+clinical research secretariat to contact the (Submission of copy) .
+<<<SECTION 9.6. Expected adverse events>>>
+9.6. Expected adverse events
+Please refer to the Aricept ® package insert for the content and rate of occurrence of
+anticipated adverse events .
+<<<SECTION 9.7. Report to the manufacturer of the drug concerned>>>
+9.7. Report to the manufacturer of the drug concerned
+The clinical research secretariat submits the following report ( copy ) to Eisai Co., Ltd.,
+the manufacturer of the drug.
+· Serious adverse event report
+· Report on pregnancy and report on pregnancy outcome
+· Report on overdosage
+Ten.      Implementation period
+Joint Ethics Committee approval after ~ 201 5 years 6 May 3 1 day
+Registration period: Joint Ethics Committee approval later - 2014 years 3 Tsuki 31
+days
+Patient Out Last : 2015 year 3 Tsuki 3 1 day
+Statistical analysis: ~ 2015 years 5 May 3 1 day
+Summary reporting: ~ 2015 years 6 May 3 0 days
+<<<SECTION 11.      Statistical analysis>>>
+11.      Statistical analysis
+<<<SECTION 11.1. Analysis target group>>>
+11.1. Analysis target group
+Obtaining informed consent to the procedure noncompliance with examples, all
+analyzes target excluded from. Aricept ® medication continuation rate , Aricept ®
+medication discontinuation at the time of the reason for the analysis of, the full analysis
+( Full Analysis Set : FAS ) and the target group which is adapted to study
+implementation plan ( Per Protocol Set : PPS ) providing a . FAS is also a one-time study
+drug is administered has been a subject of the population. PPS shall be a group excluding
+cases of inappropriate selection / exclusion criteria from FAS and examples of use of
+<<<PAGE 24>>>
+prohibited concomitant medications . In addition, safety on the analysis is , even study
+drug was administered once a subject of the population.
+<<<SECTION 11.2. Analysis of main evaluation items>>>
+11.2. Analysis of main evaluation items
+48 weeks Aricept between ® medication continuation rate the due to "informed
+consent file" strengthening leadership group and the normal guidance in group 2
+performs a comparison of rates between the groups (two -tailed test, the p-= 0.05 , with
+respect to the following statistical tests Similarly). We also compare intergroups
+independently in the medication continuation rate for each Visit [ 2 nd week, 12 th week,
+24 th week ] .
+Aricept ® medication discontinuation during aggregates the reason of, between the
+groups stop reason to compare .
+<<<SECTION 11.3. Secondary assessment analysis of the item>>>
+11.3. Secondary assessment analysis of the item
+In each group, Aricept ® medication continues to affect the factors by logistic
+regression analysis to analyze ( Factors, 6.2 2 ) reference ). In addition, we compare the
+influence of factors among groups (points which are multiple selections are not
+considered) .
+<<<SECTION 11.4. Analysis of safety>>>
+11.4. Analysis of safety
+Subjects who are included in this clinical study and  whose test drugs have been
+administered at least once are subject to safety analysis.
+All adverse events are indicated and serious adverse events are separately counted.
+Drugs agents adverse events observed after administration administration group by type
+of adverse events for each, categorical adverse events was calculated expression rate, a
+comparison between groups (adverse events by type, categorical statistical analysis
+Performed by the data center prior to) .
+<<<SECTION 11.5.        Other>>>
+11.5.        Other
+In addition to the predetermined analysis plan , additional exploratory analysis is
+performed as necessary, such as comparison between transition patterns of the clinical
+state after incorporation into the study , as necessary.
+<<<SECTION 12. Number of target cases and setting basis>>>
+12. Number of target cases and setting basis
+Total 150 cases
+[ Rationale for setting ]
+<<<PAGE 25>>>
+In one year's observation results 3) , which showed the influence on the continuation
+rate of the medication instruction class (Aricept class) in patients with Alzheimer's type
+dementia 3) , the continuation rate of the group not taking medication instruction was
+0.49 ( 95% confidence limit 0.36 - 0.61 ), but in the advising instruction classroom the
+continuation rate was 0.73 ( 95% confidence limit 0.60 to 0.85 ). Point estimation of these
+continuation rate values the group to the detectability 0. 8 as when determining the
+number of necessary cases, 1 group 64 becomes example. Table 3 shows representative
+values within the confidence limits of the continuity rate of each group and the number
+of necessary cases for the point estimate. Based on the consideration of the number of
+these necessary cases and the number of new patients with Alzheimer type dementia in
+the Tokushu Association Hospital group, the number of target cases was set to 150 cases .
+Table - 3 Calculation of the number of necessary examples in the interval estimation
+range of the medication continuation rate of non-medication / guidance group
+(detection power = 0.8 )
+Medication instruction group
+0.6   0.65  0.7  0.73  0.75   0.8  0.85
+Clothes
+agents
+non
+finger
+Guiding
+group
+0.35   62   43   31   26
+twenty
+four
+18   14
+0.4   97   62   42   35   31
+twenty
+three
+17
+0.45   173   96   61   48   41   29
+twenty
+two
+0.49  321  150   85   64   54   37   26
+0.5   388   170   93   70   58   39   27
+0.55  1534  376   163   111   89   54   36
+0.6   -  1471  356   206   152   82   49
+<<<SECTION 13. Ethical matters>>>
+13. Ethical matters
+<<<SECTION 13.1. Rules to Observe>>>
+13.1. Rules to Observe
+This all persons involved in the clinical study, "World Medical Association
+Declaration of Helsinki" ( 2008 year 10 May revised edition) and "Ethical Guidelines for
+<<<PAGE 26>>>
+Clinical Research" (ending 20 years the Ministry of Health, Labor and Welfare
+Notification No. 415 in accordance with the issue).
+13.2. Creation and revision of explanatory documents / consent documents
+The research responsible doctor prepares agreement documents etc. to be used to
+obtain consent to participate in this clinical study from subjects and substitutes, and
+revises them if necessary. An agreement explanation document / agreement document
+that has been created or revised shall be used after review by the Joint Ethics Committee
+in advance .
+The consent document shall include the following items. However, do not describe such
+as to induce subjects intentionally.
+1)        Participation in this clinical study is optional
+2)        Do not accept disadvantageous response by not agreeing to participate in this
+clinical study
+3)        Subject or substitute etc shall be able to retract the consent document given by
+himself without being disadvantaged at any time
+Four)        Reason for being selected as a subject
+Five)        Significance, purpose, method and duration of this clinical study
+6)        Research responsibility doctor the name of such and job title
+7)        It predicted the clinical study result of this clinical study expected benefit from
+participating in and Possible risks and entail unpleasant condition, the clinical study
+correspondence after completion
+8)        Subject and by the hope of such Daidaku person, personal information
+protection and of other subjects this clinical study carried out of in that there is no
+hindrance to the range, this clinical study plan and this cl inical study is possible to
+obtain or view the documentation on how to What you can do
+9)        The possibility of providing the results of this clinical research to other agencies
+after judging by the Joint Ethics Committee about the handling of pers onal
+information, the name of the institution of the providing destination, reasonable use
+purpose at the destination, etc.
+10)    This clinical study that there is a possibility that the intellectual property rights,
+such as is produced by the achievements of and in the case of intellectual property
+rights or the like has been produced of the right attribution
+11)    The results of this clinical study may be published after making it impossible to
+identify subjects
+12)    Method of storage and use of samples and storage period
+<<<PAGE 27>>>
+13) this clinical research funding sources involved in, conflict of interest that may occur
+and research investigator relationships with related organizations such as
+14) Presence or absence of compensation accompanying this clinical study
+15) Information on inquiries, contact information of contacts such as complaints
+<<<SECTION 13.3. Ethics committee review>>>
+13.3. Ethics committee review
+Prior to the implementation of this clinical study , the Joint Ethics Committee , at the
+Joint Ethics Committee, the content of the clinical study implementation plan, consent
+explanation document, case report, other materials required by the Joint Ethics
+Committee, ethical, scientific and medical From the viewpoint of validity and
+investigative responsibility doctor 's eligibility etc, conduct the examination after the
+Joint Ethics Committee approves the implementation of clinical research .
+In addition, this clinical study throughout the period, the docum ent which is the
+subject of a joint ethics committee of examination is added, updated or revised if it is
+(minor add, update or revised except for) , and year 1 times, the progress of clinical
+research as well as the occurrence of adverse events in with ar e also intended to be
+subject to review in the same way.
+<<<SECTION 13.4. Audit>>>
+13.4. Audit
+If the audit by the Joint Ethics Committee and regulatory agencies is conducted
+before, during or after the completion of this clinical study , it shall be accepted.
+14. Money Payment and Health Damage Compensation ,  Funding Source for Clinical
+Studies
+<<<SECTION 14.1. Medical expenses during this clinical study>>>
+14.1. Medical expenses during this clinical study
+This clinical study for the treatment to be performed on the subject during the
+participation period , is subject to the health insurance subject to join, the  co-payment
+amount is the subject of the burden.
+<<<SECTION 14.2. Payment of money to subjects>>>
+14.2. Payment of money to subjects
+This clinical research by which to participate in the research, there is no possibility to
+receive the burden costs.
+<<<PAGE 28>>>
+14.3. Funding sources and conflicts of interest in clinical research
+The source of contribution of this clinical research fund is Eisai Co. , Ltd. In addition,
+this clinical for the conflict of interest situation of the study investigator, line the
+information disclosure requ ired in the Conflict of Interest Committee Joint Ethics
+Committee intends .
+<<<SECTION 14.4. Compensation>>>
+14.4. Compensation
+If health damage occurs in this clinical study , health insurance will be used for
+treatment costs. To prepare for compensation and liability incurred in this clinical study,
+research researcher and research sharing doctor join clinical research insurance.
+<<<SECTION 15. About personal information and other rights>>>
+15. About personal information and other rights
+<<<SECTION 15.1.       Protection of privacy>>>
+15.1.       Protection of privacy
+Joint Ethics Committee this ongoing clinical studies or after the end, documents
+related to the implementation, serious adverse events reports and case report form the
+investigation of such Kotogaa that is, this time, the contents of which can identify an
+individual offer It is not done .
+In addition, those who participate in this clinical research shall not leak information
+on the subject's privacy, which was learned by viewing the source material, to third
+parties .
+15.2.       By signing a consent form, you will approve browsing
+This clinical study participants of, materials , etc. to view it is that, for these officials
+imposed a duty to protect the secrets are . Patients By signing this consent document,
+approved the view that the made .
+15.3. On cases where intellectual property rights etc. arise
+This clinical study if the from the results intellectual property rights or the like is
+generated, the rights Eisai Co., Ltd. belong to, this clinical study to participate in the
+participating institutions, such as research investigators, and the patient is not to have
+that right.
+<<<SECTION 15.4. About viewing original material>>>
+15.4. About viewing original material
+This clinical study material about how the subject is hope and if, personal information
+protection and of other subjects this clinical study carried out of in that there is no
+<<<PAGE 29>>>
+hindrance to the range, be obtained or browsing is possible . However, it desires to
+browse and since the protection of personal information described above , such as for a
+variety of pr ocedures or clinical studies practitioner and clinical studies conference of
+the exemplary tissue lines the Ukoto . As a result, there are cases in which it takes time
+to present the material and only a part of the desired material is presented.
+<<<SECTION 16. Save the document>>>
+16. Save the document
+16.1. Documents anonymity of
+Materials concerning this clinical study of all subjects who got consent shall be specified
+by concatenable anonymous subject identification code given at the time of registration .
+The correspondence table specifying the subject and the subject identification code is
+strictly managed by the research responsible doctor.
+<<<SECTION 16.2. Storage of documents>>>
+16.2. Storage of documents
+Essential documents related to the implementation of this clinical study (a copy of
+the applic ation document, a notice from the hospital director, a copy of various
+applications and reports, a copy of the subject identification code list, consent form, case
+report etc, Documents or records necessary to ensure sexuality, etc.). Also, when
+discarding materials , they shall be made anonymous. Researchers should take steps to
+prevent these documents from being accidentally or promptly destroyed.
+Storage location : Each medical institution
+Responsible Officer: Research Researcher
+Retention period: 5 years after clinical study is over
+<<<SECTION 17. Publication of research results>>>
+17. Publication of research results
+The results of this clinical study will be published as a paper or conference
+presentation. Also, at the time of publication, personal information of the s ubject shall
+not be leaked to a third party.
+<<<SECTION 18. Clinical research implementation system>>>
+18. Clinical research implementation system
+1) Clinical research representative
+<<<PAGE 30>>>
+Kamei
+Toritome
+Shonan Fujisawa
+virtue Zhuzhou
+meeting hospital
+Nerve within
+the
+Department
+of
+Hospital
+length
+0466 - 35 - 1177
+[Operation] We will conduct this clinical study and oversee the whole clinical research.
+2) Collaborators
+Satoshi Takahashi Medical Law Humanities Association Tokyo Headquarters Drug
+Delegation
+[Operation] Perform adjustment work of participating facilities.
+3 ) Statistical analysis director / assignment manager
+Toru Uoi Director Aurolink Co., Ltd.
+[Operation] Perform statistical analysis and prepare analysis plan / analysis report.
+Specification design of the allocation table , creation / storage of the allocation table .
+4 ) Data center
+AUROLINK Inc.
+Yubinbango 101-0054 Nishikicho Kanda, Chiyoda -ku, Tokyo 3-21 Chiyoda Platform
+Square 1186
+TEL : 03 - 6666 - 0018 FAX : 0 3 - 6666 - 0018
+[Operation] Implement data management.
+5 ) Clinical research secretariat
+Future Medical Research Center, Inc.
+Hiroyoshi Yamaji (Representative of the Research Bureau)
+Yubinbango 102 - 0083 Kojimachi, Chiyoda-ku, Tokyo 1-8-7 Eminabiru 3 floor
+TEL : 03 - 3263 - 4801 FAX : 0 3 - 3263 - 4802
+[Operation] We perform general support activities of this clinical research , and central
+registration / assignment work .
+6 ) implementation facilities and research officer
+See Attachment 1
+<<<PAGE 31>>>
+<<<SECTION 19. References>>>
+19. References
+1)          Cummings JL. Alzheimer's disease. N Engl J Med. 2004 Jul 1; 351 (1): 56-67.
+2)          Dement Geriatr Cogn Disord. Homma A , Imai Y, Tago  H, et al. Long -term
+safety and efficacy of donepezil in patients with severe Alzheimer's disease: results
+from a 52 - week, open - label, multicenter, extension study in . 2009 ; 27 (3 ) : 232-
+23 9 .
+3)          Watanabe N , Yamamura K , Suzuki Y, et  al. Pharmacist-based Donepezil
+Outpatient Consultation Service to improve medication persistence. Patient Prefer
+Adherence. 2012 ; 6 : 605-611.
+Four)          Keiko Yamamura Supervised Aricept Class Text
+Available from: http://www.aricept.jp/helpful/art_classroom.html
+Five)          Akira Honma . Alzheimer's disease patients ADL respect of donepezil
+hydrochloride effective and discontinuations prognosis (Aricept special survey) .
+Geriatr Med. 2009 ; 47 ( 8 ): 1047-1059.
+6)          Akira Honma . Advanced Alzheimer's disease donepezil hydrochloride for 10
+mg / safety and efficacy of daily administration (Aricept (R) specific-use results
+surveys) . Geriatr Med. 2013 ; 51 ( 3 ): 309-342.

@@ -1,0 +1,765 @@
+<<<PAGE 1>>>
+pg. 1
+Protocol Title: Pilot, single center, open, trial of
+rifaximin in probable Alzheimer’s Disease
+NCT Number: NCT03856359
+Date: September 6, 2019
+<<<PAGE 2>>>
+pg. 2
+Synopsis
+Title: Pilot, single center, open, trial of rifaximin in probable
+Alzheimer’s Disease” version date Sept. 6, 2019
+Study Description: Pilot trial to examine the relationship between rifaximin
+therapy and change in cognition, serum neuronal markers,
+ammonia levels and gut microbiota in patients with mild to
+moderate Probable Alzheimer’s Disease.
+Objectives: Primary Objective:  To test if rifaximin treatment in
+subjects with AD is correlated with improvement in the
+ADAS-Cog.
+Secondary Objective: To test if rifaximin treatment is
+associated with changes in serum amyloid-beta 42, total-
+tau, Neurofilament light protein markers, serum pro-
+inflammatory markers, ammonia levels and gut microbiota
+in AD subjects.
+Endpoints:   Primary Endpoints:
+Cognitive domain – Alzheimer’s Disease
+Assessment Scale-Cognitive (ADAS-Cog)
+Endpoints:   Primary Safety Endpoints will be Adverse Events
+Secondary Endpoints:
+Serum neuronal markers:
+Neurofilament light (NF-L)
+Total Tau
+Amyloid-beta 42
+Serum pro-inflammatory markers:
+Interleukin (IL) 1 beta
+IL 2
+IL 4
+IL 5
+IL 6
+IL 8
+IL 10
+IL 13
+Tumor necrosis factor – alpha
+Gut microbiota
+Serum Ammonia
+Study Population:  Mild to moderate severity of Probable Alzheimer’s Disease
+<<<PAGE 3>>>
+pg. 3
+Phase:    Pilot trial - 2a
+Description of    Single Site.  Duke University Health System and affiliated
+senior care facilities
+Sites/Facilities Enrolling
+Participants:
+Description of Study  Subjects will be treated with rifaximin (Xifaxan,
+Intervention:   Salix Pharmaceuticals, Bridgewater, NJ) 550 mg
+Orally twice a day for 12 weeks
+Study Duration:  Up to 24 months (for recruitment, treatment, data
+analyses)
+Participant Duration:  3 months treatment plus 2 month follow up
+Introduction
+There is an urgent need to develop novel therapies for Alzheimer's disease (AD). 10% of
+persons over age 65 and up to 50% over age 85 have dementia, with over 30 million
+people affected worldwide. The Food and Drug Administration (FDA) has
+approved cholinesterase inhibitors (Aricept, Exelon, Razadyne), memantine (Namenda),
+and a drug combining a cholinesterase inhibitor and memantine (Namzaric) to treat the
+cognitive symptoms of AD. These medications cannot cure AD or stop it from
+progressing.
+There has been much speculation for decades regarding the cause of Alzheimer’s
+Disease. Two of the many theories are the focus of our research study. The first theory
+posits that toxic brain concentrations of ammonia play a role in the AD pathophysiology
+(Seiler, 1993). There have, however, been no published trials of using ammonia lowering
+medications for the treatment of AD. The second and more recent theory proposes that
+there is a symbiotic relationship between gut microbiota and brain homeostasis and
+that this relationship is disrupted in patients with AD, possibly due to an imbalance in
+the ratio of pro-inflammatory / anti-inflammatory gut microbiota (De-Paula et al, 2018,
+Cattaneo et al, 2017).
+Background
+<<<PAGE 4>>>
+pg. 4
+Rifaximin is a virtually non-absorbed antibiotic with the unique properties of lowering
+blood ammonia levels and altering gut flora. We hypothesize that Rifaximin will improve
+cognition and function in AD patients by lowering blood ammonia and / or lowering
+circulatory pro-inflammatory cytokines secreted by harmful gut bacteria.
+We will be measuring blood ammonia levels and pro-inflammatory and anti-
+inflammatory compounds in the blood and analyzing gut microbiota in patients with AD
+before and after 3 months of Rifaximin therapy. If patients exhibit measurable
+improvement in cognition and function, we will analyze our data to see if their
+improvement correlates with a lower blood ammonia level and / or a shift towards anti-
+inflammatory species in the gut and a similar shift in the blood cytokine panel to
+favoring anti-inflammatory compounds.
+Evidence supporting our hypothesis for this study is presented below.
+Ammonia Neurotoxicity
+Ammonia is a substrate as well as a product of 16 different enzymatic reactions in the
+brain. In the healthy brain, ammonia homeostasis is maintained by its combining with
+glutamate to form non-toxic glutamine via the glutamine synthetase pathway.
+In the disease state, high brain ammonia levels adversely affect membrane potential,
+mitochondrial function, astrocyte morphology, energy metabolism, mRNA and protein
+expression, brain pH, calcium signaling and other cellular functions in the brain (Bosoi et
+al, 2009).
+The possibility that ammonia is at least partly responsible for the pathologic changes
+seen in the AD brain was first proposed by Seiler in 1993, when he noted that some of
+the changes in the AD brain can also be seen in the brains of hyperammonemic patients
+(Seiler, 1993). The clinical presentation of a patient with high ammonia levels caused by
+congenital portal systemic shunting or an inborn error of metabolism may in fact mimic
+that of dementia (Miyata et al, 2009). Brain PET CT using 13N ammonia showed high
+brain 13N levels, trapped in glutamine, in the brain of patients with hepatic
+encephalopathy, correlating with high peripheral arterial blood ammonia levels (Keiding
+et al, 2005).
+Ammonia as a causative factor of AD can be difficult to prove; ammonia levels cannot be
+quantified at autopsy because of rapid post mortem formation of ammonia. However,
+in-vivo studies have shown evidence of elevated ammonia levels in the AD brain.
+Arteriovenous sampling in early stage normoammonemic AD patients demonstrated a
+net release of ammonia (-25.6 micrograms / 100 g x min) from the brain compared to
+<<<PAGE 5>>>
+pg. 5
+net uptake of ammonia (+7.2 micrograms / 100 g x min) by the brain of young control
+subjects, pointing toward an endogenous source for the ammonia (Hoyer et al, 1990).
+This efflux of ammonia from the AD brain is most likely due to low levels of glutamine
+synthetase found in the AD brain (LePrince et al, 1995), causing high levels of this
+endogenous ammonia to build up in the extracellular fluid and diffuse across the blood
+brain barrier into the venous effluent. Low glutamine synthetase levels have been found
+to correlate with increased density of amyloid deposits in the AD brain (Le Prince et al,
+1995).
+The brain also receives exogenous ammonia, of which the gut is a major source. Fecal
+bacteria produce ammonia by fermenting protein. The aging colon contains a greater
+percentage of protein fermenting bacteria than is seen in the colon of younger patients
+(Woodmansey, 2007, Andrieux et al, 2002). The aging colon also has a longer fecal dwell
+time than that of younger patients, allowing higher levels of ammonia to build up before
+fecal evacuation (Woodmansey, 2007, Andrieux et al, 2002). Gut ammonia is absorbed
+into the portal venous system and detoxified in the liver to form uric acid, which is then
+excreted in the kidneys. The uric acid cycle of the aging liver is less efficient at
+detoxifying ammonia (Marchesini, 1990) allowing higher levels of ammonia to reach the
+systemic circulation. One study reported significantly elevated post prandial blood
+ammonia levels in AD patients when compared with age-matched controls (Fisman et al,
+1985).
+The blood brain barrier plays an important role in regulating brain ammonia metabolism
+(Hawkins, 2009). 20-50% of blood ammonia passes the blood brain barrier and is
+converted into glutamine. Glutamine and glutamate are pumped from the extracellular
+fluid into the endothelial cells, where glutamine is partially metabolized to ammonia and
+glutamate. Glutamine and ammonia then diffuse into the blood.
+Breakdown of the blood brain barrier in the aging patient begins in the hippocampus,
+the area critical for learning and memory, and this may contribute to cognitive decline
+(Erdo et al, 2017). Gadolinium enhanced Brain MRI has shown that the blood brain
+barrier is more permeable in the aging patient when compared with younger patients
+(Montagne et al 2015). The blood brain barrier in the AD patient is also more permeable
+than that of non-cognitively-impaired age matched controls (Montagne et al, 2015).
+High concentrations of Gadolinium are first seen in the hippocampus, the site
+responsible for memory and learning, both of which are clinically impaired in AD
+patients.
+One theory is that the  blood brain barrier allows greater amounts of ammonia into the
+AD brain, triggering or worsening pre-existent changes.
+This study aims to lower blood and brain ammonia levels in AD patients by targeting the
+colon. This will be accomplished by administering a virtually non-systemically absorbed
+antibiotic, rifaximin, which is FDA approved for hepatic encephalopathy.  Rifaximin
+<<<PAGE 6>>>
+pg. 6
+lowers blood ammonia by altering fecal flora by blocking bacterial RNA synthesis and
+also by increasing small bowel glutaminase (Garcovich et al, 2012, Kang et al, 2016).
+Gut Microbiota Dysbiosis
+The gut harbors 95% of the total human microbiome and is made up of more than 5,000
+taxa. A diverse and stable gut microbiota promotes health in humans. Gut species
+remain relatively constant throughout adulthood until the seventh decade, when it
+becomes less diverse, harboring higher numbers of Proteobacteria and lower numbers
+of Bifidobacteria. This change most likely accounts for chronic inflammatory disorders
+seen in the elderly. An imbalance in the gut bacterial species can weaken the intestinal
+barrier and create system wide inflammation via gut lymphoid tissue which comprises
+70% - 80% of the immune system. Blood brain barrier permeability is also altered. The
+gut bacteria secrete pro-inflammatory compounds and neuroactive molecules that
+include serotonin, gamma-aminobutyric acid (GABA), catecholamines and acetylcholine
+which cross the blood brain barrier and cause brain inflammation and brain dysfunction.
+(Sochocka et al).
+A growing number of pro-inflammatory compounds secreted by gut bacteria and seen in
+patients with AD are being discovered. These include interleukin (IL) – 6, tumor necrosis
+– alpha and the inflammasome complex (NLRP3). A recent study revealed higher
+numbers of Escherichia and Shigella in the gut of amyloid positive AD patients when
+compared with healthy controls and this correlated with higher levels of circulating pro-
+inflammatory cytokines. The AD patients also had lower numbers of gut Eubacterium
+rectale and this correlated with lower levels of circulating anti-inflammatory compounds
+than seen in controls. (Cattaneo et al). Other researchers found that a preponderance of
+gut Bacteroides and Blautia and reduced numbers of SMB53 and Dialister correlated
+with elevated levels of brain amyloid CSF biomarkers (Vogte NM et al, 2017).
+Interestingly, Clostridium tyrobutyricum and Bacteroides thetaiotaomicron, have been
+shown to actually increase the integrity of the blood brain barrier by enhancing
+expression of tight junction proteins and helping to maintain brain homeostasis.
+(Braniste et al 2014).
+Recent evidence also points to a possibly more direct influence of gut bacteria on the
+brain. Terminal branches of the vagus nerve travel in close proximity to the intestinal
+barrier. Neurotransmitters and neuropeptides secreted by bacteria in the gut have been
+shown to activate vagal nerve ascending fibers, influencing brain function in mice. These
+effects ceased after vagotomy was performed. (Holzer et al 2014, Bravo et al, 2011)
+<<<PAGE 7>>>
+pg. 7
+Risk/Benefit Assessment
+Known Risks
+Risks of taking rifaximin, as listed on the package insert, are as follows.
+Rifaximin is contraindicated in patients with hypersensitivity to rifaximin or rifamycin
+antimicrobials. Hypersensitivity reactions include exfoliative dermatitis, angioneurotic
+edema, and anaphylaxis. Clostridium difficile associated diarrhea is a risk whenever a
+patient is maintained chronically on antibiotics, with complications ranging from mild
+diarrhea to fatal colitis. Drug resistant bacteria can also result from long term use. There
+is increased systemic exposure to rifaximin in patients with severe hepatic impairment
+or in patients who are taking P-glycoprotein inhibitors concomitantly. Regarding use in
+geriatric patients, there were no reported overall differences in the safety of the drug
+when used in patients 65 years of age or over, when compared with younger subjects.
+The most common reactions seen in patients taking rifaximin are:
+Peripheral edema
+Nausea
+Dizziness
+Fatigue
+Ascites
+Muscle spasms
+Pruritis
+Abdominal pain
+Anemia
+Depression
+Nasopharyngitis
+Arthralgia
+Dyspnea
+Pyrexia
+Rash
+Potential Benefits
+Possible benefits that the subject may receive include the benefits of free
+medical testing and memory evaluations received at screening and during the
+study.  Rifaximin is being used investigationally in this trial and hence it is not known if
+there will be any cognitive benefits.  However, if there is ammonia toxicity in AD and the
+<<<PAGE 8>>>
+pg. 8
+drug were to be effective in lowering ammonia, then the subject may experience
+improvements in cognition.
+Assessment of Potential Risks and Benefits
+The available information suggests that the present clinical study has an acceptable risk-
+benefit ratio.
+Regarding the risk of C. difficile Infectious Diarrhea, two large randomized Control Trials
+reported a 0.7% and 1.5% incidence of patients with hepatic encephalopathy taking
+rifaximin for 6 months.  In those trials, all affected patients were at increased risk for
+developing C. diff because of either previous lengthy hospitalizations or long courses of
+antibiotics. (Bass  et al, 2010, Mullen et al, 2014) suggesting the risk will be lower in
+healthy subjects with no such risk factors.
+The safety monitoring practices employed by this protocol are adequate to protect the
+subjects' safety and  detect  expected emergent adverse effects. The approximate
+volume of blood (120 mL) planned for collection from each subject over the course of
+the entire study (not including rechecks or extra tests ordered by the PI) presents no
+undue risks to the subjects.
+Objectives and Endpoints
+OBJECTIVES ENDPOINTS JUSTIFICATION FOR
+ENDPOINTS
+Primary
+ADAS-Cog is a widely
+used cognitive endpoint in
+AD clinical trials and
+changes on this scale are
+considered clinically
+meaningful
+Secondary
+Serum neuronal markers:
+Neurofilament light (NF-L)
+Neurofilament light (NF-
+L) is a 68 kDa cytoskeletal
+intermediate filament
+<<<PAGE 9>>>
+pg. 9
+OBJECTIVES ENDPOINTS JUSTIFICATION FOR
+ENDPOINTS
+Total Tau
+Amyloid-beta 42
+Serum pro-inflammatory
+markers:
+Interleukin (IL) 1 beta
+IL 2
+IL 4, IL 5
+IL 6
+IL 8
+IL 10
+IL 13
+IL 17
+Gut microbiota
+protein that is expressed in
+neurons (Mattson et al,
+2017, Rissin et al, 2010).
+Neurofilaments can be
+released in significant
+quantity following axonal
+damage or neuronal
+degeneration. NF-L has
+been shown to associate
+with traumatic brain
+injury, multiple sclerosis,
+frontotemporal dementia
+and other
+neurodegenerative
+diseases. The Simoa NF-
+light® assay (2) is a digital
+immunoassay for the
+quantitative determination
+of   NF-L in serum and
+plasma. This ultrasensitive
+assay provides an
+analytical sensitivity of
+<<<SECTION 0.6 pg/mL (10-fold greater>>>
+0.6 pg/mL (10-fold greater
+than the 78.0 pg/mL for
+the standard ELISA).
+Plasma NFL also
+correlates closely with
+CSF concentrations.
+Tau is a microtubule-
+stabilizing protein
+primarily localized in
+central nervous system
+neurons, but is also
+expressed at low levels in
+astrocytes and
+oligodendrocytes (Dage et
+al, 2016). Potential
+movement of elevated
+CSF tau across the blood-
+brain barrier presents a
+possibility that
+measurements of tau in
+blood could provide a
+<<<PAGE 10>>>
+pg. 10
+OBJECTIVES ENDPOINTS JUSTIFICATION FOR
+ENDPOINTS
+convenient peripheral
+window into brain/CSF
+status. Recent reports
+using digital immunoassay
+technology have shown
+elevation in peripheral tau
+associated with hypoxic
+brain injury, concussed
+hockey players, and
+repetitive minimal head
+injury. The Simoa™
+Human Total Tau assay
+uses a combination of
+monoclonal antibodies
+that react with both
+normal and
+phosphorylated tau. The
+assay recognizes all tau
+isoforms.
+Amyloid beta 42 is a 42
+amino acid proteolytic
+product from the amyloid
+precursor protein that has
+gained considerable
+attention as a biomarker
+correlating with cognitive
+disorders (Janelidze et al,
+2016). Amyloid beta (Aβ)
+peptides (including the
+shorter Aβ38 and Aβ40
+isoforms) are produced by
+many cell types in the
+body but the expression is
+particularly high in the
+brain. Accumulation of
+Aβ occurs in aging and
+and in the
+neurodegenerative
+process. Concentrations of
+Aβ42 in blood are much
+lower than in
+cerebrospinal fluid,
+(typically single pg/mL
+<<<PAGE 11>>>
+pg. 11
+OBJECTIVES ENDPOINTS JUSTIFICATION FOR
+ENDPOINTS
+Blood Ammonia
+range), requiring very high
+analytical sensitivity.
+Serum pro-inflammatory
+molecules have been
+associated with
+Alzheimer’s Disease
+pathology. (Cattaneo et al,
+2017)
+An imbalance in the
+number of pro-
+inflammatory (e.g.
+Shigella, Escherichia) and
+anti-inflammatory
+(Eubacterium rectale)
+species in the gut may be
+responsible for an
+increase in the presence
+of circulating
+inflammatory markers
+(Cattaneo et al, 2017).
+High ammonia levels in
+the brain may be
+responsible for
+pathological changes seen
+in AD.
+Secondary
+Safety and tolerability Monitored via interviews,
+clinic visits, and interim
+phone calls. AEs and
+SAEs will be tabulated.
+Patients with AEs will be
+reported as per IRB and
+FDA guidelines.
+Study Design
+<<<PAGE 12>>>
+pg. 12
+Overall Design
+We hypothesize that treatment with rifaximin will improve cognition and will change
+serum neuronal markers.
+This is an open label pilot study in which we will consent up to 25 subjects in order to
+treat 10 eligible subjects with probable mild to moderate AD. The study is single site
+and non-randomized. The subjects will be given rifaximin 550 mg orally twice daily for 3
+months after evaluation to ensure they have no contraindications.  Subjects at risk for
+drug interactions or tolerability issues may be started and/or maintained on a lower
+dose of 550 mg once a day. Individuals on concomitant drugs which are contraindicated per
+the package insert or in the investigators judgment will be excluded.  Individuals on concomitant
+drugs which are not contraindicated but known to elevate blood levels SIGNIFICANTLY OR
+THOSE WITH MILD AEs (E.G. MILD DIARHEA) WILL receive qd dosing BASED ON CLINICIAN
+JUDGMENT. Consent, demographics, history, list of current medications, clinical and
+safety assessments, MMSE and blood tests (CBC, CMP, TSH, B-12 and Folic acid) will be
+performed at the Screening Visit. Medical history, physical exam, serum neuronal
+biomarkers and cytokines, serum ammonia level, Adverse Events and cognitive testing
+(ADAS-Cog-11) will be performed at the Baseline Visit. A stool sample collection kit will
+also be given to the subject and caregiver at the Baseline Visit, with instructions for use
+and how to get the sample back to the research coordinator. The stool sample will be
+obtained prior the subject taking the study drug. Medical history, physical exam, serum
+neuronal biomarkers and cytokines, serum ammonia level, Adverse Events and cognitive
+testing (ADAS-Cog-11) will be performed at the 3 month endpoint visit.  A stool sample
+collection kit will also be given to the subject and caregiver at the baseline visit and 3
+month Visit with instructions for use and how to get the sample back to the research
+coordinator.  Interim safety checks will occur via phone calls one week after baseline
+and then every 2 weeks until the 3 month visit, which will then be followed by a 5
+month phone call.  Caregivers will be instructed to call the research coordinator or
+the PI (Dr. Suhocki after business hours or on weekends) if any change in stool is
+noticed at any time during the study.  Unscheduled visit/labs may occur if warranted
+for safety based on clinical judgment. Because of a small risk of developing C. difficile up
+to 2 months following the last administration of rifaximin, the subjects will be followed
+for an additional 2 months after the 3 month treatment ends.  Subjects who terminate
+early will receive the 3 month assessment at the time of termination.
+Scientific Rationale for Study Design
+This is an open label pilot study designed to provide preliminary evidence on the clinical
+efficacy of rifaximin in improving cognition in AD patients. We will be looking for
+improvement in test scores, changes in serum levels of neuronal markers and cytokines
+and changes in gut microbiota following treatment. We will also be collecting data
+<<<PAGE 13>>>
+pg. 13
+regarding the safety of long-term use of this non-absorbed antibiotic for this disease.
+This pilot may form the basis for a future larger randomized, double blind controlled
+study to further test this hypothesis.  Statistical analyses will combined subjects on QD and
+BID for analyses as this is a pilot study and both doses may impact gut flora.  In posthoc analyses
+we will put dosing as a covariate to examine dose effects.
+Justification for Dose and Study Population
+The rifaximin dosage and route of administration are the same as that used to treat
+hepatic encephalopathy, for which the drug and dosage are FDA approved. The dose will
+remain the same throughout the 3 month study of rifaximin administration unless
+stopped for safety reasons. The dose can be stopped or temporarily reduced for safety
+or tolerability reasons based on clinical judgment. The age and study sample of mild to
+moderate probable AD is similar to that used in AD prior trials.  We will select our
+sample to be medically stable and free of hepatic disease and not having had recent
+antibiotic therapy to minimize risk for C Difficile infection.
+End of Study Definition
+The end of the study will occur 5 months after baseline testing and first administration
+of the drug. While drug administration will conclude and endpoint testing will be done
+at 3 months, we will continue to follow each subject for an additional 2 months, as C.
+difficile infectious diarrhea can occur up until 2 months after stopping an antibiotic.
+Study Population
+Inclusion Criteria
+Subjects who meet the following criteria will be considered eligible to participate in the
+clinical study:
+Probable Alzheimer’s disease (National Institute of Neurological Disorders and Stroke
+(NINDS) criteria), mild to moderate severity
+Ages 55-85; both genders
+Mini Mental State Exam (MMSE) scores 10-22
+Willing and able to comply with all scheduled clinic visits.
+Stable medical health
+Has a family or professional caregiver who has regular contact with subject
+Ability to consent or legal guardian who can consent
+Living at home or in a facility
+On no AD therapies or on stable (2 months) concurrent AD therapies
+Exclusion Criteria
+<<<PAGE 14>>>
+pg. 14
+Subjects who meet one or more of the following criteria will not be considered eligible
+to participate in the clinical study:
+Past history of C diff infection
+Individuals on concomitant drugs which are contraindicated per the package insert or in the
+investigators judgment will be excluded
+Assessment, laboratory examination, physical examination or any other medical
+condition or   circumstance making the volunteer unsuitable for participation in the
+study in the judgment of the study clinicians
+Allergy to Rifaximin
+Antibiotic use  in the last 6 months
+Hospitalization in the last 6 months
+Are taking medications that interact with Rifaximin
+Are taking Cyclosporine
+Past or current history of bloody stools or C Diff infection
+Elevated LFTs
+Clinically significant abnormal hepatic or renal function
+Uncorrected thyroid or B12 abnormalities
+Participation in another investigational drug trial in the past 30 days
+History of febrile illness within 5 days prior to the study period
+Hyperammonemia caused by:
+Valproic acid
+Chemotherapy
+Lung transplant
+Bariatric surgery
+Ureterosigmoidoscopy
+Hyperalimentation
+Urinary tract infection
+Errors of metabolism
+Urea cycle
+Enzyme deficiencies
+Organic acidemias
+Fatty acid oxidation
+Amino acid transport defects
+Lifestyle Considerations
+Participation in the study will not have any impact on subject lifestyle.
+Screen Failures
+<<<PAGE 15>>>
+pg. 15
+Volunteers who are consented to participate in the clinical trial and who do not meet
+one or more criteria required for participation in the trial during the screening
+procedures will not be rescreened later.
+Strategies for Recruitment and Retention
+Subjects will be recruited from referrals and the community via advertisement.
+The study will be posted on clinicaltrials.gov.
+Subjects and caregivers will be compensated for participation in the study at $50 each
+per clinic visit to cover travel and time.
+All tests and drug will be provided at no cost.
+We expect to recruit 1 subject per month.
+Study Intervention
+Study Intervention Description
+Rifaximin (Xifaxan, Salix Pharmaceuticals, Bridgewater, N.J.) (See Package Insert) is a
+drug that is approved by the FDA for use in humans for the treatment of Hepatic
+Encephalopathy, Traveler's Diarrhea and Irritable Bowel Syndrome. It is commercially
+available. It will be used in accordance with approved labeling as pertains to dosage and
+administration for Hepatic Encephalopathy, contraindications and warnings. However, it
+will be used investigationally in this trial as rifaximin is not FDA approved for the
+treatment of Alzheimer's Disease.
+Safety, Adverse Effects reporting and Management
+The AE monitoring schedule is described in the protocol.  The drug will be discontinued
+immediately if there are emergent signs of C.Difficile (e.g.  patient has watery diarrhea
+for longer than 24 hours,  fever, abdominal pain or  possible bloody stools).  All AEs will
+be assessed by a study physician and referred for appropriate treatment.  The study
+drug may be discontinued at any time per the study physician judgment for safety.   All
+SAEs will be reported to the IRB within 24 hours of becoming aware of the event.
+Dosing and Administration
+The drug will be administered orally, under supervision of the caregiver, 550 mg twice a
+day, for 3 months.
+Drug Acquisition and Accountability
+<<<PAGE 16>>>
+pg. 16
+The drug, rifaximin, will be provided by the study and acquired from the manufacturer.
+Compliance will be monitored at phone calls and accountability through pill counts at
+the endpoint study visit.
+Formulation, Packaging, Appearance and Labeling
+Rifaximin will be packaged in bottles of 100 tablets of 550 mg. The product will be
+dispensed under the supervision of the study clinician.
+Product Storage and Stability
+Rifaximin will be stored in the clinical study office in a double locked facility in
+conditions suitable for its stability.
+Preparation
+No special measures are required to prepare the drug for oral administration.
+Measures to Minimize Bias: Randomization and Blinding
+This is an open label pilot study.  Objective tests and biomarkers are used to minimize
+bias.
+Study Intervention Compliance
+The subject's caregiver will be asked to keep a log of rifaximin dosage and date and time
+of administration. This will insure compliance and adherence to the study protocol. The
+compliance log and pill count will be reviewed during the endpoint visit.
+Concomitant Therapy
+The subject may take concomitant medications that do not interact with rifaximin.
+These medications will be recorded at baseline. Any new medications taken during the
+study period will be recorded.
+Rescue Medicine.  AEs will be treated as appropriate with rescue medications.
+<<<PAGE 17>>>
+pg. 17
+Participant Discontinuation and Participant Discontinuation /
+Withdrawal
+Discontinuation of Study Intervention
+Administration of rifaximin will be discontinued and the study will be halted if a subject
+develops a severe hypersensitivity to rifaximin or if a subject develops a C. difficile
+infectious diarrhea with complications or any other AE felt by the clinician to warrant
+discontinuation.
+Participant Discontinuation / Withdrawal from the Study
+While subjects are encouraged to complete all study evaluations, they may withdraw
+from the study at any time and for any reason. Every effort will be made to determine
+why any subject withdraws from the study prematurely. This information will be
+recorded. All subjects who withdraw from the study with an ongoing AE will be followed
+until the event is resolved or deemed stable. If a subject withdraws prematurely, all data
+normally collected at the 3 month Visit will be collected at the time of premature
+discontinuation. Subjects who had to interrupt taking the study drug for any reason may
+be asked to go back on drug if there are no contraindications. Subject participation may
+be terminated prior to completing the study for any of the following reasons:
+Adverse event
+Protocol violation
+Loss to follow up
+Subject withdrew consent at own request
+Other
+A Case Report Form (CRF) page will capture the date and the specific underlying reason
+for discontinuation of study intervention or participant discontinuation/withdrawal.
+Study Assessment and Procedures
+Efficacy Assessments
+<<<PAGE 18>>>
+pg. 18
+Adverse Event Reporting
+AE reporting will begin at the time of signing of the informed consent (Screening) and
+will continue until discharge from the study (5 months after the first administration of
+rifaximin).
+Serious Adverse Event Reporting
+The PI will notify the IRB of any SAE, whether deemed rifaximin related or not, that a
+subject experiences during their participation in the study within 24 hours of becoming
+aware of the event. Following the end of the subject's 3 month participation in the
+study, the PI will report SAE's spontaneously if considered at least possibly related to
+rifaximin.  SAE reporting will follow Duke IRB requirements.
+Rifaximin Alzheimer’s Disease Study  Pro00093318
+V1 V2             V3 V4/End
+Procedures Screening Baseline
+wk
+1
+wk
+3
+wk
+5
+wk
+7
+wk
+9
+wk
+11
+WK 12
+3
+months
+WK 20
+5
+months
+Early
+Term
+Consent x
+Medical History x x             x   x
+Concomitant Medications x x             x   x
+Vitals x x             x   x
+VeniPuncture x               x   x
+Blood Tests x               x   x
+Stool Sample   x             x  x
+Physical Exam x               x   x
+MMSE x               x   x
+ADAS-COG-11   x             x   x
+Study Medication Dispensation   x
+Study Medication Accountability                 x   x
+AE assesment xxxxxxxxxxx
+Phone Assessment     x x x x x x   x
+Subject compensation   x             x x x
+OnCore Status update x                 x
+Phone Screening
+Bristol Stool Question   x             x   x
+Unscheduled visit/labs may occur if warranted for safety based on clinical judgment.
+<<<PAGE 19>>>
+pg. 19
+All SAE's will be followed until satisfactory resolution or until the site investigator deems
+the event to be chronic or the participant is stable.
+Reporting Events to Participants
+Subjects and their caregivers will be informed about individual or aggregate AE's, SAE's
+and study related results as per IRB guidelines.
+Reporting of Pregnancy
+NA. Subjects will not be of child bearing age.
+Definition of Unanticipated Problems
+Unanticipated problems in this study will be any AE's or SAE's not previously described
+in other investigators' research with rifaximin or not listed on the package insert for
+rifaximin.
+Unanticipated Problem Reporting
+Unanticipated problems will be reported to the IRB within 24 hours of its occurrence.
+Reporting Unanticipated Problems to Participants
+Unanticipated problems encountered during the study will be relayed to  the subject(s)
+if relevant to the subject’s safety as deemed appropriate by the Duke IRB.
+Supporting Documentation and Operational Considerations
+Regulatory, Ethical and Study Oversight Considerations
+Informed Consent Process
+<<<PAGE 20>>>
+pg. 20
+Before each subject is enrolled in this study, written informed consent will be obtained
+from the subject and/or legally acceptable representative (LAR) according to local IRB
+requirements.
+Abbreviations
+AD   Alzheimer’s Disease
+AE   Adverse Event
+FDA   Food and Drug Administration
+IRB   Institutional Review Board
+LAR   Legally Acceptable Representative
+PI   Principle Investigator
+SAE   Serious Adverse Event
+US   United States
+References:
+1. Seiler N. Is Ammonia a pathogenetic factor in Alzheimer’s Disease?
+Neurochemical Res. 1993;18:235-245
+2. De-Paula, V et al. Relevance of gutmicrobiota in cognition, behaviour and
+Alzheimer’s disease. Pharmacological Research 2018;136:29-34.
+3. Cattaneo A, et al. Association of brain amyloidosis with pro-inflammatory gut
+bacterial taxa and peripheral inflammation markers in cognitively impaired
+elderly. Neurobiology of Aging 2017;49:60-68.
+4. Braniste V et al. The gut microbiota influences blood-brain barrier
+permeability in mice. Sci Transl Med 2014;6:263
+5. Holzer P et al. Neuropeptides and the microbiota-gut-brain axis. Adv Exp Med
+Biol 817:195-219.
+6. Bravo JA et al. Ingestion of Lactobacillus strain regulates emotional behaviour
+and central GABA receptor expression in a mouse via the vagus nerve. PNAS
+108:16050-16055.
+7. Vogte NM et al. Gut microbiome alterations in Alzheimer’s disease. Sci Rep.
+2017;7:13537
+8. Bosoi, CR et al. Identifying the direct effects of ammonia on the brain.
+Metabolic Brain Disease 2009;24:95-102.
+9. Miyata K et al. Congenital portal systemic encephalopathy misdiagnosed as
+senile dementia. Intern Med 2009;48:321-4.
+<<<PAGE 21>>>
+pg. 21
+10. Keiding, S et al. Hepatic encephalopathy in cirrhosis measured by positron
+emission tomography. Hepatology 2006;43:42-50.
+11. Hoyer, S et al. Ammonia is endogenously generated in the brain in the
+presence of presumed and verified dementia of the Alzheimer type.
+Neuroscience Letters 1990;117:358-362.
+12. Le Prince, G et al. Glutamine synthetase (GS) expression is reduced in
+senile dementia of the Alzheimer type. Neurochemical Research
+1995;7:859-862.
+13. Woodmansey EJ. Intestinal bacteria and aging. Journal of Applied
+Microbiology 2007;102:1178-1186.
+14. Andrieux C et al Metabolic characteristics of the faecal microlora in humans
+from three age groups. Scand J Gastroenterol 2002;37:792-8.
+15. Marchesini G et al. Synthesis of urea after a protein-rich meal in normal man
+in relation to ageing. Ageing 1990;19:4-10.
+16. Fisman M et al. Hyperammonemia in Alzheimer’s Disease. Am J Psychiatry
+1985;142:71-73.
+17. Hawkins RA. The blood brain barrier and glutamate. Am J Clin Nutr.
+2009;90:867S-74S.
+18. Erdo F et al. Age-associated physiological and pathological changes at the
+blood-brain barrier: A review. Journal of Cerebral Blood Flow and Metabolism
+2017;37:4-24.
+19. Montagne, A et al. Blood-Brain Barrier Breakdown in the Aging Human
+Hippocampus. Neuron 2015;85:296-302.
+20. Garcovich, M. Prevention and treatment of hepatic encephalopathy: Focusing
+on gut microbiota. World J Gastroenterol 2012;18:6693-6700.
+21. Kang DJ et al. Rifaximin exerts beneficial effects independent of its ability to
+alter microbiota composition. Clinical and Translational Gastroenterology
+2016;7:e187.
+22. Sochocka M, et al. The gut microbiome alterations and inflammation-driven
+pathogenesis of alzheimer’s disease – a critical review. Molecular
+Neurobiology 2018; pp 1-11, published online.Bass, N et al. Rifaximin
+treatment in hepatic encephalopathy. N Engl J Med 2010;362:1071-1081.
+23. Mullen, K et al. Rifaximin is safe and well tolerated for long term
+maintenance of remission from overt encephalopathy. Clin Gastroenterol
+Hepatol 2014;12:1390-1397.
+24. Mattson N et al.  Association of plasma neurofilament light With
+neurodegeneration. JAMA Neurol. 2017;74(5):557-566
+25. Rissin, D et al.  Single-molecule EISA detects serum proteins at
+subfemtomolar concentrations.  Nature Biotechnology 28, 595–599 (2010)
+<<<PAGE 22>>>
+pg. 22
+26. Dage JL et al.  Levels of tau protein in plasma are associated with cognitive
+function in an elderly cohort.  Alzheimer's & Dementia, 12, 1226-1234, 2016
+27. Janelidze S et al.  Plasma β-amyloid in Alzheimer’s disease and vascular
+disease.   Nature Scientific Reports, 6, 26801, 2016.
+28. Package Insert, Rifaximin (Xifaxan, Salix Pharmaceuticals, Bridgewater, NJ)
+<<<PAGE 23>>>
+pg. 23
+https://shared.salix.com/shared/pi/xifaxan550-pi.pdf
